@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/VAULT_+179.png",
+  "title": "TalkChart: VAULT (+178.7%) — Solana On-Chain Radar",
+  "description": "VAULT разрывает: +178.7% за 24ч. объём $5.24M больше капы в 35.4× — бумага в огне. ликвидность тонкая ($39.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $704.70 (66× медианы, 1ч назад). нетто китов за сутки −$1.4K.\n\nОбъём: $5.24M · Ликвидность: $39.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп VAULT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7tEsDuij7aj4b2jLUAS5oXcp6B3zWratYVmviS5zpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DqXXV4vcBjSf39TYCnC9uFUsohzhgScewXwoX4Q7XUzH"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

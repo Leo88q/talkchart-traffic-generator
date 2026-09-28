@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/swordcat_+1879.png",
+  "title": "TalkChart: swordcat (+1878.7%) — Solana On-Chain Radar",
+  "description": "swordcat разрывает: +1878.7% за 24ч. объём $3.66M больше капы в 3.7× — бумага в огне. ликвидность тонкая ($97.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $3.66M · Ликвидность: $97.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп swordcat (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8ewuF2o8ACro7fqWepZ3tKhkbBjndZU4Ldk9scRPw83d"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

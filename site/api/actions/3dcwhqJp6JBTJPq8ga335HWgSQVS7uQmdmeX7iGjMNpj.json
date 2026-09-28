@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/fone_-24.png",
+  "title": "TalkChart: fone (-23.7%) — Solana On-Chain Radar",
+  "description": "fone теряет -23.7% за сутки.\n\nОбъём: $1.79M · Ликвидность: $647.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп fone (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3dcwhqJp6JBTJPq8ga335HWgSQVS7uQmdmeX7iGjMNpj"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

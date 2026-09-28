@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BOB_+1002.png",
+  "title": "TalkChart: BOB (+1002.1%) — Solana On-Chain Radar",
+  "description": "BOB разрывает: +1002.1% за 24ч. ускорение в последнем часе. объём $3.39M больше капы в 6.1× — бумага в огне. ликвидность тонкая ($76.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.7K (90× медианы, 0ч назад). нетто китов за сутки −$734.12.\n\nОбъём: $3.39M · Ликвидность: $76.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BOB (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-E4vwseNWpkBxzNxyv3msVLCzYHU5SXrj1QWXEycypump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CehXCosbGS31heNL6VotLqaSnFHZy8XmNWEyWEeXikrZ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "7rZ5eyRfGRavGTFG9jSoG77MNnVkQRr6DNeGpxiFk2ca",
+    "name": "CAKE / SOL",
+    "base_symbol": "CAKE",
+    "base_name": "CAKE",
+    "base_address": "DAemPFNc3RtibBDKkUA4eL2Ns11q9VRdbpptmqm8DGqN",
+    "dex": "pumpswap",
+    "price_usd": 0.0007595618795996159,
+    "created_at": "2026-09-27T00:25:27Z",
+    "fdv_usd": 778320.2077,
+    "reserve_usd": 102778.8564,
+    "volume_h24": 1354487.4933642,
+    "change": {
+      "h1": 93.303,
+      "h6": 97.177,
+      "h24": 160.092
+    },
+    "tx_h1": {
+      "buys": 1180,
+      "sells": 994
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 1630.96,
+        "mult": 82.3,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "E1ba6cLZ"
+      },
+      {
+        "kind": "sell",
+        "usd": 1121.69,
+        "mult": 56.6,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "2p3bVzB4"
+      },
+      {
+        "kind": "sell",
+        "usd": 1053.7,
+        "mult": 53.2,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "7BNaxx6K"
+      },
+      {
+        "kind": "buy",
+        "usd": 988.89,
+        "mult": 49.9,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "8zkgFGVZ"
+      },
+      {
+        "kind": "buy",
+        "usd": 896.44,
+        "mult": 45.2,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "148RTRk2"
+      }
+    ],
+    "first_seen": "2026-09-28T16:50:19+00:00",
+    "last_seen": "2026-09-28T16:50:19+00:00"
+  },
+  "narrative": "CAKE разрывает: +160.1% за 24ч. ускорение в последнем часе. объём $1.35M больше капы в 1.7× — бумага в огне. ликвидность тонкая ($102.8K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.6K (82× медианы, 0ч назад). нетто китов за сутки +$1.3K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $1.6K (82× медианы). Нетто-поток китов: +$1.3K.",
+  "updated_at": "2026-09-28T16:50:19Z"
+}

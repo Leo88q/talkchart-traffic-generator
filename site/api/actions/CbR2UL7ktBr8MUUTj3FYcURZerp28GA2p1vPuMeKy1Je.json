@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/moin_+509.png",
+  "title": "TalkChart: moin (+509.1%) — Solana On-Chain Radar",
+  "description": "moin разрывает: +509.1% за 24ч. давление продаж нарастает. объём $6.41M больше капы в 21.5× — бумага в огне. ликвидность тонкая ($59.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.9K (146× медианы, 0ч назад). нетто китов за сутки −$11.5K.\n\nОбъём: $6.41M · Ликвидность: $59.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп moin (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8DXqVUopcdviLvujTcpwEqkKzB43Arp6E1axzsEE5Btq"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CbR2UL7ktBr8MUUTj3FYcURZerp28GA2p1vPuMeKy1Je"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

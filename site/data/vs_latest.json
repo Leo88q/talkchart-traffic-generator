@@ -1,17 +1,17 @@
 {
-  "slug": "swarm-vs-collect",
+  "slug": "babycali-vs-swordcat",
   "token1": {
-    "symbol": "SWARM",
-    "change_24h": 592.595,
-    "address": "Ftjga524YrS7RPzGCcezMuQnFDYa8PcvWDY5mFmZk5dy",
-    "volume": 4513666.33485507
+    "symbol": "BABYCALI",
+    "change_24h": 11465.734,
+    "address": "9u9iogoJTjavJt8uW8GxqpTnaZo9xKtKFCA2nJKbaSK",
+    "volume": 2599609.08705532
   },
   "token2": {
-    "symbol": "COLLECT",
-    "change_24h": 435.327,
-    "address": "99C6TUp7WgTvnwQVVhAbD8HbxPdo5LJCXr7VFCvTmJf1",
-    "volume": 4438881.14404415
+    "symbol": "swordcat",
+    "change_24h": 1878.673,
+    "address": "8ewuF2o8ACro7fqWepZ3tKhkbBjndZU4Ldk9scRPw83d",
+    "volume": 3664395.90357488
   },
-  "verdict": "По ончейн-метрикам TalkChart: SWARM опережает по ценовому импульсу (+592.6% против +435.3%). Кроме того, у COLLECT более надёжная ликвидность ($208.4K против $61.4K). Краткосрочный фаворит по совокупности факторов: COLLECT.",
-  "updated_at": "2026-09-25 23:22 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: BABYCALI опережает по ценовому импульсу (+11465.7% против +1878.7%). Кроме того, у BABYCALI существенно глубже пул ликвидности ($364.5K против $97.5K), что снижает риск проскальзывания. Кроме того, у swordcat соотношение объёма к TVL 37.6× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: BABYCALI.",
+  "updated_at": "2026-09-28 16:50 UTC"
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DELREY_+1785.png",
+  "title": "TalkChart: DELREY (+1785.2%) — Solana On-Chain Radar",
+  "description": "DELREY разрывает: +1785.2% за 24ч. давление продаж нарастает. объём $2.25M больше капы в 8.2× — бумага в огне. ликвидность тонкая ($49.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $738.41 (30× медианы, 0ч назад). нетто китов за сутки −$995.69.\n\nОбъём: $2.25M · Ликвидность: $49.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DELREY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-92BVgXufGjaMUyANA97dvg8LqNb5VMg2wgRfve9tPdCG"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GZwsYYmc2a54HhX9ZGYTzo7LBChq1SSRDiV6RvvCBXzx"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
