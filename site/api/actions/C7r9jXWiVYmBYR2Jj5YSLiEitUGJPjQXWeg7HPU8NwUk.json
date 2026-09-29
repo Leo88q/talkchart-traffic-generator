@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HOOKED_+2256.png",
+  "title": "TalkChart: HOOKED (+2255.9%) — Solana On-Chain Radar",
+  "description": "HOOKED разрывает: +2255.9% за 24ч. объём $4.81M больше капы в 3.2× — бумага в огне. ликвидность тонкая ($120.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.9K (114× медианы, 0ч назад). нетто китов за сутки −$4.9K.\n\nОбъём: $4.81M · Ликвидность: $120.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HOOKED (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

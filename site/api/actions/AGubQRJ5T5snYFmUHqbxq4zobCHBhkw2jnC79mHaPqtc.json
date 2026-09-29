@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/STOXES_+499.png",
+  "title": "TalkChart: STOXES (+498.9%) — Solana On-Chain Radar",
+  "description": "STOXES разрывает: +498.9% за 24ч. объём $5.41M больше капы в 16.9× — бумага в огне. ликвидность тонкая ($54.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $619.12 (52× медианы, 0ч назад). нетто китов за сутки +$2.4K.\n\nОбъём: $5.41M · Ликвидность: $54.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп STOXES (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-AfVUPhruMtJuFVtPj4u8kvpNbNEuy7VQ3ME5eAHq9999"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AGubQRJ5T5snYFmUHqbxq4zobCHBhkw2jnC79mHaPqtc"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

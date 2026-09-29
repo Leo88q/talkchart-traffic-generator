@@ -1,17 +1,17 @@
 {
-  "slug": "mamesuke-vs-froink",
+  "slug": "froink-vs-hooked",
   "token1": {
-    "symbol": "Mamesuke",
-    "change_24h": 2540.932,
-    "address": "e1hvyUmuimhUJwepvsbtY89PGQyAEwu6z723JYwvJxr",
-    "volume": 1659163.84987277
+    "symbol": "FROINK",
+    "change_24h": 2361.341,
+    "address": "5L6SiELCoXrV9CtcfwUGKJf5EzCRTyDDmkbth1yEKp9f",
+    "volume": 10704311.2775649
   },
   "token2": {
-    "symbol": "FROINK",
-    "change_24h": 1970.707,
-    "address": "5L6SiELCoXrV9CtcfwUGKJf5EzCRTyDDmkbth1yEKp9f",
-    "volume": 9811969.43237424
+    "symbol": "HOOKED",
+    "change_24h": 2255.854,
+    "address": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
+    "volume": 4807391.77339295
   },
-  "verdict": "По ончейн-метрикам TalkChart: Mamesuke опережает по ценовому импульсу (+2540.9% против +1970.7%). Кроме того, у FROINK более надёжная ликвидность ($92.4K против $26.5K). Краткосрочный фаворит по совокупности факторов: FROINK.",
-  "updated_at": "2026-09-29 00:26 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FROINK опережает по ценовому импульсу (+2361.3% против +2255.9%). Краткосрочный фаворит по совокупности факторов: FROINK.",
+  "updated_at": "2026-09-29 10:46 UTC"
 }

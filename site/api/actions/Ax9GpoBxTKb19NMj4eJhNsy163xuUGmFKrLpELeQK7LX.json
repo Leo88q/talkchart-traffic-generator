@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/YAP_-18.png",
+  "title": "TalkChart: YAP (-18.4%) — Solana On-Chain Radar",
+  "description": "YAP теряет -18.4% за сутки. давление продаж нарастает. ликвидность тонкая ($144.8K) — движения будут резкими. пулу 4 дн., история короткая.\n\nОбъём: $1.60M · Ликвидность: $144.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп YAP (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-jLz71QZfjnZZMLjUaCBw7KmUyftkkNq8NkWi2u9dyap"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Ax9GpoBxTKb19NMj4eJhNsy163xuUGmFKrLpELeQK7LX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-09-29T00:26:39+00:00",
+ "generated_at": "2026-09-29T10:46:25+00:00",
  "videos": [
-  {
-   "file": "videos/2026-09-29/Mamesuke.mp4",
-   "latest_file": "videos/latest/Mamesuke.mp4",
-   "symbol": "Mamesuke",
-   "chg_h24": 2540.932
-  },
   {
    "file": "videos/2026-09-29/FROINK.mp4",
    "latest_file": "videos/latest/FROINK.mp4",
    "symbol": "FROINK",
-   "chg_h24": 1970.707
+   "chg_h24": 2361.341
   },
   {
-   "file": "videos/2026-09-29/swordcat.mp4",
-   "latest_file": "videos/latest/swordcat.mp4",
-   "symbol": "swordcat",
-   "chg_h24": 1142.933
+   "file": "videos/2026-09-29/HOOKED.mp4",
+   "latest_file": "videos/latest/HOOKED.mp4",
+   "symbol": "HOOKED",
+   "chg_h24": 2255.854
+  },
+  {
+   "file": "videos/2026-09-29/PARASITE.mp4",
+   "latest_file": "videos/latest/PARASITE.mp4",
+   "symbol": "PARASITE",
+   "chg_h24": 2249.309
   }
  ]
 }

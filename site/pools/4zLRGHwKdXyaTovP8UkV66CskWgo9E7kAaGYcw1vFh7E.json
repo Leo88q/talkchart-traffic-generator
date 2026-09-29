@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "4zLRGHwKdXyaTovP8UkV66CskWgo9E7kAaGYcw1vFh7E",
+    "name": "PARASITE / SOL",
+    "base_symbol": "PARASITE",
+    "base_name": "PARASITE",
+    "base_address": "3kmygWKZBkCYrgZHKfiuB9UFKTcDLTFFsKo3BWpmpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0011050876958249546,
+    "created_at": "2026-09-29T01:17:26Z",
+    "fdv_usd": 1108660.848,
+    "reserve_usd": 113523.2354,
+    "volume_h24": 6823895.58212286,
+    "change": {
+      "h1": -9.498,
+      "h6": -36.699,
+      "h24": 2249.309
+    },
+    "tx_h1": {
+      "buys": 396,
+      "sells": 345
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 1636.52,
+        "mult": 79.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "wgAmepA3"
+      },
+      {
+        "kind": "buy",
+        "usd": 1148.84,
+        "mult": 55.9,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "3jtaM8gf"
+      },
+      {
+        "kind": "sell",
+        "usd": 1104.47,
+        "mult": 53.8,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "54YtkCDc"
+      },
+      {
+        "kind": "sell",
+        "usd": 801.99,
+        "mult": 39.0,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "2BqTvkdy"
+      },
+      {
+        "kind": "buy",
+        "usd": 719.53,
+        "mult": 35.0,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "2bQCePgY"
+      }
+    ],
+    "first_seen": "2026-09-29T10:46:08+00:00",
+    "last_seen": "2026-09-29T10:46:08+00:00"
+  },
+  "narrative": "PARASITE разрывает: +2249.3% за 24ч. давление продаж нарастает. объём $6.82M больше капы в 6.2× — бумага в огне. ликвидность тонкая ($113.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.6K (80× медианы, 0ч назад). нетто китов за сутки −$1.7K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $1.6K (80× медианы). Нетто-поток китов: $-1.7K.",
+  "updated_at": "2026-09-29T10:46:08Z"
+}

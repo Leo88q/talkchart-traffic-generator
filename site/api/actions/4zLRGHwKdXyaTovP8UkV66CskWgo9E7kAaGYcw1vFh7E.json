@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PARASITE_+2249.png",
+  "title": "TalkChart: PARASITE (+2249.3%) — Solana On-Chain Radar",
+  "description": "PARASITE разрывает: +2249.3% за 24ч. давление продаж нарастает. объём $6.82M больше капы в 6.2× — бумага в огне. ликвидность тонкая ($113.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.6K (80× медианы, 0ч назад). нетто китов за сутки −$1.7K.\n\nОбъём: $6.82M · Ликвидность: $113.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PARASITE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3kmygWKZBkCYrgZHKfiuB9UFKTcDLTFFsKo3BWpmpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4zLRGHwKdXyaTovP8UkV66CskWgo9E7kAaGYcw1vFh7E"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
