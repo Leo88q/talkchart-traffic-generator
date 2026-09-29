@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "5L6SiELCoXrV9CtcfwUGKJf5EzCRTyDDmkbth1yEKp9f",
+    "name": "FROINK / SOL",
+    "base_symbol": "FROINK",
+    "base_name": "FROINK",
+    "base_address": "2yu92oYzBWLAdVpu8BoaLzmM1oxPsHoboay2BXmeDDZr",
+    "dex": "pumpswap",
+    "price_usd": 0.000701568470918623,
+    "created_at": "2026-09-28T15:09:03Z",
+    "fdv_usd": 711866.2189,
+    "reserve_usd": 92384.4913,
+    "volume_h24": 9811969.43237424,
+    "change": {
+      "h1": -2.042,
+      "h6": -38.173,
+      "h24": 1970.707
+    },
+    "tx_h1": {
+      "buys": 1169,
+      "sells": 1043
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 1367.49,
+        "mult": 91.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "4hwL1Myy"
+      },
+      {
+        "kind": "buy",
+        "usd": 1004.85,
+        "mult": 66.9,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "EshuPxQN"
+      },
+      {
+        "kind": "buy",
+        "usd": 989.26,
+        "mult": 65.9,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "9rP3Z9pw"
+      },
+      {
+        "kind": "sell",
+        "usd": 942.25,
+        "mult": 62.8,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "CgX91SKM"
+      },
+      {
+        "kind": "buy",
+        "usd": 878.5,
+        "mult": 58.5,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "7o8r5cuy"
+      }
+    ],
+    "first_seen": "2026-09-29T00:26:30+00:00",
+    "last_seen": "2026-09-29T00:26:30+00:00"
+  },
+  "narrative": "FROINK разрывает: +1970.7% за 24ч. объём $9.81M больше капы в 13.8× — бумага в огне. ликвидность тонкая ($92.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.4K (91× медианы, 0ч назад). нетто китов за сутки +$562.87.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $1.4K (91× медианы). Нетто-поток китов: +$562.87.",
+  "updated_at": "2026-09-29T00:26:30Z"
+}

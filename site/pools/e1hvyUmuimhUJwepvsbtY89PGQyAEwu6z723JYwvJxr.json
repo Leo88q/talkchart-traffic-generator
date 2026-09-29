@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "e1hvyUmuimhUJwepvsbtY89PGQyAEwu6z723JYwvJxr",
+    "name": "Mamesuke / SOL",
+    "base_symbol": "Mamesuke",
+    "base_name": "Mamesuke",
+    "base_address": "5U2Jb7hgJzGvnFA7UueWbxotHhdrB2AXuSsireWtpump",
+    "dex": "pumpswap",
+    "price_usd": 8.330201629383336e-05,
+    "created_at": "2026-08-12T04:57:34Z",
+    "fdv_usd": 83301.9691654017,
+    "reserve_usd": 26510.1829,
+    "volume_h24": 1659163.84987277,
+    "change": {
+      "h1": 2.327,
+      "h6": -25.98,
+      "h24": 2540.932
+    },
+    "tx_h1": {
+      "buys": 126,
+      "sells": 99
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 1431.83,
+        "mult": 68.4,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "AHAuaMi8"
+      },
+      {
+        "kind": "buy",
+        "usd": 1410.96,
+        "mult": 67.4,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "AHAuaMi8"
+      },
+      {
+        "kind": "buy",
+        "usd": 1174.43,
+        "mult": 56.1,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "G6gyaJor"
+      },
+      {
+        "kind": "sell",
+        "usd": 1037.29,
+        "mult": 49.6,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "DxKZqjtj"
+      },
+      {
+        "kind": "buy",
+        "usd": 590.62,
+        "mult": 28.2,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "FX14jgax"
+      }
+    ],
+    "first_seen": "2026-09-29T00:26:30+00:00",
+    "last_seen": "2026-09-29T00:26:30+00:00"
+  },
+  "narrative": "Mamesuke разрывает: +2540.9% за 24ч. объём $1.66M больше капы в 19.9× — бумага в огне. ликвидность тонкая ($26.5K) — движения будут резкими. крупная сделка на фоне ленты: продал $1.4K (68× медианы, 0ч назад). нетто китов за сутки +$706.89.",
+  "flags": [
+    "тонкая ликвидность",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $1.4K (68× медианы). Нетто-поток китов: +$706.89.",
+  "updated_at": "2026-09-29T00:26:30Z"
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FROINK_+1971.png",
+  "title": "TalkChart: FROINK (+1970.7%) — Solana On-Chain Radar",
+  "description": "FROINK разрывает: +1970.7% за 24ч. объём $9.81M больше капы в 13.8× — бумага в огне. ликвидность тонкая ($92.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.4K (91× медианы, 0ч назад). нетто китов за сутки +$562.87.\n\nОбъём: $9.81M · Ликвидность: $92.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FROINK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2yu92oYzBWLAdVpu8BoaLzmM1oxPsHoboay2BXmeDDZr"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5L6SiELCoXrV9CtcfwUGKJf5EzCRTyDDmkbth1yEKp9f"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

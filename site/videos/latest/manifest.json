@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-09-28T16:50:29+00:00",
+ "generated_at": "2026-09-29T00:26:39+00:00",
  "videos": [
   {
-   "file": "videos/2026-09-28/BABYCALI.mp4",
-   "latest_file": "videos/latest/BABYCALI.mp4",
-   "symbol": "BABYCALI",
-   "chg_h24": 11465.734
+   "file": "videos/2026-09-29/Mamesuke.mp4",
+   "latest_file": "videos/latest/Mamesuke.mp4",
+   "symbol": "Mamesuke",
+   "chg_h24": 2540.932
   },
   {
-   "file": "videos/2026-09-28/swordcat.mp4",
+   "file": "videos/2026-09-29/FROINK.mp4",
+   "latest_file": "videos/latest/FROINK.mp4",
+   "symbol": "FROINK",
+   "chg_h24": 1970.707
+  },
+  {
+   "file": "videos/2026-09-29/swordcat.mp4",
    "latest_file": "videos/latest/swordcat.mp4",
    "symbol": "swordcat",
-   "chg_h24": 1878.673
-  },
-  {
-   "file": "videos/2026-09-28/DELREY.mp4",
-   "latest_file": "videos/latest/DELREY.mp4",
-   "symbol": "DELREY",
-   "chg_h24": 1785.176
+   "chg_h24": 1142.933
   }
  ]
 }

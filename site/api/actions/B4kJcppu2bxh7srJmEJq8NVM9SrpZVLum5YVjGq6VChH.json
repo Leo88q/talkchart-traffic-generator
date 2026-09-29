@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SICAT_+675.png",
+  "title": "TalkChart: SICAT (+674.5%) — Solana On-Chain Radar",
+  "description": "SICAT разрывает: +674.5% за 24ч. объём $2.92M больше капы в 6.2× — бумага в огне. ликвидность тонкая ($74.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $2.92M · Ликвидность: $74.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SICAT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9pMXEbTjQ5HHiYifGbNBwkMkrQxGyhuSmB8ndKNXpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=B4kJcppu2bxh7srJmEJq8NVM9SrpZVLum5YVjGq6VChH"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

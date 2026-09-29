@@ -1,17 +1,17 @@
 {
-  "slug": "babycali-vs-swordcat",
+  "slug": "mamesuke-vs-froink",
   "token1": {
-    "symbol": "BABYCALI",
-    "change_24h": 11465.734,
-    "address": "9u9iogoJTjavJt8uW8GxqpTnaZo9xKtKFCA2nJKbaSK",
-    "volume": 2599609.08705532
+    "symbol": "Mamesuke",
+    "change_24h": 2540.932,
+    "address": "e1hvyUmuimhUJwepvsbtY89PGQyAEwu6z723JYwvJxr",
+    "volume": 1659163.84987277
   },
   "token2": {
-    "symbol": "swordcat",
-    "change_24h": 1878.673,
-    "address": "8ewuF2o8ACro7fqWepZ3tKhkbBjndZU4Ldk9scRPw83d",
-    "volume": 3664395.90357488
+    "symbol": "FROINK",
+    "change_24h": 1970.707,
+    "address": "5L6SiELCoXrV9CtcfwUGKJf5EzCRTyDDmkbth1yEKp9f",
+    "volume": 9811969.43237424
   },
-  "verdict": "По ончейн-метрикам TalkChart: BABYCALI опережает по ценовому импульсу (+11465.7% против +1878.7%). Кроме того, у BABYCALI существенно глубже пул ликвидности ($364.5K против $97.5K), что снижает риск проскальзывания. Кроме того, у swordcat соотношение объёма к TVL 37.6× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: BABYCALI.",
-  "updated_at": "2026-09-28 16:50 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Mamesuke опережает по ценовому импульсу (+2540.9% против +1970.7%). Кроме того, у FROINK более надёжная ликвидность ($92.4K против $26.5K). Краткосрочный фаворит по совокупности факторов: FROINK.",
+  "updated_at": "2026-09-29 00:26 UTC"
 }
