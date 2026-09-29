@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "9Laz2p55TfBxoiDRWZQNU8SKzr9534ZKHW9hmZPDXZ7E",
+    "name": "POND / SOL",
+    "base_symbol": "POND",
+    "base_name": "POND",
+    "base_address": "84D3VopU3g5qo7jUwzQK4P4BnVPQWr2MzeaRCFkHpump",
+    "dex": "pumpswap",
+    "price_usd": 8.939818869749296e-05,
+    "created_at": "2026-09-29T10:16:21Z",
+    "fdv_usd": 88556.4791131367,
+    "reserve_usd": 29230.2493,
+    "volume_h24": 2739820.45475,
+    "change": {
+      "h1": -7.381,
+      "h6": -52.271,
+      "h24": 87.998
+    },
+    "tx_h1": {
+      "buys": 149,
+      "sells": 132
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 522.89,
+        "mult": 53.3,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "6CbwDSvF"
+      },
+      {
+        "kind": "sell",
+        "usd": 479.2,
+        "mult": 48.8,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "4vLJgFKc"
+      },
+      {
+        "kind": "buy",
+        "usd": 469.73,
+        "mult": 47.9,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "7UGaLCXd"
+      },
+      {
+        "kind": "buy",
+        "usd": 404.09,
+        "mult": 41.2,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "HpgFdJXp"
+      },
+      {
+        "kind": "sell",
+        "usd": 384.45,
+        "mult": 39.2,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "Bfuvh5fR"
+      }
+    ],
+    "first_seen": "2026-09-29T23:48:07+00:00",
+    "last_seen": "2026-09-29T23:48:07+00:00"
+  },
+  "narrative": "POND разрывает: +88.0% за 24ч. давление продаж нарастает. объём $2.74M больше капы в 30.9× — бумага в огне. ликвидность тонкая ($29.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $522.89 (53× медианы, 1ч назад). нетто китов за сутки −$512.72.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $522.89 (53× медианы). Нетто-поток китов: $-512.72.",
+  "updated_at": "2026-09-29T23:48:07Z"
+}

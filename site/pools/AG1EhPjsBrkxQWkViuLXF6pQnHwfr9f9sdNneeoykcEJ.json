@@ -1,0 +1,74 @@
+{
+  "pool": {
+    "address": "AG1EhPjsBrkxQWkViuLXF6pQnHwfr9f9sdNneeoykcEJ",
+    "name": "SI / SOL",
+    "base_symbol": "SI",
+    "base_name": "SI",
+    "base_address": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
+    "dex": "meteora",
+    "price_usd": 0.04054307545378268,
+    "created_at": "2026-09-21T16:26:48Z",
+    "fdv_usd": 40543075.45,
+    "reserve_usd": 1315348.6181,
+    "volume_h24": 9814687.73555181,
+    "change": {
+      "h1": -8.096,
+      "h6": 76.245,
+      "h24": 100.814
+    },
+    "tx_h1": {
+      "buys": 3029,
+      "sells": 2454
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 4734.44,
+        "mult": 178.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "HJiGVYvB"
+      },
+      {
+        "kind": "sell",
+        "usd": 4048.59,
+        "mult": 153.0,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "41XjnHJz"
+      },
+      {
+        "kind": "sell",
+        "usd": 1024.17,
+        "mult": 38.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "Gsfbufih"
+      },
+      {
+        "kind": "buy",
+        "usd": 589.37,
+        "mult": 22.3,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "8tyLmGxK"
+      },
+      {
+        "kind": "sell",
+        "usd": 541.56,
+        "mult": 20.5,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "GUFY1rbn"
+      }
+    ],
+    "first_seen": "2026-09-29T23:48:07+00:00",
+    "last_seen": "2026-09-29T23:48:07+00:00"
+  },
+  "narrative": "SI разрывает: +100.8% за 24ч. пулу 8 дн., история короткая. крупная сделка на фоне ленты: продал $4.7K (179× медианы, 0ч назад). нетто китов за сутки −$9.8K.",
+  "flags": [
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $4.7K (179× медианы). Нетто-поток китов: $-9.8K.",
+  "updated_at": "2026-09-29T23:48:07Z"
+}

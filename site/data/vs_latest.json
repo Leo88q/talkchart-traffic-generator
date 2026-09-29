@@ -1,17 +1,17 @@
 {
-  "slug": "parasite-vs-hooked",
+  "slug": "parasite-vs-si",
   "token1": {
     "symbol": "PARASITE",
-    "change_24h": 5854.198,
+    "change_24h": 1895.172,
     "address": "4zLRGHwKdXyaTovP8UkV66CskWgo9E7kAaGYcw1vFh7E",
-    "volume": 10968800.2293518
+    "volume": 12033200.9914801
   },
   "token2": {
-    "symbol": "HOOKED",
-    "change_24h": 1874.432,
-    "address": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-    "volume": 5529263.62239758
+    "symbol": "SI",
+    "change_24h": 100.814,
+    "address": "AG1EhPjsBrkxQWkViuLXF6pQnHwfr9f9sdNneeoykcEJ",
+    "volume": 9814687.73555181
   },
-  "verdict": "По ончейн-метрикам TalkChart: PARASITE опережает по ценовому импульсу (+5854.2% против +1874.4%). Краткосрочный фаворит по совокупности факторов: PARASITE.",
-  "updated_at": "2026-09-29 18:10 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PARASITE опережает по ценовому импульсу (+1895.2% против +100.8%). Кроме того, у SI более надёжная ликвидность ($1.32M против $110.1K). Кроме того, у PARASITE объём превышает ликвидность в 109.3× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: SI.",
+  "updated_at": "2026-09-29 23:48 UTC"
 }
