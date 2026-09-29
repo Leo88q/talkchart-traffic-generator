@@ -6,22 +6,22 @@
     "base_name": "PAID",
     "base_address": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
     "dex": "pumpswap",
-    "price_usd": 0.012334632886498163,
+    "price_usd": 0.011950729043604648,
     "created_at": "2026-09-15T19:22:24Z",
-    "fdv_usd": 11486836.1969329,
-    "reserve_usd": 789550.3501,
-    "volume_h24": 9312665.46446053,
+    "fdv_usd": 11097321.4551026,
+    "reserve_usd": 775543.2745,
+    "volume_h24": 9103906.53119991,
     "change": {
-      "h1": -6.079,
-      "h6": -16.672,
-      "h24": -55.594
+      "h1": -5.69,
+      "h6": 1.137,
+      "h24": -58.671
     },
     "tx_h1": {
-      "buys": 748,
-      "sells": 618
+      "buys": 448,
+      "sells": 321
     },
     "first_seen": "2026-09-21T03:27:04+00:00",
-    "last_seen": "2026-09-29T10:46:08+00:00",
+    "last_seen": "2026-09-29T18:10:07+00:00",
     "ohlcv_h1": [
       [
         1790676000,
@@ -410,49 +410,49 @@
     ],
     "whales": [
       {
+        "kind": "sell",
+        "usd": 5651.67,
+        "mult": 378.6,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "82cCcuvf"
+      },
+      {
+        "kind": "sell",
+        "usd": 5646.1,
+        "mult": 378.2,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "82cCcuvf"
+      },
+      {
+        "kind": "sell",
+        "usd": 5090.17,
+        "mult": 341.0,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "82cCcuvf"
+      },
+      {
+        "kind": "sell",
+        "usd": 3807.01,
+        "mult": 255.0,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "82cCcuvf"
+      },
+      {
         "kind": "buy",
-        "usd": 3324.81,
-        "mult": 138.1,
+        "usd": 3613.71,
+        "mult": 242.1,
         "whale": false,
-        "hours_ago": 0.1,
-        "addr8": "8nZjY3Ws"
-      },
-      {
-        "kind": "sell",
-        "usd": 3015.46,
-        "mult": 125.3,
-        "whale": false,
-        "hours_ago": 0.1,
-        "addr8": "FHJnj9y8"
-      },
-      {
-        "kind": "sell",
-        "usd": 2333.96,
-        "mult": 97.0,
-        "whale": false,
-        "hours_ago": 0.1,
-        "addr8": "7no6aTmv"
-      },
-      {
-        "kind": "sell",
-        "usd": 2041.96,
-        "mult": 84.8,
-        "whale": false,
-        "hours_ago": 0.1,
-        "addr8": "BocpMHmU"
-      },
-      {
-        "kind": "buy",
-        "usd": 1775.02,
-        "mult": 73.7,
-        "whale": false,
-        "hours_ago": 0.0,
-        "addr8": "HQd7zjUe"
+        "hours_ago": 0.2,
+        "addr8": "XUrKb2aK"
       }
     ]
   },
-  "narrative": "PAID в обвале: -55.6% за 24ч. давление продаж нарастает. пулу 14 дн., история короткая. крупная сделка на фоне ленты: купил $3.3K (138× медианы, 0ч назад). нетто китов за сутки −$2.3K.",
+  "narrative": "PAID в обвале: -58.7% за 24ч. пулу 14 дн., история короткая. крупная сделка на фоне ленты: продал $5.7K (379× медианы, 0ч назад). нетто китов за сутки −$16.6K.",
   "flags": [],
-  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $3.3K (138× медианы). Нетто-поток китов: $-2.3K.",
-  "updated_at": "2026-09-29T10:46:08Z"
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $5.7K (379× медианы). Нетто-поток китов: $-16.6K.",
+  "updated_at": "2026-09-29T18:10:07Z"
 }

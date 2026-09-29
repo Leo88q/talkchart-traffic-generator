@@ -1,17 +1,17 @@
 {
-  "slug": "froink-vs-hooked",
+  "slug": "parasite-vs-hooked",
   "token1": {
-    "symbol": "FROINK",
-    "change_24h": 2361.341,
-    "address": "5L6SiELCoXrV9CtcfwUGKJf5EzCRTyDDmkbth1yEKp9f",
-    "volume": 10704311.2775649
+    "symbol": "PARASITE",
+    "change_24h": 5854.198,
+    "address": "4zLRGHwKdXyaTovP8UkV66CskWgo9E7kAaGYcw1vFh7E",
+    "volume": 10968800.2293518
   },
   "token2": {
     "symbol": "HOOKED",
-    "change_24h": 2255.854,
+    "change_24h": 1874.432,
     "address": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-    "volume": 4807391.77339295
+    "volume": 5529263.62239758
   },
-  "verdict": "По ончейн-метрикам TalkChart: FROINK опережает по ценовому импульсу (+2361.3% против +2255.9%). Краткосрочный фаворит по совокупности факторов: FROINK.",
-  "updated_at": "2026-09-29 10:46 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PARASITE опережает по ценовому импульсу (+5854.2% против +1874.4%). Краткосрочный фаворит по совокупности факторов: PARASITE.",
+  "updated_at": "2026-09-29 18:10 UTC"
 }

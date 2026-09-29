@@ -1,10 +1,10 @@
 Solana · история дня · 2026-09-29
-1. FROINK +2361.3% — FROINK разрывает: +2361.3% за 24ч. объём $10.70M больше капы в 12.7× — бумага в огне
-2. HOOKED +2255.9% — HOOKED разрывает: +2255.9% за 24ч. объём $4.81M больше капы в 3.2× — бумага в огне
-3. PARASITE +2249.3% — PARASITE разрывает: +2249.3% за 24ч. давление продаж нарастает
-4. STOXES +498.9% — STOXES разрывает: +498.9% за 24ч. объём $5.41M больше капы в 16.9× — бумага в огне
-5. swordcat +285.0% — swordcat разрывает: +285.0% за 24ч. ускорение в последнем часе
+1. PARASITE +5854.2% — PARASITE разрывает: +5854.2% за 24ч. объём $10.97M больше капы в 3.9× — бумага в огне
+2. HOOKED +1874.4% — HOOKED разрывает: +1874.4% за 24ч. объём $5.53M больше капы в 4.5× — бумага в огне
+3. STOXES +318.6% — STOXES разрывает: +318.6% за 24ч. давление продаж нарастает
+4. YAP -87.5% — YAP в обвале: -87.5% за 24ч. объём $2.03M больше капы в 10.0× — бумага в огне
+5. SICAT -84.4% — SICAT в обвале: -84.4% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/5L6SiELCoXrV9CtcfwUGKJf5EzCRTyDDmkbth1yEKp9f.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/4zLRGHwKdXyaTovP8UkV66CskWgo9E7kAaGYcw1vFh7E.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
