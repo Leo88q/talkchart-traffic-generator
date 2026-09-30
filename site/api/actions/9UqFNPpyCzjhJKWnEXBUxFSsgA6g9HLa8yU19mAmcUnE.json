@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/STOCK_-27.png",
+  "title": "TalkChart: STOCK (-27.1%) — Solana On-Chain Radar",
+  "description": "STOCK в обвале: -27.1% за 24ч. объём $1.31M больше капы в 3.4× — бумага в огне. ликвидность тонкая ($60.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.31M · Ликвидность: $60.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп STOCK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2d79yirWWZmzf249y7B4DMvgaSb7jgrCxrwTcweFpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=9UqFNPpyCzjhJKWnEXBUxFSsgA6g9HLa8yU19mAmcUnE"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

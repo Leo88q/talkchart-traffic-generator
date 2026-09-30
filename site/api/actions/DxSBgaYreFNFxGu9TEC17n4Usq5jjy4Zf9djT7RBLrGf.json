@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BAGSPAY_+1825.png",
+  "title": "TalkChart: BAGSPAY (+1825.2%) — Solana On-Chain Radar",
+  "description": "BAGSPAY разрывает: +1825.2% за 24ч. ускорение в последнем часе. покупатели доминируют (66% сделок за час). объём $5.29M больше капы в 4.8× — бумага в огне. ликвидность тонкая ($139.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $5.29M · Ликвидность: $139.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BAGSPAY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-H8WTvo3ZXSYHJAcYqzCforbG8coR1FDAX2kHFfqHBAGS"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DxSBgaYreFNFxGu9TEC17n4Usq5jjy4Zf9djT7RBLrGf"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

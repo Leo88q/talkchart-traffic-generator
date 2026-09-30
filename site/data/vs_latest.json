@@ -1,17 +1,17 @@
 {
-  "slug": "parasite-vs-si",
+  "slug": "bagspay-vs-resi",
   "token1": {
-    "symbol": "PARASITE",
-    "change_24h": 1895.172,
-    "address": "4zLRGHwKdXyaTovP8UkV66CskWgo9E7kAaGYcw1vFh7E",
-    "volume": 12033200.9914801
+    "symbol": "BAGSPAY",
+    "change_24h": 1825.218,
+    "address": "DxSBgaYreFNFxGu9TEC17n4Usq5jjy4Zf9djT7RBLrGf",
+    "volume": 5285465.22378612
   },
   "token2": {
-    "symbol": "SI",
-    "change_24h": 100.814,
-    "address": "AG1EhPjsBrkxQWkViuLXF6pQnHwfr9f9sdNneeoykcEJ",
-    "volume": 9814687.73555181
+    "symbol": "RESI",
+    "change_24h": 928.361,
+    "address": "Atwk3wi3U2u87n6c7gNdmipHKQgwJRM2c1qLXR3Z8Dbj",
+    "volume": 5459957.13335265
   },
-  "verdict": "По ончейн-метрикам TalkChart: PARASITE опережает по ценовому импульсу (+1895.2% против +100.8%). Кроме того, у SI более надёжная ликвидность ($1.32M против $110.1K). Кроме того, у PARASITE объём превышает ликвидность в 109.3× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: SI.",
-  "updated_at": "2026-09-29 23:48 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: BAGSPAY опережает по ценовому импульсу (+1825.2% против +928.4%). Краткосрочный фаворит по совокупности факторов: BAGSPAY.",
+  "updated_at": "2026-09-30 05:41 UTC"
 }
