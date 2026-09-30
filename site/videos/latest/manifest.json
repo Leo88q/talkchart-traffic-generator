@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-09-30T05:41:33+00:00",
+ "generated_at": "2026-09-30T15:03:18+00:00",
  "videos": [
-  {
-   "file": "videos/2026-09-30/BAGSPAY.mp4",
-   "latest_file": "videos/latest/BAGSPAY.mp4",
-   "symbol": "BAGSPAY",
-   "chg_h24": 1825.218
-  },
   {
    "file": "videos/2026-09-30/RESI.mp4",
    "latest_file": "videos/latest/RESI.mp4",
    "symbol": "RESI",
-   "chg_h24": 928.361
+   "chg_h24": 426.871
   },
   {
    "file": "videos/2026-09-30/SI.mp4",
    "latest_file": "videos/latest/SI.mp4",
    "symbol": "SI",
-   "chg_h24": 211.593
+   "chg_h24": 115.667
+  },
+  {
+   "file": "videos/2026-09-30/SI.mp4",
+   "latest_file": "videos/latest/SI.mp4",
+   "symbol": "SI",
+   "chg_h24": 107.714
   }
  ]
 }

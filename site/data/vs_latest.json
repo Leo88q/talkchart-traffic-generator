@@ -1,17 +1,17 @@
 {
-  "slug": "bagspay-vs-resi",
+  "slug": "resi-vs-si",
   "token1": {
-    "symbol": "BAGSPAY",
-    "change_24h": 1825.218,
-    "address": "DxSBgaYreFNFxGu9TEC17n4Usq5jjy4Zf9djT7RBLrGf",
-    "volume": 5285465.22378612
+    "symbol": "RESI",
+    "change_24h": 426.871,
+    "address": "Atwk3wi3U2u87n6c7gNdmipHKQgwJRM2c1qLXR3Z8Dbj",
+    "volume": 5752273.94498205
   },
   "token2": {
-    "symbol": "RESI",
-    "change_24h": 928.361,
-    "address": "Atwk3wi3U2u87n6c7gNdmipHKQgwJRM2c1qLXR3Z8Dbj",
-    "volume": 5459957.13335265
+    "symbol": "SI",
+    "change_24h": 115.667,
+    "address": "B4VFURUHHzyt8YzBGBV9jiarBvjh1EbMAbRNBnNqaxUD",
+    "volume": 17154086.4675607
   },
-  "verdict": "По ончейн-метрикам TalkChart: BAGSPAY опережает по ценовому импульсу (+1825.2% против +928.4%). Краткосрочный фаворит по совокупности факторов: BAGSPAY.",
-  "updated_at": "2026-09-30 05:41 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: RESI опережает по ценовому импульсу (+426.9% против +115.7%). Кроме того, у SI более надёжная ликвидность ($1.09M против $53.9K). Краткосрочный фаворит по совокупности факторов: SI.",
+  "updated_at": "2026-09-30 15:03 UTC"
 }
