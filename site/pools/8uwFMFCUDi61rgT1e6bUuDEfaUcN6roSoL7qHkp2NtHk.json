@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "8uwFMFCUDi61rgT1e6bUuDEfaUcN6roSoL7qHkp2NtHk",
+    "name": "SI / SOL",
+    "base_symbol": "SI",
+    "base_name": "SI",
+    "base_address": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
+    "dex": "meteora",
+    "price_usd": 0.043882422937738114,
+    "created_at": "2026-09-29T18:50:53Z",
+    "fdv_usd": 43765108.8491578,
+    "reserve_usd": 744846.1801,
+    "volume_h24": 17892586.5508729,
+    "change": {
+      "h1": -10.98,
+      "h6": 5.561,
+      "h24": 3.87
+    },
+    "tx_h1": {
+      "buys": 674,
+      "sells": 521
+    },
+    "first_seen": "2026-10-01T06:05:48+00:00",
+    "last_seen": "2026-10-01T06:05:48+00:00"
+  },
+  "narrative": "SI в боковике: +3.9% за сутки. пулу 1 дн. — чистая рулетка.",
+  "flags": [
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-01T06:05:48Z"
+}

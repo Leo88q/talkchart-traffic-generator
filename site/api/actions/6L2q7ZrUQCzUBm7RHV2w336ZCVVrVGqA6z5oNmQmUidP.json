@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BANDIT_+871.png",
+  "title": "TalkChart: BANDIT (+870.6%) — Solana On-Chain Radar",
+  "description": "BANDIT разрывает: +870.6% за 24ч. давление продаж нарастает. объём $9.98M больше капы в 21.0× — бумага в огне. ликвидность тонкая ($77.3K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.7K (214× медианы, 0ч назад). нетто китов за сутки −$2.1K.\n\nОбъём: $9.98M · Ликвидность: $77.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BANDIT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-JCX5nDG99k1CWB9AttJ3U57NmjSgnCoagFaZhqfEf7Ah"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6L2q7ZrUQCzUBm7RHV2w336ZCVVrVGqA6z5oNmQmUidP"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

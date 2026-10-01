@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Saw_+56.png",
+  "title": "TalkChart: Saw (+56.2%) — Solana On-Chain Radar",
+  "description": "Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46.\n\nОбъём: $7.38M · Ликвидность: $30.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Saw (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9twiuSdTVkwtAC9XQDG57dFRhF4iqPih461HJfMZKci9"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=ATrJhrc46UkY4gTmJry2SUZvtaLJX3LydBufPnkWHTC3"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
