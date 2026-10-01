@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Ajax_+785.png",
+  "title": "TalkChart: Ajax (+784.7%) — Solana On-Chain Radar",
+  "description": "Ajax разрывает: +784.7% за 24ч. давление продаж нарастает. объём $5.29M больше капы в 13.4× — бумага в огне. ликвидность тонкая ($66.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $5.29M · Ликвидность: $66.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Ajax (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-H9qKeikv2EuifXaMCWSFQSUvNHUu2dre9R3Gmz62mvjw"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=EGRWwHLfME2U2rahMu6BMqonMNeG5ND2CdVFPX1CcAE9"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "D4J77RpC5k8Nkh6h8bUw2CJBJrykSRqMuNz49f2Fbx3a",
+    "name": "PENGU / USDC",
+    "base_symbol": "PENGU",
+    "base_name": "PENGU",
+    "base_address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "dex": "zerofi",
+    "price_usd": 0.00922867373588902,
+    "created_at": "2026-06-16T19:29:38Z",
+    "fdv_usd": 712053113.391599,
+    "reserve_usd": 35853.8355,
+    "volume_h24": 1139548.08644891,
+    "change": {
+      "h1": -0.887,
+      "h6": -4.401,
+      "h24": -6.951
+    },
+    "tx_h1": {
+      "buys": 207,
+      "sells": 137
+    },
+    "first_seen": "2026-10-01T15:41:14+00:00",
+    "last_seen": "2026-10-01T15:41:14+00:00"
+  },
+  "narrative": "PENGU в боковике: -7.0% за сутки. ликвидность тонкая ($35.9K) — движения будут резкими.",
+  "flags": [
+    "тонкая ликвидность"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-01T15:41:14Z"
+}

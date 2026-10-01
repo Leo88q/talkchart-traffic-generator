@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-01
-1. SI +1124.3% — SI разрывает: +1124.3% за 24ч. ускорение в последнем часе
-2. Meridian +1032.2% — Meridian разрывает: +1032.2% за 24ч. ускорение в последнем часе
-3. BANDIT +870.6% — BANDIT разрывает: +870.6% за 24ч. давление продаж нарастает
-4. OTC +99.6% — OTC разрывает: +99.6% за 24ч. покупатели доминируют (66% сделок за час).
-5. PARASITE -67.0% — PARASITE в обвале: -67.0% за 24ч. объём $682.1K больше капы в 2.4× — бумага в огне
+1. MICRO +1271.2% — MICRO разрывает: +1271.2% за 24ч. давление продаж нарастает
+2. Meridian +1077.2% — Meridian разрывает: +1077.2% за 24ч. объём $3.66M больше капы в 6.4× — бумага в огне
+3. Ajax +784.7% — Ajax разрывает: +784.7% за 24ч. давление продаж нарастает
+4. BANDIT +346.1% — BANDIT разрывает: +346.1% за 24ч. объём $10.63M больше капы в 48.7× — бумага в огне
+5. SI +336.8% — SI разрывает: +336.8% за 24ч. объём $18.98M больше капы в 2.7× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/7Nj7mBE7iVmjvnBHNvjgaz6G3ZktTHFNbf7aQDfZ7iNR.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/mnnen34cBuJJ7Pvfdb2PN7WHgRvCMzcTej4bAgUiXob.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PENGU_-7.png",
+  "title": "TalkChart: PENGU (-7.0%) — Solana On-Chain Radar",
+  "description": "PENGU в боковике: -7.0% за сутки. ликвидность тонкая ($35.9K) — движения будут резкими.\n\nОбъём: $1.14M · Ликвидность: $35.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PENGU (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=D4J77RpC5k8Nkh6h8bUw2CJBJrykSRqMuNz49f2Fbx3a"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

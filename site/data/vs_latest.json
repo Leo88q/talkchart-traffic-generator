@@ -1,17 +1,17 @@
 {
-  "slug": "si-vs-meridian",
+  "slug": "micro-vs-meridian",
   "token1": {
-    "symbol": "SI",
-    "change_24h": 1124.319,
-    "address": "7Nj7mBE7iVmjvnBHNvjgaz6G3ZktTHFNbf7aQDfZ7iNR",
-    "volume": 17151586.0747296
+    "symbol": "MICRO",
+    "change_24h": 1271.188,
+    "address": "mnnen34cBuJJ7Pvfdb2PN7WHgRvCMzcTej4bAgUiXob",
+    "volume": 7445509.6644712
   },
   "token2": {
     "symbol": "Meridian",
-    "change_24h": 1032.177,
+    "change_24h": 1077.194,
     "address": "6xLfdSfHgxHSLgFt58BTv9z35qsGbmpqLdMU2FwsG2Tf",
-    "volume": 3309765.71276831
+    "volume": 3662762.87091086
   },
-  "verdict": "По ончейн-метрикам TalkChart: SI опережает по ценовому импульсу (+1124.3% против +1032.2%). Кроме того, у SI существенно глубже пул ликвидности ($316.4K против $73.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: SI.",
-  "updated_at": "2026-10-01 06:06 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: MICRO опережает по ценовому импульсу (+1271.2% против +1077.2%). Краткосрочный фаворит по совокупности факторов: MICRO.",
+  "updated_at": "2026-10-01 15:41 UTC"
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PINK_+67.png",
+  "title": "TalkChart: PINK (+67.4%) — Solana On-Chain Radar",
+  "description": "PINK разрывает: +67.4% за 24ч. давление продаж нарастает. ликвидность тонкая ($90.9K) — движения будут резкими.\n\nОбъём: $409.5K · Ликвидность: $90.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PINK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-AVBN6kXdaw27ySuvMevKYzNTL8d39b7sGQFDCmsvpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6SyCrkBegBRNRP5rVHn6G1bPsbyoBStZneS2wpiCw1db"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

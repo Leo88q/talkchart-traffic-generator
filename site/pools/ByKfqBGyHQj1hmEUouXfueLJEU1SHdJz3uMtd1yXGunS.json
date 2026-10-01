@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "ByKfqBGyHQj1hmEUouXfueLJEU1SHdJz3uMtd1yXGunS",
+    "name": "PENGU / POLLY",
+    "base_symbol": "PENGU",
+    "base_name": "PENGU",
+    "base_address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "dex": "raydium",
+    "price_usd": 0.009247766520548211,
+    "created_at": "2026-09-10T15:25:39Z",
+    "fdv_usd": 709514541.6839,
+    "reserve_usd": 127620.9751,
+    "volume_h24": 54791.8697460246,
+    "change": {
+      "h1": -1.974,
+      "h6": -4.806,
+      "h24": -6.293
+    },
+    "tx_h1": {
+      "buys": 15,
+      "sells": 20
+    },
+    "first_seen": "2026-10-01T15:41:14+00:00",
+    "last_seen": "2026-10-01T15:41:14+00:00"
+  },
+  "narrative": "PENGU в боковике: -6.3% за сутки. ликвидность тонкая ($127.6K) — движения будут резкими.",
+  "flags": [
+    "тонкая ликвидность"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-01T15:41:14Z"
+}
