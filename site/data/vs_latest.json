@@ -1,17 +1,17 @@
 {
-  "slug": "jane-vs-hooked",
+  "slug": "www-vs-agency",
   "token1": {
-    "symbol": "Jane",
-    "change_24h": 1628.746,
-    "address": "31eCTC8W3VcX7BiFwK2o5Ax41FPi2UyHcehcy2Gd3H5h",
-    "volume": 10127010.5789477
+    "symbol": "www",
+    "change_24h": 6425.508,
+    "address": "Cr469Kh7oCPtQk5YADEmjVpBWx1DiXXLiooPFJn23jsg",
+    "volume": 22023705.5064938
   },
   "token2": {
-    "symbol": "HOOKED",
-    "change_24h": 622.754,
-    "address": "C7r9jXWiVYmBYR2Jj5YSLiEitUGJPjQXWeg7HPU8NwUk",
-    "volume": 3429819.97189411
+    "symbol": "Agency",
+    "change_24h": 5937.598,
+    "address": "CyJwKnLiiY4fmiwqMCSWFSHxo7T9Ubshgs2uRAuJCrk5",
+    "volume": 12100777.9796882
   },
-  "verdict": "По ончейн-метрикам TalkChart: Jane опережает по ценовому импульсу (+1628.7% против +622.8%). Кроме того, у HOOKED более надёжная ликвидность ($215.3K против $102.2K). Краткосрочный фаворит по совокупности факторов: Jane.",
-  "updated_at": "2026-10-02 05:49 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: www опережает по ценовому импульсу (+6425.5% против +5937.6%). Краткосрочный фаворит по совокупности факторов: www.",
+  "updated_at": "2026-10-02 14:49 UTC"
 }
