@@ -2,16 +2,16 @@
   "slug": "www-vs-agency",
   "token1": {
     "symbol": "www",
-    "change_24h": 6425.508,
+    "change_24h": 5495.25,
     "address": "Cr469Kh7oCPtQk5YADEmjVpBWx1DiXXLiooPFJn23jsg",
-    "volume": 22023705.5064938
+    "volume": 24605458.3536319
   },
   "token2": {
     "symbol": "Agency",
-    "change_24h": 5937.598,
+    "change_24h": 3358.169,
     "address": "CyJwKnLiiY4fmiwqMCSWFSHxo7T9Ubshgs2uRAuJCrk5",
-    "volume": 12100777.9796882
+    "volume": 13716035.1098679
   },
-  "verdict": "По ончейн-метрикам TalkChart: www опережает по ценовому импульсу (+6425.5% против +5937.6%). Краткосрочный фаворит по совокупности факторов: www.",
-  "updated_at": "2026-10-02 14:49 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: www опережает по ценовому импульсу (+5495.2% против +3358.2%). Краткосрочный фаворит по совокупности факторов: www.",
+  "updated_at": "2026-10-02 20:50 UTC"
 }
