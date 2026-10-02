@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Ansemmas_+582.png",
+  "title": "TalkChart: Ansemmas (+582.3%) — Solana On-Chain Radar",
+  "description": "Ansemmas разрывает: +582.3% за 24ч. давление продаж нарастает. объём $4.48M больше капы в 13.8× — бумага в огне. ликвидность тонкая ($60.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $4.48M · Ликвидность: $60.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Ansemmas (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HXxJdaQbrYRvwTAM8M8mUPyoRPvmyuUbPFBRkiAAMASS"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6qirp44Q2T8B1CfbGmnqeXCLdQhFqmNCfAFfpKG4N156"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

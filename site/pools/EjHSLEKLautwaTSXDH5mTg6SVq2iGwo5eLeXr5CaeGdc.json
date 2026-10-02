@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "EjHSLEKLautwaTSXDH5mTg6SVq2iGwo5eLeXr5CaeGdc",
+    "name": "PUTIN / SOL",
+    "base_symbol": "PUTIN",
+    "base_name": "PUTIN",
+    "base_address": "H5Kugtkfc5vrm3oSdX6FDkxuutRK1S3GW7Rr7UgnoDhP",
+    "dex": "pumpswap",
+    "price_usd": 5.8163947879342235e-05,
+    "created_at": "2026-10-01T05:50:08Z",
+    "fdv_usd": 58163.94788,
+    "reserve_usd": 22464.647,
+    "volume_h24": 1713232.22385554,
+    "change": {
+      "h1": 16.243,
+      "h6": 5.095,
+      "h24": 18.398
+    },
+    "tx_h1": {
+      "buys": 86,
+      "sells": 68
+    },
+    "first_seen": "2026-10-02T05:49:04+00:00",
+    "last_seen": "2026-10-02T05:49:04+00:00"
+  },
+  "narrative": "PUTIN растёт на +18.4% за сутки. объём $1.71M больше капы в 29.5× — бумага в огне. ликвидность тонкая ($22.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-02T05:49:05Z"
+}
