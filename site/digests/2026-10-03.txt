@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-03
-1. FILLED +530.8% — FILLED разрывает: +530.8% за 24ч. объём $4.49M больше капы в 3.8× — бумага в огне
-2. swordcat +301.7% — swordcat разрывает: +301.7% за 24ч. ликвидность тонкая ($165.1K) — движения будут резкими
-3. PRINTR +123.6% — PRINTR разрывает: +123.6% за 24ч. объём $2.74M больше капы в 26.1× — бумага в огне
-4. HOTBOT +93.0% — HOTBOT разрывает: +93.0% за 24ч. давление продаж нарастает
-5. www -84.2% — www в обвале: -84.2% за 24ч. объём $6.18M больше капы в 9.2× — бумага в огне
+1. Agency +663.0% — Agency разрывает: +663.0% за 24ч. ускорение в последнем часе
+2. ABU +260.0% — ABU разрывает: +260.0% за 24ч. объём $1.11M больше капы в 6.2× — бумага в огне
+3. SOCKET +221.0% — SOCKET разрывает: +221.0% за 24ч. давление продаж нарастает
+4. swordcat +203.2% — swordcat разрывает: +203.2% за 24ч. объём $3.20M больше капы в 1.5× — бумага в огне
+5. HOTBOT +188.4% — HOTBOT разрывает: +188.4% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/A8JMWc6ijm7dUUBFTgRcPG9hqGsN9gipKj39q1hbhQZk.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/CyJwKnLiiY4fmiwqMCSWFSHxo7T9Ubshgs2uRAuJCrk5.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

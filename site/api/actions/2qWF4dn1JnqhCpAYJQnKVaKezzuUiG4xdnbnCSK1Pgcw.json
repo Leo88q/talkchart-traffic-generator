@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ABU_+260.png",
+  "title": "TalkChart: ABU (+260.0%) — Solana On-Chain Radar",
+  "description": "ABU разрывает: +260.0% за 24ч. объём $1.11M больше капы в 6.2× — бумага в огне. ликвидность тонкая ($39.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.11M · Ликвидность: $39.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ABU (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6hTLdzZaaCjmqtn7RtaEMQsCbXT5Pg8q76tRViEGpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=2qWF4dn1JnqhCpAYJQnKVaKezzuUiG4xdnbnCSK1Pgcw"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

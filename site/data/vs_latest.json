@@ -1,17 +1,17 @@
 {
-  "slug": "filled-vs-swordcat",
+  "slug": "agency-vs-abu",
   "token1": {
-    "symbol": "FILLED",
-    "change_24h": 530.823,
-    "address": "A8JMWc6ijm7dUUBFTgRcPG9hqGsN9gipKj39q1hbhQZk",
-    "volume": 4486186.48922579
+    "symbol": "Agency",
+    "change_24h": 662.961,
+    "address": "CyJwKnLiiY4fmiwqMCSWFSHxo7T9Ubshgs2uRAuJCrk5",
+    "volume": 11832090.0439165
   },
   "token2": {
-    "symbol": "swordcat",
-    "change_24h": 301.652,
-    "address": "8ewuF2o8ACro7fqWepZ3tKhkbBjndZU4Ldk9scRPw83d",
-    "volume": 2344951.00316646
+    "symbol": "ABU",
+    "change_24h": 260.031,
+    "address": "2qWF4dn1JnqhCpAYJQnKVaKezzuUiG4xdnbnCSK1Pgcw",
+    "volume": 1105153.73986289
   },
-  "verdict": "По ончейн-метрикам TalkChart: FILLED опережает по ценовому импульсу (+530.8% против +301.7%). Краткосрочный фаворит по совокупности факторов: FILLED.",
-  "updated_at": "2026-10-03 13:30 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Agency опережает по ценовому импульсу (+663.0% против +260.0%). Кроме того, у Agency существенно глубже пул ликвидности ($449.2K против $39.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Agency.",
+  "updated_at": "2026-10-03 19:18 UTC"
 }
