@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CLAUDIA_+2656.png",
+  "title": "TalkChart: CLAUDIA (+2656.3%) — Solana On-Chain Radar",
+  "description": "CLAUDIA разрывает: +2656.3% за 24ч. объём $8.47M больше капы в 6.5× — бумага в огне. ликвидность тонкая ($124.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $8.47M · Ликвидность: $124.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CLAUDIA (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-H7TuvDxEKygh27zGfGcjKG8JGWgrbyKpPtvJEpGosfas"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=C2agfYkMTrQp9G34KXcX5J44eLuUseqySZmkQUQ2fXK7"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

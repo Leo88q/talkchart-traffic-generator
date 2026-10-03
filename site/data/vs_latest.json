@@ -1,17 +1,17 @@
 {
-  "slug": "agency-vs-abu",
+  "slug": "claudia-vs-agency",
   "token1": {
-    "symbol": "Agency",
-    "change_24h": 662.961,
-    "address": "CyJwKnLiiY4fmiwqMCSWFSHxo7T9Ubshgs2uRAuJCrk5",
-    "volume": 11832090.0439165
+    "symbol": "CLAUDIA",
+    "change_24h": 2656.311,
+    "address": "C2agfYkMTrQp9G34KXcX5J44eLuUseqySZmkQUQ2fXK7",
+    "volume": 8468144.52352134
   },
   "token2": {
-    "symbol": "ABU",
-    "change_24h": 260.031,
-    "address": "2qWF4dn1JnqhCpAYJQnKVaKezzuUiG4xdnbnCSK1Pgcw",
-    "volume": 1105153.73986289
+    "symbol": "Agency",
+    "change_24h": 434.12,
+    "address": "CyJwKnLiiY4fmiwqMCSWFSHxo7T9Ubshgs2uRAuJCrk5",
+    "volume": 15479557.620857
   },
-  "verdict": "По ончейн-метрикам TalkChart: Agency опережает по ценовому импульсу (+663.0% против +260.0%). Кроме того, у Agency существенно глубже пул ликвидности ($449.2K против $39.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Agency.",
-  "updated_at": "2026-10-03 19:18 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: CLAUDIA опережает по ценовому импульсу (+2656.3% против +434.1%). Кроме того, у Agency более надёжная ликвидность ($489.0K против $124.8K). Краткосрочный фаворит по совокупности факторов: Agency.",
+  "updated_at": "2026-10-03 23:11 UTC"
 }

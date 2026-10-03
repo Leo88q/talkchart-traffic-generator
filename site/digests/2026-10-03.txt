@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-03
-1. Agency +663.0% — Agency разрывает: +663.0% за 24ч. ускорение в последнем часе
-2. ABU +260.0% — ABU разрывает: +260.0% за 24ч. объём $1.11M больше капы в 6.2× — бумага в огне
-3. SOCKET +221.0% — SOCKET разрывает: +221.0% за 24ч. давление продаж нарастает
-4. swordcat +203.2% — swordcat разрывает: +203.2% за 24ч. объём $3.20M больше капы в 1.5× — бумага в огне
-5. HOTBOT +188.4% — HOTBOT разрывает: +188.4% за 24ч. давление продаж нарастает
+1. CLAUDIA +2656.3% — CLAUDIA разрывает: +2656.3% за 24ч. объём $8.47M больше капы в 6.5× — бумага в огне
+2. Agency +434.1% — Agency разрывает: +434.1% за 24ч. пулу 2 дн
+3. swordcat +153.7% — swordcat разрывает: +153.7% за 24ч. давление продаж нарастает
+4. JEANPHIL +137.6% — JEANPHIL разрывает: +137.6% за 24ч. ускорение в последнем часе
+5. DUST +128.4% — DUST разрывает: +128.4% за 24ч. объём $3.35M больше капы в 30.4× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/CyJwKnLiiY4fmiwqMCSWFSHxo7T9Ubshgs2uRAuJCrk5.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/C2agfYkMTrQp9G34KXcX5J44eLuUseqySZmkQUQ2fXK7.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
