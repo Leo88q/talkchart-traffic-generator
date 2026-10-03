@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/e/acc_-47.png",
+  "title": "TalkChart: e/acc (-47.1%) — Solana On-Chain Radar",
+  "description": "e/acc в обвале: -47.1% за 24ч. давление продаж нарастает. объём $1.16M больше капы в 2.0× — бумага в огне. ликвидность тонкая ($72.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $279.82 (61× медианы, 0ч назад). нетто китов за сутки +$279.82.\n\nОбъём: $1.16M · Ликвидность: $72.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп e/acc (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-ERxLYPjqeFfLsnChuPnvS6f3y5Me8BjgJi9oWaTJpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=ADd8YiSXcRn6kL6t8LsSyiCQTWyWJtLFy5R7gzANZoqK"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

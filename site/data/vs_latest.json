@@ -1,17 +1,17 @@
 {
-  "slug": "www-vs-agency",
+  "slug": "hotbot-vs-socket",
   "token1": {
-    "symbol": "www",
-    "change_24h": 5495.25,
-    "address": "Cr469Kh7oCPtQk5YADEmjVpBWx1DiXXLiooPFJn23jsg",
-    "volume": 24605458.3536319
+    "symbol": "HOTBOT",
+    "change_24h": 1764.531,
+    "address": "GLL3CzybpSCLZdoACf8QUM5YrKVwyA65kQ2RcTsJxxzV",
+    "volume": 6127319.36091128
   },
   "token2": {
-    "symbol": "Agency",
-    "change_24h": 3358.169,
-    "address": "CyJwKnLiiY4fmiwqMCSWFSHxo7T9Ubshgs2uRAuJCrk5",
-    "volume": 13716035.1098679
+    "symbol": "SOCKET",
+    "change_24h": 1409.748,
+    "address": "BA2YYZ4YUKsMCMDGpqrV5FQiotGnyKrc571pFhc66Gje",
+    "volume": 5165035.41142146
   },
-  "verdict": "По ончейн-метрикам TalkChart: www опережает по ценовому импульсу (+5495.2% против +3358.2%). Краткосрочный фаворит по совокупности факторов: www.",
-  "updated_at": "2026-10-02 20:50 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HOTBOT опережает по ценовому импульсу (+1764.5% против +1409.7%). Краткосрочный фаворит по совокупности факторов: HOTBOT.",
+  "updated_at": "2026-10-03 05:26 UTC"
 }
