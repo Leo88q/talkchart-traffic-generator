@@ -1,17 +1,17 @@
 {
-  "slug": "hotbot-vs-socket",
+  "slug": "filled-vs-swordcat",
   "token1": {
-    "symbol": "HOTBOT",
-    "change_24h": 1764.531,
-    "address": "GLL3CzybpSCLZdoACf8QUM5YrKVwyA65kQ2RcTsJxxzV",
-    "volume": 6127319.36091128
+    "symbol": "FILLED",
+    "change_24h": 530.823,
+    "address": "A8JMWc6ijm7dUUBFTgRcPG9hqGsN9gipKj39q1hbhQZk",
+    "volume": 4486186.48922579
   },
   "token2": {
-    "symbol": "SOCKET",
-    "change_24h": 1409.748,
-    "address": "BA2YYZ4YUKsMCMDGpqrV5FQiotGnyKrc571pFhc66Gje",
-    "volume": 5165035.41142146
+    "symbol": "swordcat",
+    "change_24h": 301.652,
+    "address": "8ewuF2o8ACro7fqWepZ3tKhkbBjndZU4Ldk9scRPw83d",
+    "volume": 2344951.00316646
   },
-  "verdict": "По ончейн-метрикам TalkChart: HOTBOT опережает по ценовому импульсу (+1764.5% против +1409.7%). Краткосрочный фаворит по совокупности факторов: HOTBOT.",
-  "updated_at": "2026-10-03 05:26 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FILLED опережает по ценовому импульсу (+530.8% против +301.7%). Краткосрочный фаворит по совокупности факторов: FILLED.",
+  "updated_at": "2026-10-03 13:30 UTC"
 }

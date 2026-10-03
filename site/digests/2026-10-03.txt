@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-03
-1. HOTBOT +1764.5% — HOTBOT разрывает: +1764.5% за 24ч. ускорение в последнем часе
-2. SOCKET +1409.7% — SOCKET разрывает: +1409.7% за 24ч. объём $5.17M больше капы в 7.3× — бумага в огне
-3. swordcat +587.1% — swordcat разрывает: +587.1% за 24ч. ликвидность тонкая ($164.0K) — движения будут резкими
-4. HOOKED +125.2% — HOOKED разрывает: +125.2% за 24ч. давление продаж нарастает
-5. Jane -85.2% — Jane в обвале: -85.2% за 24ч. ускорение в последнем часе
+1. FILLED +530.8% — FILLED разрывает: +530.8% за 24ч. объём $4.49M больше капы в 3.8× — бумага в огне
+2. swordcat +301.7% — swordcat разрывает: +301.7% за 24ч. ликвидность тонкая ($165.1K) — движения будут резкими
+3. PRINTR +123.6% — PRINTR разрывает: +123.6% за 24ч. объём $2.74M больше капы в 26.1× — бумага в огне
+4. HOTBOT +93.0% — HOTBOT разрывает: +93.0% за 24ч. давление продаж нарастает
+5. www -84.2% — www в обвале: -84.2% за 24ч. объём $6.18M больше капы в 9.2× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/GLL3CzybpSCLZdoACf8QUM5YrKVwyA65kQ2RcTsJxxzV.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/A8JMWc6ijm7dUUBFTgRcPG9hqGsN9gipKj39q1hbhQZk.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
