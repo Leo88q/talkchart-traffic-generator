@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Ash_+2430.png",
+  "title": "TalkChart: Ash (+2430.1%) — Solana On-Chain Radar",
+  "description": "Ash разрывает: +2430.1% за 24ч. объём $6.15M больше капы в 5.1× — бумага в огне. ликвидность тонкая ($117.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $6.15M · Ликвидность: $117.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Ash (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-F5WvFdG9sCfhv3bVYAMJNWiwpx5e3X2uvpXDtLtdsDJs"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6e4wZ83xEmcj3LP9JNwzncW2hu3qXDEKLQUw3G6LKT8U"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

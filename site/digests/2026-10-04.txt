@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-04
-1. CRAWL +7599.9% — CRAWL разрывает: +7599.9% за 24ч. давление продаж нарастает
-2. HIGGS +4207.8% — HIGGS разрывает: +4207.8% за 24ч. объём $14.82M больше капы в 6.8× — бумага в огне
-3. SPLICE +2477.0% — SPLICE разрывает: +2477.0% за 24ч. давление продаж нарастает
-4. knightcat +457.1% — knightcat разрывает: +457.1% за 24ч. ускорение в последнем часе
-5. ABU +308.8% — ABU разрывает: +308.8% за 24ч. ускорение в последнем часе
+1. HIGGS +4128.3% — HIGGS разрывает: +4128.3% за 24ч. давление продаж нарастает
+2. Ash +2430.1% — Ash разрывает: +2430.1% за 24ч. объём $6.15M больше капы в 5.1× — бумага в огне
+3. SPLICE +2099.7% — SPLICE разрывает: +2099.7% за 24ч. объём $9.11M больше капы в 10.5× — бумага в огне
+4. knightcat +360.3% — knightcat разрывает: +360.3% за 24ч. давление продаж нарастает
+5. baton +261.8% — baton разрывает: +261.8% за 24ч. покупатели доминируют (66% сделок за час).
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/2B8tftZ5ww8TREMr3pgkgERLNjJyJxEAPWMENViGMsL4.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/BFrSZakeqNzVtM3EFhroo4eRhagmmWN8BRntiQKFH6Ru.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
