@@ -1,17 +1,17 @@
 {
-  "slug": "crawl-vs-aiden",
+  "slug": "crawl-vs-spec",
   "token1": {
     "symbol": "CRAWL",
-    "change_24h": 5110.961,
+    "change_24h": 12259.352,
     "address": "2B8tftZ5ww8TREMr3pgkgERLNjJyJxEAPWMENViGMsL4",
-    "volume": 10765428.5251324
+    "volume": 14706515.0064536
   },
   "token2": {
-    "symbol": "Aiden",
-    "change_24h": 2747.708,
-    "address": "5VbavvxS1NLmyNJLS3QbDoRFsUHKn6rBzmfVQdWWSniq",
-    "volume": 7838230.05024018
+    "symbol": "SPEC",
+    "change_24h": 2246.848,
+    "address": "BKH29Cr5mZf8eahp7vD28jaBqU9HavY9v6SAbphbSA2D",
+    "volume": 11380470.5889465
   },
-  "verdict": "По ончейн-метрикам TalkChart: CRAWL опережает по ценовому импульсу (+5111.0% против +2747.7%). Краткосрочный фаворит по совокупности факторов: CRAWL.",
-  "updated_at": "2026-10-04 06:02 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: CRAWL опережает по ценовому импульсу (+12259.4% против +2246.8%). Краткосрочный фаворит по совокупности факторов: CRAWL.",
+  "updated_at": "2026-10-04 14:09 UTC"
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/TERMINAL_+517.png",
+  "title": "TalkChart: TERMINAL (+517.2%) — Solana On-Chain Radar",
+  "description": "TERMINAL разрывает: +517.2% за 24ч. давление продаж нарастает. объём $7.44M больше капы в 22.9× — бумага в огне. ликвидность тонкая ($62.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $7.44M · Ликвидность: $62.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп TERMINAL (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9ZmkKpVR3NdUcCmG5NByMHBzvjuqGnYpCPYu4zSSBtJv"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7jk1E9izLtLyR6BsyaAdCAPzoWTnq49sxyA5wzZbjRET"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
