@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Aiden_+2748.png",
+  "title": "TalkChart: Aiden (+2747.7%) — Solana On-Chain Radar",
+  "description": "Aiden разрывает: +2747.7% за 24ч. объём $7.84M больше капы в 5.6× — бумага в огне. ликвидность тонкая ($131.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.1K (92× медианы, 0ч назад). нетто китов за сутки −$1.5K.\n\nОбъём: $7.84M · Ликвидность: $131.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Aiden (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9dSMwFfPezQ8WPcW1uZV7ns4rcviEj2LssSAg75WBLXd"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5VbavvxS1NLmyNJLS3QbDoRFsUHKn6rBzmfVQdWWSniq"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

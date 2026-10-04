@@ -1,17 +1,17 @@
 {
-  "slug": "claudia-vs-agency",
+  "slug": "crawl-vs-aiden",
   "token1": {
-    "symbol": "CLAUDIA",
-    "change_24h": 2656.311,
-    "address": "C2agfYkMTrQp9G34KXcX5J44eLuUseqySZmkQUQ2fXK7",
-    "volume": 8468144.52352134
+    "symbol": "CRAWL",
+    "change_24h": 5110.961,
+    "address": "2B8tftZ5ww8TREMr3pgkgERLNjJyJxEAPWMENViGMsL4",
+    "volume": 10765428.5251324
   },
   "token2": {
-    "symbol": "Agency",
-    "change_24h": 434.12,
-    "address": "CyJwKnLiiY4fmiwqMCSWFSHxo7T9Ubshgs2uRAuJCrk5",
-    "volume": 15479557.620857
+    "symbol": "Aiden",
+    "change_24h": 2747.708,
+    "address": "5VbavvxS1NLmyNJLS3QbDoRFsUHKn6rBzmfVQdWWSniq",
+    "volume": 7838230.05024018
   },
-  "verdict": "По ончейн-метрикам TalkChart: CLAUDIA опережает по ценовому импульсу (+2656.3% против +434.1%). Кроме того, у Agency более надёжная ликвидность ($489.0K против $124.8K). Краткосрочный фаворит по совокупности факторов: Agency.",
-  "updated_at": "2026-10-03 23:11 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: CRAWL опережает по ценовому импульсу (+5111.0% против +2747.7%). Краткосрочный фаворит по совокупности факторов: CRAWL.",
+  "updated_at": "2026-10-04 06:02 UTC"
 }

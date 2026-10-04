@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CARNAGE_+57.png",
+  "title": "TalkChart: CARNAGE (+56.9%) — Solana On-Chain Radar",
+  "description": "CARNAGE разрывает: +56.9% за 24ч. ускорение в последнем часе. объём $162.5K больше капы в 2.3× — бумага в огне. ликвидность тонкая ($33.6K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $162.5K · Ликвидность: $33.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CARNAGE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-AVKpeeWaCku3Mni5THbY4bkBnMrPzAEnnQKtP3wPpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BTKS1a21rbBqcX9cM5xYrAwsSp2UTu8YE8b2AzpH7WBK"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

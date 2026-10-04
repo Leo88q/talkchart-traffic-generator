@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CRAWL_+5111.png",
+  "title": "TalkChart: CRAWL (+5111.0%) — Solana On-Chain Radar",
+  "description": "CRAWL разрывает: +5111.0% за 24ч. объём $10.77M больше капы в 5.0× — бумага в огне. ликвидность тонкая ($163.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $10.77M · Ликвидность: $163.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CRAWL (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-BXoHJddsWJLHtAopeiSbKUSELsu8hSFMs8baGMDkpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=2B8tftZ5ww8TREMr3pgkgERLNjJyJxEAPWMENViGMsL4"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

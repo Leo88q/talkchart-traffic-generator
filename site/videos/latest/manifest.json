@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-03T23:11:25+00:00",
+ "generated_at": "2026-10-04T06:02:30+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-03/CLAUDIA.mp4",
+   "file": "videos/2026-10-04/CRAWL.mp4",
+   "latest_file": "videos/latest/CRAWL.mp4",
+   "symbol": "CRAWL",
+   "chg_h24": 5110.961
+  },
+  {
+   "file": "videos/2026-10-04/Aiden.mp4",
+   "latest_file": "videos/latest/Aiden.mp4",
+   "symbol": "Aiden",
+   "chg_h24": 2747.708
+  },
+  {
+   "file": "videos/2026-10-04/CLAUDIA.mp4",
    "latest_file": "videos/latest/CLAUDIA.mp4",
    "symbol": "CLAUDIA",
-   "chg_h24": 2656.311
-  },
-  {
-   "file": "videos/2026-10-03/Agency.mp4",
-   "latest_file": "videos/latest/Agency.mp4",
-   "symbol": "Agency",
-   "chg_h24": 434.12
-  },
-  {
-   "file": "videos/2026-10-03/swordcat.mp4",
-   "latest_file": "videos/latest/swordcat.mp4",
-   "symbol": "swordcat",
-   "chg_h24": 153.731
+   "chg_h24": 2560.04
   }
  ]
 }
