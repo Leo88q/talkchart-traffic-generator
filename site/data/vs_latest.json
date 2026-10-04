@@ -1,17 +1,17 @@
 {
-  "slug": "crawl-vs-spec",
+  "slug": "crawl-vs-higgs",
   "token1": {
     "symbol": "CRAWL",
-    "change_24h": 12259.352,
+    "change_24h": 7599.88,
     "address": "2B8tftZ5ww8TREMr3pgkgERLNjJyJxEAPWMENViGMsL4",
-    "volume": 14706515.0064536
+    "volume": 17141803.9666321
   },
   "token2": {
-    "symbol": "SPEC",
-    "change_24h": 2246.848,
-    "address": "BKH29Cr5mZf8eahp7vD28jaBqU9HavY9v6SAbphbSA2D",
-    "volume": 11380470.5889465
+    "symbol": "HIGGS",
+    "change_24h": 4207.814,
+    "address": "BFrSZakeqNzVtM3EFhroo4eRhagmmWN8BRntiQKFH6Ru",
+    "volume": 14822138.6024628
   },
-  "verdict": "По ончейн-метрикам TalkChart: CRAWL опережает по ценовому импульсу (+12259.4% против +2246.8%). Краткосрочный фаворит по совокупности факторов: CRAWL.",
-  "updated_at": "2026-10-04 14:09 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: CRAWL опережает по ценовому импульсу (+7599.9% против +4207.8%). Краткосрочный фаворит по совокупности факторов: CRAWL.",
+  "updated_at": "2026-10-04 19:44 UTC"
 }

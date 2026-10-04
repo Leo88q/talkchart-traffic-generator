@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HIGGS_+4208.png",
+  "title": "TalkChart: HIGGS (+4207.8%) — Solana On-Chain Radar",
+  "description": "HIGGS разрывает: +4207.8% за 24ч. объём $14.82M больше капы в 6.8× — бумага в огне. ликвидность тонкая ($205.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $14.82M · Ликвидность: $205.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HIGGS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-DoVAVzViX8Bjy3r15nwikSaSbzE6dV4ovd28aWpJpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BFrSZakeqNzVtM3EFhroo4eRhagmmWN8BRntiQKFH6Ru"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

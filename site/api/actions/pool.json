@@ -1,17 +1,17 @@
 {
-  "icon": "https://leo88q.github.io/content-/site/cards/latest/CRAWL_+12259.png",
-  "title": "TalkChart: CRAWL (+12259.4%) — Solana On-Chain Radar",
-  "description": "CRAWL разрывает: +12259.4% за 24ч. объём $14.71M больше капы в 2.9× — бумага в огне. пулу 1 дн. — чистая рулетка.\n\nОбъём: $14.71M · Ликвидность: $268.5K",
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BABYCALI_+11466.png",
+  "title": "TalkChart: BABYCALI (+11465.7%) — Solana On-Chain Radar",
+  "description": "BABYCALI разрывает: +11465.7% за 24ч. ускорение в последнем часе. покупатели доминируют (70% сделок за час). пулу 7 дн., история короткая. крупная сделка на фоне ленты: продал $704.39 (107× медианы, 0ч назад). нетто китов за сутки −$3.2K.\n\nОбъём: $2.60M · Ликвидность: $364.5K",
   "label": "Своп через Jupiter",
   "links": {
     "actions": [
       {
-        "label": "⚡ Своп CRAWL (Jupiter)",
-        "href": "https://jup.ag/swap/SOL-BXoHJddsWJLHtAopeiSbKUSELsu8hSFMs8baGMDkpump"
+        "label": "⚡ Своп BABYCALI (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5XtxwuwEbkLM1J86myuKKNcR5rr7hvwf4BKjHeHjpump"
       },
       {
         "label": "📈 Живой график + киты",
-        "href": "https://leo88q.github.io/content-/site/index.html#pool=2B8tftZ5ww8TREMr3pgkgERLNjJyJxEAPWMENViGMsL4"
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=9u9iogoJTjavJt8uW8GxqpTnaZo9xKtKFCA2nJKbaSK"
       },
       {
         "label": "🎁 TipLink: вход без сид-фраз",
