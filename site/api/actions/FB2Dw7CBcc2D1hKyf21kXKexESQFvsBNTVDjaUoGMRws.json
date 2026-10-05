@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Human_+1703.png",
+  "title": "TalkChart: Human (+1702.9%) — Solana On-Chain Radar",
+  "description": "Human разрывает: +1702.9% за 24ч. объём $19.67M больше капы в 22.3× — бумага в огне. ликвидность тонкая ($117.3K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $19.67M · Ликвидность: $117.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Human (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8nPoBHiBM6pybxMws9PA2JRb9BjkppBfqcZGmot4DMBC"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FB2Dw7CBcc2D1hKyf21kXKexESQFvsBNTVDjaUoGMRws"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

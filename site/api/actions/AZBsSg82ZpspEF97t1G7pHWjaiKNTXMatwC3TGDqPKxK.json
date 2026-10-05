@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/EGO_+224.png",
+  "title": "TalkChart: EGO (+224.3%) — Solana On-Chain Radar",
+  "description": "EGO разрывает: +224.3% за 24ч. объём $7.48M больше капы в 48.7× — бумага в огне. ликвидность тонкая ($42.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $7.48M · Ликвидность: $42.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп EGO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-BbJJUTuGV2B7tJ99YeryiCBFLG39Hoc4RTzEwchtpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AZBsSg82ZpspEF97t1G7pHWjaiKNTXMatwC3TGDqPKxK"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

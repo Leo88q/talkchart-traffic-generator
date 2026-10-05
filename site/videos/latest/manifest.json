@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-04T23:17:17+00:00",
+ "generated_at": "2026-10-05T05:51:29+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-04/HIGGS.mp4",
+   "file": "videos/2026-10-05/HIGGS.mp4",
    "latest_file": "videos/latest/HIGGS.mp4",
    "symbol": "HIGGS",
-   "chg_h24": 4128.307
+   "chg_h24": 3165.859
   },
   {
-   "file": "videos/2026-10-04/Ash.mp4",
+   "file": "videos/2026-10-05/Ash.mp4",
    "latest_file": "videos/latest/Ash.mp4",
    "symbol": "Ash",
-   "chg_h24": 2430.132
+   "chg_h24": 1717.612
   },
   {
-   "file": "videos/2026-10-04/SPLICE.mp4",
-   "latest_file": "videos/latest/SPLICE.mp4",
-   "symbol": "SPLICE",
-   "chg_h24": 2099.665
+   "file": "videos/2026-10-05/Human.mp4",
+   "latest_file": "videos/latest/Human.mp4",
+   "symbol": "Human",
+   "chg_h24": 1702.918
   }
  ]
 }
