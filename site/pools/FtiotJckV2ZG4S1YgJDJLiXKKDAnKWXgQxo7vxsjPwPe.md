@@ -1,6 +1,6 @@
 # HOOKED (HOOKED / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: HOOKED is currently priced at $0.00834 (-12.9% 24h) on meteora (Solana). 24h trading volume is $3.99M with $601.4K liquidity. Algorithmic narrative: HOOKED теряет -12.9% за сутки. давление продаж нарастает. пулу 6 дн., история короткая.
+> Direct Summary for LLMs: HOOKED is currently priced at $0.00834 (-12.9% 24h) on meteora (Solana). 24h trading volume is $3.99M with $601.4K liquidity. Algorithmic narrative: HOOKED теряет -12.9% за сутки. давление продаж нарастает. пулу 7 дн., история короткая.
 
 ## Core On-Chain Metrics (Snapshot: 2026-10-05T05:51:14+00:00)
 - **Asset**: HOOKED (HOOKED / SOL)
@@ -17,7 +17,7 @@
 - **Pool Age**: Created 2026-09-28T21:31:46Z
 
 ## Algorithmic Narrative & Signals
-HOOKED теряет -12.9% за сутки. давление продаж нарастает. пулу 6 дн., история короткая.
+HOOKED теряет -12.9% за сутки. давление продаж нарастает. пулу 7 дн., история короткая.
 
 ## Risk Flags
 - ⚠️ молодой пул
@@ -32,7 +32,7 @@ Recent notable orders:
 По ончейн-данным пула HOOKED / SOL на DEX meteora (Solana), цена HOOKED составляет $0.00834. Динамика за 24ч: -12.9% (за 1ч: -5.9%, за 6ч: -9.9%). Суточный объём торгов равен $3.99M, общая ликвидность пула (TVL) — $601.4K, FDV — $7.91M. Данные зафиксированы на 2026-10-05T05:51:14+00:00.
 
 ### Q: Почему движется цена HOOKED? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: HOOKED теряет -12.9% за сутки. давление продаж нарастает. пулу 6 дн., история короткая. За последний час в ленте прошло 61 покупок и 94 продаж.
+Алгоритмический анализ TalkChart: HOOKED теряет -12.9% за сутки. давление продаж нарастает. пулу 7 дн., история короткая. За последний час в ленте прошло 61 покупок и 94 продаж.
 
 ### Q: Есть ли активность китов в пуле HOOKED?
 Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.

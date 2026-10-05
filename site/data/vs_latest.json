@@ -1,17 +1,17 @@
 {
-  "slug": "higgs-vs-ash",
+  "slug": "human-vs-sm",
   "token1": {
-    "symbol": "HIGGS",
-    "change_24h": 3165.859,
-    "address": "BFrSZakeqNzVtM3EFhroo4eRhagmmWN8BRntiQKFH6Ru",
-    "volume": 17489987.1857048
+    "symbol": "Human",
+    "change_24h": 2745.83,
+    "address": "FB2Dw7CBcc2D1hKyf21kXKexESQFvsBNTVDjaUoGMRws",
+    "volume": 22113522.2790178
   },
   "token2": {
-    "symbol": "Ash",
-    "change_24h": 1717.612,
-    "address": "6e4wZ83xEmcj3LP9JNwzncW2hu3qXDEKLQUw3G6LKT8U",
-    "volume": 7981998.46771211
+    "symbol": "SM",
+    "change_24h": 701.4,
+    "address": "bAfKrMEaiNsf1uZHd9g9KFd1fUtqqDnpWAtY19rziAd",
+    "volume": 6113339.57194907
   },
-  "verdict": "По ончейн-метрикам TalkChart: HIGGS опережает по ценовому импульсу (+3165.9% против +1717.6%). Краткосрочный фаворит по совокупности факторов: HIGGS.",
-  "updated_at": "2026-10-05 05:51 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Human опережает по ценовому импульсу (+2745.8% против +701.4%). Кроме того, у Human существенно глубже пул ликвидности ($152.5K против $68.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Human.",
+  "updated_at": "2026-10-05 17:14 UTC"
 }

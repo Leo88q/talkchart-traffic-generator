@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/AGENTCAT_+261.png",
+  "title": "TalkChart: AGENTCAT (+260.6%) — Solana On-Chain Radar",
+  "description": "AGENTCAT разрывает: +260.6% за 24ч. ускорение в последнем часе. покупатели доминируют (85% сделок за час). пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $744.80 (143× медианы, 0ч назад). нетто китов за сутки −$1.7K.\n\nОбъём: $10.26M · Ликвидность: $537.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп AGENTCAT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CZJfrAmMs5Cz4H22PWzfqTJu5FkP7Q2Vvx1oPVL9pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HyLTPacbYR4V8yQw5bbWwAETZkjcsRw9xzCbayMnU45o"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-05
-1. HIGGS +3165.9% — HIGGS разрывает: +3165.9% за 24ч. объём $17.49M больше капы в 10.6× — бумага в огне
-2. Ash +1717.6% — Ash разрывает: +1717.6% за 24ч. давление продаж нарастает
-3. Human +1702.9% — Human разрывает: +1702.9% за 24ч. объём $19.67M больше капы в 22.3× — бумага в огне
-4. SWAP +594.5% — SWAP разрывает: +594.5% за 24ч. покупатели доминируют (63% сделок за час)
-5. EGO +224.3% — EGO разрывает: +224.3% за 24ч. объём $7.48M больше капы в 48.7× — бумага в огне
+1. Human +2745.8% — Human разрывает: +2745.8% за 24ч. объём $22.11M больше капы в 15.9× — бумага в огне
+2. SM +701.4% — SM разрывает: +701.4% за 24ч. объём $6.11M больше капы в 15.1× — бумага в огне
+3. SWAP +426.2% — SWAP разрывает: +426.2% за 24ч. давление продаж нарастает
+4. AGENTCAT +260.6% — AGENTCAT разрывает: +260.6% за 24ч. ускорение в последнем часе
+5. swordcat +185.6% — swordcat разрывает: +185.6% за 24ч. объём $2.85M больше капы в 1.5× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/BFrSZakeqNzVtM3EFhroo4eRhagmmWN8BRntiQKFH6Ru.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/FB2Dw7CBcc2D1hKyf21kXKexESQFvsBNTVDjaUoGMRws.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

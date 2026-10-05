@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "HyLTPacbYR4V8yQw5bbWwAETZkjcsRw9xzCbayMnU45o",
+    "name": "AGENTCAT / SOL",
+    "base_symbol": "AGENTCAT",
+    "base_name": "AGENTCAT",
+    "base_address": "CZJfrAmMs5Cz4H22PWzfqTJu5FkP7Q2Vvx1oPVL9pump",
+    "dex": "pumpswap",
+    "price_usd": 0.028447149148071095,
+    "created_at": "2026-10-03T22:52:57Z",
+    "fdv_usd": 28134041.4508152,
+    "reserve_usd": 537351.5454,
+    "volume_h24": 10261962.9056739,
+    "change": {
+      "h1": 4.571,
+      "h6": 33.123,
+      "h24": 260.572
+    },
+    "tx_h1": {
+      "buys": 11776,
+      "sells": 2038
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 744.8,
+        "mult": 142.7,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "DEbXCqPn"
+      },
+      {
+        "kind": "sell",
+        "usd": 526.73,
+        "mult": 100.9,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "9Y7S749s"
+      },
+      {
+        "kind": "buy",
+        "usd": 491.4,
+        "mult": 94.1,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "GC4v7pXq"
+      },
+      {
+        "kind": "sell",
+        "usd": 462.6,
+        "mult": 88.6,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AxWLk3h7"
+      },
+      {
+        "kind": "sell",
+        "usd": 446.57,
+        "mult": 85.5,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "GVfGNf9b"
+      }
+    ],
+    "first_seen": "2026-10-05T17:14:04+00:00",
+    "last_seen": "2026-10-05T17:14:04+00:00"
+  },
+  "narrative": "AGENTCAT разрывает: +260.6% за 24ч. ускорение в последнем часе. покупатели доминируют (85% сделок за час). пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $744.80 (143× медианы, 0ч назад). нетто китов за сутки −$1.7K.",
+  "flags": [
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $744.80 (143× медианы). Нетто-поток китов: $-1.7K.",
+  "updated_at": "2026-10-05T17:14:04Z"
+}
