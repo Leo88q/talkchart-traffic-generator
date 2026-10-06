@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-06T01:22:29+00:00",
+ "generated_at": "2026-10-06T11:22:32+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-06/BACKERS.mp4",
-   "latest_file": "videos/latest/BACKERS.mp4",
-   "symbol": "BACKERS",
-   "chg_h24": 707.628
+   "file": "videos/2026-10-06/darwin.mp4",
+   "latest_file": "videos/latest/darwin.mp4",
+   "symbol": "darwin",
+   "chg_h24": 1683.68
   },
   {
-   "file": "videos/2026-10-06/SM.mp4",
-   "latest_file": "videos/latest/SM.mp4",
-   "symbol": "SM",
-   "chg_h24": 395.123
+   "file": "videos/2026-10-06/phubber.mp4",
+   "latest_file": "videos/latest/phubber.mp4",
+   "symbol": "phubber",
+   "chg_h24": 1235.22
   },
   {
-   "file": "videos/2026-10-06/HIGGS.mp4",
-   "latest_file": "videos/latest/HIGGS.mp4",
-   "symbol": "HIGGS",
-   "chg_h24": 240.774
+   "file": "videos/2026-10-06/PLAGUE.mp4",
+   "latest_file": "videos/latest/PLAGUE.mp4",
+   "symbol": "PLAGUE",
+   "chg_h24": 261.054
   }
  ]
 }

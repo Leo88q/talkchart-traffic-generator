@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/darwin_+1684.png",
+  "title": "TalkChart: darwin (+1683.7%) — Solana On-Chain Radar",
+  "description": "darwin разрывает: +1683.7% за 24ч. давление продаж нарастает. объём $4.42M больше капы в 11.0× — бумага в огне. ликвидность тонкая ($67.3K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.3K (190× медианы, 0ч назад). нетто китов за сутки −$1.5K.\n\nОбъём: $4.42M · Ликвидность: $67.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп darwin (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5VnbrKp28Qs9CAH6PyZdxBNvLxZcbeX3YBsozgWnpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=53W7r4XUxCSnLGoAvj3nPiXnSzyWGZkYHVavYtLpyaXM"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

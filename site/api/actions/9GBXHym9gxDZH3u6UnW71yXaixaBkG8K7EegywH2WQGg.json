@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PLAGUE_+261.png",
+  "title": "TalkChart: PLAGUE (+261.1%) — Solana On-Chain Radar",
+  "description": "PLAGUE разрывает: +261.1% за 24ч. ускорение в последнем часе. объём $6.39M больше капы в 2.5× — бумага в огне. ликвидность тонкая ($162.1K) — движения будут резкими. пулу 3 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $3.5K (186× медианы, 0ч назад). нетто китов за сутки +$3.4K.\n\nОбъём: $6.39M · Ликвидность: $162.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PLAGUE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CscZaq5twomhUkvCY8Jdd1tge32L4Yj9FbkFFEZQpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=9GBXHym9gxDZH3u6UnW71yXaixaBkG8K7EegywH2WQGg"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

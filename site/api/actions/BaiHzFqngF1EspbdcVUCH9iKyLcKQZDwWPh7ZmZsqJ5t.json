@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/phubber_+1235.png",
+  "title": "TalkChart: phubber (+1235.2%) — Solana On-Chain Radar",
+  "description": "phubber разрывает: +1235.2% за 24ч. объём $6.74M больше капы в 11.0× — бумага в огне. ликвидность тонкая ($83.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $6.74M · Ликвидность: $83.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп phubber (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CBcjQNdtgb4SHwKDqKFxD3yPSk7pEMpKHQiMmZrgpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BaiHzFqngF1EspbdcVUCH9iKyLcKQZDwWPh7ZmZsqJ5t"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

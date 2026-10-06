@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "53W7r4XUxCSnLGoAvj3nPiXnSzyWGZkYHVavYtLpyaXM",
+    "name": "darwin / SOL",
+    "base_symbol": "darwin",
+    "base_name": "darwin",
+    "base_address": "5VnbrKp28Qs9CAH6PyZdxBNvLxZcbeX3YBsozgWnpump",
+    "dex": "pumpswap",
+    "price_usd": 0.00040823733486054314,
+    "created_at": "2026-10-04T01:45:59Z",
+    "fdv_usd": 402973.2662,
+    "reserve_usd": 67283.6013,
+    "volume_h24": 4424395.47808356,
+    "change": {
+      "h1": -11.497,
+      "h6": -30.616,
+      "h24": 1683.68
+    },
+    "tx_h1": {
+      "buys": 246,
+      "sells": 341
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 1296.91,
+        "mult": 190.2,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "DoLgKG4m"
+      },
+      {
+        "kind": "sell",
+        "usd": 818.72,
+        "mult": 120.1,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "5c55N7qJ"
+      },
+      {
+        "kind": "sell",
+        "usd": 628.86,
+        "mult": 92.2,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "96zw9yTT"
+      },
+      {
+        "kind": "buy",
+        "usd": 622.43,
+        "mult": 91.3,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "BVabVxQn"
+      },
+      {
+        "kind": "buy",
+        "usd": 606.18,
+        "mult": 88.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "9BUCsERa"
+      }
+    ],
+    "first_seen": "2026-10-06T11:22:16+00:00",
+    "last_seen": "2026-10-06T11:22:16+00:00"
+  },
+  "narrative": "darwin разрывает: +1683.7% за 24ч. давление продаж нарастает. объём $4.42M больше капы в 11.0× — бумага в огне. ликвидность тонкая ($67.3K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.3K (190× медианы, 0ч назад). нетто китов за сутки −$1.5K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $1.3K (190× медианы). Нетто-поток китов: $-1.5K.",
+  "updated_at": "2026-10-06T11:22:16Z"
+}

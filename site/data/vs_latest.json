@@ -1,17 +1,17 @@
 {
-  "slug": "backers-vs-sm",
+  "slug": "darwin-vs-phubber",
   "token1": {
-    "symbol": "BACKERS",
-    "change_24h": 707.628,
-    "address": "p977G14fUkDL3AoH97MAmqQ4V7Ecav5AZKhtPn21EHC",
-    "volume": 5855113.00138737
+    "symbol": "darwin",
+    "change_24h": 1683.68,
+    "address": "53W7r4XUxCSnLGoAvj3nPiXnSzyWGZkYHVavYtLpyaXM",
+    "volume": 4424395.47808356
   },
   "token2": {
-    "symbol": "SM",
-    "change_24h": 395.123,
-    "address": "bAfKrMEaiNsf1uZHd9g9KFd1fUtqqDnpWAtY19rziAd",
-    "volume": 6410178.05356629
+    "symbol": "phubber",
+    "change_24h": 1235.22,
+    "address": "BaiHzFqngF1EspbdcVUCH9iKyLcKQZDwWPh7ZmZsqJ5t",
+    "volume": 6736464.96264316
   },
-  "verdict": "По ончейн-метрикам TalkChart: BACKERS опережает по ценовому импульсу (+707.6% против +395.1%). Краткосрочный фаворит по совокупности факторов: BACKERS.",
-  "updated_at": "2026-10-06 01:22 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: darwin опережает по ценовому импульсу (+1683.7% против +1235.2%). Краткосрочный фаворит по совокупности факторов: darwin.",
+  "updated_at": "2026-10-06 11:22 UTC"
 }

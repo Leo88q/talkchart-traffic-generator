@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "9GBXHym9gxDZH3u6UnW71yXaixaBkG8K7EegywH2WQGg",
+    "name": "PLAGUE / SOL",
+    "base_symbol": "PLAGUE",
+    "base_name": "PLAGUE",
+    "base_address": "CscZaq5twomhUkvCY8Jdd1tge32L4Yj9FbkFFEZQpump",
+    "dex": "pumpswap",
+    "price_usd": 0.002543835051611664,
+    "created_at": "2026-10-03T11:35:44Z",
+    "fdv_usd": 2550033.78661718,
+    "reserve_usd": 162090.6676,
+    "volume_h24": 6389698.07263909,
+    "change": {
+      "h1": 45.097,
+      "h6": 63.848,
+      "h24": 261.054
+    },
+    "tx_h1": {
+      "buys": 1931,
+      "sells": 1606
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 3521.75,
+        "mult": 186.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "F7p3dFrj"
+      },
+      {
+        "kind": "sell",
+        "usd": 1345.4,
+        "mult": 71.1,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "buy",
+        "usd": 1235.35,
+        "mult": 65.3,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "buy",
+        "usd": 1182.75,
+        "mult": 62.5,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "5zZpE91f"
+      },
+      {
+        "kind": "sell",
+        "usd": 1158.97,
+        "mult": 61.3,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AYVoau7F"
+      }
+    ],
+    "first_seen": "2026-10-06T11:22:16+00:00",
+    "last_seen": "2026-10-06T11:22:16+00:00"
+  },
+  "narrative": "PLAGUE разрывает: +261.1% за 24ч. ускорение в последнем часе. объём $6.39M больше капы в 2.5× — бумага в огне. ликвидность тонкая ($162.1K) — движения будут резкими. пулу 3 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $3.5K (186× медианы, 0ч назад). нетто китов за сутки +$3.4K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $3.5K (186× медианы). Нетто-поток китов: +$3.4K.",
+  "updated_at": "2026-10-06T11:22:16Z"
+}

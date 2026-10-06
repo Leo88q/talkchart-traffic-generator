@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/POD_+183.png",
+  "title": "TalkChart: POD (+182.6%) — Solana On-Chain Radar",
+  "description": "POD разрывает: +182.6% за 24ч. ликвидность тонкая ($181.2K) — движения будут резкими. пулу 9 дн., история короткая. крупная сделка на фоне ленты: продал $2.6K (54× медианы, 1ч назад). нетто китов за сутки −$5.8K.\n\nОбъём: $973.9K · Ликвидность: $181.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп POD (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-F4K2SbLNgyz9gzNqT8bPeLpRkxy4oMA9twaffUDdZtB6"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4759SGgn3ypWtPHoBq65wCWa1t1tbdA5cwsKjoHuX39d"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

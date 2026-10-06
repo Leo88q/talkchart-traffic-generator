@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "4759SGgn3ypWtPHoBq65wCWa1t1tbdA5cwsKjoHuX39d",
+    "name": "POD / SOL",
+    "base_symbol": "POD",
+    "base_name": "POD",
+    "base_address": "F4K2SbLNgyz9gzNqT8bPeLpRkxy4oMA9twaffUDdZtB6",
+    "dex": "orca",
+    "price_usd": 0.0010004523944494186,
+    "created_at": "2026-09-27T16:45:21Z",
+    "fdv_usd": 1000452.394,
+    "reserve_usd": 181240.5563,
+    "volume_h24": 973919.489972797,
+    "change": {
+      "h1": -10.482,
+      "h6": 22.564,
+      "h24": 182.55
+    },
+    "tx_h1": {
+      "buys": 110,
+      "sells": 83
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 2583.9,
+        "mult": 54.3,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "9VcqB3yH"
+      },
+      {
+        "kind": "sell",
+        "usd": 1942.76,
+        "mult": 40.8,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "buy",
+        "usd": 1895.79,
+        "mult": 39.8,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "GtPNryo9"
+      },
+      {
+        "kind": "sell",
+        "usd": 1725.89,
+        "mult": 36.2,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "H8CVQcnP"
+      },
+      {
+        "kind": "sell",
+        "usd": 1420.8,
+        "mult": 29.8,
+        "whale": false,
+        "hours_ago": 0.8,
+        "addr8": "4HDNUgUE"
+      }
+    ],
+    "first_seen": "2026-10-06T11:22:16+00:00",
+    "last_seen": "2026-10-06T11:22:16+00:00"
+  },
+  "narrative": "POD разрывает: +182.6% за 24ч. ликвидность тонкая ($181.2K) — движения будут резкими. пулу 9 дн., история короткая. крупная сделка на фоне ленты: продал $2.6K (54× медианы, 1ч назад). нетто китов за сутки −$5.8K.",
+  "flags": [
+    "тонкая ликвидность",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $2.6K (54× медианы). Нетто-поток китов: $-5.8K.",
+  "updated_at": "2026-10-06T11:22:16Z"
+}
