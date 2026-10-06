@@ -1,17 +1,17 @@
 {
-  "slug": "human-vs-sm",
+  "slug": "backers-vs-sm",
   "token1": {
-    "symbol": "Human",
-    "change_24h": 2745.83,
-    "address": "FB2Dw7CBcc2D1hKyf21kXKexESQFvsBNTVDjaUoGMRws",
-    "volume": 22113522.2790178
+    "symbol": "BACKERS",
+    "change_24h": 707.628,
+    "address": "p977G14fUkDL3AoH97MAmqQ4V7Ecav5AZKhtPn21EHC",
+    "volume": 5855113.00138737
   },
   "token2": {
     "symbol": "SM",
-    "change_24h": 701.4,
+    "change_24h": 395.123,
     "address": "bAfKrMEaiNsf1uZHd9g9KFd1fUtqqDnpWAtY19rziAd",
-    "volume": 6113339.57194907
+    "volume": 6410178.05356629
   },
-  "verdict": "По ончейн-метрикам TalkChart: Human опережает по ценовому импульсу (+2745.8% против +701.4%). Кроме того, у Human существенно глубже пул ликвидности ($152.5K против $68.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Human.",
-  "updated_at": "2026-10-05 17:14 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: BACKERS опережает по ценовому импульсу (+707.6% против +395.1%). Краткосрочный фаворит по совокупности факторов: BACKERS.",
+  "updated_at": "2026-10-06 01:22 UTC"
 }
