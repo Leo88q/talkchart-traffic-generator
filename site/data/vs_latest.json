@@ -2,16 +2,16 @@
   "slug": "darwin-vs-phubber",
   "token1": {
     "symbol": "darwin",
-    "change_24h": 8714.832,
+    "change_24h": 6991.628,
     "address": "53W7r4XUxCSnLGoAvj3nPiXnSzyWGZkYHVavYtLpyaXM",
-    "volume": 5491607.45003098
+    "volume": 5826977.37173498
   },
   "token2": {
     "symbol": "phubber",
-    "change_24h": 1632.178,
+    "change_24h": 900.656,
     "address": "BaiHzFqngF1EspbdcVUCH9iKyLcKQZDwWPh7ZmZsqJ5t",
-    "volume": 7617781.66366769
+    "volume": 8630849.79969765
   },
-  "verdict": "По ончейн-метрикам TalkChart: darwin опережает по ценовому импульсу (+8714.8% против +1632.2%). Краткосрочный фаворит по совокупности факторов: darwin.",
-  "updated_at": "2026-10-06 18:29 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: darwin опережает по ценовому импульсу (+6991.6% против +900.7%). Краткосрочный фаворит по совокупности факторов: darwin.",
+  "updated_at": "2026-10-06 23:54 UTC"
 }
