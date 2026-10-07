@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GSI_+25.png",
+  "title": "TalkChart: GSI (+24.5%) — Solana On-Chain Radar",
+  "description": "GSI растёт на +24.5% за сутки. давление продаж нарастает. объём $34.6K больше капы в 1.9× — бумага в огне. ликвидность тонкая ($11.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $34.6K · Ликвидность: $11.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GSI (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-BrAQDWn9zqTXoyWBGkAr7ovCb6PQCRF57JqUQyuYoSC4"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5PCLbLXtPFA5pgMV5xNz5cXJ623oXKoRqFTBeXihnWdH"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

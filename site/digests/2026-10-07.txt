@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-07
-1. TWEETCRAFT +2485.5% — TWEETCRAFT разрывает: +2485.5% за 24ч. давление продаж нарастает
-2. CLAUDIA +1030.9% — CLAUDIA разрывает: +1030.9% за 24ч. давление продаж нарастает
-3. SI276 +473.3% — SI276 разрывает: +473.3% за 24ч. объём $1.05M больше капы в 3.6× — бумага в огне
-4. GOMO +201.6% — GOMO разрывает: +201.6% за 24ч. ликвидность тонкая ($159.1K) — движения будут резкими
-5. AUTON +171.7% — AUTON разрывает: +171.7% за 24ч. объём $12.27M больше капы в 3.6× — бумага в огне
+1. swordinu +2232.9% — swordinu разрывает: +2232.9% за 24ч. покупатели доминируют (72% сделок за час)
+2. CLAUDIA +550.2% — CLAUDIA разрывает: +550.2% за 24ч. объём $6.46M больше капы в 19.7× — бумага в огне
+3. Frank +209.2% — Frank разрывает: +209.2% за 24ч. ускорение в последнем часе
+4. SI276 +153.2% — SI276 разрывает: +153.2% за 24ч. объём $725.3K больше капы в 1.9× — бумага в огне
+5. TWEETCRAFT +90.0% — TWEETCRAFT разрывает: +90.0% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/3NBq9zynLPDQQDvYf8xiMbWywQfKZD7m7fyprY524efq.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/69fyvgoTXQxBdv7Tazd99m1vycwoS3Pyjkj8RRFFzSzJ.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

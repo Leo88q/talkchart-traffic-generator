@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/swordinu_+2233.png",
+  "title": "TalkChart: swordinu (+2232.9%) — Solana On-Chain Radar",
+  "description": "swordinu разрывает: +2232.9% за 24ч. покупатели доминируют (72% сделок за час). пулу 1 дн. — чистая рулетка.\n\nОбъём: $8.06M · Ликвидность: $473.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп swordinu (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2BVfJ4AHMvHdKtEZNHaBr48dQzTfZvYkjaaxbM6bpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=69fyvgoTXQxBdv7Tazd99m1vycwoS3Pyjkj8RRFFzSzJ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

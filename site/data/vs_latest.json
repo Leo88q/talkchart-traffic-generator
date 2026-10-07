@@ -1,17 +1,17 @@
 {
-  "slug": "tweetcraft-vs-claudia",
+  "slug": "swordinu-vs-claudia",
   "token1": {
-    "symbol": "TWEETCRAFT",
-    "change_24h": 2485.487,
-    "address": "3NBq9zynLPDQQDvYf8xiMbWywQfKZD7m7fyprY524efq",
-    "volume": 14144952.9894489
+    "symbol": "swordinu",
+    "change_24h": 2232.914,
+    "address": "69fyvgoTXQxBdv7Tazd99m1vycwoS3Pyjkj8RRFFzSzJ",
+    "volume": 8058158.48801062
   },
   "token2": {
     "symbol": "CLAUDIA",
-    "change_24h": 1030.899,
+    "change_24h": 550.202,
     "address": "Fe7bpDYCs74GqiCUF14HwgUMToPKV1d9mDYVX5BTohFr",
-    "volume": 6145709.56089992
+    "volume": 6461231.29876008
   },
-  "verdict": "По ончейн-метрикам TalkChart: TWEETCRAFT опережает по ценовому импульсу (+2485.5% против +1030.9%). Краткосрочный фаворит по совокупности факторов: TWEETCRAFT.",
-  "updated_at": "2026-10-07 15:38 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: swordinu опережает по ценовому импульсу (+2232.9% против +550.2%). Кроме того, у swordinu существенно глубже пул ликвидности ($473.7K против $61.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: swordinu.",
+  "updated_at": "2026-10-07 21:24 UTC"
 }
