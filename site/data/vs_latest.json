@@ -1,17 +1,17 @@
 {
-  "slug": "tweetcraft-vs-si276",
+  "slug": "tweetcraft-vs-claudia",
   "token1": {
     "symbol": "TWEETCRAFT",
-    "change_24h": 1979.076,
+    "change_24h": 2485.487,
     "address": "3NBq9zynLPDQQDvYf8xiMbWywQfKZD7m7fyprY524efq",
-    "volume": 11037309.5700994
+    "volume": 14144952.9894489
   },
   "token2": {
-    "symbol": "SI276",
-    "change_24h": 504.473,
-    "address": "12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
-    "volume": 853034.411168399
+    "symbol": "CLAUDIA",
+    "change_24h": 1030.899,
+    "address": "Fe7bpDYCs74GqiCUF14HwgUMToPKV1d9mDYVX5BTohFr",
+    "volume": 6145709.56089992
   },
-  "verdict": "По ончейн-метрикам TalkChart: TWEETCRAFT опережает по ценовому импульсу (+1979.1% против +504.5%). Кроме того, у TWEETCRAFT существенно глубже пул ликвидности ($117.8K против $50.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: TWEETCRAFT.",
-  "updated_at": "2026-10-07 06:10 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: TWEETCRAFT опережает по ценовому импульсу (+2485.5% против +1030.9%). Краткосрочный фаворит по совокупности факторов: TWEETCRAFT.",
+  "updated_at": "2026-10-07 15:38 UTC"
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GOMO_+202.png",
+  "title": "TalkChart: GOMO (+201.6%) — Solana On-Chain Radar",
+  "description": "GOMO разрывает: +201.6% за 24ч. ликвидность тонкая ($159.1K) — движения будут резкими. пулу 3 дн. — чистая рулетка.\n\nОбъём: $2.42M · Ликвидность: $159.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GOMO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5a7QurJLARt146JajJYPe5nh6vLyFpN2QrHUSLqbsCZy"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-07T06:10:04+00:00",
+ "generated_at": "2026-10-07T15:38:33+00:00",
  "videos": [
   {
    "file": "videos/2026-10-07/TWEETCRAFT.mp4",
    "latest_file": "videos/latest/TWEETCRAFT.mp4",
    "symbol": "TWEETCRAFT",
-   "chg_h24": 1979.076
+   "chg_h24": 2485.487
+  },
+  {
+   "file": "videos/2026-10-07/CLAUDIA.mp4",
+   "latest_file": "videos/latest/CLAUDIA.mp4",
+   "symbol": "CLAUDIA",
+   "chg_h24": 1030.899
   },
   {
    "file": "videos/2026-10-07/SI276.mp4",
    "latest_file": "videos/latest/SI276.mp4",
    "symbol": "SI276",
-   "chg_h24": 504.473
-  },
-  {
-   "file": "videos/2026-10-07/AUTON.mp4",
-   "latest_file": "videos/latest/AUTON.mp4",
-   "symbol": "AUTON",
-   "chg_h24": 285.722
+   "chg_h24": 473.336
   }
  ]
 }

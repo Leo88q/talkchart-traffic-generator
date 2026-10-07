@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ORCA_+4.png",
+  "title": "TalkChart: ORCA (+4.1%) — Solana On-Chain Radar",
+  "description": "ORCA в боковике: +4.1% за сутки. давление продаж нарастает.\n\nОбъём: $28.74M · Ликвидность: $1.53M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ORCA (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Hxw77h9fEx598afiiZunwHaX3vYu9UskDk9EpPNZp1mG"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
