@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "3NBq9zynLPDQQDvYf8xiMbWywQfKZD7m7fyprY524efq",
+    "name": "TWEETCRAFT / SOL",
+    "base_symbol": "TWEETCRAFT",
+    "base_name": "TWEETCRAFT",
+    "base_address": "HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy",
+    "dex": "pumpswap",
+    "price_usd": 0.0010327337110086615,
+    "created_at": "2026-10-06T20:27:40Z",
+    "fdv_usd": 1026332.55717206,
+    "reserve_usd": 117830.7282,
+    "volume_h24": 11037309.5700994,
+    "change": {
+      "h1": -12.8,
+      "h6": -5.424,
+      "h24": 1979.076
+    },
+    "tx_h1": {
+      "buys": 609,
+      "sells": 586
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 2425.69,
+        "mult": 110.5,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "8rtyuY3X"
+      },
+      {
+        "kind": "sell",
+        "usd": 1160.87,
+        "mult": 52.9,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "AzWnNS9i"
+      },
+      {
+        "kind": "sell",
+        "usd": 1132.01,
+        "mult": 51.6,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "AzWnNS9i"
+      },
+      {
+        "kind": "sell",
+        "usd": 909.28,
+        "mult": 41.4,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "APs5vJ9x"
+      },
+      {
+        "kind": "buy",
+        "usd": 895.96,
+        "mult": 40.8,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "922M9fBT"
+      }
+    ],
+    "first_seen": "2026-10-07T06:09:50+00:00",
+    "last_seen": "2026-10-07T06:09:50+00:00"
+  },
+  "narrative": "TWEETCRAFT разрывает: +1979.1% за 24ч. давление продаж нарастает. объём $11.04M больше капы в 10.8× — бумага в огне. ликвидность тонкая ($117.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.4K (110× медианы, 0ч назад). нетто китов за сутки −$4.7K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $2.4K (110× медианы). Нетто-поток китов: $-4.7K.",
+  "updated_at": "2026-10-07T06:09:51Z"
+}

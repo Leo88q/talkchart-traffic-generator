@@ -1,17 +1,17 @@
 {
-  "slug": "darwin-vs-phubber",
+  "slug": "tweetcraft-vs-si276",
   "token1": {
-    "symbol": "darwin",
-    "change_24h": 6991.628,
-    "address": "53W7r4XUxCSnLGoAvj3nPiXnSzyWGZkYHVavYtLpyaXM",
-    "volume": 5826977.37173498
+    "symbol": "TWEETCRAFT",
+    "change_24h": 1979.076,
+    "address": "3NBq9zynLPDQQDvYf8xiMbWywQfKZD7m7fyprY524efq",
+    "volume": 11037309.5700994
   },
   "token2": {
-    "symbol": "phubber",
-    "change_24h": 900.656,
-    "address": "BaiHzFqngF1EspbdcVUCH9iKyLcKQZDwWPh7ZmZsqJ5t",
-    "volume": 8630849.79969765
+    "symbol": "SI276",
+    "change_24h": 504.473,
+    "address": "12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
+    "volume": 853034.411168399
   },
-  "verdict": "По ончейн-метрикам TalkChart: darwin опережает по ценовому импульсу (+6991.6% против +900.7%). Краткосрочный фаворит по совокупности факторов: darwin.",
-  "updated_at": "2026-10-06 23:54 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: TWEETCRAFT опережает по ценовому импульсу (+1979.1% против +504.5%). Кроме того, у TWEETCRAFT существенно глубже пул ликвидности ($117.8K против $50.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: TWEETCRAFT.",
+  "updated_at": "2026-10-07 06:10 UTC"
 }

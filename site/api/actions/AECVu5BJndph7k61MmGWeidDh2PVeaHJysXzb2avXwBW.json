@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/AUTON_+286.png",
+  "title": "TalkChart: AUTON (+285.7%) — Solana On-Chain Radar",
+  "description": "AUTON разрывает: +285.7% за 24ч. объём $10.54M больше капы в 2.2× — бумага в огне. пулу 0 дн. — чистая рулетка.\n\nОбъём: $10.54M · Ликвидность: $488.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп AUTON (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-39ahtL8ynzE4amH26J29C93PA5172V3ft9UuUcqQS8fz"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AECVu5BJndph7k61MmGWeidDh2PVeaHJysXzb2avXwBW"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

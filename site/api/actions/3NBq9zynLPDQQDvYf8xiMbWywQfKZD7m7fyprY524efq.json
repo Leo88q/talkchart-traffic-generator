@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/TWEETCRAFT_+1979.png",
+  "title": "TalkChart: TWEETCRAFT (+1979.1%) — Solana On-Chain Radar",
+  "description": "TWEETCRAFT разрывает: +1979.1% за 24ч. давление продаж нарастает. объём $11.04M больше капы в 10.8× — бумага в огне. ликвидность тонкая ($117.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.4K (110× медианы, 0ч назад). нетто китов за сутки −$4.7K.\n\nОбъём: $11.04M · Ликвидность: $117.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп TWEETCRAFT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3NBq9zynLPDQQDvYf8xiMbWywQfKZD7m7fyprY524efq"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
