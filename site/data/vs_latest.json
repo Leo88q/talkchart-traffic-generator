@@ -1,17 +1,17 @@
 {
-  "slug": "swordinu-vs-claudia",
+  "slug": "sharktank-vs-frank",
   "token1": {
-    "symbol": "swordinu",
-    "change_24h": 2232.914,
-    "address": "69fyvgoTXQxBdv7Tazd99m1vycwoS3Pyjkj8RRFFzSzJ",
-    "volume": 8058158.48801062
+    "symbol": "SharkTank",
+    "change_24h": 1068.644,
+    "address": "65GHmCbyRME3XwKjTqDB7pMJw2gvj2LZryfWKczoAqFR",
+    "volume": 4036399.27940561
   },
   "token2": {
-    "symbol": "CLAUDIA",
-    "change_24h": 550.202,
-    "address": "Fe7bpDYCs74GqiCUF14HwgUMToPKV1d9mDYVX5BTohFr",
-    "volume": 6461231.29876008
+    "symbol": "Frank",
+    "change_24h": 255.66,
+    "address": "745ATaSSWxvry5qt1XVv9eXuG884hDvNJfvA2o82dNBi",
+    "volume": 1498446.71244172
   },
-  "verdict": "По ончейн-метрикам TalkChart: swordinu опережает по ценовому импульсу (+2232.9% против +550.2%). Кроме того, у swordinu существенно глубже пул ликвидности ($473.7K против $61.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: swordinu.",
-  "updated_at": "2026-10-07 21:24 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: SharkTank опережает по ценовому импульсу (+1068.6% против +255.7%). Краткосрочный фаворит по совокупности факторов: SharkTank.",
+  "updated_at": "2026-10-08 06:14 UTC"
 }
