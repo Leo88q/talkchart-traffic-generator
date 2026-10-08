@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GIF_-38.png",
+  "title": "TalkChart: GIF (-38.1%) — Solana On-Chain Radar",
+  "description": "GIF в обвале: -38.1% за 24ч. продают в рынок (67% сделок за час). объём $1.30M больше капы в 44.8× — бумага в огне. ликвидность тонкая ($14.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.30M · Ликвидность: $14.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GIF (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-DZaQRdmPHNaqNsMVqRU8P4q5f2mErab4GipPghowFvaz"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=ECwdqUHEQBDCcBLEcTE2drfZqxfcNoMRE8Gzdb8QS52r"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

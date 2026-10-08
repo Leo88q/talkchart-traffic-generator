@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh",
+    "name": "CYBERLEEK / SOL",
+    "base_symbol": "CYBERLEEK",
+    "base_name": "CYBERLEEK",
+    "base_address": "ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg",
+    "dex": "raydium",
+    "price_usd": 0.0024066408399395075,
+    "created_at": "2026-08-15T21:07:26Z",
+    "fdv_usd": 1756594.14165204,
+    "reserve_usd": 789505.7728,
+    "volume_h24": 1812886.83543718,
+    "change": {
+      "h1": -0.24,
+      "h6": 16.624,
+      "h24": 78.081
+    },
+    "tx_h1": {
+      "buys": 171,
+      "sells": 155
+    },
+    "first_seen": "2026-10-08T21:24:03+00:00",
+    "last_seen": "2026-10-08T21:24:03+00:00"
+  },
+  "narrative": "CYBERLEEK разрывает: +78.1% за 24ч.",
+  "flags": [
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-08T21:24:04Z"
+}

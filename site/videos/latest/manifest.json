@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-08T15:44:18+00:00",
+ "generated_at": "2026-10-08T21:24:12+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-08/AnyPS5.mp4",
-   "latest_file": "videos/latest/AnyPS5.mp4",
-   "symbol": "AnyPS5",
-   "chg_h24": 3800.877
+   "file": "videos/2026-10-08/BORDR.mp4",
+   "latest_file": "videos/latest/BORDR.mp4",
+   "symbol": "BORDR",
+   "chg_h24": 906.253
   },
   {
    "file": "videos/2026-10-08/ZKDARK.mp4",
    "latest_file": "videos/latest/ZKDARK.mp4",
    "symbol": "ZKDARK",
-   "chg_h24": 1655.697
+   "chg_h24": 679.906
   },
   {
-   "file": "videos/2026-10-08/BORDR.mp4",
-   "latest_file": "videos/latest/BORDR.mp4",
-   "symbol": "BORDR",
-   "chg_h24": 901.871
+   "file": "videos/2026-10-08/SharkTank.mp4",
+   "latest_file": "videos/latest/SharkTank.mp4",
+   "symbol": "SharkTank",
+   "chg_h24": 254.664
   }
  ]
 }

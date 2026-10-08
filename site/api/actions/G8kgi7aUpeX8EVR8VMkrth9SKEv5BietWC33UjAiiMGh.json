@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CYBERLEEK_+78.png",
+  "title": "TalkChart: CYBERLEEK (+78.1%) — Solana On-Chain Radar",
+  "description": "CYBERLEEK разрывает: +78.1% за 24ч.\n\nОбъём: $1.81M · Ликвидность: $789.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CYBERLEEK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

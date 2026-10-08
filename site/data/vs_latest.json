@@ -1,17 +1,17 @@
 {
-  "slug": "anyps5-vs-zkdark",
+  "slug": "bordr-vs-zkdark",
   "token1": {
-    "symbol": "AnyPS5",
-    "change_24h": 3800.877,
-    "address": "GV5G2ZGz2vKzhXcSoUxgpFbLYanNgSRth1c3NxjWbbYk",
-    "volume": 3059221.37211828
+    "symbol": "BORDR",
+    "change_24h": 906.253,
+    "address": "4xp7kN4nVt19caq4kM629vL8vJEqpSFVdZAh27wvYPh8",
+    "volume": 5348951.48259839
   },
   "token2": {
     "symbol": "ZKDARK",
-    "change_24h": 1655.697,
+    "change_24h": 679.906,
     "address": "CR5dTgvTddGAqDjP8dGHTL51N6PKRaXqxFBp9FQ5PrKn",
-    "volume": 1589421.36698497
+    "volume": 1858755.83904406
   },
-  "verdict": "По ончейн-метрикам TalkChart: AnyPS5 опережает по ценовому импульсу (+3800.9% против +1655.7%). Кроме того, у ZKDARK более надёжная ликвидность ($104.7K против $48.9K). Краткосрочный фаворит по совокупности факторов: AnyPS5.",
-  "updated_at": "2026-10-08 15:44 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: BORDR опережает по ценовому импульсу (+906.3% против +679.9%). Краткосрочный фаворит по совокупности факторов: BORDR.",
+  "updated_at": "2026-10-08 21:24 UTC"
 }
