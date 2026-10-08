@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SENTS_+406.png",
+  "title": "TalkChart: SENTS (+406.3%) — Solana On-Chain Radar",
+  "description": "SENTS разрывает: +406.3% за 24ч. объём $6.60M больше капы в 26.7× — бумага в огне. ликвидность тонкая ($52.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $6.60M · Ликвидность: $52.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SENTS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-BLXhcFAtJpCM3HCbdzvr8F3JwGqdMGkAoLXuRmXLpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=A7nWJWGUjNyWbVNPA5RrvLoF37j3ovdh8DKdgxYefcdk"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

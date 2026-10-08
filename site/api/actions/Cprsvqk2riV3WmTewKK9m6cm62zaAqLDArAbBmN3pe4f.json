@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DARK_+97.png",
+  "title": "TalkChart: DARK (+97.0%) — Solana On-Chain Radar",
+  "description": "DARK разрывает: +97.0% за 24ч. объём $7.46M больше капы в 1.6× — бумага в огне. ликвидность тонкая ($244.4K) — движения будут резкими. пулу 7 дн., история короткая.\n\nОбъём: $7.46M · Ликвидность: $244.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DARK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7KEPApdbBMByrmqihz3bht2uMhFQcatjfSFQCKq66kH3"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Cprsvqk2riV3WmTewKK9m6cm62zaAqLDArAbBmN3pe4f"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

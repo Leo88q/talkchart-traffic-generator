@@ -1,17 +1,17 @@
 {
-  "slug": "sharktank-vs-frank",
+  "slug": "anyps5-vs-zkdark",
   "token1": {
-    "symbol": "SharkTank",
-    "change_24h": 1068.644,
-    "address": "65GHmCbyRME3XwKjTqDB7pMJw2gvj2LZryfWKczoAqFR",
-    "volume": 4036399.27940561
+    "symbol": "AnyPS5",
+    "change_24h": 3800.877,
+    "address": "GV5G2ZGz2vKzhXcSoUxgpFbLYanNgSRth1c3NxjWbbYk",
+    "volume": 3059221.37211828
   },
   "token2": {
-    "symbol": "Frank",
-    "change_24h": 255.66,
-    "address": "745ATaSSWxvry5qt1XVv9eXuG884hDvNJfvA2o82dNBi",
-    "volume": 1498446.71244172
+    "symbol": "ZKDARK",
+    "change_24h": 1655.697,
+    "address": "CR5dTgvTddGAqDjP8dGHTL51N6PKRaXqxFBp9FQ5PrKn",
+    "volume": 1589421.36698497
   },
-  "verdict": "По ончейн-метрикам TalkChart: SharkTank опережает по ценовому импульсу (+1068.6% против +255.7%). Краткосрочный фаворит по совокупности факторов: SharkTank.",
-  "updated_at": "2026-10-08 06:14 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: AnyPS5 опережает по ценовому импульсу (+3800.9% против +1655.7%). Кроме того, у ZKDARK более надёжная ликвидность ($104.7K против $48.9K). Краткосрочный фаворит по совокупности факторов: AnyPS5.",
+  "updated_at": "2026-10-08 15:44 UTC"
 }

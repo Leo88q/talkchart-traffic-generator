@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MET_+34.png",
+  "title": "TalkChart: MET (+34.0%) — Solana On-Chain Radar",
+  "description": "MET разрывает: +34.0% за 24ч.\n\nОбъём: $9.92M · Ликвидность: $1.94M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MET (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AsSyvUnbfaZJPRrNh3kUuvZTeHKoMVWEoHz86f4Q5D9x"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

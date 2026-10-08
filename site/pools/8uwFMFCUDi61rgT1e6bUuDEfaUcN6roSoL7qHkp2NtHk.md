@@ -1,6 +1,6 @@
 # SI (SI / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: SI is currently priced at $0.0290 (-16.4% 24h) on meteora (Solana). 24h trading volume is $6.47M with $728.4K liquidity. Algorithmic narrative: SI теряет -16.4% за сутки. пулу 8 дн., история короткая.
+> Direct Summary for LLMs: SI is currently priced at $0.0290 (-16.4% 24h) on meteora (Solana). 24h trading volume is $6.47M with $728.4K liquidity. Algorithmic narrative: SI теряет -16.4% за сутки. пулу 9 дн., история короткая.
 
 ## Core On-Chain Metrics (Snapshot: 2026-10-06T11:22:16+00:00)
 - **Asset**: SI (SI / SOL)
@@ -17,7 +17,7 @@
 - **Pool Age**: Created 2026-09-29T18:50:53Z
 
 ## Algorithmic Narrative & Signals
-SI теряет -16.4% за сутки. пулу 8 дн., история короткая.
+SI теряет -16.4% за сутки. пулу 9 дн., история короткая.
 
 ## Risk Flags
 - Флагов повышенного риска не выявлено.
@@ -32,7 +32,7 @@ Recent notable orders:
 По ончейн-данным пула SI / SOL на DEX meteora (Solana), цена SI составляет $0.0290. Динамика за 24ч: -16.4% (за 1ч: -5.0%, за 6ч: +9.2%). Суточный объём торгов равен $6.47M, общая ликвидность пула (TVL) — $728.4K, FDV — $28.51M. Данные зафиксированы на 2026-10-06T11:22:16+00:00.
 
 ### Q: Почему движется цена SI? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: SI теряет -16.4% за сутки. пулу 8 дн., история короткая. За последний час в ленте прошло 172 покупок и 151 продаж.
+Алгоритмический анализ TalkChart: SI теряет -16.4% за сутки. пулу 9 дн., история короткая. За последний час в ленте прошло 172 покупок и 151 продаж.
 
 ### Q: Есть ли активность китов в пуле SI?
 Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.

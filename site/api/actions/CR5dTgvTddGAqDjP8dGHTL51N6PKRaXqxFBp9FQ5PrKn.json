@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ZKDARK_+1656.png",
+  "title": "TalkChart: ZKDARK (+1655.7%) — Solana On-Chain Radar",
+  "description": "ZKDARK разрывает: +1655.7% за 24ч. ускорение в последнем часе. покупатели доминируют (66% сделок за час). ликвидность тонкая ($104.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.59M · Ликвидность: $104.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ZKDARK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HXqxTwCzREUXNK4CbNDgNEUEh2jLzFKdC4tvTuojpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CR5dTgvTddGAqDjP8dGHTL51N6PKRaXqxFBp9FQ5PrKn"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
