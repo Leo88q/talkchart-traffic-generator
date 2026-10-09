@@ -2,16 +2,16 @@
   "slug": "qi-vs-heehaw",
   "token1": {
     "symbol": "QI",
-    "change_24h": 2054.451,
+    "change_24h": 6995.148,
     "address": "cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn",
-    "volume": 3732343.26506951
+    "volume": 6937040.66256961
   },
   "token2": {
     "symbol": "HeeHaw",
-    "change_24h": 2033.557,
+    "change_24h": 1231.456,
     "address": "6QyYdc6jgeKnfP1FWhiexMYq3JQ3sidSYoubjWUTo3rm",
-    "volume": 5622806.71586639
+    "volume": 6272249.32742051
   },
-  "verdict": "По ончейн-метрикам TalkChart: QI опережает по ценовому импульсу (+2054.5% против +2033.6%). Кроме того, у HeeHaw более надёжная ликвидность ($233.8K против $90.2K). Краткосрочный фаворит по совокупности факторов: HeeHaw.",
-  "updated_at": "2026-10-09 15:23 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: QI опережает по ценовому импульсу (+6995.1% против +1231.5%). Краткосрочный фаворит по совокупности факторов: QI.",
+  "updated_at": "2026-10-09 21:01 UTC"
 }

@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-09T15:23:31+00:00",
+ "generated_at": "2026-10-09T21:01:15+00:00",
  "videos": [
   {
    "file": "videos/2026-10-09/QI.mp4",
    "latest_file": "videos/latest/QI.mp4",
    "symbol": "QI",
-   "chg_h24": 2054.451
+   "chg_h24": 6995.148
   },
   {
    "file": "videos/2026-10-09/HeeHaw.mp4",
    "latest_file": "videos/latest/HeeHaw.mp4",
    "symbol": "HeeHaw",
-   "chg_h24": 2033.557
+   "chg_h24": 1231.456
   },
   {
-   "file": "videos/2026-10-09/TikTok.mp4",
-   "latest_file": "videos/latest/TikTok.mp4",
-   "symbol": "TikTok",
-   "chg_h24": 1101.646
+   "file": "videos/2026-10-09/PQC.mp4",
+   "latest_file": "videos/latest/PQC.mp4",
+   "symbol": "PQC",
+   "chg_h24": 352.966
   }
  ]
 }
