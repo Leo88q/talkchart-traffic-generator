@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-09
-1. HeeHaw +2365.4% — HeeHaw разрывает: +2365.4% за 24ч. объём $4.35M больше капы в 1.6× — бумага в огне.
-2. TikTok +791.5% — TikTok разрывает: +791.5% за 24ч. давление продаж нарастает
-3. PQC +472.9% — PQC разрывает: +472.9% за 24ч. объём $4.80M больше капы в 4.6× — бумага в огне
-4. SI276 +259.6% — SI276 разрывает: +259.6% за 24ч. ускорение в последнем часе
-5. WhiteWhale +210.5% — WhiteWhale разрывает: +210.5% за 24ч. покупатели доминируют (65% сделок за час)
+1. QI +2054.5% — QI разрывает: +2054.5% за 24ч. объём $3.73M больше капы в 4.4× — бумага в огне
+2. HeeHaw +2033.6% — HeeHaw разрывает: +2033.6% за 24ч. объём $5.62M больше капы в 2.4× — бумага в огне
+3. TikTok +1101.6% — TikTok разрывает: +1101.6% за 24ч. объём $6.86M больше капы в 14.6× — бумага в огне
+4. open/acc +476.6% — open/acc разрывает: +476.6% за 24ч. ускорение в последнем часе
+5. PQC +330.9% — PQC разрывает: +330.9% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6QyYdc6jgeKnfP1FWhiexMYq3JQ3sidSYoubjWUTo3rm.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

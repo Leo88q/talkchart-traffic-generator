@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/QI_+2054.png",
+  "title": "TalkChart: QI (+2054.5%) — Solana On-Chain Radar",
+  "description": "QI разрывает: +2054.5% за 24ч. объём $3.73M больше капы в 4.4× — бумага в огне. ликвидность тонкая ($90.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $3.0K (157× медианы, 0ч назад). нетто китов за сутки −$3.2K.\n\nОбъём: $3.73M · Ликвидность: $90.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп QI (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

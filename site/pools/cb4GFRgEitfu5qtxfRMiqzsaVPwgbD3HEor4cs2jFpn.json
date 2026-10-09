@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn",
+    "name": "QI / SOL",
+    "base_symbol": "QI",
+    "base_name": "QI",
+    "base_address": "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ",
+    "dex": "pumpswap",
+    "price_usd": 0.0008375534811712327,
+    "created_at": "2026-10-09T04:48:07Z",
+    "fdv_usd": 842352.1943,
+    "reserve_usd": 90168.8271,
+    "volume_h24": 3732343.26506951,
+    "change": {
+      "h1": -14.167,
+      "h6": 7.33,
+      "h24": 2054.451
+    },
+    "tx_h1": {
+      "buys": 1571,
+      "sells": 1319
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 3045.6,
+        "mult": 156.6,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "284f91FP"
+      },
+      {
+        "kind": "sell",
+        "usd": 1676.56,
+        "mult": 86.2,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "4cw4vwWW"
+      },
+      {
+        "kind": "buy",
+        "usd": 1510.2,
+        "mult": 77.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "CQhf9Uai"
+      },
+      {
+        "kind": "sell",
+        "usd": 1008.87,
+        "mult": 51.9,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "nogZ6727"
+      },
+      {
+        "kind": "buy",
+        "usd": 986.8,
+        "mult": 50.8,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "38NzRkPG"
+      }
+    ],
+    "first_seen": "2026-10-09T15:23:15+00:00",
+    "last_seen": "2026-10-09T15:23:15+00:00"
+  },
+  "narrative": "QI разрывает: +2054.5% за 24ч. объём $3.73M больше капы в 4.4× — бумага в огне. ликвидность тонкая ($90.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $3.0K (157× медианы, 0ч назад). нетто китов за сутки −$3.2K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $3.0K (157× медианы). Нетто-поток китов: $-3.2K.",
+  "updated_at": "2026-10-09T15:23:15Z"
+}
