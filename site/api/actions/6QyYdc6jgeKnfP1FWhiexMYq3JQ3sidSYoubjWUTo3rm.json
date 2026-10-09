@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HeeHaw_+2365.png",
+  "title": "TalkChart: HeeHaw (+2365.4%) — Solana On-Chain Radar",
+  "description": "HeeHaw разрывает: +2365.4% за 24ч. объём $4.35M больше капы в 1.6× — бумага в огне.\n\nОбъём: $4.35M · Ликвидность: $252.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HeeHaw (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6QyYdc6jgeKnfP1FWhiexMYq3JQ3sidSYoubjWUTo3rm"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,17 +1,17 @@
 {
-  "slug": "bordr-vs-zkdark",
+  "slug": "heehaw-vs-tiktok",
   "token1": {
-    "symbol": "BORDR",
-    "change_24h": 906.253,
-    "address": "4xp7kN4nVt19caq4kM629vL8vJEqpSFVdZAh27wvYPh8",
-    "volume": 5348951.48259839
+    "symbol": "HeeHaw",
+    "change_24h": 2365.399,
+    "address": "6QyYdc6jgeKnfP1FWhiexMYq3JQ3sidSYoubjWUTo3rm",
+    "volume": 4349604.16791106
   },
   "token2": {
-    "symbol": "ZKDARK",
-    "change_24h": 679.906,
-    "address": "CR5dTgvTddGAqDjP8dGHTL51N6PKRaXqxFBp9FQ5PrKn",
-    "volume": 1858755.83904406
+    "symbol": "TikTok",
+    "change_24h": 791.509,
+    "address": "Bjhum36bzoYbheRgSpkZLZsttbPBDbJCDoeKA7o9N2o",
+    "volume": 6281623.76827389
   },
-  "verdict": "По ончейн-метрикам TalkChart: BORDR опережает по ценовому импульсу (+906.3% против +679.9%). Краткосрочный фаворит по совокупности факторов: BORDR.",
-  "updated_at": "2026-10-08 21:24 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HeeHaw опережает по ценовому импульсу (+2365.4% против +791.5%). Кроме того, у HeeHaw существенно глубже пул ликвидности ($252.3K против $65.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: HeeHaw.",
+  "updated_at": "2026-10-09 06:18 UTC"
 }

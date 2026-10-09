@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/WhiteWhale_+211.png",
+  "title": "TalkChart: WhiteWhale (+210.5%) — Solana On-Chain Radar",
+  "description": "WhiteWhale разрывает: +210.5% за 24ч. покупатели доминируют (65% сделок за час). но цена всё равно падает — кто-то разгружается в стакан.\n\nОбъём: $1.33M · Ликвидность: $284.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп WhiteWhale (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-a3W4qutoEJA4232T2gwZUfgYJTetr96pU4SJMwppump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4qxSqMh6iEdbdvtMp8r5MK2psAGKNk57PfGeVo2VhczQ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
