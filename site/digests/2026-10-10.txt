@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-10
-1. QI +1795.3% — QI разрывает: +1795.3% за 24ч. объём $9.49M больше капы в 2.7× — бумага в огне
-2. MEMECHAN +441.5% — MEMECHAN разрывает: +441.5% за 24ч. ускорение в последнем часе
-3. PAWS +246.1% — PAWS разрывает: +246.1% за 24ч. объём $5.43M больше капы в 35.7× — бумага в огне
-4. SIB +175.6% — SIB разрывает: +175.6% за 24ч. ускорение в последнем часе
-5. Tardigrade +107.6% — Tardigrade разрывает: +107.6% за 24ч. давление продаж нарастает
+1. QUBIT +4081.6% — QUBIT разрывает: +4081.6% за 24ч. объём $3.94M больше капы в 9.0× — бумага в огне
+2. qOMPUTE +2227.7% — qOMPUTE разрывает: +2227.7% за 24ч. объём $5.38M больше капы в 2.2× — бумага в огне
+3. SEED +420.1% — SEED разрывает: +420.1% за 24ч. ликвидность тонкая ($43.0K) — движения будут резкими
+4. HOTBOT +366.2% — HOTBOT разрывает: +366.2% за 24ч. ускорение в последнем часе
+5. QI +310.6% — QI разрывает: +310.6% за 24ч. объём $7.54M больше капы в 2.2× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/9d6fbbtAGjM6eFHo4NpsPrDgnwhZNdetgewHmupZTVjV.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

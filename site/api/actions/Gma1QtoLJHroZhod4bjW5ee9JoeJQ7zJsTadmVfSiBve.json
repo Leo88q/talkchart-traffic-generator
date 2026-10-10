@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SEED_+420.png",
+  "title": "TalkChart: SEED (+420.1%) — Solana On-Chain Radar",
+  "description": "SEED разрывает: +420.1% за 24ч. ликвидность тонкая ($43.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.4K (316× медианы, 3ч назад). нетто китов за сутки −$2.5K.\n\nОбъём: $131.8K · Ликвидность: $43.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SEED (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CvxQvqNQVRqq96oeoRnf6H64Memd8Weas9gte2xupump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Gma1QtoLJHroZhod4bjW5ee9JoeJQ7zJsTadmVfSiBve"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

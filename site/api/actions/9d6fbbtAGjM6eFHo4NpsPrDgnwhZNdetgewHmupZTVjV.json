@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/QUBIT_+4082.png",
+  "title": "TalkChart: QUBIT (+4081.6%) — Solana On-Chain Radar",
+  "description": "QUBIT разрывает: +4081.6% за 24ч. объём $3.94M больше капы в 9.0× — бумага в огне. ликвидность тонкая ($66.7K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $647.60 (49× медианы, 0ч назад). нетто китов за сутки −$712.65.\n\nОбъём: $3.94M · Ликвидность: $66.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп QUBIT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-ERkmk5rs8KKD9u2fxoDZUmwwuVc7rT3sSeowGTrQuBit"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=9d6fbbtAGjM6eFHo4NpsPrDgnwhZNdetgewHmupZTVjV"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

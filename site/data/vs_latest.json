@@ -1,17 +1,17 @@
 {
-  "slug": "qi-vs-memechan",
+  "slug": "qubit-vs-qompute",
   "token1": {
-    "symbol": "QI",
-    "change_24h": 1795.313,
-    "address": "cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn",
-    "volume": 9487312.40351279
+    "symbol": "QUBIT",
+    "change_24h": 4081.579,
+    "address": "9d6fbbtAGjM6eFHo4NpsPrDgnwhZNdetgewHmupZTVjV",
+    "volume": 3936797.30201311
   },
   "token2": {
-    "symbol": "MEMECHAN",
-    "change_24h": 441.477,
-    "address": "Aun9DMpH7xogEq9dqB8UaEDsoD3WZxEMo4hbbVVhMcis",
-    "volume": 3974062.89643272
+    "symbol": "qOMPUTE",
+    "change_24h": 2227.672,
+    "address": "7F7Q1oKtpuyg7oYyHXzAUszcnmKHRi18BxBVx7DHazPb",
+    "volume": 5377275.01219482
   },
-  "verdict": "По ончейн-метрикам TalkChart: QI опережает по ценовому импульсу (+1795.3% против +441.5%). Кроме того, у QI существенно глубже пул ликвидности ($199.4K против $45.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: QI.",
-  "updated_at": "2026-10-10 06:02 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: QUBIT опережает по ценовому импульсу (+4081.6% против +2227.7%). Кроме того, у qOMPUTE более надёжная ликвидность ($149.6K против $66.7K). Краткосрочный фаворит по совокупности факторов: QUBIT.",
+  "updated_at": "2026-10-10 14:33 UTC"
 }

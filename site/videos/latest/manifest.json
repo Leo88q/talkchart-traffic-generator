@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-10T06:02:00+00:00",
+ "generated_at": "2026-10-10T14:33:17+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-10/QI.mp4",
-   "latest_file": "videos/latest/QI.mp4",
-   "symbol": "QI",
-   "chg_h24": 1795.313
+   "file": "videos/2026-10-10/QUBIT.mp4",
+   "latest_file": "videos/latest/QUBIT.mp4",
+   "symbol": "QUBIT",
+   "chg_h24": 4081.579
   },
   {
-   "file": "videos/2026-10-10/MEMECHAN.mp4",
-   "latest_file": "videos/latest/MEMECHAN.mp4",
-   "symbol": "MEMECHAN",
-   "chg_h24": 441.477
+   "file": "videos/2026-10-10/qOMPUTE.mp4",
+   "latest_file": "videos/latest/qOMPUTE.mp4",
+   "symbol": "qOMPUTE",
+   "chg_h24": 2227.672
   },
   {
-   "file": "videos/2026-10-10/PAWS.mp4",
-   "latest_file": "videos/latest/PAWS.mp4",
-   "symbol": "PAWS",
-   "chg_h24": 246.108
+   "file": "videos/2026-10-10/SEED.mp4",
+   "latest_file": "videos/latest/SEED.mp4",
+   "symbol": "SEED",
+   "chg_h24": 420.058
   }
  ]
 }
