@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PAWS_+246.png",
+  "title": "TalkChart: PAWS (+246.1%) — Solana On-Chain Radar",
+  "description": "PAWS разрывает: +246.1% за 24ч. объём $5.43M больше капы в 35.7× — бумага в огне. ликвидность тонкая ($39.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.8K (180× медианы, 0ч назад). нетто китов за сутки +$2.5K.\n\nОбъём: $5.43M · Ликвидность: $39.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PAWS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2x3kudsxqCWdWeZA1vSNr9uKkHUBQG81m5mBGRAPpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FhtSNNk7euCuAuJfNwUbEqzUt5YWHhGZHuzrq4xcyZCQ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

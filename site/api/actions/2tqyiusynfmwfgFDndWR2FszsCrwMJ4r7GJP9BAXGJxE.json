@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Tardigrade_+108.png",
+  "title": "TalkChart: Tardigrade (+107.6%) — Solana On-Chain Radar",
+  "description": "Tardigrade разрывает: +107.6% за 24ч. давление продаж нарастает. объём $1.64M больше капы в 21.3× — бумага в огне. ликвидность тонкая ($24.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.64M · Ликвидность: $24.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Tardigrade (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-FQTs7tHw8vM9tUCU6PuRB3r6VK835cvMWZBJBHiBXKoq"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=2tqyiusynfmwfgFDndWR2FszsCrwMJ4r7GJP9BAXGJxE"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

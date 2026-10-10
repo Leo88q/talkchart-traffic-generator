@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "HEJfRQiuirFN9QmLUCiLfcDv6FXiTvxGWZamJoqsbEYv",
+    "name": "SIB / SPCX",
+    "base_symbol": "SIB",
+    "base_name": "SIB",
+    "base_address": "3HKKrXhDvGFWPdkALw3KofESZexsEx9opGtq37n9pump",
+    "dex": "pumpswap",
+    "price_usd": 0.0006151040901949456,
+    "created_at": "2026-10-10T00:59:07Z",
+    "fdv_usd": 601560.106674308,
+    "reserve_usd": 81849.6984,
+    "volume_h24": 4766111.26388315,
+    "change": {
+      "h1": 5.906,
+      "h6": 175.569,
+      "h24": 175.569
+    },
+    "tx_h1": {
+      "buys": 1748,
+      "sells": 1249
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 962.05,
+        "mult": 49.8,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "CGGexF6Q"
+      },
+      {
+        "kind": "buy",
+        "usd": 893.78,
+        "mult": 46.2,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "Hhhs7SZc"
+      },
+      {
+        "kind": "buy",
+        "usd": 874.94,
+        "mult": 45.3,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "CGGexF6Q"
+      },
+      {
+        "kind": "sell",
+        "usd": 705.52,
+        "mult": 36.5,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "buy",
+        "usd": 650.38,
+        "mult": 33.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "H9kBU9DE"
+      }
+    ],
+    "first_seen": "2026-10-10T06:01:50+00:00",
+    "last_seen": "2026-10-10T06:01:50+00:00"
+  },
+  "narrative": "SIB разрывает: +175.6% за 24ч. ускорение в последнем часе. объём $4.77M больше капы в 7.9× — бумага в огне. ликвидность тонкая ($81.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $962.05 (50× медианы, 0ч назад). нетто китов за сутки +$2.7K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $962.05 (50× медианы). Нетто-поток китов: +$2.7K.",
+  "updated_at": "2026-10-10T06:01:50Z"
+}

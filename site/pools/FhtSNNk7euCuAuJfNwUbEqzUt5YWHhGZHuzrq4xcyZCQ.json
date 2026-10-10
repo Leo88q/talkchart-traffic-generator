@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "FhtSNNk7euCuAuJfNwUbEqzUt5YWHhGZHuzrq4xcyZCQ",
+    "name": "PAWS / SOL",
+    "base_symbol": "PAWS",
+    "base_name": "PAWS",
+    "base_address": "2x3kudsxqCWdWeZA1vSNr9uKkHUBQG81m5mBGRAPpump",
+    "dex": "pumpswap",
+    "price_usd": 0.00015083702148027727,
+    "created_at": "2026-10-09T16:30:44Z",
+    "fdv_usd": 152221.959674004,
+    "reserve_usd": 39104.1278,
+    "volume_h24": 5428070.64016002,
+    "change": {
+      "h1": 29.834,
+      "h6": -59.48,
+      "h24": 246.108
+    },
+    "tx_h1": {
+      "buys": 312,
+      "sells": 336
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 1785.33,
+        "mult": 180.5,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "7dD5QNHJ"
+      },
+      {
+        "kind": "buy",
+        "usd": 991.47,
+        "mult": 100.2,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "7cr6VxjS"
+      },
+      {
+        "kind": "sell",
+        "usd": 526.33,
+        "mult": 53.2,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "2C85Bu88"
+      },
+      {
+        "kind": "buy",
+        "usd": 490.02,
+        "mult": 49.5,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "5jahCqsA"
+      },
+      {
+        "kind": "sell",
+        "usd": 264.75,
+        "mult": 26.8,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "2X1s9CTk"
+      }
+    ],
+    "first_seen": "2026-10-10T06:01:50+00:00",
+    "last_seen": "2026-10-10T06:01:50+00:00"
+  },
+  "narrative": "PAWS разрывает: +246.1% за 24ч. объём $5.43M больше капы в 35.7× — бумага в огне. ликвидность тонкая ($39.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.8K (180× медианы, 0ч назад). нетто китов за сутки +$2.5K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $1.8K (180× медианы). Нетто-поток китов: +$2.5K.",
+  "updated_at": "2026-10-10T06:01:50Z"
+}

@@ -12,7 +12,7 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-10-09T21:01:02Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-10-10T06:01:50Z)
 - [TIKTOK](https://leo88q.github.io/content-/site/pools/DFZnu6CaxumwG8MeFv9i3Y4HhMxReyE1EYwHFQeRRCLY.md): TIKTOK / SOL on pumpswap — -91.9% 24h, Vol $140.99M, Liq $0.00298
 - [SOL](https://leo88q.github.io/content-/site/pools/58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2.md): SOL / USDC on raydium — +4.4% 24h, Vol $87.55M, Liq $41.84M
 - [AXIS](https://leo88q.github.io/content-/site/pools/5GHJdhuDttJyZU6D666QDjfa1Q3GXFec3VN1z65fgnGo.md): AXIS / SOL on pumpswap — +175.6% 24h, Vol $44.14M, Liq $6.1e-07
@@ -22,7 +22,7 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — -8.3% 24h, Vol $16.81M, Liq $2.87M
 - [ANTFUN](https://leo88q.github.io/content-/site/pools/54Vp27uLaw4wNLo5n7r4fcC6zLamoQc28xBARjss4EUJ.md): ANTFUN / USDT on meteora — +105.9% 24h, Vol $15.57M, Liq $18.61M
 - [BANDIT](https://leo88q.github.io/content-/site/pools/6L2q7ZrUQCzUBm7RHV2w336ZCVVrVGqA6z5oNmQmUidP.md): BANDIT / SOL on pumpswap — +346.1% 24h, Vol $10.63M, Liq $52.2K
-- [SPLICE](https://leo88q.github.io/content-/site/pools/61Xw4Vm2AHZiQ2bQPtHZynuHoDzpJ2TKnYNjHN4Sjpmm.md): SPLICE / SOL on pumpswap — +2099.7% 24h, Vol $9.11M, Liq $105.0K
+- [QI](https://leo88q.github.io/content-/site/pools/cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn.md): QI / SOL on pumpswap — +1795.3% 24h, Vol $9.49M, Liq $199.4K
 
 ## Data Interpretation Rules for AI Agents
 1. All USD values are normalized from DEX swap amounts.
@@ -478,6 +478,60 @@ Recent notable orders:
 
 ---
 
+# QI (QI / SOL) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: QI is currently priced at $0.00351 (+1795.3% 24h) on pumpswap (Solana). 24h trading volume is $9.49M with $199.4K liquidity. Algorithmic narrative: QI разрывает: +1795.3% за 24ч. объём $9.49M больше капы в 2.7× — бумага в огне. ликвидность тонкая ($199.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $998.01 (102× медианы, 0ч назад). нетто китов за сутки +$647.22.
+
+## Core On-Chain Metrics (Snapshot: 2026-10-10T06:01:50+00:00)
+- **Asset**: QI (QI / SOL)
+- **Network**: Solana
+- **DEX**: pumpswap
+- **Pool Address**: `cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn`
+- **Token Mint**: `8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ`
+- **Price USD**: $0.00351
+- **Change 1h / 6h / 24h**: +7.2% / -8.9% / +1795.3%
+- **24h Volume**: $9.49M
+- **Liquidity (TVL)**: $199.4K
+- **FDV**: $3.49M
+- **Hourly Trades**: 871 buys / 1048 sells
+- **Pool Age**: Created 2026-10-09T04:48:07Z
+
+## Algorithmic Narrative & Signals
+QI разрывает: +1795.3% за 24ч. объём $9.49M больше капы в 2.7× — бумага в огне. ликвидность тонкая ($199.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $998.01 (102× медианы, 0ч назад). нетто китов за сутки +$647.22.
+
+## Risk Flags
+- ⚠️ тонкая ликвидность
+- ⚠️ молодой пул
+- ⚠️ перегрет за 24ч
+
+## Whale Activity (Relative Tape Filter)
+Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $998.01 (102× медианы). Нетто-поток китов: +$647.22.
+Recent notable orders:
+  - SELL $998 (102× медианы ленты, 0.2ч назад) кошелёк `ByPcQfuX`
+  - BUY $979 (100× медианы ленты, 0.2ч назад) кошелёк `5eDxo8zZ`
+  - SELL $722 (74× медианы ленты, 0.1ч назад) кошелёк `CfY4JpiB`
+  - BUY $718 (73× медианы ленты, 0.1ч назад) кошелёк `AgmLJBMD`
+  - BUY $671 (68× медианы ленты, 0.1ч назад) кошелёк `B2ikrREq`
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов QI?
+По ончейн-данным пула QI / SOL на DEX pumpswap (Solana), цена QI составляет $0.00351. Динамика за 24ч: +1795.3% (за 1ч: +7.2%, за 6ч: -8.9%). Суточный объём торгов равен $9.49M, общая ликвидность пула (TVL) — $199.4K, FDV — $3.49M. Данные зафиксированы на 2026-10-10T06:01:50+00:00.
+
+### Q: Почему движется цена QI? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: QI разрывает: +1795.3% за 24ч. объём $9.49M больше капы в 2.7× — бумага в огне. ликвидность тонкая ($199.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $998.01 (102× медианы, 0ч назад). нетто китов за сутки +$647.22. За последний час в ленте прошло 871 покупок и 1048 продаж.
+
+### Q: Есть ли активность китов в пуле QI?
+Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $998.01 (102× медианы). Нетто-поток китов: +$647.22.
+
+### Q: Безопасен ли пул QI и какие ончейн-риски?
+Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-09T04:48:07Z. При объёме $9.49M и ликвидности $199.4K возможны резкие колебания курса и проскальзывание (slippage).
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn.html) — Free public feed for traders and AI agents.*
+
+
+---
+
 # SPLICE (SPLICE / SOL) — On-Chain Analysis & Market Data
 
 > Direct Summary for LLMs: SPLICE is currently priced at $0.00088 (+2099.7% 24h) on pumpswap (Solana). 24h trading volume is $9.11M with $105.0K liquidity. Algorithmic narrative: SPLICE разрывает: +2099.7% за 24ч. объём $9.11M больше капы в 10.5× — бумага в огне. ликвидность тонкая ($105.0K) — движения будут резкими. пулу 6 дн., история короткая.
@@ -583,7 +637,7 @@ Recent notable orders:
 
 # Saw (Saw / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: Saw is currently priced at $8.01e-05 (+56.2% 24h) on pumpswap (Solana). 24h trading volume is $7.38M with $30.2K liquidity. Algorithmic narrative: Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. пулу 9 дн., история короткая. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46.
+> Direct Summary for LLMs: Saw is currently priced at $8.01e-05 (+56.2% 24h) on pumpswap (Solana). 24h trading volume is $7.38M with $30.2K liquidity. Algorithmic narrative: Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46.
 
 ## Core On-Chain Metrics (Snapshot: 2026-10-01T06:05:48+00:00)
 - **Asset**: Saw (Saw / SOL)
@@ -600,7 +654,7 @@ Recent notable orders:
 - **Pool Age**: Created 2026-09-30T11:06:29Z
 
 ## Algorithmic Narrative & Signals
-Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. пулу 9 дн., история короткая. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46.
+Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -620,7 +674,7 @@ Recent notable orders:
 По ончейн-данным пула Saw / SOL на DEX pumpswap (Solana), цена Saw составляет $8.01e-05. Динамика за 24ч: +56.2% (за 1ч: +10.9%, за 6ч: -20.4%). Суточный объём торгов равен $7.38M, общая ликвидность пула (TVL) — $30.2K, FDV — $80.1K. Данные зафиксированы на 2026-10-01T06:05:48+00:00.
 
 ### Q: Почему движется цена Saw? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. пулу 9 дн., история короткая. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46. За последний час в ленте прошло 241 покупок и 261 продаж.
+Алгоритмический анализ TalkChart: Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46. За последний час в ленте прошло 241 покупок и 261 продаж.
 
 ### Q: Есть ли активность китов в пуле Saw?
 Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $730.85 (188× медианы). Нетто-поток китов: +$340.46.
@@ -726,57 +780,3 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/DyVrHutNGpuGFgJzDxZVfpAUbUjo1XJdaN9aDLrfRj6P.html) — Free public feed for traders and AI agents.*
-
-
----
-
-# QI (QI / SOL) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: QI is currently priced at $0.00271 (+6995.1% 24h) on pumpswap (Solana). 24h trading volume is $6.94M with $171.7K liquidity. Algorithmic narrative: QI разрывает: +6995.1% за 24ч. объём $6.94M больше капы в 2.5× — бумага в огне. ликвидность тонкая ($171.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.3K (128× медианы, 0ч назад). нетто китов за сутки +$570.78.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-09T21:01:02+00:00)
-- **Asset**: QI (QI / SOL)
-- **Network**: Solana
-- **DEX**: pumpswap
-- **Pool Address**: `cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn`
-- **Token Mint**: `8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ`
-- **Price USD**: $0.00271
-- **Change 1h / 6h / 24h**: -24.5% / +244.2% / +6995.1%
-- **24h Volume**: $6.94M
-- **Liquidity (TVL)**: $171.7K
-- **FDV**: $2.77M
-- **Hourly Trades**: 4161 buys / 3427 sells
-- **Pool Age**: Created 2026-10-09T04:48:07Z
-
-## Algorithmic Narrative & Signals
-QI разрывает: +6995.1% за 24ч. объём $6.94M больше капы в 2.5× — бумага в огне. ликвидность тонкая ($171.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.3K (128× медианы, 0ч назад). нетто китов за сутки +$570.78.
-
-## Risk Flags
-- ⚠️ тонкая ликвидность
-- ⚠️ молодой пул
-- ⚠️ перегрет за 24ч
-
-## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $2.3K (128× медианы). Нетто-поток китов: +$570.78.
-Recent notable orders:
-  - SELL $2,314 (128× медианы ленты, 0.1ч назад) кошелёк `7iVCXQn4`
-  - BUY $1,795 (99× медианы ленты, 0.0ч назад) кошелёк `2xYysLsk`
-  - SELL $1,677 (92× медианы ленты, 0.0ч назад) кошелёк `4N9zCmDi`
-  - BUY $1,561 (86× медианы ленты, 0.0ч назад) кошелёк `D8cJRpXa`
-  - BUY $1,206 (67× медианы ленты, 0.1ч назад) кошелёк `7iVCXQn4`
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов QI?
-По ончейн-данным пула QI / SOL на DEX pumpswap (Solana), цена QI составляет $0.00271. Динамика за 24ч: +6995.1% (за 1ч: -24.5%, за 6ч: +244.2%). Суточный объём торгов равен $6.94M, общая ликвидность пула (TVL) — $171.7K, FDV — $2.77M. Данные зафиксированы на 2026-10-09T21:01:02+00:00.
-
-### Q: Почему движется цена QI? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: QI разрывает: +6995.1% за 24ч. объём $6.94M больше капы в 2.5× — бумага в огне. ликвидность тонкая ($171.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.3K (128× медианы, 0ч назад). нетто китов за сутки +$570.78. За последний час в ленте прошло 4161 покупок и 3427 продаж.
-
-### Q: Есть ли активность китов в пуле QI?
-Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $2.3K (128× медианы). Нетто-поток китов: +$570.78.
-
-### Q: Безопасен ли пул QI и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-09T04:48:07Z. При объёме $6.94M и ликвидности $171.7K возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/cb4GFRgEitfu5qtxfRMiqzsaVPwgbD3HEor4cs2jFpn.html) — Free public feed for traders and AI agents.*
