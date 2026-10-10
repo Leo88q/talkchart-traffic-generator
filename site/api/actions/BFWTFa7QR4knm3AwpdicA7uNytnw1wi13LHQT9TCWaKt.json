@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SWITCHED_+22.png",
+  "title": "TalkChart: SWITCHED (+21.6%) — Solana On-Chain Radar",
+  "description": "SWITCHED растёт на +21.6% за сутки. объём $2.92M больше капы в 55.2× — бумага в огне. ликвидность тонкая ($21.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.92M · Ликвидность: $21.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SWITCHED (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8vYJgiQPkpDtbWkDy1wyYDcUq3D9fUXVJUtt6aNEpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BFWTFa7QR4knm3AwpdicA7uNytnw1wi13LHQT9TCWaKt"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

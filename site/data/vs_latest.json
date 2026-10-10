@@ -1,17 +1,17 @@
 {
-  "slug": "qubit-vs-qompute",
+  "slug": "altai-vs-qompute",
   "token1": {
-    "symbol": "QUBIT",
-    "change_24h": 4081.579,
-    "address": "9d6fbbtAGjM6eFHo4NpsPrDgnwhZNdetgewHmupZTVjV",
-    "volume": 3936797.30201311
+    "symbol": "Altai",
+    "change_24h": 2136.387,
+    "address": "DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt",
+    "volume": 13093834.7365714
   },
   "token2": {
     "symbol": "qOMPUTE",
-    "change_24h": 2227.672,
+    "change_24h": 1228.921,
     "address": "7F7Q1oKtpuyg7oYyHXzAUszcnmKHRi18BxBVx7DHazPb",
-    "volume": 5377275.01219482
+    "volume": 6965205.28619407
   },
-  "verdict": "По ончейн-метрикам TalkChart: QUBIT опережает по ценовому импульсу (+4081.6% против +2227.7%). Кроме того, у qOMPUTE более надёжная ликвидность ($149.6K против $66.7K). Краткосрочный фаворит по совокупности факторов: QUBIT.",
-  "updated_at": "2026-10-10 14:33 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Altai опережает по ценовому импульсу (+2136.4% против +1228.9%). Краткосрочный фаворит по совокупности факторов: Altai.",
+  "updated_at": "2026-10-10 20:10 UTC"
 }
