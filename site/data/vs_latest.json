@@ -1,17 +1,17 @@
 {
-  "slug": "altai-vs-qompute",
+  "slug": "altai-vs-kilos",
   "token1": {
     "symbol": "Altai",
-    "change_24h": 2136.387,
+    "change_24h": 1853.997,
     "address": "DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt",
-    "volume": 13093834.7365714
+    "volume": 13916668.2370395
   },
   "token2": {
-    "symbol": "qOMPUTE",
-    "change_24h": 1228.921,
-    "address": "7F7Q1oKtpuyg7oYyHXzAUszcnmKHRi18BxBVx7DHazPb",
-    "volume": 6965205.28619407
+    "symbol": "KILOS",
+    "change_24h": 1193.858,
+    "address": "56a6DYhPkj1r5yW57ba4UyLc2qqpRGUVbsT3PbaSRpW",
+    "volume": 137311.143346111
   },
-  "verdict": "По ончейн-метрикам TalkChart: Altai опережает по ценовому импульсу (+2136.4% против +1228.9%). Краткосрочный фаворит по совокупности факторов: Altai.",
-  "updated_at": "2026-10-10 20:10 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Altai опережает по ценовому импульсу (+1854.0% против +1193.9%). Кроме того, у Altai существенно глубже пул ликвидности ($113.4K против $1.00), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Altai.",
+  "updated_at": "2026-10-10 23:39 UTC"
 }

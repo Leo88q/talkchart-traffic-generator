@@ -12,7 +12,7 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-10-10T20:10:03Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-10-10T23:39:13Z)
 - [TIKTOK](https://leo88q.github.io/content-/site/pools/DFZnu6CaxumwG8MeFv9i3Y4HhMxReyE1EYwHFQeRRCLY.md): TIKTOK / SOL on pumpswap — -91.9% 24h, Vol $140.99M, Liq $0.00298
 - [SOL](https://leo88q.github.io/content-/site/pools/58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2.md): SOL / USDC on raydium — +4.4% 24h, Vol $87.55M, Liq $41.84M
 - [AXIS](https://leo88q.github.io/content-/site/pools/5GHJdhuDttJyZU6D666QDjfa1Q3GXFec3VN1z65fgnGo.md): AXIS / SOL on pumpswap — +175.6% 24h, Vol $44.14M, Liq $6.1e-07
@@ -21,7 +21,7 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - [BP](https://leo88q.github.io/content-/site/pools/6qz7THwQvcjF3HyDGLuKaLBUk6EyJKeZXZMWLAeiwfjd.md): BP / USDC on meteora — +30.0% 24h, Vol $23.84M, Liq $5.62M
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — -8.3% 24h, Vol $16.81M, Liq $2.87M
 - [ANTFUN](https://leo88q.github.io/content-/site/pools/54Vp27uLaw4wNLo5n7r4fcC6zLamoQc28xBARjss4EUJ.md): ANTFUN / USDT on meteora — +105.9% 24h, Vol $15.57M, Liq $18.61M
-- [Altai](https://leo88q.github.io/content-/site/pools/DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt.md): Altai / SOL on pumpswap — +2136.4% 24h, Vol $13.09M, Liq $121.6K
+- [Altai](https://leo88q.github.io/content-/site/pools/DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt.md): Altai / SOL on pumpswap — +1854.0% 24h, Vol $13.92M, Liq $113.4K
 - [BANDIT](https://leo88q.github.io/content-/site/pools/6L2q7ZrUQCzUBm7RHV2w336ZCVVrVGqA6z5oNmQmUidP.md): BANDIT / SOL on pumpswap — +346.1% 24h, Vol $10.63M, Liq $52.2K
 
 ## Data Interpretation Rules for AI Agents

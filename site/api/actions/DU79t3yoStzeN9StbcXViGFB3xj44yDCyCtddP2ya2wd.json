@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Altai_+345.png",
+  "title": "TalkChart: Altai (+345.0%) — Solana On-Chain Radar",
+  "description": "Altai разрывает: +345.0% за 24ч. объём $8.05M больше капы в 43.0× — бумага в огне. ликвидность тонкая ($46.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $8.05M · Ликвидность: $46.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Altai (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-FDJqEqqS68jummd8XGtBqzJTu2Pgc3pGQjozrpUzpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DU79t3yoStzeN9StbcXViGFB3xj44yDCyCtddP2ya2wd"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
