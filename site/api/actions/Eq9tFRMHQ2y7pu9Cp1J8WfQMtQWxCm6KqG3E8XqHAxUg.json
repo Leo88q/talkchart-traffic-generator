@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/STRK_+56.png",
+  "title": "TalkChart: STRK (+55.7%) — Solana On-Chain Radar",
+  "description": "STRK разрывает: +55.7% за 24ч. объём $4.78M больше капы в 1.8× — бумага в огне.\n\nОбъём: $4.78M · Ликвидность: $298.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп STRK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Eq9tFRMHQ2y7pu9Cp1J8WfQMtQWxCm6KqG3E8XqHAxUg"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

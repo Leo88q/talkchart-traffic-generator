@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-10T23:39:21+00:00",
+ "generated_at": "2026-10-11T05:57:13+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-10/Altai.mp4",
+   "file": "videos/2026-10-11/Altai.mp4",
    "latest_file": "videos/latest/Altai.mp4",
    "symbol": "Altai",
-   "chg_h24": 1853.997
+   "chg_h24": 1386.48
   },
   {
-   "file": "videos/2026-10-10/KILOS.mp4",
+   "file": "videos/2026-10-11/KILOS.mp4",
    "latest_file": "videos/latest/KILOS.mp4",
    "symbol": "KILOS",
    "chg_h24": 1193.858
   },
   {
-   "file": "videos/2026-10-10/TM.mp4",
+   "file": "videos/2026-10-11/TM.mp4",
    "latest_file": "videos/latest/TM.mp4",
    "symbol": "TM",
-   "chg_h24": 732.176
+   "chg_h24": 675.04
   }
  ]
 }

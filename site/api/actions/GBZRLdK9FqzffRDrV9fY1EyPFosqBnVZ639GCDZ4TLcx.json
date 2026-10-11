@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FACTORY_+29.png",
+  "title": "TalkChart: FACTORY (+29.3%) — Solana On-Chain Radar",
+  "description": "FACTORY растёт на +29.3% за сутки. ускорение в последнем часе. объём $2.11M больше капы в 35.3× — бумага в огне. ликвидность тонкая ($21.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.11M · Ликвидность: $21.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FACTORY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7536qC4LEs3W2GtSKbhVGNJSiRfuXJhKVthxsgfkpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GBZRLdK9FqzffRDrV9fY1EyPFosqBnVZ639GCDZ4TLcx"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

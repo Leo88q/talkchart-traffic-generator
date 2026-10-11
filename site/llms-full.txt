@@ -12,7 +12,7 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-10-10T23:39:13Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-10-11T05:57:02Z)
 - [TIKTOK](https://leo88q.github.io/content-/site/pools/DFZnu6CaxumwG8MeFv9i3Y4HhMxReyE1EYwHFQeRRCLY.md): TIKTOK / SOL on pumpswap — -91.9% 24h, Vol $140.99M, Liq $0.00298
 - [SOL](https://leo88q.github.io/content-/site/pools/58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2.md): SOL / USDC on raydium — +4.4% 24h, Vol $87.55M, Liq $41.84M
 - [AXIS](https://leo88q.github.io/content-/site/pools/5GHJdhuDttJyZU6D666QDjfa1Q3GXFec3VN1z65fgnGo.md): AXIS / SOL on pumpswap — +175.6% 24h, Vol $44.14M, Liq $6.1e-07
@@ -21,7 +21,7 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - [BP](https://leo88q.github.io/content-/site/pools/6qz7THwQvcjF3HyDGLuKaLBUk6EyJKeZXZMWLAeiwfjd.md): BP / USDC on meteora — +30.0% 24h, Vol $23.84M, Liq $5.62M
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — -8.3% 24h, Vol $16.81M, Liq $2.87M
 - [ANTFUN](https://leo88q.github.io/content-/site/pools/54Vp27uLaw4wNLo5n7r4fcC6zLamoQc28xBARjss4EUJ.md): ANTFUN / USDT on meteora — +105.9% 24h, Vol $15.57M, Liq $18.61M
-- [Altai](https://leo88q.github.io/content-/site/pools/DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt.md): Altai / SOL on pumpswap — +1854.0% 24h, Vol $13.92M, Liq $113.4K
+- [Altai](https://leo88q.github.io/content-/site/pools/DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt.md): Altai / SOL on pumpswap — +1386.5% 24h, Vol $14.83M, Liq $100.3K
 - [BANDIT](https://leo88q.github.io/content-/site/pools/6L2q7ZrUQCzUBm7RHV2w336ZCVVrVGqA6z5oNmQmUidP.md): BANDIT / SOL on pumpswap — +346.1% 24h, Vol $10.63M, Liq $52.2K
 
 ## Data Interpretation Rules for AI Agents
@@ -427,24 +427,24 @@ Recent notable orders:
 
 # Altai (Altai / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: Altai is currently priced at $0.00089 (+1854.0% 24h) on pumpswap (Solana). 24h trading volume is $13.92M with $113.4K liquidity. Algorithmic narrative: Altai разрывает: +1854.0% за 24ч. давление продаж нарастает. объём $13.92M больше капы в 15.6× — бумага в огне. ликвидность тонкая ($113.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.7K (111× медианы, 0ч назад). нетто китов за сутки −$5.8K.
+> Direct Summary for LLMs: Altai is currently priced at $0.000669 (+1386.5% 24h) on pumpswap (Solana). 24h trading volume is $14.83M with $100.3K liquidity. Algorithmic narrative: Altai разрывает: +1386.5% за 24ч. давление продаж нарастает. объём $14.83M больше капы в 21.9× — бумага в огне. ликвидность тонкая ($100.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.7K (111× медианы, 0ч назад). нетто китов за сутки −$5.8K.
 
-## Core On-Chain Metrics (Snapshot: 2026-10-10T23:39:12+00:00)
+## Core On-Chain Metrics (Snapshot: 2026-10-11T05:57:02+00:00)
 - **Asset**: Altai (Altai / SOL)
 - **Network**: Solana
 - **DEX**: pumpswap
 - **Pool Address**: `DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt`
 - **Token Mint**: `Gyk9Z93Ri2JUjqES9HTpc7pxCJTLD7vhBhEjBhyApump`
-- **Price USD**: $0.00089
-- **Change 1h / 6h / 24h**: -24.5% / -6.3% / +1854.0%
-- **24h Volume**: $13.92M
-- **Liquidity (TVL)**: $113.4K
-- **FDV**: $889.9K
-- **Hourly Trades**: 1153 buys / 955 sells
+- **Price USD**: $0.000669
+- **Change 1h / 6h / 24h**: -13.7% / -10.3% / +1386.5%
+- **24h Volume**: $14.83M
+- **Liquidity (TVL)**: $100.3K
+- **FDV**: $677.0K
+- **Hourly Trades**: 429 buys / 267 sells
 - **Pool Age**: Created 2026-10-10T13:52:17Z
 
 ## Algorithmic Narrative & Signals
-Altai разрывает: +1854.0% за 24ч. давление продаж нарастает. объём $13.92M больше капы в 15.6× — бумага в огне. ликвидность тонкая ($113.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.7K (111× медианы, 0ч назад). нетто китов за сутки −$5.8K.
+Altai разрывает: +1386.5% за 24ч. давление продаж нарастает. объём $14.83M больше капы в 21.9× — бумага в огне. ликвидность тонкая ($100.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.7K (111× медианы, 0ч назад). нетто китов за сутки −$5.8K.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -462,16 +462,16 @@ Recent notable orders:
 
 ## Frequently Asked Questions (GEO Facts)
 ### Q: Какая текущая цена, динамика и объём торгов Altai?
-По ончейн-данным пула Altai / SOL на DEX pumpswap (Solana), цена Altai составляет $0.00089. Динамика за 24ч: +1854.0% (за 1ч: -24.5%, за 6ч: -6.3%). Суточный объём торгов равен $13.92M, общая ликвидность пула (TVL) — $113.4K, FDV — $889.9K. Данные зафиксированы на 2026-10-10T23:39:12+00:00.
+По ончейн-данным пула Altai / SOL на DEX pumpswap (Solana), цена Altai составляет $0.000669. Динамика за 24ч: +1386.5% (за 1ч: -13.7%, за 6ч: -10.3%). Суточный объём торгов равен $14.83M, общая ликвидность пула (TVL) — $100.3K, FDV — $677.0K. Данные зафиксированы на 2026-10-11T05:57:02+00:00.
 
 ### Q: Почему движется цена Altai? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: Altai разрывает: +1854.0% за 24ч. давление продаж нарастает. объём $13.92M больше капы в 15.6× — бумага в огне. ликвидность тонкая ($113.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.7K (111× медианы, 0ч назад). нетто китов за сутки −$5.8K. За последний час в ленте прошло 1153 покупок и 955 продаж.
+Алгоритмический анализ TalkChart: Altai разрывает: +1386.5% за 24ч. давление продаж нарастает. объём $14.83M больше капы в 21.9× — бумага в огне. ликвидность тонкая ($100.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.7K (111× медианы, 0ч назад). нетто китов за сутки −$5.8K. За последний час в ленте прошло 429 покупок и 267 продаж.
 
 ### Q: Есть ли активность китов в пуле Altai?
 Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $2.7K (111× медианы). Нетто-поток китов: $-5.8K.
 
 ### Q: Безопасен ли пул Altai и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-10T13:52:17Z. При объёме $13.92M и ликвидности $113.4K возможны резкие колебания курса и проскальзывание (slippage).
+Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-10T13:52:17Z. При объёме $14.83M и ликвидности $100.3K возможны резкие колебания курса и проскальзывание (slippage).
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt.html) — Free public feed for traders and AI agents.*
@@ -528,6 +528,54 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/6L2q7ZrUQCzUBm7RHV2w336ZCVVrVGqA6z5oNmQmUidP.html) — Free public feed for traders and AI agents.*
+
+
+---
+
+# CYBERLEEK (CYBERLEEK / SOL) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: CYBERLEEK is currently priced at $0.00718 (+217.5% 24h) on raydium (Solana). 24h trading volume is $9.97M with $1.33M liquidity. Algorithmic narrative: CYBERLEEK разрывает: +217.5% за 24ч. объём $9.97M больше капы в 1.9× — бумага в огне.
+
+## Core On-Chain Metrics (Snapshot: 2026-10-11T05:57:02+00:00)
+- **Asset**: CYBERLEEK (CYBERLEEK / SOL)
+- **Network**: Solana
+- **DEX**: raydium
+- **Pool Address**: `G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh`
+- **Token Mint**: `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg`
+- **Price USD**: $0.00718
+- **Change 1h / 6h / 24h**: +1.9% / +16.5% / +217.5%
+- **24h Volume**: $9.97M
+- **Liquidity (TVL)**: $1.33M
+- **FDV**: $5.21M
+- **Hourly Trades**: 358 buys / 265 sells
+- **Pool Age**: Created 2026-08-15T21:07:26Z
+
+## Algorithmic Narrative & Signals
+CYBERLEEK разрывает: +217.5% за 24ч. объём $9.97M больше капы в 1.9× — бумага в огне.
+
+## Risk Flags
+- ⚠️ перегрет за 24ч
+
+## Whale Activity (Relative Tape Filter)
+Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+Recent notable orders:
+  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов CYBERLEEK?
+По ончейн-данным пула CYBERLEEK / SOL на DEX raydium (Solana), цена CYBERLEEK составляет $0.00718. Динамика за 24ч: +217.5% (за 1ч: +1.9%, за 6ч: +16.5%). Суточный объём торгов равен $9.97M, общая ликвидность пула (TVL) — $1.33M, FDV — $5.21M. Данные зафиксированы на 2026-10-11T05:57:02+00:00.
+
+### Q: Почему движется цена CYBERLEEK? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: CYBERLEEK разрывает: +217.5% за 24ч. объём $9.97M больше капы в 1.9× — бумага в огне. За последний час в ленте прошло 358 покупок и 265 продаж.
+
+### Q: Есть ли активность китов в пуле CYBERLEEK?
+Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+
+### Q: Безопасен ли пул CYBERLEEK и какие ончейн-риски?
+Выявлены следующие факторы риска: перегрет за 24ч. Пул создан 2026-08-15T21:07:26Z. При объёме $9.97M и ликвидности $1.33M возможны резкие колебания курса и проскальзывание (slippage).
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh.html) — Free public feed for traders and AI agents.*
 
 
 ---
@@ -637,24 +685,24 @@ Recent notable orders:
 
 # Altai (Altai / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: Altai is currently priced at $0.000187 (+345.0% 24h) on pumpswap (Solana). 24h trading volume is $8.05M with $46.5K liquidity. Algorithmic narrative: Altai разрывает: +345.0% за 24ч. объём $8.05M больше капы в 43.0× — бумага в огне. ликвидность тонкая ($46.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка.
+> Direct Summary for LLMs: Altai is currently priced at $7.85e-05 (+86.6% 24h) on pumpswap (Solana). 24h trading volume is $8.16M with $29.4K liquidity. Algorithmic narrative: Altai разрывает: +86.6% за 24ч. давление продаж нарастает. объём $8.16M больше капы в 103.9× — бумага в огне. ликвидность тонкая ($29.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.2K (113× медианы, 1ч назад). нетто китов за сутки −$1.4K.
 
-## Core On-Chain Metrics (Snapshot: 2026-10-10T23:39:12+00:00)
+## Core On-Chain Metrics (Snapshot: 2026-10-11T05:57:02+00:00)
 - **Asset**: Altai (Altai / SOL)
 - **Network**: Solana
 - **DEX**: pumpswap
 - **Pool Address**: `DU79t3yoStzeN9StbcXViGFB3xj44yDCyCtddP2ya2wd`
 - **Token Mint**: `FDJqEqqS68jummd8XGtBqzJTu2Pgc3pGQjozrpUzpump`
-- **Price USD**: $0.000187
-- **Change 1h / 6h / 24h**: -2.9% / -81.7% / +345.0%
-- **24h Volume**: $8.05M
-- **Liquidity (TVL)**: $46.5K
-- **FDV**: $187.3K
-- **Hourly Trades**: 203 buys / 226 sells
+- **Price USD**: $7.85e-05
+- **Change 1h / 6h / 24h**: -27.6% / -59.7% / +86.6%
+- **24h Volume**: $8.16M
+- **Liquidity (TVL)**: $29.4K
+- **FDV**: $78.5K
+- **Hourly Trades**: 110 buys / 115 sells
 - **Pool Age**: Created 2026-10-10T13:44:57Z
 
 ## Algorithmic Narrative & Signals
-Altai разрывает: +345.0% за 24ч. объём $8.05M больше капы в 43.0× — бумага в огне. ликвидность тонкая ($46.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка.
+Altai разрывает: +86.6% за 24ч. давление продаж нарастает. объём $8.16M больше капы в 103.9× — бумага в огне. ликвидность тонкая ($29.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.2K (113× медианы, 1ч назад). нетто китов за сутки −$1.4K.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -662,73 +710,29 @@ Altai разрывает: +345.0% за 24ч. объём $8.05M больше ка
 - ⚠️ перегрет за 24ч
 
 ## Whale Activity (Relative Tape Filter)
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $1.2K (113× медианы). Нетто-поток китов: $-1.4K.
 Recent notable orders:
-  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
+  - SELL $1,211 (113× медианы ленты, 0.6ч назад) кошелёк `FHpcNSe6`
+  - SELL $989 (92× медианы ленты, 0.1ч назад) кошелёк `Fu5Q9XW2`
+  - BUY $915 (85× медианы ленты, 1.5ч назад) кошелёк `3Wc9ybEf`
+  - SELL $490 (46× медианы ленты, 0.5ч назад) кошелёк `Aot4HuEC`
+  - BUY $407 (38× медианы ленты, 0.1ч назад) кошелёк `44hpKaA5`
 
 ## Frequently Asked Questions (GEO Facts)
 ### Q: Какая текущая цена, динамика и объём торгов Altai?
-По ончейн-данным пула Altai / SOL на DEX pumpswap (Solana), цена Altai составляет $0.000187. Динамика за 24ч: +345.0% (за 1ч: -2.9%, за 6ч: -81.7%). Суточный объём торгов равен $8.05M, общая ликвидность пула (TVL) — $46.5K, FDV — $187.3K. Данные зафиксированы на 2026-10-10T23:39:12+00:00.
+По ончейн-данным пула Altai / SOL на DEX pumpswap (Solana), цена Altai составляет $7.85e-05. Динамика за 24ч: +86.6% (за 1ч: -27.6%, за 6ч: -59.7%). Суточный объём торгов равен $8.16M, общая ликвидность пула (TVL) — $29.4K, FDV — $78.5K. Данные зафиксированы на 2026-10-11T05:57:02+00:00.
 
 ### Q: Почему движется цена Altai? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: Altai разрывает: +345.0% за 24ч. объём $8.05M больше капы в 43.0× — бумага в огне. ликвидность тонкая ($46.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка. За последний час в ленте прошло 203 покупок и 226 продаж.
+Алгоритмический анализ TalkChart: Altai разрывает: +86.6% за 24ч. давление продаж нарастает. объём $8.16M больше капы в 103.9× — бумага в огне. ликвидность тонкая ($29.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.2K (113× медианы, 1ч назад). нетто китов за сутки −$1.4K. За последний час в ленте прошло 110 покупок и 115 продаж.
 
 ### Q: Есть ли активность китов в пуле Altai?
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $1.2K (113× медианы). Нетто-поток китов: $-1.4K.
 
 ### Q: Безопасен ли пул Altai и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-10T13:44:57Z. При объёме $8.05M и ликвидности $46.5K возможны резкие колебания курса и проскальзывание (slippage).
+Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-10T13:44:57Z. При объёме $8.16M и ликвидности $29.4K возможны резкие колебания курса и проскальзывание (slippage).
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/DU79t3yoStzeN9StbcXViGFB3xj44yDCyCtddP2ya2wd.html) — Free public feed for traders and AI agents.*
-
-
----
-
-# CYBERLEEK (CYBERLEEK / SOL) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: CYBERLEEK is currently priced at $0.00531 (+150.8% 24h) on raydium (Solana). 24h trading volume is $7.55M with $1.14M liquidity. Algorithmic narrative: CYBERLEEK разрывает: +150.8% за 24ч. объём $7.55M больше капы в 1.9× — бумага в огне.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-10T23:39:12+00:00)
-- **Asset**: CYBERLEEK (CYBERLEEK / SOL)
-- **Network**: Solana
-- **DEX**: raydium
-- **Pool Address**: `G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh`
-- **Token Mint**: `ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg`
-- **Price USD**: $0.00531
-- **Change 1h / 6h / 24h**: -0.1% / -6.0% / +150.8%
-- **24h Volume**: $7.55M
-- **Liquidity (TVL)**: $1.14M
-- **FDV**: $3.88M
-- **Hourly Trades**: 905 buys / 587 sells
-- **Pool Age**: Created 2026-08-15T21:07:26Z
-
-## Algorithmic Narrative & Signals
-CYBERLEEK разрывает: +150.8% за 24ч. объём $7.55M больше капы в 1.9× — бумага в огне.
-
-## Risk Flags
-- ⚠️ перегрет за 24ч
-
-## Whale Activity (Relative Tape Filter)
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
-Recent notable orders:
-  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов CYBERLEEK?
-По ончейн-данным пула CYBERLEEK / SOL на DEX raydium (Solana), цена CYBERLEEK составляет $0.00531. Динамика за 24ч: +150.8% (за 1ч: -0.1%, за 6ч: -6.0%). Суточный объём торгов равен $7.55M, общая ликвидность пула (TVL) — $1.14M, FDV — $3.88M. Данные зафиксированы на 2026-10-10T23:39:12+00:00.
-
-### Q: Почему движется цена CYBERLEEK? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: CYBERLEEK разрывает: +150.8% за 24ч. объём $7.55M больше капы в 1.9× — бумага в огне. За последний час в ленте прошло 905 покупок и 587 продаж.
-
-### Q: Есть ли активность китов в пуле CYBERLEEK?
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
-
-### Q: Безопасен ли пул CYBERLEEK и какие ончейн-риски?
-Выявлены следующие факторы риска: перегрет за 24ч. Пул создан 2026-08-15T21:07:26Z. При объёме $7.55M и ликвидности $1.14M возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh.html) — Free public feed for traders and AI agents.*
 
 
 ---

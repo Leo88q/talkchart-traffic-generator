@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "Eq9tFRMHQ2y7pu9Cp1J8WfQMtQWxCm6KqG3E8XqHAxUg",
+    "name": "STRK / USDC",
+    "base_symbol": "STRK",
+    "base_name": "STRK",
+    "base_address": "HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz",
+    "dex": "meteora",
+    "price_usd": 0.10971723697979623,
+    "created_at": "2026-01-15T17:21:27Z",
+    "fdv_usd": 2594755.1427196,
+    "reserve_usd": 298420.0641,
+    "volume_h24": 4784948.92329344,
+    "change": {
+      "h1": 0.953,
+      "h6": 6.211,
+      "h24": 55.651
+    },
+    "tx_h1": {
+      "buys": 358,
+      "sells": 435
+    },
+    "first_seen": "2026-10-11T05:57:02+00:00",
+    "last_seen": "2026-10-11T05:57:02+00:00"
+  },
+  "narrative": "STRK разрывает: +55.7% за 24ч. объём $4.78M больше капы в 1.8× — бумага в огне.",
+  "flags": [
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-11T05:57:02Z"
+}
