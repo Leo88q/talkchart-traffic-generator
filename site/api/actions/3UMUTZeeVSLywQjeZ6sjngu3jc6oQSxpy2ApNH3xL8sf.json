@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SLOPCORE_+218.png",
+  "title": "TalkChart: SLOPCORE (+218.3%) — Solana On-Chain Radar",
+  "description": "SLOPCORE разрывает: +218.3% за 24ч. ликвидность тонкая ($103.7K) — движения будут резкими. пулу 14 дн., история короткая. крупная сделка на фоне ленты: купил $2.9K (106× медианы, 1ч назад). нетто китов за сутки +$2.5K.\n\nОбъём: $945.9K · Ликвидность: $103.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SLOPCORE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-EkFRff9a2jKztJHML1LG9FRmEkPJDR6XAYp3uCPdpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3UMUTZeeVSLywQjeZ6sjngu3jc6oQSxpy2ApNH3xL8sf"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

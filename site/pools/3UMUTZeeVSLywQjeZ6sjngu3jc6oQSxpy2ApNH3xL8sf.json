@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "3UMUTZeeVSLywQjeZ6sjngu3jc6oQSxpy2ApNH3xL8sf",
+    "name": "SLOPCORE / SOL",
+    "base_symbol": "SLOPCORE",
+    "base_name": "SLOPCORE",
+    "base_address": "EkFRff9a2jKztJHML1LG9FRmEkPJDR6XAYp3uCPdpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0008452556400919619,
+    "created_at": "2026-09-28T00:05:20Z",
+    "fdv_usd": 814449.673653065,
+    "reserve_usd": 103701.522,
+    "volume_h24": 945942.558215125,
+    "change": {
+      "h1": 14.5,
+      "h6": 6.23,
+      "h24": 218.276
+    },
+    "tx_h1": {
+      "buys": 144,
+      "sells": 174
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 2873.31,
+        "mult": 106.4,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "AxtZoNYh"
+      },
+      {
+        "kind": "sell",
+        "usd": 1383.3,
+        "mult": 51.2,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "dmuXAmcX"
+      },
+      {
+        "kind": "buy",
+        "usd": 1055.67,
+        "mult": 39.1,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "Ar2Y6o1Q"
+      },
+      {
+        "kind": "sell",
+        "usd": 1000.94,
+        "mult": 37.1,
+        "whale": false,
+        "hours_ago": 0.8,
+        "addr8": "Ar2Y6o1Q"
+      },
+      {
+        "kind": "buy",
+        "usd": 966.11,
+        "mult": 35.8,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "BouYopHx"
+      }
+    ],
+    "first_seen": "2026-10-11T20:23:53+00:00",
+    "last_seen": "2026-10-11T20:23:53+00:00"
+  },
+  "narrative": "SLOPCORE разрывает: +218.3% за 24ч. ликвидность тонкая ($103.7K) — движения будут резкими. пулу 14 дн., история короткая. крупная сделка на фоне ленты: купил $2.9K (106× медианы, 1ч назад). нетто китов за сутки +$2.5K.",
+  "flags": [
+    "тонкая ликвидность",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $2.9K (106× медианы). Нетто-поток китов: +$2.5K.",
+  "updated_at": "2026-10-11T20:23:53Z"
+}

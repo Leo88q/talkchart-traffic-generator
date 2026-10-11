@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DRMR_+51.png",
+  "title": "TalkChart: DRMR (+50.6%) — Solana On-Chain Radar",
+  "description": "DRMR разрывает: +50.6% за 24ч. давление продаж нарастает. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($128.7K) — движения будут резкими. крупная сделка на фоне ленты: продал $1.4K (93× медианы, 1ч назад). нетто китов за сутки −$5.8K.\n\nОбъём: $695.3K · Ликвидность: $128.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DRMR (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4wbt5gf46kCt9dhzNFVtAEn5PnFr56U5HTpw27TVytvV"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

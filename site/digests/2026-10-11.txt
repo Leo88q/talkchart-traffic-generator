@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-11
-1. QT +2338.8% — QT разрывает: +2338.8% за 24ч. давление продаж нарастает
-2. KILOS +1193.9% — KILOS разрывает: +1193.9% за 24ч. объём $137.3K больше капы в 3.0× — бумага в огне
-3. ALOIS +649.2% — ALOIS разрывает: +649.2% за 24ч. давление продаж нарастает
-4. CLAUDIA +154.2% — CLAUDIA разрывает: +154.2% за 24ч. пулу 5 дн., история короткая.
-5. Altai +134.5% — Altai разрывает: +134.5% за 24ч. объём $13.42M больше капы в 30.9× — бумага в огне
+1. DOPE +3607.4% — DOPE разрывает: +3607.4% за 24ч. объём $8.65M больше капы в 5.4× — бумага в огне
+2. ALOIS +1072.8% — ALOIS разрывает: +1072.8% за 24ч. объём $2.66M больше капы в 2.4× — бумага в огне
+3. QT +404.9% — QT разрывает: +404.9% за 24ч. давление продаж нарастает
+4. SLOPCORE +218.3% — SLOPCORE разрывает: +218.3% за 24ч. ликвидность тонкая ($103.7K) — движения будут резкими
+5. CLAUDIA +176.9% — CLAUDIA разрывает: +176.9% за 24ч. пулу 5 дн., история короткая
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/FkkNXVYbRt22BQEf9mbmSwiW35oiG5ion2QmnAsfvRAt.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

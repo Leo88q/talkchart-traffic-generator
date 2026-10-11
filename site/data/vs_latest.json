@@ -1,17 +1,17 @@
 {
-  "slug": "qt-vs-kilos",
+  "slug": "dope-vs-alois",
   "token1": {
-    "symbol": "QT",
-    "change_24h": 2338.82,
-    "address": "FkkNXVYbRt22BQEf9mbmSwiW35oiG5ion2QmnAsfvRAt",
-    "volume": 2194638.4254041
+    "symbol": "DOPE",
+    "change_24h": 3607.425,
+    "address": "6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ",
+    "volume": 8645005.58401554
   },
   "token2": {
-    "symbol": "KILOS",
-    "change_24h": 1193.858,
-    "address": "56a6DYhPkj1r5yW57ba4UyLc2qqpRGUVbsT3PbaSRpW",
-    "volume": 137311.143346111
+    "symbol": "ALOIS",
+    "change_24h": 1072.793,
+    "address": "3N91PMvHgu6mntZjYZPJ1f7U8vToWxkpp8zNYtUWkjgU",
+    "volume": 2659339.57415684
   },
-  "verdict": "По ончейн-метрикам TalkChart: QT опережает по ценовому импульсу (+2338.8% против +1193.9%). Кроме того, у QT существенно глубже пул ликвидности ($146.1K против $1.00), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: QT.",
-  "updated_at": "2026-10-11 15:00 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: DOPE опережает по ценовому импульсу (+3607.4% против +1072.8%). Краткосрочный фаворит по совокупности факторов: DOPE.",
+  "updated_at": "2026-10-11 20:24 UTC"
 }
