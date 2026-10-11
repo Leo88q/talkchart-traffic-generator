@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "3N91PMvHgu6mntZjYZPJ1f7U8vToWxkpp8zNYtUWkjgU",
+    "name": "ALOIS / SOL",
+    "base_symbol": "ALOIS",
+    "base_name": "ALOIS",
+    "base_address": "2Dx7XJQp2LGdq14nP98swmtUhfhHz8FVs98bt11Mpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0005115355594733305,
+    "created_at": "2026-10-09T07:24:28Z",
+    "fdv_usd": 487706.487253509,
+    "reserve_usd": 66279.4858,
+    "volume_h24": 1930490.76581033,
+    "change": {
+      "h1": -31.509,
+      "h6": -2.908,
+      "h24": 649.217
+    },
+    "tx_h1": {
+      "buys": 255,
+      "sells": 215
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 2073.65,
+        "mult": 107.0,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "4hwPamSo"
+      },
+      {
+        "kind": "sell",
+        "usd": 968.74,
+        "mult": 50.0,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "DFKoZRv6"
+      },
+      {
+        "kind": "sell",
+        "usd": 745.12,
+        "mult": 38.4,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "AAu5Wzcy"
+      },
+      {
+        "kind": "sell",
+        "usd": 635.43,
+        "mult": 32.8,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 625.95,
+        "mult": 32.3,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "DFKoZRv6"
+      }
+    ],
+    "first_seen": "2026-10-11T15:00:03+00:00",
+    "last_seen": "2026-10-11T15:00:03+00:00"
+  },
+  "narrative": "ALOIS разрывает: +649.2% за 24ч. давление продаж нарастает. объём $1.93M больше капы в 4.0× — бумага в огне. ликвидность тонкая ($66.3K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.1K (107× медианы, 0ч назад). нетто китов за сутки −$5.0K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (0 покупок, 5 продаж). Крупнейшая: продажа на $2.1K (107× медианы). Нетто-поток китов: $-5.0K.",
+  "updated_at": "2026-10-11T15:00:03Z"
+}

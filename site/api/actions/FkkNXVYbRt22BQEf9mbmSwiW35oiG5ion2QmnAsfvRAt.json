@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/QT_+2339.png",
+  "title": "TalkChart: QT (+2338.8%) — Solana On-Chain Radar",
+  "description": "QT разрывает: +2338.8% за 24ч. давление продаж нарастает. покупатели доминируют (65% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($146.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.19M · Ликвидность: $146.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп QT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9LAHK5YvCqQCzX5CBw6xF5yFVUzXqoAHWtoofqk2pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FkkNXVYbRt22BQEf9mbmSwiW35oiG5ion2QmnAsfvRAt"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
