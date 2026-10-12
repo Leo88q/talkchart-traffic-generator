@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-11T20:24:09+00:00",
+ "generated_at": "2026-10-12T06:08:17+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-11/DOPE.mp4",
+   "file": "videos/2026-10-12/DOPE.mp4",
    "latest_file": "videos/latest/DOPE.mp4",
    "symbol": "DOPE",
-   "chg_h24": 3607.425
+   "chg_h24": 3117.148
   },
   {
-   "file": "videos/2026-10-11/ALOIS.mp4",
-   "latest_file": "videos/latest/ALOIS.mp4",
-   "symbol": "ALOIS",
-   "chg_h24": 1072.793
+   "file": "videos/2026-10-12/FIGHT.mp4",
+   "latest_file": "videos/latest/FIGHT.mp4",
+   "symbol": "FIGHT",
+   "chg_h24": 355.483
   },
   {
-   "file": "videos/2026-10-11/QT.mp4",
-   "latest_file": "videos/latest/QT.mp4",
-   "symbol": "QT",
-   "chg_h24": 404.886
+   "file": "videos/2026-10-12/Normie.mp4",
+   "latest_file": "videos/latest/Normie.mp4",
+   "symbol": "Normie",
+   "chg_h24": 230.898
   }
  ]
 }

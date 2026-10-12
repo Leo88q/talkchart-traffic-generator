@@ -1,17 +1,17 @@
 {
-  "slug": "dope-vs-alois",
+  "slug": "dope-vs-fight",
   "token1": {
     "symbol": "DOPE",
-    "change_24h": 3607.425,
+    "change_24h": 3117.148,
     "address": "6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ",
-    "volume": 8645005.58401554
+    "volume": 10518743.5221866
   },
   "token2": {
-    "symbol": "ALOIS",
-    "change_24h": 1072.793,
-    "address": "3N91PMvHgu6mntZjYZPJ1f7U8vToWxkpp8zNYtUWkjgU",
-    "volume": 2659339.57415684
+    "symbol": "FIGHT",
+    "change_24h": 355.483,
+    "address": "BoW9h5GBqdNR55fKE3VHdzNgPLANzmYKY1eiqmx1DRLZ",
+    "volume": 432856.906517918
   },
-  "verdict": "По ончейн-метрикам TalkChart: DOPE опережает по ценовому импульсу (+3607.4% против +1072.8%). Краткосрочный фаворит по совокупности факторов: DOPE.",
-  "updated_at": "2026-10-11 20:24 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: DOPE опережает по ценовому импульсу (+3117.1% против +355.5%). Кроме того, у DOPE существенно глубже пул ликвидности ($133.9K против $40.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: DOPE.",
+  "updated_at": "2026-10-12 06:08 UTC"
 }

@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "4powEghZAR3Qd2HpbKrkyq8bB3dy7vAnSZHbQ3rSXrYh",
+    "name": "Normie / PUMP",
+    "base_symbol": "Normie",
+    "base_name": "Normie",
+    "base_address": "DzMwArmdzPqcqgvyqAmTxy79XdA9NwK9mMteqWLJpump",
+    "dex": "pumpswap",
+    "price_usd": 0.000587989943415862,
+    "created_at": "2026-10-11T09:34:16Z",
+    "fdv_usd": 603150.819344429,
+    "reserve_usd": 79975.1104,
+    "volume_h24": 3708318.96110672,
+    "change": {
+      "h1": 6.151,
+      "h6": 3.819,
+      "h24": 230.898
+    },
+    "tx_h1": {
+      "buys": 253,
+      "sells": 180
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 2219.13,
+        "mult": 210.3,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "9shTdYV1"
+      },
+      {
+        "kind": "buy",
+        "usd": 1259.23,
+        "mult": 119.3,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "CrYCFyfb"
+      },
+      {
+        "kind": "buy",
+        "usd": 1143.49,
+        "mult": 108.3,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "8phyD98L"
+      },
+      {
+        "kind": "sell",
+        "usd": 674.59,
+        "mult": 63.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "4iBbavcJ"
+      },
+      {
+        "kind": "buy",
+        "usd": 672.8,
+        "mult": 63.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "2orGyHSp"
+      }
+    ],
+    "first_seen": "2026-10-12T06:08:03+00:00",
+    "last_seen": "2026-10-12T06:08:03+00:00"
+  },
+  "narrative": "Normie разрывает: +230.9% за 24ч. объём $3.71M больше капы в 6.1× — бумага в огне. ликвидность тонкая ($80.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.2K (210× медианы, 0ч назад). нетто китов за сутки +$181.80.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $2.2K (210× медианы). Нетто-поток китов: +$181.80.",
+  "updated_at": "2026-10-12T06:08:03Z"
+}

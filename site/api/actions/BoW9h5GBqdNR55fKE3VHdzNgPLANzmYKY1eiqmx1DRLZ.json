@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FIGHT_+355.png",
+  "title": "TalkChart: FIGHT (+355.5%) — Solana On-Chain Radar",
+  "description": "FIGHT разрывает: +355.5% за 24ч. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $432.9K больше капы в 2.1× — бумага в огне. ликвидность тонкая ($40.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $432.9K · Ликвидность: $40.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FIGHT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-A8JUiZLzjGAsKxE74evdspHcuW4hvhPbvryDhaDZpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BoW9h5GBqdNR55fKE3VHdzNgPLANzmYKY1eiqmx1DRLZ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
