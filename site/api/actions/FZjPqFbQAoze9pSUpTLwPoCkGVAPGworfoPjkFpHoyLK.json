@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FARM_+386.png",
+  "title": "TalkChart: FARM (+386.2%) — Solana On-Chain Radar",
+  "description": "FARM разрывает: +386.2% за 24ч. давление продаж нарастает. объём $2.81M больше капы в 13.3× — бумага в огне. ликвидность тонкая ($53.9K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.81M · Ликвидность: $53.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FARM (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-hKyXZVKmrBDPhKKhdSaaGf1qrFwUkwjqrdzRc63farm"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FZjPqFbQAoze9pSUpTLwPoCkGVAPGworfoPjkFpHoyLK"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

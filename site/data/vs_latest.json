@@ -1,17 +1,17 @@
 {
-  "slug": "dope-vs-fight",
+  "slug": "solamians-vs-fight",
   "token1": {
-    "symbol": "DOPE",
-    "change_24h": 3117.148,
-    "address": "6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ",
-    "volume": 10518743.5221866
+    "symbol": "Solamians",
+    "change_24h": 537.101,
+    "address": "89DxSaK1YZx8TbPapMSSEgkEdhYuhYBo26BytgELrJBd",
+    "volume": 3946331.31560266
   },
   "token2": {
     "symbol": "FIGHT",
-    "change_24h": 355.483,
+    "change_24h": 441.128,
     "address": "BoW9h5GBqdNR55fKE3VHdzNgPLANzmYKY1eiqmx1DRLZ",
-    "volume": 432856.906517918
+    "volume": 993015.710531017
   },
-  "verdict": "По ончейн-метрикам TalkChart: DOPE опережает по ценовому импульсу (+3117.1% против +355.5%). Кроме того, у DOPE существенно глубже пул ликвидности ($133.9K против $40.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: DOPE.",
-  "updated_at": "2026-10-12 06:08 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Solamians опережает по ценовому импульсу (+537.1% против +441.1%). Краткосрочный фаворит по совокупности факторов: Solamians.",
+  "updated_at": "2026-10-12 18:02 UTC"
 }

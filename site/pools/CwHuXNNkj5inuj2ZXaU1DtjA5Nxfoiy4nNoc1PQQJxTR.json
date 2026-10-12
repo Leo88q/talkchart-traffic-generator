@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "CwHuXNNkj5inuj2ZXaU1DtjA5Nxfoiy4nNoc1PQQJxTR",
+    "name": "W / SOL",
+    "base_symbol": "W",
+    "base_name": "W",
+    "base_address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+    "dex": "orca",
+    "price_usd": 0.021395206036577488,
+    "created_at": "2024-04-03T09:54:00Z",
+    "fdv_usd": 213931023.3214,
+    "reserve_usd": 182745.7769,
+    "volume_h24": 11234634.7181059,
+    "change": {
+      "h1": -2.105,
+      "h6": -17.608,
+      "h24": 7.642
+    },
+    "tx_h1": {
+      "buys": 1540,
+      "sells": 1007
+    },
+    "first_seen": "2026-10-12T18:02:27+00:00",
+    "last_seen": "2026-10-12T18:02:27+00:00"
+  },
+  "narrative": "W в боковике: +7.6% за сутки. ликвидность тонкая ($182.7K) — движения будут резкими.",
+  "flags": [
+    "тонкая ликвидность"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-12T18:02:27Z"
+}

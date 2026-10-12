@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Solamians_+537.png",
+  "title": "TalkChart: Solamians (+537.1%) — Solana On-Chain Radar",
+  "description": "Solamians разрывает: +537.1% за 24ч. давление продаж нарастает. объём $3.95M больше капы в 14.5× — бумага в огне. ликвидность тонкая ($51.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $492.93 (44× медианы, 0ч назад). нетто китов за сутки −$266.74.\n\nОбъём: $3.95M · Ликвидность: $51.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Solamians (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8ZP5CzbPL1fmP8dn1GEmLd8xw1JdudUF5Dk7EpLxpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=89DxSaK1YZx8TbPapMSSEgkEdhYuhYBo26BytgELrJBd"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

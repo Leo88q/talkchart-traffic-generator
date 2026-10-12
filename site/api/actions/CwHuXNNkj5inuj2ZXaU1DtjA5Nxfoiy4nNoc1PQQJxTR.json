@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/W_+8.png",
+  "title": "TalkChart: W (+7.6%) — Solana On-Chain Radar",
+  "description": "W в боковике: +7.6% за сутки. ликвидность тонкая ($182.7K) — движения будут резкими.\n\nОбъём: $11.23M · Ликвидность: $182.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп W (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CwHuXNNkj5inuj2ZXaU1DtjA5Nxfoiy4nNoc1PQQJxTR"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
