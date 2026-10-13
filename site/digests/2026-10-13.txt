@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-13
-1. CRAWLER +8544.2% — CRAWLER разрывает: +8544.2% за 24ч. ускорение в последнем часе
-2. VEIL +5297.7% — VEIL разрывает: +5297.7% за 24ч. покупатели доминируют (62% сделок за час)
-3. LOAD +4179.1% — LOAD разрывает: +4179.1% за 24ч. ускорение в последнем часе
-4. HIRE +2263.6% — HIRE разрывает: +2263.6% за 24ч. ускорение в последнем часе
-5. MarsX +1254.2% — MarsX разрывает: +1254.2% за 24ч. объём $5.17M больше капы в 11.4× — бумага в огне
+1. VEIL +6910.8% — VEIL разрывает: +6910.8% за 24ч. покупатели доминируют (63% сделок за час)
+2. CRAWLER +5125.0% — CRAWLER разрывает: +5125.0% за 24ч. давление продаж нарастает
+3. SEALS +1448.7% — SEALS разрывает: +1448.7% за 24ч. объём $5.66M больше капы в 8.5× — бумага в огне
+4. DOPE +216.6% — DOPE разрывает: +216.6% за 24ч. ускорение в последнем часе
+5. FIGHT -98.7% — FIGHT в обвале: -98.7% за 24ч. покупатели доминируют (67% сделок за час)
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/AnrCHvfJUzMtos8DGjpT2XKurVPPYAVLDturASNwXcd4.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

@@ -6,19 +6,19 @@
     "base_name": "MOBY",
     "base_address": "Cy1GS2FqefgaMbi45UunrUzin1rfEmTUYnomddzBpump",
     "dex": "raydium",
-    "price_usd": 0.002370358305086934,
+    "price_usd": 0.0026403159604241186,
     "created_at": "2025-01-13T18:07:24Z",
-    "fdv_usd": 2390984.04565773,
-    "reserve_usd": 424497.7132,
-    "volume_h24": 1139309.3621184,
+    "fdv_usd": 2640160.7555592,
+    "reserve_usd": 450172.7449,
+    "volume_h24": 1254124.18312411,
     "change": {
-      "h1": -3.085,
-      "h6": 0.558,
-      "h24": 63.527
+      "h1": -3.168,
+      "h6": 9.549,
+      "h24": 87.311
     },
     "tx_h1": {
-      "buys": 55,
-      "sells": 51
+      "buys": 84,
+      "sells": 72
     },
     "ohlcv_h1": [
       [
@@ -407,12 +407,54 @@
       ]
     ],
     "first_seen": "2026-10-13T11:54:21+00:00",
-    "last_seen": "2026-10-13T11:54:21+00:00"
+    "last_seen": "2026-10-13T19:21:33+00:00",
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 9536.99,
+        "mult": 989.6,
+        "whale": false,
+        "hours_ago": 1.2,
+        "addr8": "8M7viwiZ"
+      },
+      {
+        "kind": "buy",
+        "usd": 1721.51,
+        "mult": 178.6,
+        "whale": false,
+        "hours_ago": 1.2,
+        "addr8": "8EfJcw5w"
+      },
+      {
+        "kind": "buy",
+        "usd": 1548.35,
+        "mult": 160.7,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "Anx9D1KJ"
+      },
+      {
+        "kind": "buy",
+        "usd": 1445.6,
+        "mult": 150.0,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "HoE9o1jw"
+      },
+      {
+        "kind": "sell",
+        "usd": 1286.3,
+        "mult": 133.5,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "FkHTzD6M"
+      }
+    ]
   },
-  "narrative": "MOBY разрывает: +63.5% за 24ч.",
+  "narrative": "MOBY разрывает: +87.3% за 24ч. крупная сделка на фоне ленты: купил $9.5K (990× медианы, 1ч назад). нетто китов за сутки +$13.0K.",
   "flags": [
     "перегрет за 24ч"
   ],
-  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
-  "updated_at": "2026-10-13T11:54:21Z"
+  "whale_summary": "Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $9.5K (990× медианы). Нетто-поток китов: +$13.0K.",
+  "updated_at": "2026-10-13T19:21:33Z"
 }

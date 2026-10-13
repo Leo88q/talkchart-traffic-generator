@@ -1,17 +1,17 @@
 {
-  "slug": "crawler-vs-veil",
+  "slug": "veil-vs-crawler",
   "token1": {
-    "symbol": "CRAWLER",
-    "change_24h": 8544.198,
-    "address": "AnrCHvfJUzMtos8DGjpT2XKurVPPYAVLDturASNwXcd4",
-    "volume": 6931284.88136318
+    "symbol": "VEIL",
+    "change_24h": 6910.761,
+    "address": "4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E",
+    "volume": 4716855.55880876
   },
   "token2": {
-    "symbol": "VEIL",
-    "change_24h": 5297.654,
-    "address": "4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E",
-    "volume": 3008583.74871064
+    "symbol": "CRAWLER",
+    "change_24h": 5125.009,
+    "address": "AnrCHvfJUzMtos8DGjpT2XKurVPPYAVLDturASNwXcd4",
+    "volume": 8455218.53805187
   },
-  "verdict": "По ончейн-метрикам TalkChart: CRAWLER опережает по ценовому импульсу (+8544.2% против +5297.7%). Кроме того, у CRAWLER существенно глубже пул ликвидности ($440.3K против $151.6K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CRAWLER.",
-  "updated_at": "2026-10-13 11:54 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: VEIL опережает по ценовому импульсу (+6910.8% против +5125.0%). Краткосрочный фаворит по совокупности факторов: VEIL.",
+  "updated_at": "2026-10-13 19:21 UTC"
 }

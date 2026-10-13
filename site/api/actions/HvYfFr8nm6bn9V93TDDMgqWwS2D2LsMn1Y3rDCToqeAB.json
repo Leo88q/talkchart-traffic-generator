@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SEALS_+1449.png",
+  "title": "TalkChart: SEALS (+1448.7%) — Solana On-Chain Radar",
+  "description": "SEALS разрывает: +1448.7% за 24ч. объём $5.66M больше капы в 8.5× — бумага в огне. ликвидность тонкая ($80.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $991.47 (102× медианы, 0ч назад). нетто китов за сутки +$170.11.\n\nОбъём: $5.66M · Ликвидность: $80.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SEALS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3sKaoPryg4KrXubLWtoqF7MznLT7QNqKRxMMkkxTpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HvYfFr8nm6bn9V93TDDMgqWwS2D2LsMn1Y3rDCToqeAB"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
