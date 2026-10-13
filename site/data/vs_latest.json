@@ -1,17 +1,17 @@
 {
-  "slug": "veil-vs-crawler",
+  "slug": "seals-vs-veil",
   "token1": {
-    "symbol": "VEIL",
-    "change_24h": 6910.761,
-    "address": "4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E",
-    "volume": 4716855.55880876
+    "symbol": "SEALS",
+    "change_24h": 1960.948,
+    "address": "HvYfFr8nm6bn9V93TDDMgqWwS2D2LsMn1Y3rDCToqeAB",
+    "volume": 9269735.14045394
   },
   "token2": {
-    "symbol": "CRAWLER",
-    "change_24h": 5125.009,
-    "address": "AnrCHvfJUzMtos8DGjpT2XKurVPPYAVLDturASNwXcd4",
-    "volume": 8455218.53805187
+    "symbol": "VEIL",
+    "change_24h": 600.679,
+    "address": "4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E",
+    "volume": 4984624.26124326
   },
-  "verdict": "По ончейн-метрикам TalkChart: VEIL опережает по ценовому импульсу (+6910.8% против +5125.0%). Краткосрочный фаворит по совокупности факторов: VEIL.",
-  "updated_at": "2026-10-13 19:21 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: SEALS опережает по ценовому импульсу (+1960.9% против +600.7%). Кроме того, у VEIL более надёжная ликвидность ($370.8K против $100.0K). Краткосрочный фаворит по совокупности факторов: VEIL.",
+  "updated_at": "2026-10-13 23:47 UTC"
 }
