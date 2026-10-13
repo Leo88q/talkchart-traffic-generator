@@ -1,17 +1,17 @@
 {
-  "slug": "load-vs-hire",
+  "slug": "crawler-vs-veil",
   "token1": {
-    "symbol": "LOAD",
-    "change_24h": 4702.647,
-    "address": "DCyrA6dumbKmSZk77cWv1wfZfjtBDYQjLjoHwvBxK3U1",
-    "volume": 5719720.09708984
+    "symbol": "CRAWLER",
+    "change_24h": 8544.198,
+    "address": "AnrCHvfJUzMtos8DGjpT2XKurVPPYAVLDturASNwXcd4",
+    "volume": 6931284.88136318
   },
   "token2": {
-    "symbol": "HIRE",
-    "change_24h": 1246.283,
-    "address": "2U5kdozDrdgYzyGRNbTdBejGLYEeRt1FkERQmyPbV85P",
-    "volume": 6887467.57835177
+    "symbol": "VEIL",
+    "change_24h": 5297.654,
+    "address": "4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E",
+    "volume": 3008583.74871064
   },
-  "verdict": "По ончейн-метрикам TalkChart: LOAD опережает по ценовому импульсу (+4702.6% против +1246.3%). Кроме того, у LOAD существенно глубже пул ликвидности ($158.6K против $76.5K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: LOAD.",
-  "updated_at": "2026-10-13 02:06 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: CRAWLER опережает по ценовому импульсу (+8544.2% против +5297.7%). Кроме того, у CRAWLER существенно глубже пул ликвидности ($440.3K против $151.6K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CRAWLER.",
+  "updated_at": "2026-10-13 11:54 UTC"
 }

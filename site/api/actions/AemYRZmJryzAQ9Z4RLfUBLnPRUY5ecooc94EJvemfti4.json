@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MOBY_+64.png",
+  "title": "TalkChart: MOBY (+63.5%) — Solana On-Chain Radar",
+  "description": "MOBY разрывает: +63.5% за 24ч.\n\nОбъём: $1.14M · Ликвидность: $424.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MOBY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Cy1GS2FqefgaMbi45UunrUzin1rfEmTUYnomddzBpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AemYRZmJryzAQ9Z4RLfUBLnPRUY5ecooc94EJvemfti4"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

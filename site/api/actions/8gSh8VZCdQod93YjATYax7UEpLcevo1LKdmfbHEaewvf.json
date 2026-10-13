@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/sanctuary_+110.png",
+  "title": "TalkChart: sanctuary (+109.8%) — Solana On-Chain Radar",
+  "description": "sanctuary разрывает: +109.8% за 24ч. давление продаж нарастает. объём $1.99M больше капы в 21.6× — бумага в огне. ликвидность тонкая ($27.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.99M · Ликвидность: $27.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп sanctuary (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7hDr2fvmp62yVqqeUQRFsjcvJeHUG6eWR6xsiMdcpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8gSh8VZCdQod93YjATYax7UEpLcevo1LKdmfbHEaewvf"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

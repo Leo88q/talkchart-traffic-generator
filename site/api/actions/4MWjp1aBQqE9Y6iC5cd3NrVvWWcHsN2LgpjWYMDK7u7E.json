@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/VEIL_+5298.png",
+  "title": "TalkChart: VEIL (+5297.7%) — Solana On-Chain Radar",
+  "description": "VEIL разрывает: +5297.7% за 24ч. покупатели доминируют (62% сделок за час). ликвидность тонкая ($151.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.6K (237× медианы, 0ч назад). нетто китов за сутки −$1.9K.\n\nОбъём: $3.01M · Ликвидность: $151.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп VEIL (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HgTGdc29D5bDMrDvsCLnorxz899VyDj7ZN7FPa6vpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
