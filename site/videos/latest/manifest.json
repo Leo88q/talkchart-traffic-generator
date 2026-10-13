@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-12T18:02:43+00:00",
+ "generated_at": "2026-10-13T02:06:35+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-12/Solamians.mp4",
-   "latest_file": "videos/latest/Solamians.mp4",
-   "symbol": "Solamians",
-   "chg_h24": 537.101
+   "file": "videos/2026-10-13/LOAD.mp4",
+   "latest_file": "videos/latest/LOAD.mp4",
+   "symbol": "LOAD",
+   "chg_h24": 4702.647
   },
   {
-   "file": "videos/2026-10-12/FIGHT.mp4",
-   "latest_file": "videos/latest/FIGHT.mp4",
-   "symbol": "FIGHT",
-   "chg_h24": 441.128
+   "file": "videos/2026-10-13/HIRE.mp4",
+   "latest_file": "videos/latest/HIRE.mp4",
+   "symbol": "HIRE",
+   "chg_h24": 1246.283
   },
   {
-   "file": "videos/2026-10-12/FARM.mp4",
-   "latest_file": "videos/latest/FARM.mp4",
-   "symbol": "FARM",
-   "chg_h24": 386.21
+   "file": "videos/2026-10-13/MarsX.mp4",
+   "latest_file": "videos/latest/MarsX.mp4",
+   "symbol": "MarsX",
+   "chg_h24": 621.091
   }
  ]
 }

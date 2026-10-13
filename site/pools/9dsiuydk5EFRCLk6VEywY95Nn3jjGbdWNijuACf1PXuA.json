@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "9dsiuydk5EFRCLk6VEywY95Nn3jjGbdWNijuACf1PXuA",
+    "name": "MarsX / SOL",
+    "base_symbol": "MarsX",
+    "base_name": "MarsX",
+    "base_address": "Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump",
+    "dex": "pumpswap",
+    "price_usd": 0.00024734435677567046,
+    "created_at": "2026-10-12T17:38:39Z",
+    "fdv_usd": 242335.487411886,
+    "reserve_usd": 48983.635,
+    "volume_h24": 4297277.04601696,
+    "change": {
+      "h1": -11.104,
+      "h6": 31.857,
+      "h24": 621.091
+    },
+    "tx_h1": {
+      "buys": 442,
+      "sells": 353
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 725.55,
+        "mult": 69.9,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "FHpcNSe6"
+      },
+      {
+        "kind": "sell",
+        "usd": 655.76,
+        "mult": 63.2,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "5wm22x84"
+      },
+      {
+        "kind": "sell",
+        "usd": 634.15,
+        "mult": 61.1,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "FayJcAAn"
+      },
+      {
+        "kind": "buy",
+        "usd": 624.07,
+        "mult": 60.2,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "DWvsuYKV"
+      },
+      {
+        "kind": "buy",
+        "usd": 621.32,
+        "mult": 59.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "AgmLJBMD"
+      }
+    ],
+    "first_seen": "2026-10-13T02:06:25+00:00",
+    "last_seen": "2026-10-13T02:06:25+00:00"
+  },
+  "narrative": "MarsX разрывает: +621.1% за 24ч. объём $4.30M больше капы в 17.7× — бумага в огне. ликвидность тонкая ($49.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $725.55 (70× медианы, 0ч назад). нетто китов за сутки −$770.07.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $725.55 (70× медианы). Нетто-поток китов: $-770.07.",
+  "updated_at": "2026-10-13T02:06:26Z"
+}

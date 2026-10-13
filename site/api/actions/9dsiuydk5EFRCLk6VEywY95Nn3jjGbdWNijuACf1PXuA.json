@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MarsX_+621.png",
+  "title": "TalkChart: MarsX (+621.1%) — Solana On-Chain Radar",
+  "description": "MarsX разрывает: +621.1% за 24ч. объём $4.30M больше капы в 17.7× — бумага в огне. ликвидность тонкая ($49.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $725.55 (70× медианы, 0ч назад). нетто китов за сутки −$770.07.\n\nОбъём: $4.30M · Ликвидность: $49.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MarsX (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Fak3rJEBfR4Vb8DoFpecf6yoxbkkr1gGUH5tdj2rpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=9dsiuydk5EFRCLk6VEywY95Nn3jjGbdWNijuACf1PXuA"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

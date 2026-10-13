@@ -1,17 +1,17 @@
 {
-  "slug": "solamians-vs-fight",
+  "slug": "load-vs-hire",
   "token1": {
-    "symbol": "Solamians",
-    "change_24h": 537.101,
-    "address": "89DxSaK1YZx8TbPapMSSEgkEdhYuhYBo26BytgELrJBd",
-    "volume": 3946331.31560266
+    "symbol": "LOAD",
+    "change_24h": 4702.647,
+    "address": "DCyrA6dumbKmSZk77cWv1wfZfjtBDYQjLjoHwvBxK3U1",
+    "volume": 5719720.09708984
   },
   "token2": {
-    "symbol": "FIGHT",
-    "change_24h": 441.128,
-    "address": "BoW9h5GBqdNR55fKE3VHdzNgPLANzmYKY1eiqmx1DRLZ",
-    "volume": 993015.710531017
+    "symbol": "HIRE",
+    "change_24h": 1246.283,
+    "address": "2U5kdozDrdgYzyGRNbTdBejGLYEeRt1FkERQmyPbV85P",
+    "volume": 6887467.57835177
   },
-  "verdict": "По ончейн-метрикам TalkChart: Solamians опережает по ценовому импульсу (+537.1% против +441.1%). Краткосрочный фаворит по совокупности факторов: Solamians.",
-  "updated_at": "2026-10-12 18:02 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: LOAD опережает по ценовому импульсу (+4702.6% против +1246.3%). Кроме того, у LOAD существенно глубже пул ликвидности ($158.6K против $76.5K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: LOAD.",
+  "updated_at": "2026-10-13 02:06 UTC"
 }

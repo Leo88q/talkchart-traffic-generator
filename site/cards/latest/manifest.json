@@ -1,64 +1,64 @@
 {
- "generated_at": "2026-10-12T18:02:28+00:00",
+ "generated_at": "2026-10-13T02:06:26+00:00",
  "cards": [
   {
-   "file": "cards/2026-10-12/Solamians_+537.png",
+   "file": "cards/2026-10-13/LOAD_+4702.png",
+   "symbol": "LOAD",
+   "chg_h24": 4702.647,
+   "address": "DCyrA6dumbKmSZk77cWv1wfZfjtBDYQjLjoHwvBxK3U1",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/DCyrA6dumbKmSZk77cWv1wfZfjtBDYQjLjoHwvBxK3U1.html",
+   "latest_file": "cards/latest/LOAD_+4702.png"
+  },
+  {
+   "file": "cards/2026-10-13/HIRE_+1246.png",
+   "symbol": "HIRE",
+   "chg_h24": 1246.283,
+   "address": "2U5kdozDrdgYzyGRNbTdBejGLYEeRt1FkERQmyPbV85P",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/2U5kdozDrdgYzyGRNbTdBejGLYEeRt1FkERQmyPbV85P.html",
+   "latest_file": "cards/latest/HIRE_+1246.png"
+  },
+  {
+   "file": "cards/2026-10-13/MarsX_+621.png",
+   "symbol": "MarsX",
+   "chg_h24": 621.091,
+   "address": "9dsiuydk5EFRCLk6VEywY95Nn3jjGbdWNijuACf1PXuA",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/9dsiuydk5EFRCLk6VEywY95Nn3jjGbdWNijuACf1PXuA.html",
+   "latest_file": "cards/latest/MarsX_+621.png"
+  },
+  {
+   "file": "cards/2026-10-13/Solamians_+180.png",
    "symbol": "Solamians",
-   "chg_h24": 537.101,
+   "chg_h24": 180.866,
    "address": "89DxSaK1YZx8TbPapMSSEgkEdhYuhYBo26BytgELrJBd",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/89DxSaK1YZx8TbPapMSSEgkEdhYuhYBo26BytgELrJBd.html",
-   "latest_file": "cards/latest/Solamians_+537.png"
+   "pool_url": "https://leo88q.github.io/content-/site/pools/89DxSaK1YZx8TbPapMSSEgkEdhYuhYBo26BytgELrJBd.html"
   },
   {
-   "file": "cards/2026-10-12/FIGHT_+441.png",
+   "file": "cards/2026-10-13/FIGHT_+159.png",
    "symbol": "FIGHT",
-   "chg_h24": 441.128,
+   "chg_h24": 159.171,
    "address": "BoW9h5GBqdNR55fKE3VHdzNgPLANzmYKY1eiqmx1DRLZ",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/BoW9h5GBqdNR55fKE3VHdzNgPLANzmYKY1eiqmx1DRLZ.html",
-   "latest_file": "cards/latest/FIGHT_+441.png"
+   "pool_url": "https://leo88q.github.io/content-/site/pools/BoW9h5GBqdNR55fKE3VHdzNgPLANzmYKY1eiqmx1DRLZ.html"
   },
   {
-   "file": "cards/2026-10-12/FARM_+386.png",
-   "symbol": "FARM",
-   "chg_h24": 386.21,
-   "address": "FZjPqFbQAoze9pSUpTLwPoCkGVAPGworfoPjkFpHoyLK",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/FZjPqFbQAoze9pSUpTLwPoCkGVAPGworfoPjkFpHoyLK.html",
-   "latest_file": "cards/latest/FARM_+386.png"
-  },
-  {
-   "file": "cards/2026-10-12/DOPE_-47.png",
+   "file": "cards/2026-10-13/DOPE_-67.png",
    "symbol": "DOPE",
-   "chg_h24": -47.16,
+   "chg_h24": -67.574,
    "address": "6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ",
    "pool_url": "https://leo88q.github.io/content-/site/pools/6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ.html"
   },
   {
-   "file": "cards/2026-10-12/CYBERLEEK_-45.png",
+   "file": "cards/2026-10-13/CYBERLEEK_-55.png",
    "symbol": "CYBERLEEK",
-   "chg_h24": -45.924,
+   "chg_h24": -55.105,
    "address": "G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh",
    "pool_url": "https://leo88q.github.io/content-/site/pools/G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh.html"
   },
   {
-   "file": "cards/2026-10-12/swordcat_+41.png",
-   "symbol": "swordcat",
-   "chg_h24": 41.691,
-   "address": "8ewuF2o8ACro7fqWepZ3tKhkbBjndZU4Ldk9scRPw83d",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/8ewuF2o8ACro7fqWepZ3tKhkbBjndZU4Ldk9scRPw83d.html"
-  },
-  {
-   "file": "cards/2026-10-12/CLAUDIA_-40.png",
+   "file": "cards/2026-10-13/CLAUDIA_-51.png",
    "symbol": "CLAUDIA",
-   "chg_h24": -40.524,
+   "chg_h24": -51.43,
    "address": "Fe7bpDYCs74GqiCUF14HwgUMToPKV1d9mDYVX5BTohFr",
    "pool_url": "https://leo88q.github.io/content-/site/pools/Fe7bpDYCs74GqiCUF14HwgUMToPKV1d9mDYVX5BTohFr.html"
-  },
-  {
-   "file": "cards/2026-10-12/KILOS_-36.png",
-   "symbol": "KILOS",
-   "chg_h24": -36.006,
-   "address": "29kWVzHvEjYYVW5Y4eU3be1pB23QqZTGZqHdjhjfjKqw",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/29kWVzHvEjYYVW5Y4eU3be1pB23QqZTGZqHdjhjfjKqw.html"
   }
  ]
 }

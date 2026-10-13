@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/LOAD_+4703.png",
+  "title": "TalkChart: LOAD (+4702.6%) — Solana On-Chain Radar",
+  "description": "LOAD разрывает: +4702.6% за 24ч. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($158.6K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $5.72M · Ликвидность: $158.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп LOAD (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8sWe4GzK1YqG3vyzKHf8ZyB1WB5asofw2o6TqgFePtPo"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DCyrA6dumbKmSZk77cWv1wfZfjtBDYQjLjoHwvBxK3U1"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
