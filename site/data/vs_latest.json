@@ -2,16 +2,16 @@
   "slug": "saindra-vs-omni",
   "token1": {
     "symbol": "SAINDRA",
-    "change_24h": 1003.849,
+    "change_24h": 1110.491,
     "address": "9hjKmterUjufRaYUrSTEHEYJZg83LQ52behux54LSeF6",
-    "volume": 3101243.66205679
+    "volume": 3257954.09309587
   },
   "token2": {
     "symbol": "OMNI",
-    "change_24h": 967.673,
+    "change_24h": 681.906,
     "address": "QVCymnis5qQJEJRZPgbEJnNKrQdNkhJtTFk7v1xqu9D",
-    "volume": 1576290.79542059
+    "volume": 1619546.1533569
   },
-  "verdict": "По ончейн-метрикам TalkChart: SAINDRA опережает по ценовому импульсу (+1003.8% против +967.7%). Краткосрочный фаворит по совокупности факторов: SAINDRA.",
-  "updated_at": "2026-10-14 20:16 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: SAINDRA опережает по ценовому импульсу (+1110.5% против +681.9%). Краткосрочный фаворит по совокупности факторов: SAINDRA.",
+  "updated_at": "2026-10-14 23:20 UTC"
 }

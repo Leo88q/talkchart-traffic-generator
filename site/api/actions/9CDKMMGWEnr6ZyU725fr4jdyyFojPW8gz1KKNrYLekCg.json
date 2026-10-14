@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ROSE_+71.png",
+  "title": "TalkChart: ROSE (+70.7%) — Solana On-Chain Radar",
+  "description": "ROSE разрывает: +70.7% за 24ч. продают в рынок (63% сделок за час). суточный памп остывает. ликвидность тонкая ($60.9K) — движения будут резкими. пулу 3 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.2K (92× медианы, 2ч назад). нетто китов за сутки +$3.8K.\n\nОбъём: $379.6K · Ликвидность: $60.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ROSE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7b6dX3nE25xrfNViEKZHL9wVJFcBxQYuWPpmzHUxx28H"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=9CDKMMGWEnr6ZyU725fr4jdyyFojPW8gz1KKNrYLekCg"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
