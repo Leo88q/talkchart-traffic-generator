@@ -1,17 +1,17 @@
 {
-  "slug": "altai-vs-seals",
+  "slug": "altai-vs-veil",
   "token1": {
     "symbol": "Altai",
-    "change_24h": 1752.384,
+    "change_24h": 1364.363,
     "address": "DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt",
-    "volume": 6364220.02480926
+    "volume": 7116378.11903403
   },
   "token2": {
-    "symbol": "SEALS",
-    "change_24h": 1388.821,
-    "address": "HvYfFr8nm6bn9V93TDDMgqWwS2D2LsMn1Y3rDCToqeAB",
-    "volume": 9642765.2374691
+    "symbol": "VEIL",
+    "change_24h": 272.834,
+    "address": "4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E",
+    "volume": 7149051.92822658
   },
-  "verdict": "По ончейн-метрикам TalkChart: Altai опережает по ценовому импульсу (+1752.4% против +1388.8%). Кроме того, у Altai существенно глубже пул ликвидности ($239.0K против $84.9K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Altai.",
-  "updated_at": "2026-10-14 05:01 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Altai опережает по ценовому импульсу (+1364.4% против +272.8%). Краткосрочный фаворит по совокупности факторов: Altai.",
+  "updated_at": "2026-10-14 13:49 UTC"
 }

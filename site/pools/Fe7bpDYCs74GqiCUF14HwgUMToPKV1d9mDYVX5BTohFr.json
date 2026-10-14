@@ -6,19 +6,19 @@
     "base_name": "CLAUDIA",
     "base_address": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
     "dex": "pumpswap",
-    "price_usd": 0.004038900045886964,
+    "price_usd": 0.0055719634897656335,
     "created_at": "2026-10-07T01:44:30Z",
-    "fdv_usd": 3822154.22272664,
-    "reserve_usd": 257506.0408,
-    "volume_h24": 1623036.9285818,
+    "fdv_usd": 5273479.11425357,
+    "reserve_usd": 301274.6111,
+    "volume_h24": 2881628.44747978,
     "change": {
-      "h1": 1.774,
-      "h6": -8.621,
-      "h24": -9.318
+      "h1": -1.411,
+      "h6": -10.898,
+      "h24": 37.449
     },
     "tx_h1": {
-      "buys": 586,
-      "sells": 551
+      "buys": 265,
+      "sells": 207
     },
     "ohlcv_h1": [
       [
@@ -408,53 +408,51 @@
     ],
     "whales": [
       {
+        "kind": "sell",
+        "usd": 2150.41,
+        "mult": 43.2,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "E2v6KnUp"
+      },
+      {
         "kind": "buy",
-        "usd": 1161.52,
-        "mult": 52.2,
+        "usd": 1766.06,
+        "mult": 35.5,
         "whale": false,
         "hours_ago": 0.4,
-        "addr8": "3CdG3mga"
-      },
-      {
-        "kind": "sell",
-        "usd": 1081.2,
-        "mult": 48.6,
-        "whale": false,
-        "hours_ago": 0.3,
-        "addr8": "HBu2sMsP"
+        "addr8": "4pSdEkze"
       },
       {
         "kind": "buy",
-        "usd": 1057.01,
-        "mult": 47.5,
+        "usd": 1581.65,
+        "mult": 31.8,
         "whale": false,
-        "hours_ago": 0.3,
-        "addr8": "3gw9qKR2"
+        "hours_ago": 0.5,
+        "addr8": "4pSdEkze"
       },
       {
         "kind": "sell",
-        "usd": 1015.52,
-        "mult": 45.7,
+        "usd": 1178.44,
+        "mult": 23.7,
         "whale": false,
-        "hours_ago": 0.2,
-        "addr8": "7Yxs5JKM"
+        "hours_ago": 0.1,
+        "addr8": "4pKGtqvp"
       },
       {
-        "kind": "buy",
-        "usd": 993.82,
-        "mult": 44.7,
+        "kind": "sell",
+        "usd": 1160.4,
+        "mult": 23.3,
         "whale": false,
-        "hours_ago": 0.2,
-        "addr8": "D3zAG2Kb"
+        "hours_ago": 0.4,
+        "addr8": "HfvoVQSH"
       }
     ],
     "first_seen": "2026-10-07T15:38:16+00:00",
-    "last_seen": "2026-10-14T05:01:41+00:00"
+    "last_seen": "2026-10-14T13:49:25+00:00"
   },
-  "narrative": "CLAUDIA теряет -9.3% за сутки. пулу 7 дн., история короткая. крупная сделка на фоне ленты: купил $1.2K (52× медианы, 0ч назад). нетто китов за сутки +$1.1K.",
-  "flags": [
-    "молодой пул"
-  ],
-  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $1.2K (52× медианы). Нетто-поток китов: +$1.1K.",
-  "updated_at": "2026-10-14T05:01:42Z"
+  "narrative": "CLAUDIA разрывает: +37.4% за 24ч. пулу 8 дн., история короткая. крупная сделка на фоне ленты: продал $2.2K (43× медианы, 0ч назад). нетто китов за сутки −$1.1K.",
+  "flags": [],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $2.2K (43× медианы). Нетто-поток китов: $-1.1K.",
+  "updated_at": "2026-10-14T13:49:26Z"
 }
