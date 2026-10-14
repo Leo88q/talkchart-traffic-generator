@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/UNICORN_+74.png",
+  "title": "TalkChart: UNICORN (+74.2%) — Solana On-Chain Radar",
+  "description": "UNICORN разрывает: +74.2% за 24ч. объём $2.28M больше капы в 31.3× — бумага в огне. ликвидность тонкая ($25.5K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $576.42 (42× медианы, 2ч назад). нетто китов за сутки −$637.11.\n\nОбъём: $2.28M · Ликвидность: $25.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп UNICORN (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4dLxcTxJQnkMmCKkkVoLcKgsRjj7CpGJYuwVU1repump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5fqSRTcMQ52388KvDg9bqr3PGDVBEXEwqMbDyFEfjRF"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

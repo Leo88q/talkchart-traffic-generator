@@ -1,17 +1,17 @@
 {
-  "slug": "altai-vs-veil",
+  "slug": "saindra-vs-omni",
   "token1": {
-    "symbol": "Altai",
-    "change_24h": 1364.363,
-    "address": "DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt",
-    "volume": 7116378.11903403
+    "symbol": "SAINDRA",
+    "change_24h": 1003.849,
+    "address": "9hjKmterUjufRaYUrSTEHEYJZg83LQ52behux54LSeF6",
+    "volume": 3101243.66205679
   },
   "token2": {
-    "symbol": "VEIL",
-    "change_24h": 272.834,
-    "address": "4MWjp1aBQqE9Y6iC5cd3NrVvWWcHsN2LgpjWYMDK7u7E",
-    "volume": 7149051.92822658
+    "symbol": "OMNI",
+    "change_24h": 967.673,
+    "address": "QVCymnis5qQJEJRZPgbEJnNKrQdNkhJtTFk7v1xqu9D",
+    "volume": 1576290.79542059
   },
-  "verdict": "По ончейн-метрикам TalkChart: Altai опережает по ценовому импульсу (+1364.4% против +272.8%). Краткосрочный фаворит по совокупности факторов: Altai.",
-  "updated_at": "2026-10-14 13:49 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: SAINDRA опережает по ценовому импульсу (+1003.8% против +967.7%). Краткосрочный фаворит по совокупности факторов: SAINDRA.",
+  "updated_at": "2026-10-14 20:16 UTC"
 }

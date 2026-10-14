@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-14
-1. Altai +1364.4% — Altai разрывает: +1364.4% за 24ч. объём $7.12M больше капы в 3.8× — бумага в огне
-2. VEIL +272.8% — VEIL разрывает: +272.8% за 24ч. пулу 2 дн
-3. FLOYD +138.2% — FLOYD разрывает: +138.2% за 24ч. объём $4.31M больше капы в 46.0× — бумага в огне
-4. CRAWLER -95.8% — CRAWLER в обвале: -95.8% за 24ч. покупатели доминируют (74% сделок за час)
-5. ARCADES +78.2% — ARCADES разрывает: +78.2% за 24ч. давление продаж нарастает
+1. SAINDRA +1003.8% — SAINDRA разрывает: +1003.8% за 24ч. объём $3.10M больше капы в 6.3× — бумага в огне
+2. OMNI +967.7% — OMNI разрывает: +967.7% за 24ч. ликвидность тонкая ($134.6K) — движения будут резкими
+3. FLOYD +471.3% — FLOYD разрывает: +471.3% за 24ч. давление продаж нарастает
+4. Altai +99.1% — Altai разрывает: +99.1% за 24ч. давление продаж нарастает
+5. CRAWLER -95.3% — CRAWLER в обвале: -95.3% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/DMEUT8UV5JX8G7jB7TP9XyfBUrP5z7p6VPLSE2WbbRHt.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/9hjKmterUjufRaYUrSTEHEYJZg83LQ52behux54LSeF6.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
