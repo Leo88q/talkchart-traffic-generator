@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-13T23:47:44+00:00",
+ "generated_at": "2026-10-14T05:01:53+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-13/SEALS.mp4",
+   "file": "videos/2026-10-14/Altai.mp4",
+   "latest_file": "videos/latest/Altai.mp4",
+   "symbol": "Altai",
+   "chg_h24": 1752.384
+  },
+  {
+   "file": "videos/2026-10-14/SEALS.mp4",
    "latest_file": "videos/latest/SEALS.mp4",
    "symbol": "SEALS",
-   "chg_h24": 1960.948
+   "chg_h24": 1388.821
   },
   {
-   "file": "videos/2026-10-13/VEIL.mp4",
-   "latest_file": "videos/latest/VEIL.mp4",
-   "symbol": "VEIL",
-   "chg_h24": 600.679
-  },
-  {
-   "file": "videos/2026-10-13/CRAWLER.mp4",
-   "latest_file": "videos/latest/CRAWLER.mp4",
-   "symbol": "CRAWLER",
-   "chg_h24": 244.219
+   "file": "videos/2026-10-14/DOPE.mp4",
+   "latest_file": "videos/latest/DOPE.mp4",
+   "symbol": "DOPE",
+   "chg_h24": 323.503
   }
  ]
 }
