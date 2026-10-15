@@ -1,17 +1,17 @@
 {
-  "slug": "saindra-vs-rose",
+  "slug": "stream-vs-hatchan",
   "token1": {
-    "symbol": "SAINDRA",
-    "change_24h": 1387.261,
-    "address": "9hjKmterUjufRaYUrSTEHEYJZg83LQ52behux54LSeF6",
-    "volume": 3614887.30142645
+    "symbol": "STREAM",
+    "change_24h": 1840.166,
+    "address": "D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ",
+    "volume": 4611764.00182145
   },
   "token2": {
-    "symbol": "ROSE",
-    "change_24h": 91.21,
-    "address": "9CDKMMGWEnr6ZyU725fr4jdyyFojPW8gz1KKNrYLekCg",
-    "volume": 350893.424110043
+    "symbol": "Hatchan",
+    "change_24h": 328.517,
+    "address": "HgQ1JjWgMdD3K9hmsKHvctZnmFXzQ2pn1gPpRU1swDYe",
+    "volume": 1118085.41175226
   },
-  "verdict": "По ончейн-метрикам TalkChart: SAINDRA опережает по ценовому импульсу (+1387.3% против +91.2%). Кроме того, у SAINDRA объём превышает ликвидность в 45.4× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: SAINDRA.",
-  "updated_at": "2026-10-15 04:50 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: STREAM опережает по ценовому импульсу (+1840.2% против +328.5%). Кроме того, у STREAM существенно глубже пул ликвидности ($244.5K против $16.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: STREAM.",
+  "updated_at": "2026-10-15 13:32 UTC"
 }

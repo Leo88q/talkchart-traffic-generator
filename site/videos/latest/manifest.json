@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-15T04:50:10+00:00",
+ "generated_at": "2026-10-15T13:32:07+00:00",
  "videos": [
+  {
+   "file": "videos/2026-10-15/STREAM.mp4",
+   "latest_file": "videos/latest/STREAM.mp4",
+   "symbol": "STREAM",
+   "chg_h24": 1840.166
+  },
+  {
+   "file": "videos/2026-10-15/Hatchan.mp4",
+   "latest_file": "videos/latest/Hatchan.mp4",
+   "symbol": "Hatchan",
+   "chg_h24": 328.517
+  },
   {
    "file": "videos/2026-10-15/SAINDRA.mp4",
    "latest_file": "videos/latest/SAINDRA.mp4",
    "symbol": "SAINDRA",
-   "chg_h24": 1387.261
-  },
-  {
-   "file": "videos/2026-10-15/CRAWLER.mp4",
-   "latest_file": "videos/latest/CRAWLER.mp4",
-   "symbol": "CRAWLER",
-   "chg_h24": -98.543
-  },
-  {
-   "file": "videos/2026-10-15/ROSE.mp4",
-   "latest_file": "videos/latest/ROSE.mp4",
-   "symbol": "ROSE",
-   "chg_h24": 91.21
+   "chg_h24": 154.931
   }
  ]
 }

@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-15
-1. SAINDRA +1387.3% — SAINDRA разрывает: +1387.3% за 24ч. ускорение в последнем часе
-2. CRAWLER -98.5% — CRAWLER в обвале: -98.5% за 24ч. покупатели доминируют (89% сделок за час)
-3. ROSE +91.2% — ROSE разрывает: +91.2% за 24ч. ликвидность тонкая ($58.3K) — движения будут резкими
-4. Altai -87.3% — Altai в обвале: -87.3% за 24ч. давление продаж нарастает
-5. DOPE +60.0% — DOPE разрывает: +60.0% за 24ч. ликвидность тонкая ($239.9K) — движения будут резкими
+1. STREAM +1840.2% — STREAM разрывает: +1840.2% за 24ч. покупатели доминируют (67% сделок за час)
+2. Hatchan +328.5% — Hatchan разрывает: +328.5% за 24ч. давление продаж нарастает
+3. SAINDRA +154.9% — SAINDRA разрывает: +154.9% за 24ч. давление продаж нарастает
+4. Pepper +137.7% — Pepper разрывает: +137.7% за 24ч. давление продаж нарастает
+5. CRAWLER -95.2% — CRAWLER в обвале: -95.2% за 24ч. объём $2.50M больше капы в 56.6× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/9hjKmterUjufRaYUrSTEHEYJZg83LQ52behux54LSeF6.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

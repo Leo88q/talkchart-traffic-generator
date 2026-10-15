@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "HgQ1JjWgMdD3K9hmsKHvctZnmFXzQ2pn1gPpRU1swDYe",
+    "name": "Hatchan / SOL",
+    "base_symbol": "Hatchan",
+    "base_name": "Hatchan",
+    "base_address": "FaVCaBWZmZ9m7J2dSJVgoCfDFQamchmsgia3Q2SHpump",
+    "dex": "pumpswap",
+    "price_usd": 3.72857422138491e-05,
+    "created_at": "2026-10-14T07:22:35Z",
+    "fdv_usd": 37387.2267699999,
+    "reserve_usd": 15977.141,
+    "volume_h24": 1118085.41175226,
+    "change": {
+      "h1": -39.761,
+      "h6": -53.898,
+      "h24": 328.517
+    },
+    "tx_h1": {
+      "buys": 82,
+      "sells": 56
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 819.27,
+        "mult": 40.7,
+        "whale": false,
+        "hours_ago": 1.7,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 706.31,
+        "mult": 35.1,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "8XyuCwxZ"
+      },
+      {
+        "kind": "buy",
+        "usd": 669.15,
+        "mult": 33.2,
+        "whale": false,
+        "hours_ago": 1.9,
+        "addr8": "Ffrcjazq"
+      },
+      {
+        "kind": "sell",
+        "usd": 593.45,
+        "mult": 29.5,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "6HdYhksa"
+      },
+      {
+        "kind": "buy",
+        "usd": 465.96,
+        "mult": 23.1,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "7W5bJqzJ"
+      }
+    ],
+    "first_seen": "2026-10-15T13:31:51+00:00",
+    "last_seen": "2026-10-15T13:31:51+00:00"
+  },
+  "narrative": "Hatchan разрывает: +328.5% за 24ч. давление продаж нарастает. объём $1.12M больше капы в 29.9× — бумага в огне. ликвидность тонкая ($16.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $819.27 (41× медианы, 2ч назад). нетто китов за сутки +$654.62.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $819.27 (41× медианы). Нетто-поток китов: +$654.62.",
+  "updated_at": "2026-10-15T13:31:52Z"
+}

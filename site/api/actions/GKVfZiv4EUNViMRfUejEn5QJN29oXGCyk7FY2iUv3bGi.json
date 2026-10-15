@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Pepper_+138.png",
+  "title": "TalkChart: Pepper (+137.7%) — Solana On-Chain Radar",
+  "description": "Pepper разрывает: +137.7% за 24ч. давление продаж нарастает. ликвидность тонкая ($113.9K) — движения будут резкими. пулу 5 дн., история короткая. крупная сделка на фоне ленты: продал $2.1K (144× медианы, 1ч назад). нетто китов за сутки +$582.58.\n\nОбъём: $1.27M · Ликвидность: $113.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Pepper (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9g4Pib6AM3oVdP9YA7ZcssAXAuhoUzkjR8w27doYpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GKVfZiv4EUNViMRfUejEn5QJN29oXGCyk7FY2iUv3bGi"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
