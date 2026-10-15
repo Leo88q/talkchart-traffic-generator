@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Groklet_+1007.png",
+  "title": "TalkChart: Groklet (+1007.2%) — Solana On-Chain Radar",
+  "description": "Groklet разрывает: +1007.2% за 24ч. объём $2.14M больше капы в 6.9× — бумага в огне. ликвидность тонкая ($55.9K) — движения будут резкими.\n\nОбъём: $2.14M · Ликвидность: $55.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Groklet (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4qH8A5GxvRMZgpRFjXASc6U9HAoEzKeUqxY2dPB7pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7oDjba4hZozvNWboKSRwFetStnM4iA5WiTKwFr1Lsy8t"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

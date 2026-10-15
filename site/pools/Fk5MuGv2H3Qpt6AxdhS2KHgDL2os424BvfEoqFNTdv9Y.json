@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
+    "name": "FTR / SOL",
+    "base_symbol": "FTR",
+    "base_name": "FTR",
+    "base_address": "DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0019773009326608934,
+    "created_at": "2026-10-15T02:08:32Z",
+    "fdv_usd": 1980762.407,
+    "reserve_usd": 137373.6462,
+    "volume_h24": 4631275.6367615,
+    "change": {
+      "h1": -4.804,
+      "h6": 171.968,
+      "h24": 4316.082
+    },
+    "tx_h1": {
+      "buys": 1784,
+      "sells": 1289
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 4472.0,
+        "mult": 260.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "GsuchvzR"
+      },
+      {
+        "kind": "buy",
+        "usd": 1556.76,
+        "mult": 90.5,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "9EwQoN74"
+      },
+      {
+        "kind": "buy",
+        "usd": 1486.32,
+        "mult": 86.4,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "7d5AwbNN"
+      },
+      {
+        "kind": "sell",
+        "usd": 1128.99,
+        "mult": 65.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "CASU2cvW"
+      },
+      {
+        "kind": "buy",
+        "usd": 1008.35,
+        "mult": 58.6,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "Bf5i5AaL"
+      }
+    ],
+    "first_seen": "2026-10-15T19:57:53+00:00",
+    "last_seen": "2026-10-15T19:57:53+00:00"
+  },
+  "narrative": "FTR разрывает: +4316.1% за 24ч. объём $4.63M больше капы в 2.3× — бумага в огне. ликвидность тонкая ($137.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (260× медианы, 0ч назад). нетто китов за сутки −$1.5K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $4.5K (260× медианы). Нетто-поток китов: $-1.5K.",
+  "updated_at": "2026-10-15T19:57:53Z"
+}

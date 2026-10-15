@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CyberAxe_+256.png",
+  "title": "TalkChart: CyberAxe (+256.1%) — Solana On-Chain Radar",
+  "description": "CyberAxe разрывает: +256.1% за 24ч. объём $2.13M больше капы в 13.7× — бумага в огне. ликвидность тонкая ($35.9K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.0K (111× медианы, 1ч назад). нетто китов за сутки −$2.7K.\n\nОбъём: $2.13M · Ликвидность: $35.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CyberAxe (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2Srf6mhufzWJKZ5nniVXgwamLmDJWXPQBmddJ1MMpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AJE7eWHJMBjvwib78dGwS8iZxb7bGx7NXLZVXX6xMHn6"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
