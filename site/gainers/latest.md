@@ -1,16 +1,16 @@
 # Solana Top Gainers (24h) — 2026-10-15
 
-> Automated on-chain leaderboard from TalkChart. Updated 2026-10-15 19:57 UTC.
+> Automated on-chain leaderboard from TalkChart. Updated 2026-10-15 23:08 UTC.
 
 | # | Symbol | 24h Change | 24h Volume | On-Chain Narrative |
 |---|--------|------------|------------|-------------------|
 | 1 | [BABYCALI](https://leo88q.github.io/content-/site/pools/9u9iogoJTjavJt8uW8GxqpTnaZo9xKtKFCA2nJKbaSK.md) | +11465.7% | $2.60M | BABYCALI разрывает: +11465.7% за 24ч. ускорение в последнем часе |
-| 2 | [STREAM](https://leo88q.github.io/content-/site/pools/D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ.md) | +5195.8% | $8.18M | STREAM разрывает: +5195.8% за 24ч. покупатели доминируют (69% сделок за час) |
-| 3 | [FTR](https://leo88q.github.io/content-/site/pools/Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y.md) | +4316.1% | $4.63M | FTR разрывает: +4316.1% за 24ч. объём $4.63M больше капы в 2.3× — бумага в огне |
+| 2 | [STREAM](https://leo88q.github.io/content-/site/pools/D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ.md) | +8902.1% | $7.76M | STREAM разрывает: +8902.1% за 24ч. покупатели доминируют (69% сделок за час) |
+| 3 | [FTR](https://leo88q.github.io/content-/site/pools/Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y.md) | +3438.4% | $5.15M | FTR разрывает: +3438.4% за 24ч. покупатели доминируют (63% сделок за час) |
 | 4 | [Mamesuke](https://leo88q.github.io/content-/site/pools/e1hvyUmuimhUJwepvsbtY89PGQyAEwu6z723JYwvJxr.md) | +2540.9% | $1.66M | Mamesuke разрывает: +2540.9% за 24ч. объём $1.66M больше капы в 19.9× — бумага в огне |
 | 5 | [SPLICE](https://leo88q.github.io/content-/site/pools/61Xw4Vm2AHZiQ2bQPtHZynuHoDzpJ2TKnYNjHN4Sjpmm.md) | +2099.7% | $9.11M | SPLICE разрывает: +2099.7% за 24ч. объём $9.11M больше капы в 10.5× — бумага в огне |
 | 6 | [SAPLING](https://leo88q.github.io/content-/site/pools/6ejg4aYJM3Mk1t2zBKjbJ43df3s7rBMpC9mgo526K51G.md) | +1734.1% | $5.70M | SAPLING разрывает: +1734.1% за 24ч. ускорение в последнем часе |
 | 7 | [qOMPUTE](https://leo88q.github.io/content-/site/pools/7F7Q1oKtpuyg7oYyHXzAUszcnmKHRi18BxBVx7DHazPb.md) | +1228.9% | $6.97M | qOMPUTE разрывает: +1228.9% за 24ч. покупатели доминируют (73% сделок за час) |
 | 8 | [Meridian](https://leo88q.github.io/content-/site/pools/6xLfdSfHgxHSLgFt58BTv9z35qsGbmpqLdMU2FwsG2Tf.md) | +1077.2% | $3.66M | Meridian разрывает: +1077.2% за 24ч. объём $3.66M больше капы в 6.4× — бумага в огне |
 | 9 | [ALOIS](https://leo88q.github.io/content-/site/pools/3N91PMvHgu6mntZjYZPJ1f7U8vToWxkpp8zNYtUWkjgU.md) | +1072.8% | $2.66M | ALOIS разрывает: +1072.8% за 24ч. объём $2.66M больше капы в 2.4× — бумага в огне |
-| 10 | [Groklet](https://leo88q.github.io/content-/site/pools/7oDjba4hZozvNWboKSRwFetStnM4iA5WiTKwFr1Lsy8t.md) | +1007.2% | $2.14M | Groklet разрывает: +1007.2% за 24ч. объём $2.14M больше капы в 6.9× — бумага в огне |
+| 10 | [Groklet](https://leo88q.github.io/content-/site/pools/7oDjba4hZozvNWboKSRwFetStnM4iA5WiTKwFr1Lsy8t.md) | +921.3% | $2.18M | Groklet разрывает: +921.3% за 24ч. объём $2.18M больше капы в 7.8× — бумага в огне |

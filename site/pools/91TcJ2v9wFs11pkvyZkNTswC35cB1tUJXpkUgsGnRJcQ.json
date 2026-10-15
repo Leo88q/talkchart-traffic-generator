@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "91TcJ2v9wFs11pkvyZkNTswC35cB1tUJXpkUgsGnRJcQ",
+    "name": "STREAM / SOL",
+    "base_symbol": "STREAM",
+    "base_name": "STREAM",
+    "base_address": "Diy4Q5aiNEcdn7CWhuwYtuoHtHD9rKBTHCa9hi4qpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0001902795601521332,
+    "created_at": "2026-10-15T16:04:35Z",
+    "fdv_usd": 188365.422205206,
+    "reserve_usd": 38835.2101,
+    "volume_h24": 2548166.05240276,
+    "change": {
+      "h1": -23.162,
+      "h6": -63.304,
+      "h24": 288.544
+    },
+    "tx_h1": {
+      "buys": 206,
+      "sells": 191
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 816.35,
+        "mult": 78.0,
+        "whale": false,
+        "hours_ago": 0.8,
+        "addr8": "AN5oK8dN"
+      },
+      {
+        "kind": "buy",
+        "usd": 711.4,
+        "mult": 67.9,
+        "whale": false,
+        "hours_ago": 0.7,
+        "addr8": "A7Z9rygQ"
+      },
+      {
+        "kind": "sell",
+        "usd": 466.41,
+        "mult": 44.5,
+        "whale": false,
+        "hours_ago": 0.7,
+        "addr8": "CqpNYvFB"
+      },
+      {
+        "kind": "sell",
+        "usd": 460.74,
+        "mult": 44.0,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "5arSmMfA"
+      },
+      {
+        "kind": "sell",
+        "usd": 427.01,
+        "mult": 40.8,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "3TBuRNE9"
+      }
+    ],
+    "first_seen": "2026-10-15T23:08:15+00:00",
+    "last_seen": "2026-10-15T23:08:15+00:00"
+  },
+  "narrative": "STREAM разрывает: +288.5% за 24ч. давление продаж нарастает. объём $2.55M больше капы в 13.5× — бумага в огне. ликвидность тонкая ($38.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $816.35 (78× медианы, 1ч назад). нетто китов за сутки −$1.5K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $816.35 (78× медианы). Нетто-поток китов: $-1.5K.",
+  "updated_at": "2026-10-15T23:08:16Z"
+}
