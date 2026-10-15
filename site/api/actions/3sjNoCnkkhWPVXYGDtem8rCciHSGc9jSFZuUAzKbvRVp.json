@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ZEREBRO_+47.png",
+  "title": "TalkChart: ZEREBRO (+47.2%) — Solana On-Chain Radar",
+  "description": "ZEREBRO разрывает: +47.2% за 24ч. стакан глубокий: $3.48M ликвидности. крупная сделка на фоне ленты: продал $3.1K (34× медианы, 0ч назад). нетто китов за сутки −$7.4K.\n\nОбъём: $9.55M · Ликвидность: $3.48M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ZEREBRO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3sjNoCnkkhWPVXYGDtem8rCciHSGc9jSFZuUAzKbvRVp"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
