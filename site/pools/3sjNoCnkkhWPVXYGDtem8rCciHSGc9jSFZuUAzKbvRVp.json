@@ -6,19 +6,19 @@
     "base_name": "ZEREBRO",
     "base_address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
     "dex": "raydium",
-    "price_usd": 0.03448873688829981,
+    "price_usd": 0.032682759943146254,
     "created_at": "2024-10-28T19:08:28Z",
-    "fdv_usd": 34486871.9036588,
-    "reserve_usd": 3229266.5061,
-    "volume_h24": 10989569.5692153,
+    "fdv_usd": 32680992.6074644,
+    "reserve_usd": 3162125.7033,
+    "volume_h24": 10417835.1426242,
     "change": {
-      "h1": -2.798,
-      "h6": -15.01,
-      "h24": -25.146
+      "h1": -1.183,
+      "h6": -8.659,
+      "h24": -35.311
     },
     "tx_h1": {
-      "buys": 479,
-      "sells": 554
+      "buys": 198,
+      "sells": 294
     },
     "ohlcv_h1": [
       [
@@ -409,50 +409,50 @@
     "whales": [
       {
         "kind": "sell",
-        "usd": 3142.22,
-        "mult": 33.8,
+        "usd": 1826.94,
+        "mult": 29.7,
         "whale": false,
-        "hours_ago": 0.2,
-        "addr8": "9FMUjZHC"
+        "hours_ago": 0.6,
+        "addr8": "GV272Sam"
       },
       {
         "kind": "sell",
-        "usd": 3074.27,
-        "mult": 33.1,
+        "usd": 1578.15,
+        "mult": 25.7,
         "whale": false,
-        "hours_ago": 0.2,
-        "addr8": "MfDuWeqS"
+        "hours_ago": 0.4,
+        "addr8": "E4AUxSvV"
       },
       {
-        "kind": "sell",
-        "usd": 1163.94,
-        "mult": 12.5,
+        "kind": "buy",
+        "usd": 1170.79,
+        "mult": 19.1,
         "whale": false,
-        "hours_ago": 0.1,
-        "addr8": "8StkTM9B"
-      },
-      {
-        "kind": "sell",
-        "usd": 1163.92,
-        "mult": 12.5,
-        "whale": false,
-        "hours_ago": 0.1,
+        "hours_ago": 0.5,
         "addr8": "8StkTM9B"
       },
       {
         "kind": "buy",
-        "usd": 1163.9,
-        "mult": 12.5,
+        "usd": 806.65,
+        "mult": 13.1,
         "whale": false,
-        "hours_ago": 0.1,
-        "addr8": "8StkTM9B"
+        "hours_ago": 0.4,
+        "addr8": "9FMUjZHC"
+      },
+      {
+        "kind": "buy",
+        "usd": 804.09,
+        "mult": 13.1,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "9FMUjZHC"
       }
     ],
     "first_seen": "2026-10-15T04:50:01+00:00",
-    "last_seen": "2026-10-16T19:37:28+00:00"
+    "last_seen": "2026-10-16T22:55:54+00:00"
   },
-  "narrative": "ZEREBRO в обвале: -25.1% за 24ч. стакан глубокий: $3.23M ликвидности. крупная сделка на фоне ленты: продал $3.1K (34× медианы, 0ч назад). нетто китов за сутки −$7.4K.",
+  "narrative": "ZEREBRO в обвале: -35.3% за 24ч. стакан глубокий: $3.16M ликвидности. крупная сделка на фоне ленты: продал $1.8K (30× медианы, 1ч назад). нетто китов за сутки −$623.56.",
   "flags": [],
-  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $3.1K (34× медианы). Нетто-поток китов: $-7.4K.",
-  "updated_at": "2026-10-16T19:37:28Z"
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $1.8K (30× медианы). Нетто-поток китов: $-623.56.",
+  "updated_at": "2026-10-16T22:55:54Z"
 }

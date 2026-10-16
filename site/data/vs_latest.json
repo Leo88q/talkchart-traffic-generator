@@ -1,17 +1,17 @@
 {
-  "slug": "1-vs-ftr",
+  "slug": "ftr-vs-loom",
   "token1": {
-    "symbol": "1",
-    "change_24h": 992.845,
-    "address": "AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf",
-    "volume": 13380267.9756149
+    "symbol": "FTR",
+    "change_24h": 149.48,
+    "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
+    "volume": 25607020.5851152
   },
   "token2": {
-    "symbol": "FTR",
-    "change_24h": 87.237,
-    "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
-    "volume": 25503819.1023339
+    "symbol": "LOOM",
+    "change_24h": 77.49,
+    "address": "3d8vxMgHA44JnFa8cV3X58uzdV5HfHvLk7q5LHCJnvDG",
+    "volume": 2180444.44922003
   },
-  "verdict": "По ончейн-метрикам TalkChart: 1 опережает по ценовому импульсу (+992.8% против +87.2%). Краткосрочный фаворит по совокупности факторов: 1.",
-  "updated_at": "2026-10-16 19:37 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FTR опережает по ценовому импульсу (+149.5% против +77.5%). Кроме того, у FTR существенно глубже пул ликвидности ($248.9K против $25.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: FTR.",
+  "updated_at": "2026-10-16 22:56 UTC"
 }

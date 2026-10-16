@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-16
-1. 1 +992.8% — 1 разрывает: +992.8% за 24ч. объём $13.38M больше капы в 7.3× — бумага в огне
-2. STREAM -90.3% — STREAM в обвале: -90.3% за 24ч. давление продаж нарастает
-3. FTR +87.2% — FTR разрывает: +87.2% за 24ч. давление продаж нарастает
-4. PsyopAnime +58.1% — PsyopAnime разрывает: +58.1% за 24ч. давление продаж нарастает
-5. SAINDRA -55.4% — SAINDRA в обвале: -55.4% за 24ч. объём $542.7K больше капы в 2.1× — бумага в огне
+1. FTR +149.5% — FTR разрывает: +149.5% за 24ч. объём $25.61M больше капы в 6.3× — бумага в огне
+2. LOOM +77.5% — LOOM разрывает: +77.5% за 24ч. объём $2.18M больше капы в 28.7× — бумага в огне
+3. PsyopAnime +60.9% — PsyopAnime разрывает: +60.9% за 24ч. покупатели доминируют (78% сделок за час)
+4. 1 +47.9% — 1 разрывает: +47.9% за 24ч. давление продаж нарастает
+5. VEIL +47.7% — VEIL разрывает: +47.7% за 24ч. ликвидность тонкая ($244.0K) — движения будут резкими
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
