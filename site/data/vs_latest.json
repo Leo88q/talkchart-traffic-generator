@@ -1,17 +1,17 @@
 {
-  "slug": "stream-vs-ftr",
+  "slug": "ftr-vs-dacity",
   "token1": {
-    "symbol": "STREAM",
-    "change_24h": 8902.142,
-    "address": "D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ",
-    "volume": 7758745.06529303
+    "symbol": "FTR",
+    "change_24h": 1842.272,
+    "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
+    "volume": 20315379.429189
   },
   "token2": {
-    "symbol": "FTR",
-    "change_24h": 3438.41,
-    "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
-    "volume": 5148884.97261273
+    "symbol": "Dacity",
+    "change_24h": 1029.445,
+    "address": "G2UuRbmVDzDFP4qyoBJrSKBXSi7d6V4bPP9tHPs36y4b",
+    "volume": 8231981.10417028
   },
-  "verdict": "По ончейн-метрикам TalkChart: STREAM опережает по ценовому импульсу (+8902.1% против +3438.4%). Кроме того, у STREAM существенно глубже пул ликвидности ($455.7K против $122.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: STREAM.",
-  "updated_at": "2026-10-15 23:08 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FTR опережает по ценовому импульсу (+1842.3% против +1029.4%). Краткосрочный фаворит по совокупности факторов: FTR.",
+  "updated_at": "2026-10-16 04:41 UTC"
 }
