@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/TRUMP_-3.png",
+  "title": "TalkChart: TRUMP (-3.2%) — Solana On-Chain Radar",
+  "description": "TRUMP в боковике: -3.2% за сутки. стакан глубокий: $6.27M ликвидности.\n\nОбъём: $7.01M · Ликвидность: $6.27M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп TRUMP (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3C5YE97HADPDxZehYq9Cis8AXr9aNyrUsczKzE1nDbW9"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

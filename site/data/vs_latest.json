@@ -2,16 +2,16 @@
   "slug": "1-vs-ftr",
   "token1": {
     "symbol": "1",
-    "change_24h": 1212.363,
+    "change_24h": 992.845,
     "address": "AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf",
-    "volume": 11486407.1937465
+    "volume": 13380267.9756149
   },
   "token2": {
     "symbol": "FTR",
-    "change_24h": 966.366,
+    "change_24h": 87.237,
     "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
-    "volume": 24733522.9052005
+    "volume": 25503819.1023339
   },
-  "verdict": "По ончейн-метрикам TalkChart: 1 опережает по ценовому импульсу (+1212.4% против +966.4%). Краткосрочный фаворит по совокупности факторов: 1.",
-  "updated_at": "2026-10-16 13:21 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: 1 опережает по ценовому импульсу (+992.8% против +87.2%). Краткосрочный фаворит по совокупности факторов: 1.",
+  "updated_at": "2026-10-16 19:37 UTC"
 }

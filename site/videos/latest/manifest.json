@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-16T13:21:12+00:00",
+ "generated_at": "2026-10-16T19:37:44+00:00",
  "videos": [
   {
    "file": "videos/2026-10-16/1.mp4",
    "latest_file": "videos/latest/1.mp4",
    "symbol": "1",
-   "chg_h24": 1212.363
+   "chg_h24": 992.845
+  },
+  {
+   "file": "videos/2026-10-16/STREAM.mp4",
+   "latest_file": "videos/latest/STREAM.mp4",
+   "symbol": "STREAM",
+   "chg_h24": -90.345
   },
   {
    "file": "videos/2026-10-16/FTR.mp4",
    "latest_file": "videos/latest/FTR.mp4",
    "symbol": "FTR",
-   "chg_h24": 966.366
-  },
-  {
-   "file": "videos/2026-10-16/OWLDACITY.mp4",
-   "latest_file": "videos/latest/OWLDACITY.mp4",
-   "symbol": "OWLDACITY",
-   "chg_h24": 367.678
+   "chg_h24": 87.237
   }
  ]
 }
