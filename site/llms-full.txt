@@ -12,17 +12,17 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-10-16T04:40:51Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-10-16T13:21:01Z)
 - [TIKTOK](https://leo88q.github.io/content-/site/pools/DFZnu6CaxumwG8MeFv9i3Y4HhMxReyE1EYwHFQeRRCLY.md): TIKTOK / SOL on pumpswap — -91.9% 24h, Vol $140.99M, Liq $0.00298
 - [SOL](https://leo88q.github.io/content-/site/pools/58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2.md): SOL / USDC on raydium — +4.4% 24h, Vol $87.55M, Liq $41.84M
 - [AXIS](https://leo88q.github.io/content-/site/pools/5GHJdhuDttJyZU6D666QDjfa1Q3GXFec3VN1z65fgnGo.md): AXIS / SOL on pumpswap — +175.6% 24h, Vol $44.14M, Liq $6.1e-07
 - [ORCA](https://leo88q.github.io/content-/site/pools/Hxw77h9fEx598afiiZunwHaX3vYu9UskDk9EpPNZp1mG.md): ORCA / SOL on orca — -9.2% 24h, Vol $25.14M, Liq $1.56M
+- [FTR](https://leo88q.github.io/content-/site/pools/Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y.md): FTR / SOL on pumpswap — +966.4% 24h, Vol $24.73M, Liq $277.2K
 - [BP](https://leo88q.github.io/content-/site/pools/6qz7THwQvcjF3HyDGLuKaLBUk6EyJKeZXZMWLAeiwfjd.md): BP / USDC on meteora — +30.0% 24h, Vol $23.84M, Liq $5.62M
-- [FTR](https://leo88q.github.io/content-/site/pools/Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y.md): FTR / SOL on pumpswap — +1842.3% 24h, Vol $20.32M, Liq $228.5K
 - [PUMP](https://leo88q.github.io/content-/site/pools/2uF4Xh61rDwxnG9woyxsVQP7zuA6kLFpb3NvnRQeoiSd.md): PUMP / USDC on pumpswap — -13.6% 24h, Vol $17.87M, Liq $23.34M
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — -8.3% 24h, Vol $16.81M, Liq $2.87M
 - [ANTFUN](https://leo88q.github.io/content-/site/pools/54Vp27uLaw4wNLo5n7r4fcC6zLamoQc28xBARjss4EUJ.md): ANTFUN / USDT on meteora — +105.9% 24h, Vol $15.57M, Liq $18.61M
-- [ZEREBRO](https://leo88q.github.io/content-/site/pools/3sjNoCnkkhWPVXYGDtem8rCciHSGc9jSFZuUAzKbvRVp.md): ZEREBRO / SOL on raydium — -4.9% 24h, Vol $13.50M, Liq $3.47M
+- [ZEREBRO](https://leo88q.github.io/content-/site/pools/3sjNoCnkkhWPVXYGDtem8rCciHSGc9jSFZuUAzKbvRVp.md): ZEREBRO / SOL on raydium — -14.1% 24h, Vol $12.96M, Liq $3.56M
 
 ## Data Interpretation Rules for AI Agents
 1. All USD values are normalized from DEX swap amounts.
@@ -229,6 +229,59 @@ Recent notable orders:
 
 ---
 
+# FTR (FTR / SOL) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: FTR is currently priced at $0.00518 (+966.4% 24h) on pumpswap (Solana). 24h trading volume is $24.73M with $277.2K liquidity. Algorithmic narrative: FTR разрывает: +966.4% за 24ч. объём $24.73M больше капы в 4.8× — бумага в огне. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.5K (95× медианы, 0ч назад). нетто китов за сутки +$430.21.
+
+## Core On-Chain Metrics (Snapshot: 2026-10-16T13:21:00+00:00)
+- **Asset**: FTR (FTR / SOL)
+- **Network**: Solana
+- **DEX**: pumpswap
+- **Pool Address**: `Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y`
+- **Token Mint**: `DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump`
+- **Price USD**: $0.00518
+- **Change 1h / 6h / 24h**: -0.7% / -12.3% / +966.4%
+- **24h Volume**: $24.73M
+- **Liquidity (TVL)**: $277.2K
+- **FDV**: $5.18M
+- **Hourly Trades**: 2205 buys / 1375 sells
+- **Pool Age**: Created 2026-10-15T02:08:32Z
+
+## Algorithmic Narrative & Signals
+FTR разрывает: +966.4% за 24ч. объём $24.73M больше капы в 4.8× — бумага в огне. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.5K (95× медианы, 0ч назад). нетто китов за сутки +$430.21.
+
+## Risk Flags
+- ⚠️ молодой пул
+- ⚠️ перегрет за 24ч
+
+## Whale Activity (Relative Tape Filter)
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $1.5K (95× медианы). Нетто-поток китов: +$430.21.
+Recent notable orders:
+  - BUY $1,532 (95× медианы ленты, 0.1ч назад) кошелёк `8zkgFGVZ`
+  - SELL $691 (43× медианы ленты, 0.1ч назад) кошелёк `98Wvmw2N`
+  - BUY $562 (35× медианы ленты, 0.1ч назад) кошелёк `5Nh6novq`
+  - SELL $502 (31× медианы ленты, 0.1ч назад) кошелёк `BoyLcEmB`
+  - SELL $472 (29× медианы ленты, 0.1ч назад) кошелёк `D9scEq21`
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов FTR?
+По ончейн-данным пула FTR / SOL на DEX pumpswap (Solana), цена FTR составляет $0.00518. Динамика за 24ч: +966.4% (за 1ч: -0.7%, за 6ч: -12.3%). Суточный объём торгов равен $24.73M, общая ликвидность пула (TVL) — $277.2K, FDV — $5.18M. Данные зафиксированы на 2026-10-16T13:21:00+00:00.
+
+### Q: Почему движется цена FTR? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: FTR разрывает: +966.4% за 24ч. объём $24.73M больше капы в 4.8× — бумага в огне. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.5K (95× медианы, 0ч назад). нетто китов за сутки +$430.21. За последний час в ленте прошло 2205 покупок и 1375 продаж.
+
+### Q: Есть ли активность китов в пуле FTR?
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $1.5K (95× медианы). Нетто-поток китов: +$430.21.
+
+### Q: Безопасен ли пул FTR и какие ончейн-риски?
+Выявлены следующие факторы риска: молодой пул; перегрет за 24ч. Пул создан 2026-10-15T02:08:32Z. При объёме $24.73M и ликвидности $277.2K возможны резкие колебания курса и проскальзывание (slippage).
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y.html) — Free public feed for traders and AI agents.*
+
+
+---
+
 # BP (BP / USDC) — On-Chain Analysis & Market Data
 
 > Direct Summary for LLMs: BP is currently priced at $1.33 (+30.0% 24h) on meteora (Solana). 24h trading volume is $23.84M with $5.62M liquidity. Algorithmic narrative: BP разрывает: +30.0% за 24ч. стакан глубокий: $5.62M ликвидности.
@@ -273,60 +326,6 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/6qz7THwQvcjF3HyDGLuKaLBUk6EyJKeZXZMWLAeiwfjd.html) — Free public feed for traders and AI agents.*
-
-
----
-
-# FTR (FTR / SOL) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: FTR is currently priced at $0.00394 (+1842.3% 24h) on pumpswap (Solana). 24h trading volume is $20.32M with $228.5K liquidity. Algorithmic narrative: FTR разрывает: +1842.3% за 24ч. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $20.32M больше капы в 5.2× — бумага в огне. ликвидность тонкая ($228.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (260× медианы, 0ч назад). нетто китов за сутки −$1.5K.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-16T04:40:51+00:00)
-- **Asset**: FTR (FTR / SOL)
-- **Network**: Solana
-- **DEX**: pumpswap
-- **Pool Address**: `Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y`
-- **Token Mint**: `DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump`
-- **Price USD**: $0.00394
-- **Change 1h / 6h / 24h**: -8.3% / +162.3% / +1842.3%
-- **24h Volume**: $20.32M
-- **Liquidity (TVL)**: $228.5K
-- **FDV**: $3.94M
-- **Hourly Trades**: 9059 buys / 5240 sells
-- **Pool Age**: Created 2026-10-15T02:08:32Z
-
-## Algorithmic Narrative & Signals
-FTR разрывает: +1842.3% за 24ч. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $20.32M больше капы в 5.2× — бумага в огне. ликвидность тонкая ($228.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (260× медианы, 0ч назад). нетто китов за сутки −$1.5K.
-
-## Risk Flags
-- ⚠️ тонкая ликвидность
-- ⚠️ молодой пул
-- ⚠️ перегрет за 24ч
-
-## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $4.5K (260× медианы). Нетто-поток китов: $-1.5K.
-Recent notable orders:
-  - SELL $4,472 (260× медианы ленты, 0.1ч назад) кошелёк `GsuchvzR`
-  - BUY $1,557 (90× медианы ленты, 0.1ч назад) кошелёк `9EwQoN74`
-  - BUY $1,486 (86× медианы ленты, 0.1ч назад) кошелёк `7d5AwbNN`
-  - SELL $1,129 (66× медианы ленты, 0.1ч назад) кошелёк `CASU2cvW`
-  - BUY $1,008 (59× медианы ленты, 0.1ч назад) кошелёк `Bf5i5AaL`
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов FTR?
-По ончейн-данным пула FTR / SOL на DEX pumpswap (Solana), цена FTR составляет $0.00394. Динамика за 24ч: +1842.3% (за 1ч: -8.3%, за 6ч: +162.3%). Суточный объём торгов равен $20.32M, общая ликвидность пула (TVL) — $228.5K, FDV — $3.94M. Данные зафиксированы на 2026-10-16T04:40:51+00:00.
-
-### Q: Почему движется цена FTR? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: FTR разрывает: +1842.3% за 24ч. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $20.32M больше капы в 5.2× — бумага в огне. ликвидность тонкая ($228.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (260× медианы, 0ч назад). нетто китов за сутки −$1.5K. За последний час в ленте прошло 9059 покупок и 5240 продаж.
-
-### Q: Есть ли активность китов в пуле FTR?
-Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $4.5K (260× медианы). Нетто-поток китов: $-1.5K.
-
-### Q: Безопасен ли пул FTR и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-15T02:08:32Z. При объёме $20.32M и ликвидности $228.5K возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y.html) — Free public feed for traders and AI agents.*
 
 
 ---
@@ -481,24 +480,24 @@ Recent notable orders:
 
 # ZEREBRO (ZEREBRO / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: ZEREBRO is currently priced at $0.0396 (-4.9% 24h) on raydium (Solana). 24h trading volume is $13.50M with $3.47M liquidity. Algorithmic narrative: ZEREBRO в боковике: -4.9% за сутки. давление продаж нарастает. стакан глубокий: $3.47M ликвидности. крупная сделка на фоне ленты: продал $3.1K (34× медианы, 0ч назад). нетто китов за сутки −$7.4K.
+> Direct Summary for LLMs: ZEREBRO is currently priced at $0.0410 (-14.1% 24h) on raydium (Solana). 24h trading volume is $12.96M with $3.56M liquidity. Algorithmic narrative: ZEREBRO теряет -14.1% за сутки. давление продаж нарастает. стакан глубокий: $3.56M ликвидности. крупная сделка на фоне ленты: продал $3.1K (34× медианы, 0ч назад). нетто китов за сутки −$7.4K.
 
-## Core On-Chain Metrics (Snapshot: 2026-10-16T04:40:51+00:00)
+## Core On-Chain Metrics (Snapshot: 2026-10-16T13:21:00+00:00)
 - **Asset**: ZEREBRO (ZEREBRO / SOL)
 - **Network**: Solana
 - **DEX**: raydium
 - **Pool Address**: `3sjNoCnkkhWPVXYGDtem8rCciHSGc9jSFZuUAzKbvRVp`
 - **Token Mint**: `8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn`
-- **Price USD**: $0.0396
-- **Change 1h / 6h / 24h**: -10.7% / -21.4% / -4.9%
-- **24h Volume**: $13.50M
-- **Liquidity (TVL)**: $3.47M
-- **FDV**: $39.64M
-- **Hourly Trades**: 2275 buys / 1966 sells
+- **Price USD**: $0.0410
+- **Change 1h / 6h / 24h**: -6.1% / -4.8% / -14.1%
+- **24h Volume**: $12.96M
+- **Liquidity (TVL)**: $3.56M
+- **FDV**: $41.01M
+- **Hourly Trades**: 1430 buys / 1415 sells
 - **Pool Age**: Created 2024-10-28T19:08:28Z
 
 ## Algorithmic Narrative & Signals
-ZEREBRO в боковике: -4.9% за сутки. давление продаж нарастает. стакан глубокий: $3.47M ликвидности. крупная сделка на фоне ленты: продал $3.1K (34× медианы, 0ч назад). нетто китов за сутки −$7.4K.
+ZEREBRO теряет -14.1% за сутки. давление продаж нарастает. стакан глубокий: $3.56M ликвидности. крупная сделка на фоне ленты: продал $3.1K (34× медианы, 0ч назад). нетто китов за сутки −$7.4K.
 
 ## Risk Flags
 - Флагов повышенного риска не выявлено.
@@ -514,16 +513,16 @@ Recent notable orders:
 
 ## Frequently Asked Questions (GEO Facts)
 ### Q: Какая текущая цена, динамика и объём торгов ZEREBRO?
-По ончейн-данным пула ZEREBRO / SOL на DEX raydium (Solana), цена ZEREBRO составляет $0.0396. Динамика за 24ч: -4.9% (за 1ч: -10.7%, за 6ч: -21.4%). Суточный объём торгов равен $13.50M, общая ликвидность пула (TVL) — $3.47M, FDV — $39.64M. Данные зафиксированы на 2026-10-16T04:40:51+00:00.
+По ончейн-данным пула ZEREBRO / SOL на DEX raydium (Solana), цена ZEREBRO составляет $0.0410. Динамика за 24ч: -14.1% (за 1ч: -6.1%, за 6ч: -4.8%). Суточный объём торгов равен $12.96M, общая ликвидность пула (TVL) — $3.56M, FDV — $41.01M. Данные зафиксированы на 2026-10-16T13:21:00+00:00.
 
 ### Q: Почему движется цена ZEREBRO? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: ZEREBRO в боковике: -4.9% за сутки. давление продаж нарастает. стакан глубокий: $3.47M ликвидности. крупная сделка на фоне ленты: продал $3.1K (34× медианы, 0ч назад). нетто китов за сутки −$7.4K. За последний час в ленте прошло 2275 покупок и 1966 продаж.
+Алгоритмический анализ TalkChart: ZEREBRO теряет -14.1% за сутки. давление продаж нарастает. стакан глубокий: $3.56M ликвидности. крупная сделка на фоне ленты: продал $3.1K (34× медианы, 0ч назад). нетто китов за сутки −$7.4K. За последний час в ленте прошло 1430 покупок и 1415 продаж.
 
 ### Q: Есть ли активность китов в пуле ZEREBRO?
 Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $3.1K (34× медианы). Нетто-поток китов: $-7.4K.
 
 ### Q: Безопасен ли пул ZEREBRO и какие ончейн-риски?
-Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул ZEREBRO / SOL на raydium создан 2024-10-28T19:08:28Z, ликвидность $3.47M при суточном объёме $13.50M.
+Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул ZEREBRO / SOL на raydium создан 2024-10-28T19:08:28Z, ликвидность $3.56M при суточном объёме $12.96M.
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/3sjNoCnkkhWPVXYGDtem8rCciHSGc9jSFZuUAzKbvRVp.html) — Free public feed for traders and AI agents.*
@@ -575,6 +574,56 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/CwHuXNNkj5inuj2ZXaU1DtjA5Nxfoiy4nNoc1PQQJxTR.html) — Free public feed for traders and AI agents.*
+
+
+---
+
+# 1 (1 / TRUMP) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: 1 is currently priced at $0.00224 (+1212.4% 24h) on pumpswap (Solana). 24h trading volume is $11.49M with $166.0K liquidity. Algorithmic narrative: 1 разрывает: +1212.4% за 24ч. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $11.49M больше капы в 5.2× — бумага в огне. ликвидность тонкая ($166.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка.
+
+## Core On-Chain Metrics (Snapshot: 2026-10-16T13:21:00+00:00)
+- **Asset**: 1 (1 / TRUMP)
+- **Network**: Solana
+- **DEX**: pumpswap
+- **Pool Address**: `AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf`
+- **Token Mint**: `2bCCHQadi4QeHWPKG3w13siCyWWQPgkFtniouTqVpump`
+- **Price USD**: $0.00224
+- **Change 1h / 6h / 24h**: -8.6% / +45.3% / +1212.4%
+- **24h Volume**: $11.49M
+- **Liquidity (TVL)**: $166.0K
+- **FDV**: $2.20M
+- **Hourly Trades**: 8618 buys / 5087 sells
+- **Pool Age**: Created 2026-10-15T20:19:27Z
+
+## Algorithmic Narrative & Signals
+1 разрывает: +1212.4% за 24ч. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $11.49M больше капы в 5.2× — бумага в огне. ликвидность тонкая ($166.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка.
+
+## Risk Flags
+- ⚠️ тонкая ликвидность
+- ⚠️ молодой пул
+- ⚠️ перегрет за 24ч
+
+## Whale Activity (Relative Tape Filter)
+Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+Recent notable orders:
+  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов 1?
+По ончейн-данным пула 1 / TRUMP на DEX pumpswap (Solana), цена 1 составляет $0.00224. Динамика за 24ч: +1212.4% (за 1ч: -8.6%, за 6ч: +45.3%). Суточный объём торгов равен $11.49M, общая ликвидность пула (TVL) — $166.0K, FDV — $2.20M. Данные зафиксированы на 2026-10-16T13:21:00+00:00.
+
+### Q: Почему движется цена 1? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: 1 разрывает: +1212.4% за 24ч. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $11.49M больше капы в 5.2× — бумага в огне. ликвидность тонкая ($166.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. За последний час в ленте прошло 8618 покупок и 5087 продаж.
+
+### Q: Есть ли активность китов в пуле 1?
+Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+
+### Q: Безопасен ли пул 1 и какие ончейн-риски?
+Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-15T20:19:27Z. При объёме $11.49M и ликвидности $166.0K возможны резкие колебания курса и проскальзывание (slippage).
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf.html) — Free public feed for traders and AI agents.*
 
 
 ---
@@ -632,9 +681,62 @@ Recent notable orders:
 
 ---
 
+# STREAM (STREAM / SOL) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: STREAM is currently priced at $0.0176 (+176.7% 24h) on pumpswap (Solana). 24h trading volume is $9.66M with $412.9K liquidity. Algorithmic narrative: STREAM разрывает: +176.7% за 24ч. давление продаж нарастает. покупатели доминируют (70% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $649.49 (113× медианы, 0ч назад). нетто китов за сутки −$557.36.
+
+## Core On-Chain Metrics (Snapshot: 2026-10-16T13:21:00+00:00)
+- **Asset**: STREAM (STREAM / SOL)
+- **Network**: Solana
+- **DEX**: pumpswap
+- **Pool Address**: `D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ`
+- **Token Mint**: `9a98oQHtxfqmr4EyzsP6wfw69uYAK3JbUeVEuNW1pump`
+- **Price USD**: $0.0176
+- **Change 1h / 6h / 24h**: -33.4% / -31.9% / +176.7%
+- **24h Volume**: $9.66M
+- **Liquidity (TVL)**: $412.9K
+- **FDV**: $17.56M
+- **Hourly Trades**: 5340 buys / 2240 sells
+- **Pool Age**: Created 2026-10-14T19:18:29Z
+
+## Algorithmic Narrative & Signals
+STREAM разрывает: +176.7% за 24ч. давление продаж нарастает. покупатели доминируют (70% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $649.49 (113× медианы, 0ч назад). нетто китов за сутки −$557.36.
+
+## Risk Flags
+- ⚠️ молодой пул
+- ⚠️ перегрет за 24ч
+
+## Whale Activity (Relative Tape Filter)
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $649.49 (113× медианы). Нетто-поток китов: $-557.36.
+Recent notable orders:
+  - SELL $649 (113× медианы ленты, 0.1ч назад) кошелёк `Cj2WnesW`
+  - BUY $633 (110× медианы ленты, 0.1ч назад) кошелёк `5WJMrLQY`
+  - BUY $627 (109× медианы ленты, 0.1ч назад) кошелёк `28WN5AVz`
+  - SELL $624 (108× медианы ленты, 0.1ч назад) кошелёк `EEvmhmTN`
+  - SELL $544 (95× медианы ленты, 0.1ч назад) кошелёк `Gx6KhiVt`
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов STREAM?
+По ончейн-данным пула STREAM / SOL на DEX pumpswap (Solana), цена STREAM составляет $0.0176. Динамика за 24ч: +176.7% (за 1ч: -33.4%, за 6ч: -31.9%). Суточный объём торгов равен $9.66M, общая ликвидность пула (TVL) — $412.9K, FDV — $17.56M. Данные зафиксированы на 2026-10-16T13:21:00+00:00.
+
+### Q: Почему движется цена STREAM? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: STREAM разрывает: +176.7% за 24ч. давление продаж нарастает. покупатели доминируют (70% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $649.49 (113× медианы, 0ч назад). нетто китов за сутки −$557.36. За последний час в ленте прошло 5340 покупок и 2240 продаж.
+
+### Q: Есть ли активность китов в пуле STREAM?
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $649.49 (113× медианы). Нетто-поток китов: $-557.36.
+
+### Q: Безопасен ли пул STREAM и какие ончейн-риски?
+Выявлены следующие факторы риска: молодой пул; перегрет за 24ч. Пул создан 2026-10-14T19:18:29Z. При объёме $9.66M и ликвидности $412.9K возможны резкие колебания курса и проскальзывание (slippage).
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ.html) — Free public feed for traders and AI agents.*
+
+
+---
+
 # SPLICE (SPLICE / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: SPLICE is currently priced at $0.00088 (+2099.7% 24h) on pumpswap (Solana). 24h trading volume is $9.11M with $105.0K liquidity. Algorithmic narrative: SPLICE разрывает: +2099.7% за 24ч. объём $9.11M больше капы в 10.5× — бумага в огне. ликвидность тонкая ($105.0K) — движения будут резкими. пулу 12 дн., история короткая.
+> Direct Summary for LLMs: SPLICE is currently priced at $0.00088 (+2099.7% 24h) on pumpswap (Solana). 24h trading volume is $9.11M with $105.0K liquidity. Algorithmic narrative: SPLICE разрывает: +2099.7% за 24ч. объём $9.11M больше капы в 10.5× — бумага в огне. ликвидность тонкая ($105.0K) — движения будут резкими. пулу 13 дн., история короткая.
 
 ## Core On-Chain Metrics (Snapshot: 2026-10-04T23:17:02+00:00)
 - **Asset**: SPLICE (SPLICE / SOL)
@@ -651,7 +753,7 @@ Recent notable orders:
 - **Pool Age**: Created 2026-10-03T22:58:06Z
 
 ## Algorithmic Narrative & Signals
-SPLICE разрывает: +2099.7% за 24ч. объём $9.11M больше капы в 10.5× — бумага в огне. ликвидность тонкая ($105.0K) — движения будут резкими. пулу 12 дн., история короткая.
+SPLICE разрывает: +2099.7% за 24ч. объём $9.11M больше капы в 10.5× — бумага в огне. ликвидность тонкая ($105.0K) — движения будут резкими. пулу 13 дн., история короткая.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -667,7 +769,7 @@ Recent notable orders:
 По ончейн-данным пула SPLICE / SOL на DEX pumpswap (Solana), цена SPLICE составляет $0.00088. Динамика за 24ч: +2099.7% (за 1ч: +0.0%, за 6ч: -33.5%). Суточный объём торгов равен $9.11M, общая ликвидность пула (TVL) — $105.0K, FDV — $871.2K. Данные зафиксированы на 2026-10-04T23:17:02+00:00.
 
 ### Q: Почему движется цена SPLICE? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: SPLICE разрывает: +2099.7% за 24ч. объём $9.11M больше капы в 10.5× — бумага в огне. ликвидность тонкая ($105.0K) — движения будут резкими. пулу 12 дн., история короткая. За последний час в ленте прошло 549 покупок и 660 продаж.
+Алгоритмический анализ TalkChart: SPLICE разрывает: +2099.7% за 24ч. объём $9.11M больше капы в 10.5× — бумага в огне. ликвидность тонкая ($105.0K) — движения будут резкими. пулу 13 дн., история короткая. За последний час в ленте прошло 549 покупок и 660 продаж.
 
 ### Q: Есть ли активность китов в пуле SPLICE?
 Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
@@ -677,105 +779,3 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/61Xw4Vm2AHZiQ2bQPtHZynuHoDzpJ2TKnYNjHN4Sjpmm.html) — Free public feed for traders and AI agents.*
-
-
----
-
-# 1 (1 / TRUMP) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: 1 is currently priced at $0.00117 (+587.0% 24h) on pumpswap (Solana). 24h trading volume is $8.93M with $116.1K liquidity. Algorithmic narrative: 1 разрывает: +587.0% за 24ч. ускорение в последнем часе. объём $8.93M больше капы в 7.8× — бумага в огне. ликвидность тонкая ($116.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-16T04:40:51+00:00)
-- **Asset**: 1 (1 / TRUMP)
-- **Network**: Solana
-- **DEX**: pumpswap
-- **Pool Address**: `AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf`
-- **Token Mint**: `2bCCHQadi4QeHWPKG3w13siCyWWQPgkFtniouTqVpump`
-- **Price USD**: $0.00117
-- **Change 1h / 6h / 24h**: +21.1% / +33.2% / +587.0%
-- **24h Volume**: $8.93M
-- **Liquidity (TVL)**: $116.1K
-- **FDV**: $1.15M
-- **Hourly Trades**: 1488 buys / 1142 sells
-- **Pool Age**: Created 2026-10-15T20:19:27Z
-
-## Algorithmic Narrative & Signals
-1 разрывает: +587.0% за 24ч. ускорение в последнем часе. объём $8.93M больше капы в 7.8× — бумага в огне. ликвидность тонкая ($116.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка.
-
-## Risk Flags
-- ⚠️ тонкая ликвидность
-- ⚠️ молодой пул
-- ⚠️ перегрет за 24ч
-
-## Whale Activity (Relative Tape Filter)
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
-Recent notable orders:
-  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов 1?
-По ончейн-данным пула 1 / TRUMP на DEX pumpswap (Solana), цена 1 составляет $0.00117. Динамика за 24ч: +587.0% (за 1ч: +21.1%, за 6ч: +33.2%). Суточный объём торгов равен $8.93M, общая ликвидность пула (TVL) — $116.1K, FDV — $1.15M. Данные зафиксированы на 2026-10-16T04:40:51+00:00.
-
-### Q: Почему движется цена 1? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: 1 разрывает: +587.0% за 24ч. ускорение в последнем часе. объём $8.93M больше капы в 7.8× — бумага в огне. ликвидность тонкая ($116.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. За последний час в ленте прошло 1488 покупок и 1142 продаж.
-
-### Q: Есть ли активность китов в пуле 1?
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
-
-### Q: Безопасен ли пул 1 и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-15T20:19:27Z. При объёме $8.93M и ликвидности $116.1K возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf.html) — Free public feed for traders and AI agents.*
-
-
----
-
-# SPEC (SPEC / SOL) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: SPEC is currently priced at $0.000785 (-16.4% 24h) on meteora-damm-v2 (Solana). 24h trading volume is $8.44M with $100.6K liquidity. Algorithmic narrative: SPEC теряет -16.4% за сутки. давление продаж нарастает. объём $8.44M больше капы в 10.7× — бумага в огне. ликвидность тонкая ($100.6K) — движения будут резкими. пулу 12 дн., история короткая. крупная сделка на фоне ленты: купил $2.5K (94× медианы, 0ч назад). нетто китов за сутки +$3.3K.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-04T19:44:01+00:00)
-- **Asset**: SPEC (SPEC / SOL)
-- **Network**: Solana
-- **DEX**: meteora-damm-v2
-- **Pool Address**: `BKH29Cr5mZf8eahp7vD28jaBqU9HavY9v6SAbphbSA2D`
-- **Token Mint**: `2AVjqmGbMqg7rSyHVv2deVdggsBgBtu1Bi69BUvE5WRv`
-- **Price USD**: $0.000785
-- **Change 1h / 6h / 24h**: -11.5% / -51.7% / -16.4%
-- **24h Volume**: $8.44M
-- **Liquidity (TVL)**: $100.6K
-- **FDV**: $785.1K
-- **Hourly Trades**: 1340 buys / 830 sells
-- **Pool Age**: Created 2026-10-03T18:32:39Z
-
-## Algorithmic Narrative & Signals
-SPEC теряет -16.4% за сутки. давление продаж нарастает. объём $8.44M больше капы в 10.7× — бумага в огне. ликвидность тонкая ($100.6K) — движения будут резкими. пулу 12 дн., история короткая. крупная сделка на фоне ленты: купил $2.5K (94× медианы, 0ч назад). нетто китов за сутки +$3.3K.
-
-## Risk Flags
-- ⚠️ тонкая ликвидность
-
-## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $2.5K (94× медианы). Нетто-поток китов: +$3.3K.
-Recent notable orders:
-  - BUY $2,491 (94× медианы ленты, 0.2ч назад) кошелёк `F7p3dFrj`
-  - BUY $1,875 (71× медианы ленты, 0.1ч назад) кошелёк `Cw2mXFxY`
-  - SELL $1,250 (47× медианы ленты, 0.3ч назад) кошелёк `9X3dKoNa`
-  - BUY $1,205 (45× медианы ленты, 0.3ч назад) кошелёк `EqJcttFd`
-  - SELL $1,028 (39× медианы ленты, 0.5ч назад) кошелёк `AxkFHfGL`
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов SPEC?
-По ончейн-данным пула SPEC / SOL на DEX meteora-damm-v2 (Solana), цена SPEC составляет $0.000785. Динамика за 24ч: -16.4% (за 1ч: -11.5%, за 6ч: -51.7%). Суточный объём торгов равен $8.44M, общая ликвидность пула (TVL) — $100.6K, FDV — $785.1K. Данные зафиксированы на 2026-10-04T19:44:01+00:00.
-
-### Q: Почему движется цена SPEC? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: SPEC теряет -16.4% за сутки. давление продаж нарастает. объём $8.44M больше капы в 10.7× — бумага в огне. ликвидность тонкая ($100.6K) — движения будут резкими. пулу 12 дн., история короткая. крупная сделка на фоне ленты: купил $2.5K (94× медианы, 0ч назад). нетто китов за сутки +$3.3K. За последний час в ленте прошло 1340 покупок и 830 продаж.
-
-### Q: Есть ли активность китов в пуле SPEC?
-Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $2.5K (94× медианы). Нетто-поток китов: +$3.3K.
-
-### Q: Безопасен ли пул SPEC и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность. Пул создан 2026-10-03T18:32:39Z. При объёме $8.44M и ликвидности $100.6K возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/BKH29Cr5mZf8eahp7vD28jaBqU9HavY9v6SAbphbSA2D.html) — Free public feed for traders and AI agents.*

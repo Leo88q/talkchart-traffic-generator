@@ -1,17 +1,17 @@
 {
-  "slug": "ftr-vs-dacity",
+  "slug": "1-vs-ftr",
   "token1": {
-    "symbol": "FTR",
-    "change_24h": 1842.272,
-    "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
-    "volume": 20315379.429189
+    "symbol": "1",
+    "change_24h": 1212.363,
+    "address": "AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf",
+    "volume": 11486407.1937465
   },
   "token2": {
-    "symbol": "Dacity",
-    "change_24h": 1029.445,
-    "address": "G2UuRbmVDzDFP4qyoBJrSKBXSi7d6V4bPP9tHPs36y4b",
-    "volume": 8231981.10417028
+    "symbol": "FTR",
+    "change_24h": 966.366,
+    "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
+    "volume": 24733522.9052005
   },
-  "verdict": "По ончейн-метрикам TalkChart: FTR опережает по ценовому импульсу (+1842.3% против +1029.4%). Краткосрочный фаворит по совокупности факторов: FTR.",
-  "updated_at": "2026-10-16 04:41 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: 1 опережает по ценовому импульсу (+1212.4% против +966.4%). Краткосрочный фаворит по совокупности факторов: 1.",
+  "updated_at": "2026-10-16 13:21 UTC"
 }

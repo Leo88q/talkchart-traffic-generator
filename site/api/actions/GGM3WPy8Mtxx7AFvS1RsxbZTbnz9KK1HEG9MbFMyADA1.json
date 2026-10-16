@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/OWLDACITY_+368.png",
+  "title": "TalkChart: OWLDACITY (+367.7%) — Solana On-Chain Radar",
+  "description": "OWLDACITY разрывает: +367.7% за 24ч. покупатели доминируют (63% сделок за час). объём $3.47M больше капы в 4.9× — бумага в огне. ликвидность тонкая ($78.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $670.47 (192× медианы, 0ч назад). нетто китов за сутки −$3.3K.\n\nОбъём: $3.47M · Ликвидность: $78.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп OWLDACITY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-D61pTaTqR93axxVvu7AX5TW6c3a4vhffPPMfCnsYpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GGM3WPy8Mtxx7AFvS1RsxbZTbnz9KK1HEG9MbFMyADA1"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
