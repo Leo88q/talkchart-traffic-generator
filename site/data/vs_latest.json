@@ -1,17 +1,17 @@
 {
-  "slug": "ftr-vs-simulator",
+  "slug": "simulator-vs-ftr",
   "token1": {
-    "symbol": "FTR",
-    "change_24h": 1986.478,
-    "address": "8JoQRQ4oAXNuQSTcComuUAAgF3ViJ7e3escwatMncZ3H",
-    "volume": 2009724.67830001
+    "symbol": "simulator",
+    "change_24h": 615.904,
+    "address": "EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U",
+    "volume": 8088963.40053207
   },
   "token2": {
-    "symbol": "simulator",
-    "change_24h": 800.837,
-    "address": "EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U",
-    "volume": 7983322.26915284
+    "symbol": "FTR",
+    "change_24h": 395.453,
+    "address": "8JoQRQ4oAXNuQSTcComuUAAgF3ViJ7e3escwatMncZ3H",
+    "volume": 1967172.10550324
   },
-  "verdict": "По ончейн-метрикам TalkChart: FTR опережает по ценовому импульсу (+1986.5% против +800.8%). Краткосрочный фаворит по совокупности факторов: FTR.",
-  "updated_at": "2026-10-17 15:46 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: simulator опережает по ценовому импульсу (+615.9% против +395.5%). Краткосрочный фаворит по совокупности факторов: simulator.",
+  "updated_at": "2026-10-17 18:36 UTC"
 }

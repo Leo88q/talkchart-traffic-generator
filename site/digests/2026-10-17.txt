@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-17
-1. FTR +1986.5% — FTR разрывает: +1986.5% за 24ч. ускорение в последнем часе
-2. simulator +800.8% — simulator разрывает: +800.8% за 24ч. объём $7.98M больше капы в 7.1× — бумага в огне
-3. MAKERS +785.9% — MAKERS разрывает: +785.9% за 24ч. объём $2.53M больше капы в 7.5× — бумага в огне
-4. PRIME +165.4% — PRIME разрывает: +165.4% за 24ч. объём $2.88M больше капы в 24.8× — бумага в огне
-5. Glow +149.9% — Glow разрывает: +149.9% за 24ч. давление продаж нарастает
+1. simulator +615.9% — simulator разрывает: +615.9% за 24ч. давление продаж нарастает
+2. FTR +395.5% — FTR разрывает: +395.5% за 24ч. объём $1.97M больше капы в 1.9× — бумага в огне
+3. MAKERS +378.0% — MAKERS разрывает: +378.0% за 24ч. покупатели доминируют (64% сделок за час)
+4. STREAM -99.5% — STREAM в обвале: -99.5% за 24ч. объём $1.54M больше капы в 120.7× — бумага в огне
+5. Glow -83.1% — Glow в обвале: -83.1% за 24ч. объём $2.69M больше капы в 19.1× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/8JoQRQ4oAXNuQSTcComuUAAgF3ViJ7e3escwatMncZ3H.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
