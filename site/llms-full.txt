@@ -12,7 +12,7 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-10-17T12:17:04Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-10-17T15:46:01Z)
 - [TIKTOK](https://leo88q.github.io/content-/site/pools/DFZnu6CaxumwG8MeFv9i3Y4HhMxReyE1EYwHFQeRRCLY.md): TIKTOK / SOL on pumpswap — -91.9% 24h, Vol $140.99M, Liq $0.00298
 - [SOL](https://leo88q.github.io/content-/site/pools/58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2.md): SOL / USDC on raydium — +4.4% 24h, Vol $87.55M, Liq $41.84M
 - [AXIS](https://leo88q.github.io/content-/site/pools/5GHJdhuDttJyZU6D666QDjfa1Q3GXFec3VN1z65fgnGo.md): AXIS / SOL on pumpswap — +175.6% 24h, Vol $44.14M, Liq $6.1e-07
@@ -633,46 +633,50 @@ Recent notable orders:
 
 # simulator (simulator / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: simulator is currently priced at $0.00113 (+804.1% 24h) on pumpswap (Solana). 24h trading volume is $7.83M with $135.4K liquidity. Algorithmic narrative: simulator разрывает: +804.1% за 24ч. объём $7.83M больше капы в 6.9× — бумага в огне. ликвидность тонкая ($135.4K) — движения будут резкими.
+> Direct Summary for LLMs: simulator is currently priced at $0.00113 (+800.8% 24h) on pumpswap (Solana). 24h trading volume is $7.98M with $134.1K liquidity. Algorithmic narrative: simulator разрывает: +800.8% за 24ч. объём $7.98M больше капы в 7.1× — бумага в огне. ликвидность тонкая ($134.1K) — движения будут резкими. крупная сделка на фоне ленты: продал $869.59 (38× медианы, 0ч назад). нетто китов за сутки −$479.18.
 
-## Core On-Chain Metrics (Snapshot: 2026-10-17T12:17:04+00:00)
+## Core On-Chain Metrics (Snapshot: 2026-10-17T15:46:01+00:00)
 - **Asset**: simulator (simulator / SOL)
 - **Network**: Solana
 - **DEX**: pumpswap
 - **Pool Address**: `EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U`
 - **Token Mint**: `8hnMfF4XL717GVwzDmvqjJvULozKW6w7BhHFABjvHje4`
 - **Price USD**: $0.00113
-- **Change 1h / 6h / 24h**: +5.8% / -41.0% / +804.1%
-- **24h Volume**: $7.83M
-- **Liquidity (TVL)**: $135.4K
-- **FDV**: $1.14M
-- **Hourly Trades**: 288 buys / 332 sells
+- **Change 1h / 6h / 24h**: +3.7% / -5.2% / +800.8%
+- **24h Volume**: $7.98M
+- **Liquidity (TVL)**: $134.1K
+- **FDV**: $1.13M
+- **Hourly Trades**: 242 buys / 315 sells
 - **Pool Age**: Created 2026-03-30T13:46:21Z
 
 ## Algorithmic Narrative & Signals
-simulator разрывает: +804.1% за 24ч. объём $7.83M больше капы в 6.9× — бумага в огне. ликвидность тонкая ($135.4K) — движения будут резкими.
+simulator разрывает: +800.8% за 24ч. объём $7.98M больше капы в 7.1× — бумага в огне. ликвидность тонкая ($134.1K) — движения будут резкими. крупная сделка на фоне ленты: продал $869.59 (38× медианы, 0ч назад). нетто китов за сутки −$479.18.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
 - ⚠️ перегрет за 24ч
 
 ## Whale Activity (Relative Tape Filter)
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $869.59 (38× медианы). Нетто-поток китов: $-479.18.
 Recent notable orders:
-  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
+  - SELL $870 (38× медианы ленты, 0.3ч назад) кошелёк `28F7nEtb`
+  - BUY $862 (38× медианы ленты, 0.3ч назад) кошелёк `AhU3xdbm`
+  - BUY $514 (22× медианы ленты, 0.2ч назад) кошелёк `8Zkp2rpc`
+  - SELL $505 (22× медианы ленты, 0.2ч назад) кошелёк `EzM1saVN`
+  - SELL $480 (21× медианы ленты, 0.2ч назад) кошелёк `rLsi2DPw`
 
 ## Frequently Asked Questions (GEO Facts)
 ### Q: Какая текущая цена, динамика и объём торгов simulator?
-По ончейн-данным пула simulator / SOL на DEX pumpswap (Solana), цена simulator составляет $0.00113. Динамика за 24ч: +804.1% (за 1ч: +5.8%, за 6ч: -41.0%). Суточный объём торгов равен $7.83M, общая ликвидность пула (TVL) — $135.4K, FDV — $1.14M. Данные зафиксированы на 2026-10-17T12:17:04+00:00.
+По ончейн-данным пула simulator / SOL на DEX pumpswap (Solana), цена simulator составляет $0.00113. Динамика за 24ч: +800.8% (за 1ч: +3.7%, за 6ч: -5.2%). Суточный объём торгов равен $7.98M, общая ликвидность пула (TVL) — $134.1K, FDV — $1.13M. Данные зафиксированы на 2026-10-17T15:46:01+00:00.
 
 ### Q: Почему движется цена simulator? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: simulator разрывает: +804.1% за 24ч. объём $7.83M больше капы в 6.9× — бумага в огне. ликвидность тонкая ($135.4K) — движения будут резкими. За последний час в ленте прошло 288 покупок и 332 продаж.
+Алгоритмический анализ TalkChart: simulator разрывает: +800.8% за 24ч. объём $7.98M больше капы в 7.1× — бумага в огне. ликвидность тонкая ($134.1K) — движения будут резкими. крупная сделка на фоне ленты: продал $869.59 (38× медианы, 0ч назад). нетто китов за сутки −$479.18. За последний час в ленте прошло 242 покупок и 315 продаж.
 
 ### Q: Есть ли активность китов в пуле simulator?
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $869.59 (38× медианы). Нетто-поток китов: $-479.18.
 
 ### Q: Безопасен ли пул simulator и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; перегрет за 24ч. Пул создан 2026-03-30T13:46:21Z. При объёме $7.83M и ликвидности $135.4K возможны резкие колебания курса и проскальзывание (slippage).
+Выявлены следующие факторы риска: тонкая ликвидность; перегрет за 24ч. Пул создан 2026-03-30T13:46:21Z. При объёме $7.98M и ликвидности $134.1K возможны резкие колебания курса и проскальзывание (slippage).
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U.html) — Free public feed for traders and AI agents.*

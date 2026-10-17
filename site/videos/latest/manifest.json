@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-17T12:17:18+00:00",
+ "generated_at": "2026-10-17T15:46:16+00:00",
  "videos": [
   {
    "file": "videos/2026-10-17/FTR.mp4",
    "latest_file": "videos/latest/FTR.mp4",
    "symbol": "FTR",
-   "chg_h24": 1873.286
+   "chg_h24": 1986.478
   },
   {
    "file": "videos/2026-10-17/simulator.mp4",
    "latest_file": "videos/latest/simulator.mp4",
    "symbol": "simulator",
-   "chg_h24": 804.102
+   "chg_h24": 800.837
   },
   {
-   "file": "videos/2026-10-17/PRIME.mp4",
-   "latest_file": "videos/latest/PRIME.mp4",
-   "symbol": "PRIME",
-   "chg_h24": 538.272
+   "file": "videos/2026-10-17/MAKERS.mp4",
+   "latest_file": "videos/latest/MAKERS.mp4",
+   "symbol": "MAKERS",
+   "chg_h24": 785.916
   }
  ]
 }
