@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Aloooong_+41.png",
+  "title": "TalkChart: Aloooong (+40.7%) — Solana On-Chain Radar",
+  "description": "Aloooong разрывает: +40.7% за 24ч. объём $1.82M больше капы в 6.3× — бумага в огне. ликвидность тонкая ($52.9K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.82M · Ликвидность: $52.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Aloooong (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-1htv5Nzfdy44FJWAdTXZoACJW4BWbB2XwZC6SVopurp"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6CWeZYjCrn2ZQEDjD7NKE38NiDN99H9wy48zBHyqbvPw"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

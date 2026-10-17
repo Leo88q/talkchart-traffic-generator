@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U",
+    "name": "simulator / SOL",
+    "base_symbol": "simulator",
+    "base_name": "simulator",
+    "base_address": "8hnMfF4XL717GVwzDmvqjJvULozKW6w7BhHFABjvHje4",
+    "dex": "pumpswap",
+    "price_usd": 0.0011264895581029034,
+    "created_at": "2026-03-30T13:46:21Z",
+    "fdv_usd": 1140072.485,
+    "reserve_usd": 135394.833,
+    "volume_h24": 7827356.26875999,
+    "change": {
+      "h1": 5.764,
+      "h6": -40.998,
+      "h24": 804.102
+    },
+    "tx_h1": {
+      "buys": 288,
+      "sells": 332
+    },
+    "first_seen": "2026-10-17T12:17:04+00:00",
+    "last_seen": "2026-10-17T12:17:04+00:00"
+  },
+  "narrative": "simulator разрывает: +804.1% за 24ч. объём $7.83M больше капы в 6.9× — бумага в огне. ликвидность тонкая ($135.4K) — движения будут резкими.",
+  "flags": [
+    "тонкая ликвидность",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-17T12:17:04Z"
+}

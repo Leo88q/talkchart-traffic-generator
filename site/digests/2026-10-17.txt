@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-17
-1. NUBI +1816.9% — NUBI разрывает: +1816.9% за 24ч. покупатели доминируют (71% сделок за час)
-2. Glow +147.9% — Glow разрывает: +147.9% за 24ч. давление продаж нарастает
-3. STREAM -99.8% — STREAM в обвале: -99.8% за 24ч. давление продаж нарастает
-4. PsyopAnime -51.0% — PsyopAnime в обвале: -51.0% за 24ч. покупатели доминируют (63% сделок за час)
-5. LOOM +46.4% — LOOM разрывает: +46.4% за 24ч. давление продаж нарастает
+1. FTR +1873.3% — FTR разрывает: +1873.3% за 24ч. ускорение в последнем часе
+2. simulator +804.1% — simulator разрывает: +804.1% за 24ч. объём $7.83M больше капы в 6.9× — бумага в огне
+3. PRIME +538.3% — PRIME разрывает: +538.3% за 24ч. объём $2.68M больше капы в 9.6× — бумага в огне
+4. Glow +386.2% — Glow разрывает: +386.2% за 24ч. ускорение в последнем часе
+5. NUBI +206.9% — NUBI разрывает: +206.9% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/265GQ6QKcEGwNCWsL8CsJzD3iDDRuzwj7K9Pa7vst73M.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/8JoQRQ4oAXNuQSTcComuUAAgF3ViJ7e3escwatMncZ3H.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

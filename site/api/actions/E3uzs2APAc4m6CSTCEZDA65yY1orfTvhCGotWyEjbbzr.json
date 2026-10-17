@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PRIME_+538.png",
+  "title": "TalkChart: PRIME (+538.3%) — Solana On-Chain Radar",
+  "description": "PRIME разрывает: +538.3% за 24ч. объём $2.68M больше капы в 9.6× — бумага в огне. ликвидность тонкая ($48.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $586.73 (56× медианы, 0ч назад). нетто китов за сутки +$663.98.\n\nОбъём: $2.68M · Ликвидность: $48.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PRIME (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-rVWG97Yj6ZbuF9zeQo8TosQG6mUcUeL8BocfHu3pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=E3uzs2APAc4m6CSTCEZDA65yY1orfTvhCGotWyEjbbzr"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

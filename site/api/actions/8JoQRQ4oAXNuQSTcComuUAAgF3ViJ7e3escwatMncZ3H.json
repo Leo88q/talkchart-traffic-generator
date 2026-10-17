@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FTR_+1873.png",
+  "title": "TalkChart: FTR (+1873.3%) — Solana On-Chain Radar",
+  "description": "FTR разрывает: +1873.3% за 24ч. ускорение в последнем часе. покупатели доминируют (65% сделок за час). объём $1.83M больше капы в 1.8× — бумага в огне. ликвидность тонкая ($92.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.83M · Ликвидность: $92.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FTR (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5x6QQvpRpd1PsFTTTJe6sJFFSqrA21H1j3GZLmo2pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8JoQRQ4oAXNuQSTcComuUAAgF3ViJ7e3escwatMncZ3H"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

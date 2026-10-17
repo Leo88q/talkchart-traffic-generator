@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "6CWeZYjCrn2ZQEDjD7NKE38NiDN99H9wy48zBHyqbvPw",
+    "name": "Aloooong / PUMP",
+    "base_symbol": "Aloooong",
+    "base_name": "Aloooong",
+    "base_address": "1htv5Nzfdy44FJWAdTXZoACJW4BWbB2XwZC6SVopurp",
+    "dex": "pumpswap",
+    "price_usd": 0.0002904669271259312,
+    "created_at": "2026-10-16T15:05:05Z",
+    "fdv_usd": 290466.9271,
+    "reserve_usd": 52916.82,
+    "volume_h24": 1820743.3674362,
+    "change": {
+      "h1": 23.418,
+      "h6": 6.628,
+      "h24": 40.671
+    },
+    "tx_h1": {
+      "buys": 304,
+      "sells": 226
+    },
+    "first_seen": "2026-10-17T12:17:04+00:00",
+    "last_seen": "2026-10-17T12:17:04+00:00"
+  },
+  "narrative": "Aloooong разрывает: +40.7% за 24ч. объём $1.82M больше капы в 6.3× — бумага в огне. ликвидность тонкая ($52.9K) — движения будут резкими. пулу 1 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-17T12:17:04Z"
+}

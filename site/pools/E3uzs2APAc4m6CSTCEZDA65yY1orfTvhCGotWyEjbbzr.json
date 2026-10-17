@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "E3uzs2APAc4m6CSTCEZDA65yY1orfTvhCGotWyEjbbzr",
+    "name": "PRIME / SOL",
+    "base_symbol": "PRIME",
+    "base_name": "PRIME",
+    "base_address": "rVWG97Yj6ZbuF9zeQo8TosQG6mUcUeL8BocfHu3pump",
+    "dex": "pumpswap",
+    "price_usd": 0.00027404713810976817,
+    "created_at": "2026-10-17T05:35:55Z",
+    "fdv_usd": 279420.34525906,
+    "reserve_usd": 48811.6868,
+    "volume_h24": 2680572.67430617,
+    "change": {
+      "h1": -22.513,
+      "h6": 167.603,
+      "h24": 538.272
+    },
+    "tx_h1": {
+      "buys": 807,
+      "sells": 695
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 586.73,
+        "mult": 56.4,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "GnvuWxni"
+      },
+      {
+        "kind": "buy",
+        "usd": 550.88,
+        "mult": 52.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "7ZRMYMBd"
+      },
+      {
+        "kind": "buy",
+        "usd": 493.36,
+        "mult": 47.4,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "HFCKujnZ"
+      },
+      {
+        "kind": "sell",
+        "usd": 491.18,
+        "mult": 47.2,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "CaBL2R45"
+      },
+      {
+        "kind": "sell",
+        "usd": 475.81,
+        "mult": 45.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "4dwoEJyx"
+      }
+    ],
+    "first_seen": "2026-10-17T12:17:04+00:00",
+    "last_seen": "2026-10-17T12:17:04+00:00"
+  },
+  "narrative": "PRIME разрывает: +538.3% за 24ч. объём $2.68M больше капы в 9.6× — бумага в огне. ликвидность тонкая ($48.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $586.73 (56× медианы, 0ч назад). нетто китов за сутки +$663.98.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $586.73 (56× медианы). Нетто-поток китов: +$663.98.",
+  "updated_at": "2026-10-17T12:17:04Z"
+}

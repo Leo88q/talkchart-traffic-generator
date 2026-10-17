@@ -1,17 +1,17 @@
 {
-  "slug": "nubi-vs-glow",
+  "slug": "ftr-vs-simulator",
   "token1": {
-    "symbol": "NUBI",
-    "change_24h": 1816.927,
-    "address": "265GQ6QKcEGwNCWsL8CsJzD3iDDRuzwj7K9Pa7vst73M",
-    "volume": 4847509.67483042
+    "symbol": "FTR",
+    "change_24h": 1873.286,
+    "address": "8JoQRQ4oAXNuQSTcComuUAAgF3ViJ7e3escwatMncZ3H",
+    "volume": 1828795.24117192
   },
   "token2": {
-    "symbol": "Glow",
-    "change_24h": 147.893,
-    "address": "6a8h2e4jX5BCcXYtAEFSV1n6iskGzoeXmRhNviX1U7Bx",
-    "volume": 3373296.80162019
+    "symbol": "simulator",
+    "change_24h": 804.102,
+    "address": "EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U",
+    "volume": 7827356.26875999
   },
-  "verdict": "По ончейн-метрикам TalkChart: NUBI опережает по ценовому импульсу (+1816.9% против +147.9%). Кроме того, у NUBI существенно глубже пул ликвидности ($124.8K против $29.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: NUBI.",
-  "updated_at": "2026-10-17 04:38 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FTR опережает по ценовому импульсу (+1873.3% против +804.1%). Краткосрочный фаворит по совокупности факторов: FTR.",
+  "updated_at": "2026-10-17 12:17 UTC"
 }

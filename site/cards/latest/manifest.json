@@ -1,64 +1,64 @@
 {
- "generated_at": "2026-10-17T04:38:14+00:00",
+ "generated_at": "2026-10-17T12:17:05+00:00",
  "cards": [
   {
-   "file": "cards/2026-10-17/NUBI_+1816.png",
-   "symbol": "NUBI",
-   "chg_h24": 1816.927,
-   "address": "265GQ6QKcEGwNCWsL8CsJzD3iDDRuzwj7K9Pa7vst73M",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/265GQ6QKcEGwNCWsL8CsJzD3iDDRuzwj7K9Pa7vst73M.html",
-   "latest_file": "cards/latest/NUBI_+1816.png"
+   "file": "cards/2026-10-17/FTR_+1873.png",
+   "symbol": "FTR",
+   "chg_h24": 1873.286,
+   "address": "8JoQRQ4oAXNuQSTcComuUAAgF3ViJ7e3escwatMncZ3H",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/8JoQRQ4oAXNuQSTcComuUAAgF3ViJ7e3escwatMncZ3H.html",
+   "latest_file": "cards/latest/FTR_+1873.png"
   },
   {
-   "file": "cards/2026-10-17/Glow_+147.png",
+   "file": "cards/2026-10-17/simulator_+804.png",
+   "symbol": "simulator",
+   "chg_h24": 804.102,
+   "address": "EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U.html",
+   "latest_file": "cards/latest/simulator_+804.png"
+  },
+  {
+   "file": "cards/2026-10-17/PRIME_+538.png",
+   "symbol": "PRIME",
+   "chg_h24": 538.272,
+   "address": "E3uzs2APAc4m6CSTCEZDA65yY1orfTvhCGotWyEjbbzr",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/E3uzs2APAc4m6CSTCEZDA65yY1orfTvhCGotWyEjbbzr.html",
+   "latest_file": "cards/latest/PRIME_+538.png"
+  },
+  {
+   "file": "cards/2026-10-17/Glow_+386.png",
    "symbol": "Glow",
-   "chg_h24": 147.893,
+   "chg_h24": 386.181,
    "address": "6a8h2e4jX5BCcXYtAEFSV1n6iskGzoeXmRhNviX1U7Bx",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/6a8h2e4jX5BCcXYtAEFSV1n6iskGzoeXmRhNviX1U7Bx.html",
-   "latest_file": "cards/latest/Glow_+147.png"
+   "pool_url": "https://leo88q.github.io/content-/site/pools/6a8h2e4jX5BCcXYtAEFSV1n6iskGzoeXmRhNviX1U7Bx.html"
+  },
+  {
+   "file": "cards/2026-10-17/NUBI_+206.png",
+   "symbol": "NUBI",
+   "chg_h24": 206.893,
+   "address": "265GQ6QKcEGwNCWsL8CsJzD3iDDRuzwj7K9Pa7vst73M",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/265GQ6QKcEGwNCWsL8CsJzD3iDDRuzwj7K9Pa7vst73M.html"
   },
   {
    "file": "cards/2026-10-17/STREAM_-99.png",
    "symbol": "STREAM",
-   "chg_h24": -99.775,
+   "chg_h24": -99.941,
    "address": "D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ.html",
-   "latest_file": "cards/latest/STREAM_-99.png"
+   "pool_url": "https://leo88q.github.io/content-/site/pools/D9NCkN3unPTVLtA56Y68J2cXisje9yyYe61gMM2HCHwJ.html"
   },
   {
-   "file": "cards/2026-10-17/PsyopAnime_-50.png",
-   "symbol": "PsyopAnime",
-   "chg_h24": -50.957,
-   "address": "FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/FpyosQzp5ijfrxqqBVNm67rfam7VsbVNAm7PUf8Yvt1c.html"
+   "file": "cards/2026-10-17/1_-51.png",
+   "symbol": "1",
+   "chg_h24": -51.104,
+   "address": "AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf.html"
   },
   {
-   "file": "cards/2026-10-17/LOOM_+46.png",
-   "symbol": "LOOM",
-   "chg_h24": 46.444,
-   "address": "3d8vxMgHA44JnFa8cV3X58uzdV5HfHvLk7q5LHCJnvDG",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/3d8vxMgHA44JnFa8cV3X58uzdV5HfHvLk7q5LHCJnvDG.html"
-  },
-  {
-   "file": "cards/2026-10-17/DOPE_-38.png",
-   "symbol": "DOPE",
-   "chg_h24": -38.333,
-   "address": "6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ.html"
-  },
-  {
-   "file": "cards/2026-10-17/SAINDRA_-37.png",
-   "symbol": "SAINDRA",
-   "chg_h24": -37.759,
-   "address": "9hjKmterUjufRaYUrSTEHEYJZg83LQ52behux54LSeF6",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/9hjKmterUjufRaYUrSTEHEYJZg83LQ52behux54LSeF6.html"
-  },
-  {
-   "file": "cards/2026-10-17/SI276_-33.png",
-   "symbol": "SI276",
-   "chg_h24": -33.14,
-   "address": "12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG.html"
+   "file": "cards/2026-10-17/FTR_-43.png",
+   "symbol": "FTR",
+   "chg_h24": -43.26,
+   "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y.html"
   }
  ]
 }
