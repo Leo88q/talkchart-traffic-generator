@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ELON_+474.png",
+  "title": "TalkChart: ELON (+474.4%) — Solana On-Chain Radar",
+  "description": "ELON разрывает: +474.4% за 24ч. объём $3.83M больше капы в 1.7× — бумага в огне. ликвидность тонкая ($149.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.1K (62× медианы, 0ч назад). нетто китов за сутки −$2.2K.\n\nОбъём: $3.83M · Ликвидность: $149.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ELON (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-B2GESkSErPjuCq6n4LcaJP5v2z1kJnw3xHVZnop2sZx"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CnHqem7jPbjA5p2xHBGPHQG7E9NkZWcQr9q6R9YWb7zf"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

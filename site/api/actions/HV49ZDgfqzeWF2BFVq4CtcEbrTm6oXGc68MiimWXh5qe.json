@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MASK_-16.png",
+  "title": "TalkChart: MASK (-16.0%) — Solana On-Chain Radar",
+  "description": "MASK теряет -16.0% за сутки. давление продаж нарастает. покупатели доминируют (71% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($126.1K) — движения будут резкими.\n\nОбъём: $676.3K · Ликвидность: $126.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MASK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HuAXPyDWDaMYFKuwQHpqL1oPnj93zdzWmtvFGzCeCUa7"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HV49ZDgfqzeWF2BFVq4CtcEbrTm6oXGc68MiimWXh5qe"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

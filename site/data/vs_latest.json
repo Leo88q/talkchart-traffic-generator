@@ -1,17 +1,17 @@
 {
-  "slug": "simulator-vs-ftr",
+  "slug": "simulator-vs-elon",
   "token1": {
     "symbol": "simulator",
-    "change_24h": 615.904,
+    "change_24h": 594.242,
     "address": "EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U",
-    "volume": 8088963.40053207
+    "volume": 8182959.69689757
   },
   "token2": {
-    "symbol": "FTR",
-    "change_24h": 395.453,
-    "address": "8JoQRQ4oAXNuQSTcComuUAAgF3ViJ7e3escwatMncZ3H",
-    "volume": 1967172.10550324
+    "symbol": "ELON",
+    "change_24h": 474.442,
+    "address": "CnHqem7jPbjA5p2xHBGPHQG7E9NkZWcQr9q6R9YWb7zf",
+    "volume": 3832996.05612178
   },
-  "verdict": "По ончейн-метрикам TalkChart: simulator опережает по ценовому импульсу (+615.9% против +395.5%). Краткосрочный фаворит по совокупности факторов: simulator.",
-  "updated_at": "2026-10-17 18:36 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: simulator опережает по ценовому импульсу (+594.2% против +474.4%). Краткосрочный фаворит по совокупности факторов: simulator.",
+  "updated_at": "2026-10-17 22:27 UTC"
 }
