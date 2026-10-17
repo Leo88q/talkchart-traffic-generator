@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "6a8h2e4jX5BCcXYtAEFSV1n6iskGzoeXmRhNviX1U7Bx",
+    "name": "Glow / SOL",
+    "base_symbol": "Glow",
+    "base_name": "Glow",
+    "base_address": "9KDhovVA2kdjngkFooqEn5FoKkuZeDMYiQtVk7Lbm9up",
+    "dex": "pumpswap",
+    "price_usd": 0.00010137789679794618,
+    "created_at": "2026-10-16T17:28:16Z",
+    "fdv_usd": 101377.8968,
+    "reserve_usd": 28968.6337,
+    "volume_h24": 3373296.80162019,
+    "change": {
+      "h1": -18.875,
+      "h6": -37.267,
+      "h24": 147.893
+    },
+    "tx_h1": {
+      "buys": 112,
+      "sells": 116
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 696.67,
+        "mult": 49.2,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "6kzsXq32"
+      },
+      {
+        "kind": "buy",
+        "usd": 511.3,
+        "mult": 36.1,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "DGzrc2ij"
+      },
+      {
+        "kind": "sell",
+        "usd": 466.63,
+        "mult": 33.0,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "4JBrqKKo"
+      },
+      {
+        "kind": "sell",
+        "usd": 464.45,
+        "mult": 32.8,
+        "whale": false,
+        "hours_ago": 0.8,
+        "addr8": "5cCEMqJC"
+      },
+      {
+        "kind": "sell",
+        "usd": 350.54,
+        "mult": 24.8,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "89UFYGrp"
+      }
+    ],
+    "first_seen": "2026-10-17T04:38:13+00:00",
+    "last_seen": "2026-10-17T04:38:13+00:00"
+  },
+  "narrative": "Glow разрывает: +147.9% за 24ч. давление продаж нарастает. объём $3.37M больше капы в 33.3× — бумага в огне. ликвидность тонкая ($29.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $696.67 (49× медианы, 1ч назад). нетто китов за сутки −$1.5K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $696.67 (49× медианы). Нетто-поток китов: $-1.5K.",
+  "updated_at": "2026-10-17T04:38:13Z"
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Glow_+148.png",
+  "title": "TalkChart: Glow (+147.9%) — Solana On-Chain Radar",
+  "description": "Glow разрывает: +147.9% за 24ч. давление продаж нарастает. объём $3.37M больше капы в 33.3× — бумага в огне. ликвидность тонкая ($29.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $696.67 (49× медианы, 1ч назад). нетто китов за сутки −$1.5K.\n\nОбъём: $3.37M · Ликвидность: $29.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Glow (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9KDhovVA2kdjngkFooqEn5FoKkuZeDMYiQtVk7Lbm9up"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6a8h2e4jX5BCcXYtAEFSV1n6iskGzoeXmRhNviX1U7Bx"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

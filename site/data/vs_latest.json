@@ -1,17 +1,17 @@
 {
-  "slug": "ftr-vs-loom",
+  "slug": "nubi-vs-glow",
   "token1": {
-    "symbol": "FTR",
-    "change_24h": 149.48,
-    "address": "Fk5MuGv2H3Qpt6AxdhS2KHgDL2os424BvfEoqFNTdv9Y",
-    "volume": 25607020.5851152
+    "symbol": "NUBI",
+    "change_24h": 1816.927,
+    "address": "265GQ6QKcEGwNCWsL8CsJzD3iDDRuzwj7K9Pa7vst73M",
+    "volume": 4847509.67483042
   },
   "token2": {
-    "symbol": "LOOM",
-    "change_24h": 77.49,
-    "address": "3d8vxMgHA44JnFa8cV3X58uzdV5HfHvLk7q5LHCJnvDG",
-    "volume": 2180444.44922003
+    "symbol": "Glow",
+    "change_24h": 147.893,
+    "address": "6a8h2e4jX5BCcXYtAEFSV1n6iskGzoeXmRhNviX1U7Bx",
+    "volume": 3373296.80162019
   },
-  "verdict": "По ончейн-метрикам TalkChart: FTR опережает по ценовому импульсу (+149.5% против +77.5%). Кроме того, у FTR существенно глубже пул ликвидности ($248.9K против $25.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: FTR.",
-  "updated_at": "2026-10-16 22:56 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: NUBI опережает по ценовому импульсу (+1816.9% против +147.9%). Кроме того, у NUBI существенно глубже пул ликвидности ($124.8K против $29.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: NUBI.",
+  "updated_at": "2026-10-17 04:38 UTC"
 }

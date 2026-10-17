@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/NUBI_+1817.png",
+  "title": "TalkChart: NUBI (+1816.9%) — Solana On-Chain Radar",
+  "description": "NUBI разрывает: +1816.9% за 24ч. покупатели доминируют (71% сделок за час). объём $4.85M больше капы в 2.7× — бумага в огне. ликвидность тонкая ($124.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $4.85M · Ликвидность: $124.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп NUBI (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2e3zQiA8JWeDjjVeuqzv9X1Q3aqRRaPqL8UYEbxVpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=265GQ6QKcEGwNCWsL8CsJzD3iDDRuzwj7K9Pa7vst73M"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
