@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-18
-1. MINTER +10370.7% — MINTER разрывает: +10370.7% за 24ч. давление продаж нарастает
-2. mucron +977.4% — mucron разрывает: +977.4% за 24ч. давление продаж нарастает
-3. SUPERCORE +727.6% — SUPERCORE разрывает: +727.6% за 24ч. давление продаж нарастает
-4. AgenC +105.2% — AgenC разрывает: +105.2% за 24ч. продают в рынок (64% сделок за час)
-5. Gato +89.7% — Gato разрывает: +89.7% за 24ч. объём $7.65M больше капы в 10.3× — бумага в огне
+1. SUPERCORE +596.5% — SUPERCORE разрывает: +596.5% за 24ч. объём $3.41M больше капы в 11.7× — бумага в огне
+2. mucron +272.5% — mucron разрывает: +272.5% за 24ч. давление продаж нарастает
+3. AgenC +89.6% — AgenC разрывает: +89.6% за 24ч. давление продаж нарастает
+4. blocus -79.2% — blocus в обвале: -79.2% за 24ч. объём $758.0K больше капы в 13.3× — бумага в огне
+5. Gato -49.3% — Gato в обвале: -49.3% за 24ч. объём $3.13M больше капы в 5.2× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/3p3yajJRqwrvgNs3M1UDVDXVUriZjZ8vE8bdpnpvkNRJ.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6aXb1e6uTMsz77zhncRYFe7AugzBxxcUnhCodhd3odag.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
