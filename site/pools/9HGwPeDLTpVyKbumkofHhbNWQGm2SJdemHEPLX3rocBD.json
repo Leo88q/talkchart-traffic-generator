@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "9HGwPeDLTpVyKbumkofHhbNWQGm2SJdemHEPLX3rocBD",
+    "name": "TSI / SOL",
+    "base_symbol": "TSI",
+    "base_name": "TSI",
+    "base_address": "AcV6CcpMGFrA1dhRFiCKNiVNje8QE6ZXR9ep9jh7pump",
+    "dex": "pumpswap",
+    "price_usd": 0.0002805400575391835,
+    "created_at": "2026-10-18T01:22:08Z",
+    "fdv_usd": 278313.8722,
+    "reserve_usd": 51683.657,
+    "volume_h24": 5120505.53780021,
+    "change": {
+      "h1": -40.07,
+      "h6": -19.808,
+      "h24": 538.187
+    },
+    "tx_h1": {
+      "buys": 681,
+      "sells": 662
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 1087.97,
+        "mult": 106.0,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "5W9WH5Pu"
+      },
+      {
+        "kind": "sell",
+        "usd": 462.98,
+        "mult": 45.1,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "tB93TZdw"
+      },
+      {
+        "kind": "buy",
+        "usd": 453.27,
+        "mult": 44.2,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "CbHDLgSd"
+      },
+      {
+        "kind": "sell",
+        "usd": 447.65,
+        "mult": 43.6,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "FuqL2dqd"
+      },
+      {
+        "kind": "sell",
+        "usd": 438.28,
+        "mult": 42.7,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "HsrSEmZu"
+      }
+    ],
+    "first_seen": "2026-10-18T12:41:17+00:00",
+    "last_seen": "2026-10-18T12:41:17+00:00"
+  },
+  "narrative": "TSI разрывает: +538.2% за 24ч. давление продаж нарастает. объём $5.12M больше капы в 18.4× — бумага в огне. ликвидность тонкая ($51.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.1K (106× медианы, 0ч назад). нетто китов за сутки −$2.0K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $1.1K (106× медианы). Нетто-поток китов: $-2.0K.",
+  "updated_at": "2026-10-18T12:41:17Z"
+}

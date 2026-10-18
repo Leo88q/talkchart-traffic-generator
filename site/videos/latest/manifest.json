@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-18T04:43:25+00:00",
+ "generated_at": "2026-10-18T12:41:33+00:00",
  "videos": [
   {
    "file": "videos/2026-10-18/MINTER.mp4",
    "latest_file": "videos/latest/MINTER.mp4",
    "symbol": "MINTER",
-   "chg_h24": 29906.579
+   "chg_h24": 31699.392
   },
   {
-   "file": "videos/2026-10-18/YILONGMA.mp4",
-   "latest_file": "videos/latest/YILONGMA.mp4",
-   "symbol": "YILONGMA",
-   "chg_h24": 495.559
+   "file": "videos/2026-10-18/SUPERCORE.mp4",
+   "latest_file": "videos/latest/SUPERCORE.mp4",
+   "symbol": "SUPERCORE",
+   "chg_h24": 822.088
   },
   {
-   "file": "videos/2026-10-18/ELON.mp4",
-   "latest_file": "videos/latest/ELON.mp4",
-   "symbol": "ELON",
-   "chg_h24": 322.85
+   "file": "videos/2026-10-18/TSI.mp4",
+   "latest_file": "videos/latest/TSI.mp4",
+   "symbol": "TSI",
+   "chg_h24": 538.187
   }
  ]
 }

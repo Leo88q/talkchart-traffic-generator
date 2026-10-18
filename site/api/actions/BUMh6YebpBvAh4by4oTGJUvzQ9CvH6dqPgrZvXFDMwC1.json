@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/AgenC_+152.png",
+  "title": "TalkChart: AgenC (+151.6%) — Solana On-Chain Radar",
+  "description": "AgenC разрывает: +151.6% за 24ч. давление продаж нарастает. покупатели доминируют (66% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $3.12M больше капы в 2.2× — бумага в огне. ликвидность тонкая ($176.7K) — движения будут резкими.\n\nОбъём: $3.12M · Ликвидность: $176.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп AgenC (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BUMh6YebpBvAh4by4oTGJUvzQ9CvH6dqPgrZvXFDMwC1"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

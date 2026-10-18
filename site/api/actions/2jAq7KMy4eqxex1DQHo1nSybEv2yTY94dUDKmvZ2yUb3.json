@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FTR_-14.png",
+  "title": "TalkChart: FTR (-14.1%) — Solana On-Chain Radar",
+  "description": "FTR теряет -14.1% за сутки. ликвидность тонкая ($249.3K) — движения будут резкими. пулу 2 дн. — чистая рулетка.\n\nОбъём: $1.83M · Ликвидность: $249.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FTR (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-DFMt2FyLpB6ekPNAzVErLXgpSnJ9CRf1VnxBAkTLpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=2jAq7KMy4eqxex1DQHo1nSybEv2yTY94dUDKmvZ2yUb3"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

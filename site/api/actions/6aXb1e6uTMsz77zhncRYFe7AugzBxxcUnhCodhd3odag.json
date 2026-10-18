@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SUPERCORE_+822.png",
+  "title": "TalkChart: SUPERCORE (+822.1%) — Solana On-Chain Radar",
+  "description": "SUPERCORE разрывает: +822.1% за 24ч. объём $2.96M больше капы в 7.7× — бумага в огне. ликвидность тонкая ($57.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $2.96M · Ликвидность: $57.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SUPERCORE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3ZAnpeVBHAvZsySNMXp4g9nYaE1jsx6khgh29VYKpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6aXb1e6uTMsz77zhncRYFe7AugzBxxcUnhCodhd3odag"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
