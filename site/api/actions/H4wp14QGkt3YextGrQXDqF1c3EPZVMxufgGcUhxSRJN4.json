@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Gato_+110.png",
+  "title": "TalkChart: Gato (+110.2%) — Solana On-Chain Radar",
+  "description": "Gato разрывает: +110.2% за 24ч. объём $7.32M больше капы в 10.9× — бумага в огне. ликвидность тонкая ($83.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $7.32M · Ликвидность: $83.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Gato (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=H4wp14QGkt3YextGrQXDqF1c3EPZVMxufgGcUhxSRJN4"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

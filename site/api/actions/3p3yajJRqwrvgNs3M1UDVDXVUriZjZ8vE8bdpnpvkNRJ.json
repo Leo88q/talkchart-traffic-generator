@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MINTER_+29907.png",
+  "title": "TalkChart: MINTER (+29906.6%) — Solana On-Chain Radar",
+  "description": "MINTER разрывает: +29906.6% за 24ч. ускорение в последнем часе. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $727.38 (1408× медианы, 0ч назад). нетто китов за сутки +$1.7K.\n\nОбъём: $6.15M · Ликвидность: $381.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MINTER (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3NxfWMHmfQg8NJFW5AG1ti2xACdczWz24e9SKyk1pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3p3yajJRqwrvgNs3M1UDVDXVUriZjZ8vE8bdpnpvkNRJ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

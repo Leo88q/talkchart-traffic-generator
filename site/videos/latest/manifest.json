@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-17T22:27:14+00:00",
+ "generated_at": "2026-10-18T04:43:25+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-17/simulator.mp4",
-   "latest_file": "videos/latest/simulator.mp4",
-   "symbol": "simulator",
-   "chg_h24": 594.242
+   "file": "videos/2026-10-18/MINTER.mp4",
+   "latest_file": "videos/latest/MINTER.mp4",
+   "symbol": "MINTER",
+   "chg_h24": 29906.579
   },
   {
-   "file": "videos/2026-10-17/ELON.mp4",
+   "file": "videos/2026-10-18/YILONGMA.mp4",
+   "latest_file": "videos/latest/YILONGMA.mp4",
+   "symbol": "YILONGMA",
+   "chg_h24": 495.559
+  },
+  {
+   "file": "videos/2026-10-18/ELON.mp4",
    "latest_file": "videos/latest/ELON.mp4",
    "symbol": "ELON",
-   "chg_h24": 474.442
-  },
-  {
-   "file": "videos/2026-10-17/MAKERS.mp4",
-   "latest_file": "videos/latest/MAKERS.mp4",
-   "symbol": "MAKERS",
-   "chg_h24": 422.681
+   "chg_h24": 322.85
   }
  ]
 }

@@ -1,0 +1,59 @@
+{
+  "pool": {
+    "address": "3p3yajJRqwrvgNs3M1UDVDXVUriZjZ8vE8bdpnpvkNRJ",
+    "name": "MINTER / SOL",
+    "base_symbol": "MINTER",
+    "base_name": "MINTER",
+    "base_address": "3NxfWMHmfQg8NJFW5AG1ti2xACdczWz24e9SKyk1pump",
+    "dex": "pumpswap",
+    "price_usd": 0.016933784416734467,
+    "created_at": "2026-10-17T21:24:53Z",
+    "fdv_usd": 16863558.0831179,
+    "reserve_usd": 381389.6135,
+    "volume_h24": 6145272.13981615,
+    "change": {
+      "h1": 64.001,
+      "h6": 239.525,
+      "h24": 29906.579
+    },
+    "tx_h1": {
+      "buys": 6527,
+      "sells": 4390
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 727.38,
+        "mult": 1407.6,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "34Y7FviL"
+      },
+      {
+        "kind": "buy",
+        "usd": 557.44,
+        "mult": 1078.8,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "34Y7FviL"
+      },
+      {
+        "kind": "buy",
+        "usd": 407.06,
+        "mult": 787.7,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AzsKDRRb"
+      }
+    ],
+    "first_seen": "2026-10-18T04:43:13+00:00",
+    "last_seen": "2026-10-18T04:43:13+00:00"
+  },
+  "narrative": "MINTER разрывает: +29906.6% за 24ч. ускорение в последнем часе. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $727.38 (1408× медианы, 0ч назад). нетто китов за сутки +$1.7K.",
+  "flags": [
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 3 (3 покупок, 0 продаж). Крупнейшая: покупка на $727.38 (1408× медианы). Нетто-поток китов: +$1.7K.",
+  "updated_at": "2026-10-18T04:43:14Z"
+}

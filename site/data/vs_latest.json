@@ -1,17 +1,17 @@
 {
-  "slug": "simulator-vs-elon",
+  "slug": "minter-vs-yilongma",
   "token1": {
-    "symbol": "simulator",
-    "change_24h": 594.242,
-    "address": "EzJV2yGpbS3VM5qWmgqYQ4GPVi77LdhwgFhAy6u4ts1U",
-    "volume": 8182959.69689757
+    "symbol": "MINTER",
+    "change_24h": 29906.579,
+    "address": "3p3yajJRqwrvgNs3M1UDVDXVUriZjZ8vE8bdpnpvkNRJ",
+    "volume": 6145272.13981615
   },
   "token2": {
-    "symbol": "ELON",
-    "change_24h": 474.442,
-    "address": "CnHqem7jPbjA5p2xHBGPHQG7E9NkZWcQr9q6R9YWb7zf",
-    "volume": 3832996.05612178
+    "symbol": "YILONGMA",
+    "change_24h": 495.559,
+    "address": "18g3EYKu5PksAdTRFoTbraCL6gT5o2qmxJ1ERQtvQhN",
+    "volume": 2866369.50272586
   },
-  "verdict": "По ончейн-метрикам TalkChart: simulator опережает по ценовому импульсу (+594.2% против +474.4%). Краткосрочный фаворит по совокупности факторов: simulator.",
-  "updated_at": "2026-10-17 22:27 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: MINTER опережает по ценовому импульсу (+29906.6% против +495.6%). Кроме того, у MINTER существенно глубже пул ликвидности ($381.4K против $144.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: MINTER.",
+  "updated_at": "2026-10-18 04:43 UTC"
 }
