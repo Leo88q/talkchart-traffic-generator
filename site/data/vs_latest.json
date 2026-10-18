@@ -1,17 +1,17 @@
 {
-  "slug": "minter-vs-supercore",
+  "slug": "minter-vs-mucron",
   "token1": {
     "symbol": "MINTER",
-    "change_24h": 31699.392,
+    "change_24h": 10370.651,
     "address": "3p3yajJRqwrvgNs3M1UDVDXVUriZjZ8vE8bdpnpvkNRJ",
-    "volume": 7586379.3676249
+    "volume": 9603286.24936771
   },
   "token2": {
-    "symbol": "SUPERCORE",
-    "change_24h": 822.088,
-    "address": "6aXb1e6uTMsz77zhncRYFe7AugzBxxcUnhCodhd3odag",
-    "volume": 2959864.78961262
+    "symbol": "mucron",
+    "change_24h": 977.399,
+    "address": "Af7W724Kw2A7Z5PbaCAS6RNQ8ubiKEWqiSa715bxgbFA",
+    "volume": 4008864.12831131
   },
-  "verdict": "По ончейн-метрикам TalkChart: MINTER опережает по ценовому импульсу (+31699.4% против +822.1%). Кроме того, у MINTER существенно глубже пул ликвидности ($394.9K против $57.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: MINTER.",
-  "updated_at": "2026-10-18 12:41 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: MINTER опережает по ценовому импульсу (+10370.7% против +977.4%). Кроме того, у MINTER существенно глубже пул ликвидности ($227.4K против $63.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: MINTER.",
+  "updated_at": "2026-10-18 18:43 UTC"
 }

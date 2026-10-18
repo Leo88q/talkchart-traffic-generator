@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/TETSUO_+46.png",
+  "title": "TalkChart: TETSUO (+46.2%) — Solana On-Chain Radar",
+  "description": "TETSUO разрывает: +46.2% за 24ч. ликвидность тонкая ($176.3K) — движения будут резкими. крупная сделка на фоне ленты: продал $606.06 (821× медианы, 2ч назад). нетто китов за сутки −$866.63.\n\nОбъём: $227.5K · Ликвидность: $176.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп TETSUO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=2KB3i5uLKhUcjUwq3poxHpuGGqBWYwtTk5eG9E5WnLG6"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

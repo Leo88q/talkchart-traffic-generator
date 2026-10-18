@@ -1,0 +1,50 @@
+{
+  "pool": {
+    "address": "2KB3i5uLKhUcjUwq3poxHpuGGqBWYwtTk5eG9E5WnLG6",
+    "name": "TETSUO / SOL",
+    "base_symbol": "TETSUO",
+    "base_name": "TETSUO",
+    "base_address": "8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8",
+    "dex": "raydium",
+    "price_usd": 0.0002608620964516571,
+    "created_at": "2024-12-02T05:04:56Z",
+    "fdv_usd": 260076.348200335,
+    "reserve_usd": 176322.1242,
+    "volume_h24": 227501.537935829,
+    "change": {
+      "h1": -0.251,
+      "h6": -2.959,
+      "h24": 46.243
+    },
+    "tx_h1": {
+      "buys": 63,
+      "sells": 41
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 606.06,
+        "mult": 820.6,
+        "whale": false,
+        "hours_ago": 2.3,
+        "addr8": "4GE5AQFL"
+      },
+      {
+        "kind": "sell",
+        "usd": 260.57,
+        "mult": 352.8,
+        "whale": false,
+        "hours_ago": 2.3,
+        "addr8": "8nC7Uia9"
+      }
+    ],
+    "first_seen": "2026-10-18T18:43:04+00:00",
+    "last_seen": "2026-10-18T18:43:04+00:00"
+  },
+  "narrative": "TETSUO разрывает: +46.2% за 24ч. ликвидность тонкая ($176.3K) — движения будут резкими. крупная сделка на фоне ленты: продал $606.06 (821× медианы, 2ч назад). нетто китов за сутки −$866.63.",
+  "flags": [
+    "тонкая ликвидность"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 2 (0 покупок, 2 продаж). Крупнейшая: продажа на $606.06 (821× медианы). Нетто-поток китов: $-866.63.",
+  "updated_at": "2026-10-18T18:43:04Z"
+}
