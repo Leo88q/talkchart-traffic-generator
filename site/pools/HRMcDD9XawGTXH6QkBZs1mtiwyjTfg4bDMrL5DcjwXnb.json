@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "HRMcDD9XawGTXH6QkBZs1mtiwyjTfg4bDMrL5DcjwXnb",
+    "name": "PIERRE / SOL",
+    "base_symbol": "PIERRE",
+    "base_name": "PIERRE",
+    "base_address": "D3S6J9s1byrNBt3ZKwEDiPsNRqHtoEP8zQKdhyBdpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0011518268601813223,
+    "created_at": "2026-10-18T16:38:50Z",
+    "fdv_usd": 1150068.911,
+    "reserve_usd": 103696.0074,
+    "volume_h24": 5263149.17229778,
+    "change": {
+      "h1": 6.021,
+      "h6": 31.458,
+      "h24": 2468.038
+    },
+    "tx_h1": {
+      "buys": 419,
+      "sells": 408
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 1243.06,
+        "mult": 53.4,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "buy",
+        "usd": 1088.99,
+        "mult": 46.8,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "HBu2sMsP"
+      },
+      {
+        "kind": "sell",
+        "usd": 989.77,
+        "mult": 42.5,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "7cXXhyR2"
+      },
+      {
+        "kind": "sell",
+        "usd": 848.08,
+        "mult": 36.4,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "5CoYDsjp"
+      },
+      {
+        "kind": "sell",
+        "usd": 800.78,
+        "mult": 34.4,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "HA5kAmn7"
+      }
+    ],
+    "first_seen": "2026-10-19T04:50:51+00:00",
+    "last_seen": "2026-10-19T04:50:51+00:00"
+  },
+  "narrative": "PIERRE разрывает: +2468.0% за 24ч. ускорение в последнем часе. объём $5.26M больше капы в 4.6× — бумага в огне. ликвидность тонкая ($103.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.2K (53× медианы, 0ч назад). нетто китов за сутки −$306.58.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $1.2K (53× медианы). Нетто-поток китов: $-306.58.",
+  "updated_at": "2026-10-19T04:50:51Z"
+}

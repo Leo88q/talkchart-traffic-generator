@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/godspeed_+54.png",
+  "title": "TalkChart: godspeed (+53.8%) — Solana On-Chain Radar",
+  "description": "godspeed разрывает: +53.8% за 24ч. давление продаж нарастает. объём $3.84M больше капы в 59.8× — бумага в огне. ликвидность тонкая ($23.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $3.84M · Ликвидность: $23.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп godspeed (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-ArpPsesHXKbGeJsHdquM6acT3uNs7BChyetJjiNYpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CkEeZKJpcro2dEp8RXJpSYfjF3TPoijmH8xVGuEAxoue"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

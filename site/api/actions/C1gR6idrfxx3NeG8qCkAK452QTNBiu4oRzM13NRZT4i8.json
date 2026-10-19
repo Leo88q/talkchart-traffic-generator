@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DOGESTER_+334.png",
+  "title": "TalkChart: DOGESTER (+333.6%) — Solana On-Chain Radar",
+  "description": "DOGESTER разрывает: +333.6% за 24ч. покупатели доминируют (72% сделок за час). ликвидность тонкая ($37.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $705.64 (79× медианы, 2ч назад). нетто китов за сутки −$356.02.\n\nОбъём: $277.7K · Ликвидность: $37.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DOGESTER (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8RpybikpGLbKsYJ4FXz12ExDz89R7VXAUZ3JXNcKpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=C1gR6idrfxx3NeG8qCkAK452QTNBiu4oRzM13NRZT4i8"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

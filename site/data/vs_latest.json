@@ -1,17 +1,17 @@
 {
-  "slug": "supercore-vs-mucron",
+  "slug": "pierre-vs-dogester",
   "token1": {
-    "symbol": "SUPERCORE",
-    "change_24h": 596.458,
-    "address": "6aXb1e6uTMsz77zhncRYFe7AugzBxxcUnhCodhd3odag",
-    "volume": 3406911.1045954
+    "symbol": "PIERRE",
+    "change_24h": 2468.038,
+    "address": "HRMcDD9XawGTXH6QkBZs1mtiwyjTfg4bDMrL5DcjwXnb",
+    "volume": 5263149.17229778
   },
   "token2": {
-    "symbol": "mucron",
-    "change_24h": 272.511,
-    "address": "Af7W724Kw2A7Z5PbaCAS6RNQ8ubiKEWqiSa715bxgbFA",
-    "volume": 4417965.15795895
+    "symbol": "DOGESTER",
+    "change_24h": 333.627,
+    "address": "C1gR6idrfxx3NeG8qCkAK452QTNBiu4oRzM13NRZT4i8",
+    "volume": 277657.589693054
   },
-  "verdict": "По ончейн-метрикам TalkChart: SUPERCORE опережает по ценовому импульсу (+596.5% против +272.5%). Краткосрочный фаворит по совокупности факторов: SUPERCORE.",
-  "updated_at": "2026-10-18 22:30 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PIERRE опережает по ценовому импульсу (+2468.0% против +333.6%). Кроме того, у PIERRE существенно глубже пул ликвидности ($103.7K против $37.8K), что снижает риск проскальзывания. Кроме того, у PIERRE объём превышает ликвидность в 50.8× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: PIERRE.",
+  "updated_at": "2026-10-19 04:51 UTC"
 }

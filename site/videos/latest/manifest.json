@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-18T22:30:28+00:00",
+ "generated_at": "2026-10-19T04:51:01+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-18/SUPERCORE.mp4",
-   "latest_file": "videos/latest/SUPERCORE.mp4",
-   "symbol": "SUPERCORE",
-   "chg_h24": 596.458
+   "file": "videos/2026-10-19/PIERRE.mp4",
+   "latest_file": "videos/latest/PIERRE.mp4",
+   "symbol": "PIERRE",
+   "chg_h24": 2468.038
   },
   {
-   "file": "videos/2026-10-18/mucron.mp4",
+   "file": "videos/2026-10-19/DOGESTER.mp4",
+   "latest_file": "videos/latest/DOGESTER.mp4",
+   "symbol": "DOGESTER",
+   "chg_h24": 333.627
+  },
+  {
+   "file": "videos/2026-10-19/mucron.mp4",
    "latest_file": "videos/latest/mucron.mp4",
    "symbol": "mucron",
-   "chg_h24": 272.511
-  },
-  {
-   "file": "videos/2026-10-18/AgenC.mp4",
-   "latest_file": "videos/latest/AgenC.mp4",
-   "symbol": "AgenC",
-   "chg_h24": 89.604
+   "chg_h24": 115.777
   }
  ]
 }
