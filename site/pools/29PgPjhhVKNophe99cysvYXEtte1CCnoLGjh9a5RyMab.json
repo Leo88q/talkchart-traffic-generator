@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "29PgPjhhVKNophe99cysvYXEtte1CCnoLGjh9a5RyMab",
+    "name": "SOLFISH / SOL",
+    "base_symbol": "SOLFISH",
+    "base_name": "SOLFISH",
+    "base_address": "AHK1P9qNCujgmNp2JxRk5Q71AvJhzJPnFf2TWTkppump",
+    "dex": "pumpswap",
+    "price_usd": 3.247343263766849e-05,
+    "created_at": "2026-10-18T17:37:28Z",
+    "fdv_usd": 31013.8289173458,
+    "reserve_usd": 13765.9099,
+    "volume_h24": 94421.8326905981,
+    "change": {
+      "h1": -22.523,
+      "h6": -27.643,
+      "h24": -26.67
+    },
+    "tx_h1": {
+      "buys": 60,
+      "sells": 79
+    },
+    "first_seen": "2026-10-19T15:43:50+00:00",
+    "last_seen": "2026-10-19T15:43:50+00:00"
+  },
+  "narrative": "SOLFISH в обвале: -26.7% за 24ч. давление продаж нарастает. объём $94.4K больше капы в 3.0× — бумага в огне. ликвидность тонкая ($13.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-19T15:43:50Z"
+}

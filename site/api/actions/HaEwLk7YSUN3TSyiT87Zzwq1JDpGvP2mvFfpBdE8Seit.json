@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Mimi_+651.png",
+  "title": "TalkChart: Mimi (+651.5%) — Solana On-Chain Radar",
+  "description": "Mimi разрывает: +651.5% за 24ч. ускорение в последнем часе. объём $2.76M больше капы в 9.5× — бумага в огне. ликвидность тонкая ($50.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $2.76M · Ликвидность: $50.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Mimi (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8CYyivwMZPg6Edaofxo3eHiveZkDrU6TtUDwtMjTpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HaEwLk7YSUN3TSyiT87Zzwq1JDpGvP2mvFfpBdE8Seit"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

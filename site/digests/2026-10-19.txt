@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-19
-1. PIERRE +2468.0% — PIERRE разрывает: +2468.0% за 24ч. ускорение в последнем часе
-2. DOGESTER +333.6% — DOGESTER разрывает: +333.6% за 24ч. покупатели доминируют (72% сделок за час)
-3. mucron +115.8% — mucron разрывает: +115.8% за 24ч. давление продаж нарастает
-4. Dacity +104.7% — Dacity разрывает: +104.7% за 24ч. давление продаж нарастает
-5. TSI -86.6% — TSI в обвале: -86.6% за 24ч. давление продаж нарастает
+1. startupSI +6126.0% — startupSI разрывает: +6126.0% за 24ч. ускорение в последнем часе
+2. PIERRE +2185.5% — PIERRE разрывает: +2185.5% за 24ч. давление продаж нарастает
+3. UHI +1860.9% — UHI разрывает: +1860.9% за 24ч. объём $5.23M больше капы в 6.5× — бумага в огне
+4. Mimi +651.5% — Mimi разрывает: +651.5% за 24ч. ускорение в последнем часе
+5. DOGESTER +371.2% — DOGESTER разрывает: +371.2% за 24ч. ускорение в последнем часе
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/HRMcDD9XawGTXH6QkBZs1mtiwyjTfg4bDMrL5DcjwXnb.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

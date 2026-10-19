@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/WEFT_+288.png",
+  "title": "TalkChart: WEFT (+288.5%) — Solana On-Chain Radar",
+  "description": "WEFT разрывает: +288.5% за 24ч. покупатели доминируют (65% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($136.7K) — движения будут резкими. пулу 2 дн. — чистая рулетка.\n\nОбъём: $1.70M · Ликвидность: $136.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп WEFT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HqmFi85adLD8BQA7en1HfajdAfzVFps5REgQaYuw6Ax8"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=E5bdE27ATDTeg1ZPNFhjnU5fcVKjccQ5iFZLaX8fscgx"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

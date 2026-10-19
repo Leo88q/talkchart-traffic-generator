@@ -1,17 +1,17 @@
 {
-  "slug": "pierre-vs-dogester",
+  "slug": "startupsi-vs-pierre",
   "token1": {
-    "symbol": "PIERRE",
-    "change_24h": 2468.038,
-    "address": "HRMcDD9XawGTXH6QkBZs1mtiwyjTfg4bDMrL5DcjwXnb",
-    "volume": 5263149.17229778
+    "symbol": "startupSI",
+    "change_24h": 6125.998,
+    "address": "AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R",
+    "volume": 7876495.98942174
   },
   "token2": {
-    "symbol": "DOGESTER",
-    "change_24h": 333.627,
-    "address": "C1gR6idrfxx3NeG8qCkAK452QTNBiu4oRzM13NRZT4i8",
-    "volume": 277657.589693054
+    "symbol": "PIERRE",
+    "change_24h": 2185.47,
+    "address": "HRMcDD9XawGTXH6QkBZs1mtiwyjTfg4bDMrL5DcjwXnb",
+    "volume": 7001651.66994146
   },
-  "verdict": "По ончейн-метрикам TalkChart: PIERRE опережает по ценовому импульсу (+2468.0% против +333.6%). Кроме того, у PIERRE существенно глубже пул ликвидности ($103.7K против $37.8K), что снижает риск проскальзывания. Кроме того, у PIERRE объём превышает ликвидность в 50.8× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: PIERRE.",
-  "updated_at": "2026-10-19 04:51 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: startupSI опережает по ценовому импульсу (+6126.0% против +2185.5%). Кроме того, у startupSI существенно глубже пул ликвидности ($503.3K против $99.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: startupSI.",
+  "updated_at": "2026-10-19 15:44 UTC"
 }
