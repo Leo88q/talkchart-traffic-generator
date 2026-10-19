@@ -1,17 +1,17 @@
 {
-  "slug": "startupsi-vs-pierre",
+  "slug": "startupsi-vs-uhi",
   "token1": {
     "symbol": "startupSI",
-    "change_24h": 6125.998,
+    "change_24h": 2131.983,
     "address": "AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R",
-    "volume": 7876495.98942174
+    "volume": 10198569.2578848
   },
   "token2": {
-    "symbol": "PIERRE",
-    "change_24h": 2185.47,
-    "address": "HRMcDD9XawGTXH6QkBZs1mtiwyjTfg4bDMrL5DcjwXnb",
-    "volume": 7001651.66994146
+    "symbol": "UHI",
+    "change_24h": 1104.125,
+    "address": "3ENsvQnHuHtQzMBxpDG4pkxwbBnzJvFcz2yyCfxC9QNH",
+    "volume": 6160146.87500698
   },
-  "verdict": "По ончейн-метрикам TalkChart: startupSI опережает по ценовому импульсу (+6126.0% против +2185.5%). Кроме того, у startupSI существенно глубже пул ликвидности ($503.3K против $99.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: startupSI.",
-  "updated_at": "2026-10-19 15:44 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: startupSI опережает по ценовому импульсу (+2132.0% против +1104.1%). Кроме того, у startupSI существенно глубже пул ликвидности ($446.5K против $72.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: startupSI.",
+  "updated_at": "2026-10-19 21:09 UTC"
 }

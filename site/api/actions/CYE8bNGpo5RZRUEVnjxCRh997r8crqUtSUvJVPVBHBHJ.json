@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/COMPUTE_+270.png",
+  "title": "TalkChart: COMPUTE (+270.2%) — Solana On-Chain Radar",
+  "description": "COMPUTE разрывает: +270.2% за 24ч. объём $2.85M больше капы в 18.0× — бумага в огне. ликвидность тонкая ($37.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $916.10 (51× медианы, 0ч назад). нетто китов за сутки −$1.9K.\n\nОбъём: $2.85M · Ликвидность: $37.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп COMPUTE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-GWe3TNg1UPxeaSazxK8U49PDAqXCaX9Jc8zbttFLpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CYE8bNGpo5RZRUEVnjxCRh997r8crqUtSUvJVPVBHBHJ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Satoshi_+22.png",
+  "title": "TalkChart: Satoshi (+22.1%) — Solana On-Chain Radar",
+  "description": "Satoshi растёт на +22.1% за сутки. ликвидность тонкая ($27.2K) — движения будут резкими. пулу 4 дн., история короткая.\n\nОбъём: $66.9K · Ликвидность: $27.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Satoshi (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-SAtoZGJkh4Eid9EQZYXWnCNVn5asZrWZLouBMX1SHi1"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7jTCpYho9RJhCn9ZyrLPjwGWkacGhJVdzL2cZni3UdUh"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
