@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DOLLARSE_+124.png",
+  "title": "TalkChart: DOLLARSE (+124.3%) — Solana On-Chain Radar",
+  "description": "DOLLARSE разрывает: +124.3% за 24ч. продают в рынок (100% сделок за час). суточный памп остывает. ликвидность тонкая ($22.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $21.0K · Ликвидность: $22.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DOLLARSE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-J34sjwqUYsicH2A6aNoMn91MAPYkUUdXsyfFBLBNDoLL"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AXiJD8ZaQQ5r9fCVy2FeQ499XdBB1V3WCdjdtsXV2MJL"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

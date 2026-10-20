@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27",
+    "name": "COLLECTOOOR / USDC",
+    "base_symbol": "COLLECTOOOR",
+    "base_name": "COLLECTOOOR",
+    "base_address": "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0003106404276653633,
+    "created_at": "2026-10-19T18:59:09Z",
+    "fdv_usd": 322774.8447,
+    "reserve_usd": 62087.2612,
+    "volume_h24": 4199514.18811067,
+    "change": {
+      "h1": -20.961,
+      "h6": -16.259,
+      "h24": 456.184
+    },
+    "tx_h1": {
+      "buys": 1361,
+      "sells": 827
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 1228.7,
+        "mult": 66.8,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "3idduYUk"
+      },
+      {
+        "kind": "sell",
+        "usd": 924.94,
+        "mult": 50.3,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 787.61,
+        "mult": 42.8,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "5rkSwEce"
+      },
+      {
+        "kind": "sell",
+        "usd": 720.36,
+        "mult": 39.1,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "2ihaWVuE"
+      },
+      {
+        "kind": "buy",
+        "usd": 679.57,
+        "mult": 36.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "6E78qKfm"
+      }
+    ],
+    "first_seen": "2026-10-20T04:59:17+00:00",
+    "last_seen": "2026-10-20T04:59:17+00:00"
+  },
+  "narrative": "COLLECTOOOR разрывает: +456.2% за 24ч. давление продаж нарастает. покупатели доминируют (62% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $4.20M больше капы в 13.0× — бумага в огне. ликвидность тонкая ($62.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.2K (67× медианы, 0ч назад). нетто китов за сутки −$3.0K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $1.2K (67× медианы). Нетто-поток китов: $-3.0K.",
+  "updated_at": "2026-10-20T04:59:17Z"
+}

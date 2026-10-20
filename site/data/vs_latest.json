@@ -1,17 +1,17 @@
 {
-  "slug": "startupsi-vs-uhi",
+  "slug": "worthless-vs-collectooor",
   "token1": {
-    "symbol": "startupSI",
-    "change_24h": 2131.983,
-    "address": "AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R",
-    "volume": 10198569.2578848
+    "symbol": "WORTHLESS",
+    "change_24h": 587.335,
+    "address": "HNJY1mVocFbPNxWtAnscCeqnR5t2aCkYfYUSKWjHEE3J",
+    "volume": 1602297.69194445
   },
   "token2": {
-    "symbol": "UHI",
-    "change_24h": 1104.125,
-    "address": "3ENsvQnHuHtQzMBxpDG4pkxwbBnzJvFcz2yyCfxC9QNH",
-    "volume": 6160146.87500698
+    "symbol": "COLLECTOOOR",
+    "change_24h": 456.184,
+    "address": "9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27",
+    "volume": 4199514.18811067
   },
-  "verdict": "По ончейн-метрикам TalkChart: startupSI опережает по ценовому импульсу (+2132.0% против +1104.1%). Кроме того, у startupSI существенно глубже пул ликвидности ($446.5K против $72.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: startupSI.",
-  "updated_at": "2026-10-19 21:09 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: WORTHLESS опережает по ценовому импульсу (+587.3% против +456.2%). Краткосрочный фаворит по совокупности факторов: WORTHLESS.",
+  "updated_at": "2026-10-20 04:59 UTC"
 }

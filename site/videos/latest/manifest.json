@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-19T21:09:09+00:00",
+ "generated_at": "2026-10-20T04:59:26+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-19/startupSI.mp4",
+   "file": "videos/2026-10-20/WORTHLESS.mp4",
+   "latest_file": "videos/latest/WORTHLESS.mp4",
+   "symbol": "WORTHLESS",
+   "chg_h24": 587.335
+  },
+  {
+   "file": "videos/2026-10-20/COLLECTOOOR.mp4",
+   "latest_file": "videos/latest/COLLECTOOOR.mp4",
+   "symbol": "COLLECTOOOR",
+   "chg_h24": 456.184
+  },
+  {
+   "file": "videos/2026-10-20/startupSI.mp4",
    "latest_file": "videos/latest/startupSI.mp4",
    "symbol": "startupSI",
-   "chg_h24": 2131.983
-  },
-  {
-   "file": "videos/2026-10-19/UHI.mp4",
-   "latest_file": "videos/latest/UHI.mp4",
-   "symbol": "UHI",
-   "chg_h24": 1104.125
-  },
-  {
-   "file": "videos/2026-10-19/COMPUTE.mp4",
-   "latest_file": "videos/latest/COMPUTE.mp4",
-   "symbol": "COMPUTE",
-   "chg_h24": 270.225
+   "chg_h24": 394.755
   }
  ]
 }

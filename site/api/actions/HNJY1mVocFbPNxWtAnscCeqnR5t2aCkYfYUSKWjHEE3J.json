@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/WORTHLESS_+587.png",
+  "title": "TalkChart: WORTHLESS (+587.3%) — Solana On-Chain Radar",
+  "description": "WORTHLESS разрывает: +587.3% за 24ч. объём $1.60M больше капы в 5.1× — бумага в огне. ликвидность тонкая ($51.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.9K (134× медианы, 0ч назад). нетто китов за сутки +$1.3K.\n\nОбъём: $1.60M · Ликвидность: $51.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп WORTHLESS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HNJY1mVocFbPNxWtAnscCeqnR5t2aCkYfYUSKWjHEE3J"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

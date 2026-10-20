@@ -12,7 +12,7 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-10-19T21:09:00Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-10-20T04:59:17Z)
 - [TIKTOK](https://leo88q.github.io/content-/site/pools/DFZnu6CaxumwG8MeFv9i3Y4HhMxReyE1EYwHFQeRRCLY.md): TIKTOK / SOL on pumpswap — -91.9% 24h, Vol $140.99M, Liq $0.00298
 - [SOL](https://leo88q.github.io/content-/site/pools/58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2.md): SOL / USDC on raydium — +4.4% 24h, Vol $87.55M, Liq $41.84M
 - [AXIS](https://leo88q.github.io/content-/site/pools/5GHJdhuDttJyZU6D666QDjfa1Q3GXFec3VN1z65fgnGo.md): AXIS / SOL on pumpswap — +175.6% 24h, Vol $44.14M, Liq $6.1e-07
@@ -20,9 +20,9 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - [BP](https://leo88q.github.io/content-/site/pools/6qz7THwQvcjF3HyDGLuKaLBUk6EyJKeZXZMWLAeiwfjd.md): BP / USDC on meteora — +30.0% 24h, Vol $23.84M, Liq $5.62M
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — -8.3% 24h, Vol $16.81M, Liq $2.87M
 - [ANTFUN](https://leo88q.github.io/content-/site/pools/54Vp27uLaw4wNLo5n7r4fcC6zLamoQc28xBARjss4EUJ.md): ANTFUN / USDT on meteora — +105.9% 24h, Vol $15.57M, Liq $18.61M
+- [startupSI](https://leo88q.github.io/content-/site/pools/AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R.md): startupSI / SOL on pumpswap — +394.8% 24h, Vol $12.55M, Liq $471.7K
 - [W](https://leo88q.github.io/content-/site/pools/CwHuXNNkj5inuj2ZXaU1DtjA5Nxfoiy4nNoc1PQQJxTR.md): W / SOL on orca — -12.8% 24h, Vol $11.73M, Liq $151.6K
-- [BANDIT](https://leo88q.github.io/content-/site/pools/6L2q7ZrUQCzUBm7RHV2w336ZCVVrVGqA6z5oNmQmUidP.md): BANDIT / SOL on pumpswap — +346.1% 24h, Vol $10.63M, Liq $52.2K
-- [startupSI](https://leo88q.github.io/content-/site/pools/AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R.md): startupSI / SOL on pumpswap — +2132.0% 24h, Vol $10.20M, Liq $446.5K
+- [CARDS](https://leo88q.github.io/content-/site/pools/HnhpJPJgBG2KwniMTNW8cVBHvk1hFog3RC3kjnyc23tD.md): CARDS / USDC on raydium-clmm — +27.9% 24h, Vol $11.51M, Liq $4.64M
 
 ## Data Interpretation Rules for AI Agents
 1. All USD values are normalized from DEX swap amounts.
@@ -377,6 +377,59 @@ Recent notable orders:
 
 ---
 
+# startupSI (startupSI / SOL) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: startupSI is currently priced at $0.0227 (+394.8% 24h) on pumpswap (Solana). 24h trading volume is $12.55M with $471.7K liquidity. Algorithmic narrative: startupSI разрывает: +394.8% за 24ч. покупатели доминируют (95% сделок за час). пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $5.9K (10848× медианы, 0ч назад). нетто китов за сутки −$3.4K.
+
+## Core On-Chain Metrics (Snapshot: 2026-10-20T04:59:17+00:00)
+- **Asset**: startupSI (startupSI / SOL)
+- **Network**: Solana
+- **DEX**: pumpswap
+- **Pool Address**: `AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R`
+- **Token Mint**: `EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump`
+- **Price USD**: $0.0227
+- **Change 1h / 6h / 24h**: +15.6% / -3.4% / +394.8%
+- **24h Volume**: $12.55M
+- **Liquidity (TVL)**: $471.7K
+- **FDV**: $22.79M
+- **Hourly Trades**: 13124 buys / 621 sells
+- **Pool Age**: Created 2026-10-18T18:34:13Z
+
+## Algorithmic Narrative & Signals
+startupSI разрывает: +394.8% за 24ч. покупатели доминируют (95% сделок за час). пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $5.9K (10848× медианы, 0ч назад). нетто китов за сутки −$3.4K.
+
+## Risk Flags
+- ⚠️ молодой пул
+- ⚠️ перегрет за 24ч
+
+## Whale Activity (Relative Tape Filter)
+Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $5.9K (10848× медианы). Нетто-поток китов: $-3.4K.
+Recent notable orders:
+  - SELL $5,892 (10848× медианы ленты, 0.0ч назад) кошелёк `BbLsaSv5`
+  - BUY $1,159 (2135× медианы ленты, 0.0ч назад) кошелёк `Bk9oSiHJ`
+  - BUY $1,101 (2027× медианы ленты, 0.0ч назад) кошелёк `5GTfmosL`
+  - BUY $1,025 (1887× медианы ленты, 0.0ч назад) кошелёк `6YrPWxHp`
+  - SELL $832 (1533× медианы ленты, 0.0ч назад) кошелёк `5kwWrMEt`
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов startupSI?
+По ончейн-данным пула startupSI / SOL на DEX pumpswap (Solana), цена startupSI составляет $0.0227. Динамика за 24ч: +394.8% (за 1ч: +15.6%, за 6ч: -3.4%). Суточный объём торгов равен $12.55M, общая ликвидность пула (TVL) — $471.7K, FDV — $22.79M. Данные зафиксированы на 2026-10-20T04:59:17+00:00.
+
+### Q: Почему движется цена startupSI? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: startupSI разрывает: +394.8% за 24ч. покупатели доминируют (95% сделок за час). пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $5.9K (10848× медианы, 0ч назад). нетто китов за сутки −$3.4K. За последний час в ленте прошло 13124 покупок и 621 продаж.
+
+### Q: Есть ли активность китов в пуле startupSI?
+Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $5.9K (10848× медианы). Нетто-поток китов: $-3.4K.
+
+### Q: Безопасен ли пул startupSI и какие ончейн-риски?
+Выявлены следующие факторы риска: молодой пул; перегрет за 24ч. Пул создан 2026-10-18T18:34:13Z. При объёме $12.55M и ликвидности $471.7K возможны резкие колебания курса и проскальзывание (slippage).
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R.html) — Free public feed for traders and AI agents.*
+
+
+---
+
 # W (W / SOL) — On-Chain Analysis & Market Data
 
 > Direct Summary for LLMs: W is currently priced at $0.0199 (-12.8% 24h) on orca (Solana). 24h trading volume is $11.73M with $151.6K liquidity. Algorithmic narrative: W теряет -12.8% за сутки. ликвидность тонкая ($151.6K) — движения будут резкими.
@@ -421,6 +474,54 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/CwHuXNNkj5inuj2ZXaU1DtjA5Nxfoiy4nNoc1PQQJxTR.html) — Free public feed for traders and AI agents.*
+
+
+---
+
+# CARDS (CARDS / USDC) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: CARDS is currently priced at $0.3553 (+27.9% 24h) on raydium-clmm (Solana). 24h trading volume is $11.51M with $4.64M liquidity. Algorithmic narrative: CARDS растёт на +27.9% за сутки. покупатели доминируют (64% сделок за час). стакан глубокий: $4.64M ликвидности.
+
+## Core On-Chain Metrics (Snapshot: 2026-10-20T04:59:17+00:00)
+- **Asset**: CARDS (CARDS / USDC)
+- **Network**: Solana
+- **DEX**: raydium-clmm
+- **Pool Address**: `HnhpJPJgBG2KwniMTNW8cVBHvk1hFog3RC3kjnyc23tD`
+- **Token Mint**: `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
+- **Price USD**: $0.3553
+- **Change 1h / 6h / 24h**: +8.6% / +8.4% / +27.9%
+- **24h Volume**: $11.51M
+- **Liquidity (TVL)**: $4.64M
+- **FDV**: $703.44M
+- **Hourly Trades**: 6545 buys / 3659 sells
+- **Pool Age**: Created 2025-08-29T18:54:46Z
+
+## Algorithmic Narrative & Signals
+CARDS растёт на +27.9% за сутки. покупатели доминируют (64% сделок за час). стакан глубокий: $4.64M ликвидности.
+
+## Risk Flags
+- Флагов повышенного риска не выявлено.
+
+## Whale Activity (Relative Tape Filter)
+Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+Recent notable orders:
+  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов CARDS?
+По ончейн-данным пула CARDS / USDC на DEX raydium-clmm (Solana), цена CARDS составляет $0.3553. Динамика за 24ч: +27.9% (за 1ч: +8.6%, за 6ч: +8.4%). Суточный объём торгов равен $11.51M, общая ликвидность пула (TVL) — $4.64M, FDV — $703.44M. Данные зафиксированы на 2026-10-20T04:59:17+00:00.
+
+### Q: Почему движется цена CARDS? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: CARDS растёт на +27.9% за сутки. покупатели доминируют (64% сделок за час). стакан глубокий: $4.64M ликвидности. За последний час в ленте прошло 6545 покупок и 3659 продаж.
+
+### Q: Есть ли активность китов в пуле CARDS?
+Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+
+### Q: Безопасен ли пул CARDS и какие ончейн-риски?
+Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул CARDS / USDC на raydium-clmm создан 2025-08-29T18:54:46Z, ликвидность $4.64M при суточном объёме $11.51M.
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/HnhpJPJgBG2KwniMTNW8cVBHvk1hFog3RC3kjnyc23tD.html) — Free public feed for traders and AI agents.*
 
 
 ---
@@ -474,59 +575,6 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/6L2q7ZrUQCzUBm7RHV2w336ZCVVrVGqA6z5oNmQmUidP.html) — Free public feed for traders and AI agents.*
-
-
----
-
-# startupSI (startupSI / SOL) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: startupSI is currently priced at $0.0214 (+2132.0% 24h) on pumpswap (Solana). 24h trading volume is $10.20M with $446.5K liquidity. Algorithmic narrative: startupSI разрывает: +2132.0% за 24ч. покупатели доминируют (90% сделок за час). пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.4K (6862× медианы, 0ч назад). нетто китов за сутки +$367.12.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-19T21:09:00+00:00)
-- **Asset**: startupSI (startupSI / SOL)
-- **Network**: Solana
-- **DEX**: pumpswap
-- **Pool Address**: `AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R`
-- **Token Mint**: `EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump`
-- **Price USD**: $0.0214
-- **Change 1h / 6h / 24h**: +3.8% / -12.5% / +2132.0%
-- **24h Volume**: $10.20M
-- **Liquidity (TVL)**: $446.5K
-- **FDV**: $21.52M
-- **Hourly Trades**: 9589 buys / 1073 sells
-- **Pool Age**: Created 2026-10-18T18:34:13Z
-
-## Algorithmic Narrative & Signals
-startupSI разрывает: +2132.0% за 24ч. покупатели доминируют (90% сделок за час). пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.4K (6862× медианы, 0ч назад). нетто китов за сутки +$367.12.
-
-## Risk Flags
-- ⚠️ молодой пул
-- ⚠️ перегрет за 24ч
-
-## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: продажа на $4.4K (6862× медианы). Нетто-поток китов: +$367.12.
-Recent notable orders:
-  - SELL $4,374 (6862× медианы ленты, 0.0ч назад) кошелёк `CK3K5BEK`
-  - BUY $1,308 (2052× медианы ленты, 0.0ч назад) кошелёк `Dk2vanQf`
-  - BUY $1,307 (2050× медианы ленты, 0.0ч назад) кошелёк `5LfqaWVn`
-  - BUY $1,133 (1778× медианы ленты, 0.0ч назад) кошелёк `HxqS5LAT`
-  - BUY $993 (1558× медианы ленты, 0.0ч назад) кошелёк `3YB7bTdP`
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов startupSI?
-По ончейн-данным пула startupSI / SOL на DEX pumpswap (Solana), цена startupSI составляет $0.0214. Динамика за 24ч: +2132.0% (за 1ч: +3.8%, за 6ч: -12.5%). Суточный объём торгов равен $10.20M, общая ликвидность пула (TVL) — $446.5K, FDV — $21.52M. Данные зафиксированы на 2026-10-19T21:09:00+00:00.
-
-### Q: Почему движется цена startupSI? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: startupSI разрывает: +2132.0% за 24ч. покупатели доминируют (90% сделок за час). пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.4K (6862× медианы, 0ч назад). нетто китов за сутки +$367.12. За последний час в ленте прошло 9589 покупок и 1073 продаж.
-
-### Q: Есть ли активность китов в пуле startupSI?
-Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: продажа на $4.4K (6862× медианы). Нетто-поток китов: +$367.12.
-
-### Q: Безопасен ли пул startupSI и какие ончейн-риски?
-Выявлены следующие факторы риска: молодой пул; перегрет за 24ч. Пул создан 2026-10-18T18:34:13Z. При объёме $10.20M и ликвидности $446.5K возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R.html) — Free public feed for traders and AI agents.*
 
 
 ---
@@ -733,51 +781,3 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/ATrJhrc46UkY4gTmJry2SUZvtaLJX3LydBufPnkWHTC3.html) — Free public feed for traders and AI agents.*
-
-
----
-
-# RAY (RAY / SOL 0.05%) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: RAY is currently priced at $2.42 (+4.9% 24h) on raydium-clmm (Solana). 24h trading volume is $7.15M with $4.25M liquidity. Algorithmic narrative: RAY в боковике: +4.9% за сутки. стакан глубокий: $4.25M ликвидности.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-12T06:08:03+00:00)
-- **Asset**: RAY (RAY / SOL 0.05%)
-- **Network**: Solana
-- **DEX**: raydium-clmm
-- **Pool Address**: `2AXXcN6oN9bBT5owwmTH53C7QHUXvhLeu718Kqt8rvY2`
-- **Token Mint**: `4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R`
-- **Price USD**: $2.42
-- **Change 1h / 6h / 24h**: -1.9% / +0.5% / +4.9%
-- **24h Volume**: $7.15M
-- **Liquidity (TVL)**: $4.25M
-- **FDV**: $1.34B
-- **Hourly Trades**: 1001 buys / 620 sells
-- **Pool Age**: Created 2024-02-08T02:04:35Z
-
-## Algorithmic Narrative & Signals
-RAY в боковике: +4.9% за сутки. стакан глубокий: $4.25M ликвидности.
-
-## Risk Flags
-- Флагов повышенного риска не выявлено.
-
-## Whale Activity (Relative Tape Filter)
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
-Recent notable orders:
-  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов RAY?
-По ончейн-данным пула RAY / SOL 0.05% на DEX raydium-clmm (Solana), цена RAY составляет $2.42. Динамика за 24ч: +4.9% (за 1ч: -1.9%, за 6ч: +0.5%). Суточный объём торгов равен $7.15M, общая ликвидность пула (TVL) — $4.25M, FDV — $1.34B. Данные зафиксированы на 2026-10-12T06:08:03+00:00.
-
-### Q: Почему движется цена RAY? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: RAY в боковике: +4.9% за сутки. стакан глубокий: $4.25M ликвидности. За последний час в ленте прошло 1001 покупок и 620 продаж.
-
-### Q: Есть ли активность китов в пуле RAY?
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
-
-### Q: Безопасен ли пул RAY и какие ончейн-риски?
-Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул RAY / SOL 0.05% на raydium-clmm создан 2024-02-08T02:04:35Z, ликвидность $4.25M при суточном объёме $7.15M.
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/2AXXcN6oN9bBT5owwmTH53C7QHUXvhLeu718Kqt8rvY2.html) — Free public feed for traders and AI agents.*
