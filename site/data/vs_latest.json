@@ -1,17 +1,17 @@
 {
-  "slug": "collectooor-vs-borly",
+  "slug": "collectooor-vs-pokémon",
   "token1": {
     "symbol": "COLLECTOOOR",
-    "change_24h": 301.907,
+    "change_24h": 470.143,
     "address": "9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27",
-    "volume": 4932134.28945726
+    "volume": 4820248.34034303
   },
   "token2": {
-    "symbol": "BORLY",
-    "change_24h": 199.812,
-    "address": "3pUeKCLPfocGPGYo6MvbfkZSuqTUkQ3EAPZ99aDhSj8r",
-    "volume": 4340720.84141524
+    "symbol": "Pokémon",
+    "change_24h": 170.405,
+    "address": "CxyUG8PvWbbKW41MLAq7J87ft3dryDJZV2A5pgwb31an",
+    "volume": 5401970.10695422
   },
-  "verdict": "По ончейн-метрикам TalkChart: COLLECTOOOR опережает по ценовому импульсу (+301.9% против +199.8%). Краткосрочный фаворит по совокупности факторов: COLLECTOOOR.",
-  "updated_at": "2026-10-20 13:39 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: COLLECTOOOR опережает по ценовому импульсу (+470.1% против +170.4%). Кроме того, у Pokémon более надёжная ликвидность ($147.5K против $47.7K). Краткосрочный фаворит по совокупности факторов: Pokémon.",
+  "updated_at": "2026-10-20 20:04 UTC"
 }
