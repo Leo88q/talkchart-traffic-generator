@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/earth_-15.png",
+  "title": "TalkChart: earth (-15.0%) — Solana On-Chain Radar",
+  "description": "earth теряет -15.0% за сутки. давление продаж нарастает. объём $2.05M больше капы в 56.3× — бумага в огне. ликвидность тонкая ($15.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $2.05M · Ликвидность: $15.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп earth (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=9sePMpY87xr3SXUNvein2xXUtCLuNUETkQVawdMEqsLu"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

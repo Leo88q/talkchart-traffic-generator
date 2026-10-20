@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "8FJYcF8AW3Gin2QqsL8dCB2tCXhd8BxW7sgaLmvVN4mF",
+    "name": "OPENAI / USDC",
+    "base_symbol": "OPENAI",
+    "base_name": "OPENAI",
+    "base_address": "PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF",
+    "dex": "raydium-clmm",
+    "price_usd": 2368.2902196864197,
+    "created_at": "2026-10-16T10:26:25Z",
+    "fdv_usd": 4438537.5143903,
+    "reserve_usd": 1321417.9865,
+    "volume_h24": 5178312.40307469,
+    "change": {
+      "h1": -0.303,
+      "h6": -0.114,
+      "h24": 18.968
+    },
+    "tx_h1": {
+      "buys": 433,
+      "sells": 488
+    },
+    "first_seen": "2026-10-20T13:39:05+00:00",
+    "last_seen": "2026-10-20T13:39:05+00:00"
+  },
+  "narrative": "OPENAI растёт на +19.0% за сутки. пулу 4 дн., история короткая.",
+  "flags": [
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-20T13:39:05Z"
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/OPENAI_+19.png",
+  "title": "TalkChart: OPENAI (+19.0%) — Solana On-Chain Radar",
+  "description": "OPENAI растёт на +19.0% за сутки. пулу 4 дн., история короткая.\n\nОбъём: $5.18M · Ликвидность: $1.32M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп OPENAI (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-PreweJYECqtQwBtpxHL171nL2K6umo692gTm7Q3rpgF"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8FJYcF8AW3Gin2QqsL8dCB2tCXhd8BxW7sgaLmvVN4mF"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

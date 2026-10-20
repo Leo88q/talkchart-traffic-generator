@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BORLY_+200.png",
+  "title": "TalkChart: BORLY (+199.8%) — Solana On-Chain Radar",
+  "description": "BORLY разрывает: +199.8% за 24ч. объём $4.34M больше капы в 3.9× — бумага в огне. ликвидность тонкая ($96.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $4.34M · Ликвидность: $96.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BORLY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-ECFmFaHyJ8krXErN1QAxqUq97xCFUWYv9Ax5j2Aspump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3pUeKCLPfocGPGYo6MvbfkZSuqTUkQ3EAPZ99aDhSj8r"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

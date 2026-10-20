@@ -1,17 +1,17 @@
 {
-  "slug": "worthless-vs-collectooor",
+  "slug": "collectooor-vs-borly",
   "token1": {
-    "symbol": "WORTHLESS",
-    "change_24h": 587.335,
-    "address": "HNJY1mVocFbPNxWtAnscCeqnR5t2aCkYfYUSKWjHEE3J",
-    "volume": 1602297.69194445
+    "symbol": "COLLECTOOOR",
+    "change_24h": 301.907,
+    "address": "9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27",
+    "volume": 4932134.28945726
   },
   "token2": {
-    "symbol": "COLLECTOOOR",
-    "change_24h": 456.184,
-    "address": "9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27",
-    "volume": 4199514.18811067
+    "symbol": "BORLY",
+    "change_24h": 199.812,
+    "address": "3pUeKCLPfocGPGYo6MvbfkZSuqTUkQ3EAPZ99aDhSj8r",
+    "volume": 4340720.84141524
   },
-  "verdict": "По ончейн-метрикам TalkChart: WORTHLESS опережает по ценовому импульсу (+587.3% против +456.2%). Краткосрочный фаворит по совокупности факторов: WORTHLESS.",
-  "updated_at": "2026-10-20 04:59 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: COLLECTOOOR опережает по ценовому импульсу (+301.9% против +199.8%). Краткосрочный фаворит по совокупности факторов: COLLECTOOOR.",
+  "updated_at": "2026-10-20 13:39 UTC"
 }

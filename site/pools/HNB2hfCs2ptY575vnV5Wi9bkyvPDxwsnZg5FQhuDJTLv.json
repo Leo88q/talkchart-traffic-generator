@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "HNB2hfCs2ptY575vnV5Wi9bkyvPDxwsnZg5FQhuDJTLv",
+    "name": "EVOLVE / SOL",
+    "base_symbol": "EVOLVE",
+    "base_name": "EVOLVE",
+    "base_address": "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump",
+    "dex": "pumpswap",
+    "price_usd": 4.632540688979906e-05,
+    "created_at": "2026-10-20T06:52:59Z",
+    "fdv_usd": 46325.40689,
+    "reserve_usd": 18155.3381,
+    "volume_h24": 1605268.0772374,
+    "change": {
+      "h1": -2.105,
+      "h6": -53.873,
+      "h24": 28.582
+    },
+    "tx_h1": {
+      "buys": 271,
+      "sells": 226
+    },
+    "first_seen": "2026-10-20T13:39:05+00:00",
+    "last_seen": "2026-10-20T13:39:05+00:00"
+  },
+  "narrative": "EVOLVE растёт на +28.6% за сутки. объём $1.61M больше капы в 34.7× — бумага в огне. ликвидность тонкая ($18.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-20T13:39:05Z"
+}

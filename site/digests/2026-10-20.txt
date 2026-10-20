@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-20
-1. WORTHLESS +587.3% — WORTHLESS разрывает: +587.3% за 24ч. объём $1.60M больше капы в 5.1× — бумага в огне
-2. COLLECTOOOR +456.2% — COLLECTOOOR разрывает: +456.2% за 24ч. давление продаж нарастает
-3. startupSI +394.8% — startupSI разрывает: +394.8% за 24ч. покупатели доминируют (95% сделок за час)
-4. DOLLARSE +124.3% — DOLLARSE разрывает: +124.3% за 24ч. продают в рынок (100% сделок за час)
-5. COMPUTE +113.8% — COMPUTE разрывает: +113.8% за 24ч. давление продаж нарастает
+1. COLLECTOOOR +301.9% — COLLECTOOOR разрывает: +301.9% за 24ч. давление продаж нарастает
+2. BORLY +199.8% — BORLY разрывает: +199.8% за 24ч. объём $4.34M больше капы в 3.9× — бумага в огне
+3. DOLLARSE +122.8% — DOLLARSE разрывает: +122.8% за 24ч. ликвидность тонкая ($21.9K) — движения будут резкими
+4. startupSI -95.9% — startupSI в обвале: -95.9% за 24ч. давление продаж нарастает
+5. PIERRE -86.4% — PIERRE в обвале: -86.4% за 24ч. объём $1.45M больше капы в 7.2× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/HNJY1mVocFbPNxWtAnscCeqnR5t2aCkYfYUSKWjHEE3J.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
