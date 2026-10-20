@@ -1,64 +1,64 @@
 {
- "generated_at": "2026-10-20T20:04:15+00:00",
+ "generated_at": "2026-10-20T23:15:20+00:00",
  "cards": [
   {
-   "file": "cards/2026-10-20/COLLECTOOOR_+470.png",
-   "symbol": "COLLECTOOOR",
-   "chg_h24": 470.143,
-   "address": "9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27.html",
-   "latest_file": "cards/latest/COLLECTOOOR_+470.png"
-  },
-  {
-   "file": "cards/2026-10-20/Pokémon_+170.png",
+   "file": "cards/2026-10-20/Pokémon_+297.png",
    "symbol": "Pokémon",
-   "chg_h24": 170.405,
+   "chg_h24": 297.806,
    "address": "CxyUG8PvWbbKW41MLAq7J87ft3dryDJZV2A5pgwb31an",
    "pool_url": "https://leo88q.github.io/content-/site/pools/CxyUG8PvWbbKW41MLAq7J87ft3dryDJZV2A5pgwb31an.html",
-   "latest_file": "cards/latest/Pokémon_+170.png"
-  },
-  {
-   "file": "cards/2026-10-20/COMPUTE_+130.png",
-   "symbol": "COMPUTE",
-   "chg_h24": 130.09,
-   "address": "CYE8bNGpo5RZRUEVnjxCRh997r8crqUtSUvJVPVBHBHJ",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/CYE8bNGpo5RZRUEVnjxCRh997r8crqUtSUvJVPVBHBHJ.html",
-   "latest_file": "cards/latest/COMPUTE_+130.png"
+   "latest_file": "cards/latest/Pokémon_+297.png"
   },
   {
    "file": "cards/2026-10-20/startupSI_-99.png",
    "symbol": "startupSI",
-   "chg_h24": -99.425,
+   "chg_h24": -99.391,
    "address": "AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R.html"
+   "pool_url": "https://leo88q.github.io/content-/site/pools/AscPffyZxMnHHFHqQWawtcrmasgUzCJtwyu6oS6CQD2R.html",
+   "latest_file": "cards/latest/startupSI_-99.png"
   },
   {
-   "file": "cards/2026-10-20/DOLLARSE_+72.png",
-   "symbol": "DOLLARSE",
-   "chg_h24": 72.049,
-   "address": "AXiJD8ZaQQ5r9fCVy2FeQ499XdBB1V3WCdjdtsXV2MJL",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/AXiJD8ZaQQ5r9fCVy2FeQ499XdBB1V3WCdjdtsXV2MJL.html"
+   "file": "cards/2026-10-20/UHI_-70.png",
+   "symbol": "UHI",
+   "chg_h24": -70.529,
+   "address": "3ENsvQnHuHtQzMBxpDG4pkxwbBnzJvFcz2yyCfxC9QNH",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/3ENsvQnHuHtQzMBxpDG4pkxwbBnzJvFcz2yyCfxC9QNH.html",
+   "latest_file": "cards/latest/UHI_-70.png"
   },
   {
-   "file": "cards/2026-10-20/earth_-51.png",
+   "file": "cards/2026-10-20/Dacity_+64.png",
+   "symbol": "Dacity",
+   "chg_h24": 64.714,
+   "address": "G2UuRbmVDzDFP4qyoBJrSKBXSi7d6V4bPP9tHPs36y4b",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/G2UuRbmVDzDFP4qyoBJrSKBXSi7d6V4bPP9tHPs36y4b.html"
+  },
+  {
+   "file": "cards/2026-10-20/COLLECTOOOR_-62.png",
+   "symbol": "COLLECTOOOR",
+   "chg_h24": -62.972,
+   "address": "9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27.html"
+  },
+  {
+   "file": "cards/2026-10-20/earth_-57.png",
    "symbol": "earth",
-   "chg_h24": -51.099,
+   "chg_h24": -57.506,
    "address": "9sePMpY87xr3SXUNvein2xXUtCLuNUETkQVawdMEqsLu",
    "pool_url": "https://leo88q.github.io/content-/site/pools/9sePMpY87xr3SXUNvein2xXUtCLuNUETkQVawdMEqsLu.html"
   },
   {
-   "file": "cards/2026-10-20/Satoshi_-39.png",
-   "symbol": "Satoshi",
-   "chg_h24": -39.132,
-   "address": "7jTCpYho9RJhCn9ZyrLPjwGWkacGhJVdzL2cZni3UdUh",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/7jTCpYho9RJhCn9ZyrLPjwGWkacGhJVdzL2cZni3UdUh.html"
+   "file": "cards/2026-10-20/GTA6_+47.png",
+   "symbol": "GTA6",
+   "chg_h24": 47.929,
+   "address": "5A15QUc6kMxw9dsVpVUv6ZdTTBeyWBN2scyy1MEQJFQs",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/5A15QUc6kMxw9dsVpVUv6ZdTTBeyWBN2scyy1MEQJFQs.html"
   },
   {
-   "file": "cards/2026-10-20/Dacity_+31.png",
-   "symbol": "Dacity",
-   "chg_h24": 31.31,
-   "address": "G2UuRbmVDzDFP4qyoBJrSKBXSi7d6V4bPP9tHPs36y4b",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/G2UuRbmVDzDFP4qyoBJrSKBXSi7d6V4bPP9tHPs36y4b.html"
+   "file": "cards/2026-10-20/Satoshi_-42.png",
+   "symbol": "Satoshi",
+   "chg_h24": -42.936,
+   "address": "7jTCpYho9RJhCn9ZyrLPjwGWkacGhJVdzL2cZni3UdUh",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/7jTCpYho9RJhCn9ZyrLPjwGWkacGhJVdzL2cZni3UdUh.html"
   }
  ]
 }

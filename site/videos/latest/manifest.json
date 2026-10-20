@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-20T20:04:30+00:00",
+ "generated_at": "2026-10-20T23:15:34+00:00",
  "videos": [
-  {
-   "file": "videos/2026-10-20/COLLECTOOOR.mp4",
-   "latest_file": "videos/latest/COLLECTOOOR.mp4",
-   "symbol": "COLLECTOOOR",
-   "chg_h24": 470.143
-  },
   {
    "file": "videos/2026-10-20/Pokémon.mp4",
    "latest_file": "videos/latest/Pokémon.mp4",
    "symbol": "Pokémon",
-   "chg_h24": 170.405
+   "chg_h24": 297.806
   },
   {
-   "file": "videos/2026-10-20/COMPUTE.mp4",
-   "latest_file": "videos/latest/COMPUTE.mp4",
-   "symbol": "COMPUTE",
-   "chg_h24": 130.09
+   "file": "videos/2026-10-20/startupSI.mp4",
+   "latest_file": "videos/latest/startupSI.mp4",
+   "symbol": "startupSI",
+   "chg_h24": -99.391
+  },
+  {
+   "file": "videos/2026-10-20/UHI.mp4",
+   "latest_file": "videos/latest/UHI.mp4",
+   "symbol": "UHI",
+   "chg_h24": -70.529
   }
  ]
 }

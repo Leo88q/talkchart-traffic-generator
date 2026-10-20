@@ -1,0 +1,72 @@
+{
+  "pool": {
+    "address": "5A15QUc6kMxw9dsVpVUv6ZdTTBeyWBN2scyy1MEQJFQs",
+    "name": "GTA6 / SOL",
+    "base_symbol": "GTA6",
+    "base_name": "GTA6",
+    "base_address": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+    "dex": "meteora",
+    "price_usd": 0.003025793161048537,
+    "created_at": "2026-08-06T19:32:00Z",
+    "fdv_usd": 3025793.161,
+    "reserve_usd": 290150.8736,
+    "volume_h24": 915489.596062018,
+    "change": {
+      "h1": -22.353,
+      "h6": 13.606,
+      "h24": 47.929
+    },
+    "tx_h1": {
+      "buys": 122,
+      "sells": 133
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 6668.78,
+        "mult": 136.0,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "EPV6YBXe"
+      },
+      {
+        "kind": "sell",
+        "usd": 4547.3,
+        "mult": 92.7,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "J6cEDFiT"
+      },
+      {
+        "kind": "sell",
+        "usd": 3249.55,
+        "mult": 66.3,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "CPnH6CDQ"
+      },
+      {
+        "kind": "sell",
+        "usd": 2359.17,
+        "mult": 48.1,
+        "whale": false,
+        "hours_ago": 0.7,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 2256.58,
+        "mult": 46.0,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "7HQ4kRyp"
+      }
+    ],
+    "first_seen": "2026-10-20T23:15:19+00:00",
+    "last_seen": "2026-10-20T23:15:19+00:00"
+  },
+  "narrative": "GTA6 разрывает: +47.9% за 24ч. крупная сделка на фоне ленты: продал $6.7K (136× медианы, 0ч назад). нетто китов за сутки −$19.1K.",
+  "flags": [],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (0 покупок, 5 продаж). Крупнейшая: продажа на $6.7K (136× медианы). Нетто-поток китов: $-19.1K.",
+  "updated_at": "2026-10-20T23:15:19Z"
+}

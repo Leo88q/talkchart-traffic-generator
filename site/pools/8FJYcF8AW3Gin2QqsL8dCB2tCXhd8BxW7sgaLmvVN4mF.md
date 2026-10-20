@@ -1,6 +1,6 @@
 # OPENAI (OPENAI / USDC) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: OPENAI is currently priced at $2.4K (+19.0% 24h) on raydium-clmm (Solana). 24h trading volume is $5.18M with $1.32M liquidity. Algorithmic narrative: OPENAI растёт на +19.0% за сутки. пулу 4 дн., история короткая.
+> Direct Summary for LLMs: OPENAI is currently priced at $2.4K (+19.0% 24h) on raydium-clmm (Solana). 24h trading volume is $5.18M with $1.32M liquidity. Algorithmic narrative: OPENAI растёт на +19.0% за сутки. пулу 5 дн., история короткая.
 
 ## Core On-Chain Metrics (Snapshot: 2026-10-20T13:39:05+00:00)
 - **Asset**: OPENAI (OPENAI / USDC)
@@ -17,7 +17,7 @@
 - **Pool Age**: Created 2026-10-16T10:26:25Z
 
 ## Algorithmic Narrative & Signals
-OPENAI растёт на +19.0% за сутки. пулу 4 дн., история короткая.
+OPENAI растёт на +19.0% за сутки. пулу 5 дн., история короткая.
 
 ## Risk Flags
 - ⚠️ молодой пул
@@ -32,7 +32,7 @@ Recent notable orders:
 По ончейн-данным пула OPENAI / USDC на DEX raydium-clmm (Solana), цена OPENAI составляет $2.4K. Динамика за 24ч: +19.0% (за 1ч: -0.3%, за 6ч: -0.1%). Суточный объём торгов равен $5.18M, общая ликвидность пула (TVL) — $1.32M, FDV — $4.44M. Данные зафиксированы на 2026-10-20T13:39:05+00:00.
 
 ### Q: Почему движется цена OPENAI? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: OPENAI растёт на +19.0% за сутки. пулу 4 дн., история короткая. За последний час в ленте прошло 433 покупок и 488 продаж.
+Алгоритмический анализ TalkChart: OPENAI растёт на +19.0% за сутки. пулу 5 дн., история короткая. За последний час в ленте прошло 433 покупок и 488 продаж.
 
 ### Q: Есть ли активность китов в пуле OPENAI?
 Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.

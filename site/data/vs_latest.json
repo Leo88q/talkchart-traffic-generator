@@ -1,17 +1,17 @@
 {
-  "slug": "collectooor-vs-pokémon",
+  "slug": "pokémon-vs-dacity",
   "token1": {
-    "symbol": "COLLECTOOOR",
-    "change_24h": 470.143,
-    "address": "9YF6sZskPr7yEShde3MqP4aCxgYNRicdrXpxr9gFYe27",
-    "volume": 4820248.34034303
+    "symbol": "Pokémon",
+    "change_24h": 297.806,
+    "address": "CxyUG8PvWbbKW41MLAq7J87ft3dryDJZV2A5pgwb31an",
+    "volume": 6257497.8650115
   },
   "token2": {
-    "symbol": "Pokémon",
-    "change_24h": 170.405,
-    "address": "CxyUG8PvWbbKW41MLAq7J87ft3dryDJZV2A5pgwb31an",
-    "volume": 5401970.10695422
+    "symbol": "Dacity",
+    "change_24h": 64.714,
+    "address": "G2UuRbmVDzDFP4qyoBJrSKBXSi7d6V4bPP9tHPs36y4b",
+    "volume": 5673331.47923596
   },
-  "verdict": "По ончейн-метрикам TalkChart: COLLECTOOOR опережает по ценовому импульсу (+470.1% против +170.4%). Кроме того, у Pokémon более надёжная ликвидность ($147.5K против $47.7K). Краткосрочный фаворит по совокупности факторов: Pokémon.",
-  "updated_at": "2026-10-20 20:04 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Pokémon опережает по ценовому импульсу (+297.8% против +64.7%). Кроме того, у Dacity более надёжная ликвидность ($391.1K против $178.6K). Краткосрочный фаворит по совокупности факторов: Pokémon.",
+  "updated_at": "2026-10-20 23:15 UTC"
 }
