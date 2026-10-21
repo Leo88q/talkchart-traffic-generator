@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-20T23:15:34+00:00",
+ "generated_at": "2026-10-21T04:59:27+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-20/Pokémon.mp4",
-   "latest_file": "videos/latest/Pokémon.mp4",
-   "symbol": "Pokémon",
-   "chg_h24": 297.806
+   "file": "videos/2026-10-21/Kimchi.mp4",
+   "latest_file": "videos/latest/Kimchi.mp4",
+   "symbol": "Kimchi",
+   "chg_h24": 77141.043
   },
   {
-   "file": "videos/2026-10-20/startupSI.mp4",
+   "file": "videos/2026-10-21/startupSI.mp4",
    "latest_file": "videos/latest/startupSI.mp4",
    "symbol": "startupSI",
-   "chg_h24": -99.391
+   "chg_h24": -99.399
   },
   {
-   "file": "videos/2026-10-20/UHI.mp4",
-   "latest_file": "videos/latest/UHI.mp4",
-   "symbol": "UHI",
-   "chg_h24": -70.529
+   "file": "videos/2026-10-21/COMPUTE.mp4",
+   "latest_file": "videos/latest/COMPUTE.mp4",
+   "symbol": "COMPUTE",
+   "chg_h24": 88.825
   }
  ]
 }

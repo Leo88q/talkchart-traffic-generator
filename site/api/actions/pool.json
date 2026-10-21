@@ -1,17 +1,17 @@
 {
-  "icon": "https://leo88q.github.io/content-/site/cards/latest/BABYCALI_+11466.png",
-  "title": "TalkChart: BABYCALI (+11465.7%) — Solana On-Chain Radar",
-  "description": "BABYCALI разрывает: +11465.7% за 24ч. ускорение в последнем часе. покупатели доминируют (70% сделок за час). крупная сделка на фоне ленты: продал $704.39 (107× медианы, 0ч назад). нетто китов за сутки −$3.2K.\n\nОбъём: $2.60M · Ликвидность: $364.5K",
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Kimchi_+77141.png",
+  "title": "TalkChart: Kimchi (+77141.0%) — Solana On-Chain Radar",
+  "description": "Kimchi разрывает: +77141.0% за 24ч. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.0K (209× медианы, 0ч назад). нетто китов за сутки −$1.2K.\n\nОбъём: $40.26M · Ликвидность: $589.6K",
   "label": "Своп через Jupiter",
   "links": {
     "actions": [
       {
-        "label": "⚡ Своп BABYCALI (Jupiter)",
-        "href": "https://jup.ag/swap/SOL-5XtxwuwEbkLM1J86myuKKNcR5rr7hvwf4BKjHeHjpump"
+        "label": "⚡ Своп Kimchi (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump"
       },
       {
         "label": "📈 Живой график + киты",
-        "href": "https://leo88q.github.io/content-/site/index.html#pool=9u9iogoJTjavJt8uW8GxqpTnaZo9xKtKFCA2nJKbaSK"
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH"
       },
       {
         "label": "🎁 TipLink: вход без сид-фраз",

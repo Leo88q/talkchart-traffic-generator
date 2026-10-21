@@ -1,17 +1,17 @@
 {
-  "slug": "pokémon-vs-dacity",
+  "slug": "kimchi-vs-compute",
   "token1": {
-    "symbol": "Pokémon",
-    "change_24h": 297.806,
-    "address": "CxyUG8PvWbbKW41MLAq7J87ft3dryDJZV2A5pgwb31an",
-    "volume": 6257497.8650115
+    "symbol": "Kimchi",
+    "change_24h": 77141.043,
+    "address": "6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH",
+    "volume": 40260239.365319
   },
   "token2": {
-    "symbol": "Dacity",
-    "change_24h": 64.714,
-    "address": "G2UuRbmVDzDFP4qyoBJrSKBXSi7d6V4bPP9tHPs36y4b",
-    "volume": 5673331.47923596
+    "symbol": "COMPUTE",
+    "change_24h": 88.825,
+    "address": "CYE8bNGpo5RZRUEVnjxCRh997r8crqUtSUvJVPVBHBHJ",
+    "volume": 791493.858021239
   },
-  "verdict": "По ончейн-метрикам TalkChart: Pokémon опережает по ценовому импульсу (+297.8% против +64.7%). Кроме того, у Dacity более надёжная ликвидность ($391.1K против $178.6K). Краткосрочный фаворит по совокупности факторов: Pokémon.",
-  "updated_at": "2026-10-20 23:15 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Kimchi опережает по ценовому импульсу (+77141.0% против +88.8%). Кроме того, у Kimchi существенно глубже пул ликвидности ($589.6K против $40.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Kimchi.",
+  "updated_at": "2026-10-21 04:59 UTC"
 }
