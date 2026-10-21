@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-21T20:16:12+00:00",
+ "generated_at": "2026-10-21T23:27:23+00:00",
  "videos": [
-  {
-   "file": "videos/2026-10-21/Kimchi.mp4",
-   "latest_file": "videos/latest/Kimchi.mp4",
-   "symbol": "Kimchi",
-   "chg_h24": 81732.605
-  },
   {
    "file": "videos/2026-10-21/PHP.mp4",
    "latest_file": "videos/latest/PHP.mp4",
    "symbol": "PHP",
-   "chg_h24": 974.14
+   "chg_h24": 736.285
   },
   {
-   "file": "videos/2026-10-21/pill.mp4",
-   "latest_file": "videos/latest/pill.mp4",
-   "symbol": "pill",
-   "chg_h24": 359.692
+   "file": "videos/2026-10-21/Kimchi.mp4",
+   "latest_file": "videos/latest/Kimchi.mp4",
+   "symbol": "Kimchi",
+   "chg_h24": 104.939
+  },
+  {
+   "file": "videos/2026-10-21/KIMCHI.mp4",
+   "latest_file": "videos/latest/KIMCHI.mp4",
+   "symbol": "KIMCHI",
+   "chg_h24": -95.844
   }
  ]
 }

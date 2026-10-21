@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HUMANOID_-41.png",
+  "title": "TalkChart: HUMANOID (-40.7%) — Solana On-Chain Radar",
+  "description": "HUMANOID в обвале: -40.7% за 24ч. давление продаж нарастает. объём $2.25M больше капы в 89.8× — бумага в огне. ликвидность тонкая ($13.6K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $685.23 (78× медианы, 1ч назад). нетто китов за сутки −$220.26.\n\nОбъём: $2.25M · Ликвидность: $13.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HUMANOID (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8DrmDNRrbr9dAmWp5wkCZEFsCBQqH2g6Vsf1SfSQSS4U"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

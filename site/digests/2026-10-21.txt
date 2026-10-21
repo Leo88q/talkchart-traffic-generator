@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-21
-1. Kimchi +81732.6% — Kimchi разрывает: +81732.6% за 24ч. ускорение в последнем часе
-2. PHP +974.1% — PHP разрывает: +974.1% за 24ч. объём $4.37M больше капы в 9.6× — бумага в огне
-3. pill +359.7% — pill разрывает: +359.7% за 24ч. крупная сделка на фоне ленты: продал $3.1K (961× медианы, 0ч назад)
-4. KIMCHI -95.1% — KIMCHI в обвале: -95.1% за 24ч. объём $12.61M больше капы в 694.5× — бумага в огне
-5. Pokémon -72.8% — Pokémon в обвале: -72.8% за 24ч. покупатели доминируют (62% сделок за час)
+1. PHP +736.3% — PHP разрывает: +736.3% за 24ч. объём $4.90M больше капы в 13.8× — бумага в огне
+2. Kimchi +104.9% — Kimchi разрывает: +104.9% за 24ч. давление продаж нарастает
+3. KIMCHI -95.8% — KIMCHI в обвале: -95.8% за 24ч. объём $12.61M больше капы в 823.9× — бумага в огне
+4. HUMANOID -40.7% — HUMANOID в обвале: -40.7% за 24ч. давление продаж нарастает
+5. pill +35.3% — pill разрывает: +35.3% за 24ч. продают в рынок (78% сделок за час)
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

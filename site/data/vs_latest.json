@@ -1,17 +1,17 @@
 {
-  "slug": "kimchi-vs-php",
+  "slug": "php-vs-kimchi",
   "token1": {
-    "symbol": "Kimchi",
-    "change_24h": 81732.605,
-    "address": "6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH",
-    "volume": 49509154.4150046
+    "symbol": "PHP",
+    "change_24h": 736.285,
+    "address": "YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw",
+    "volume": 4903008.45372788
   },
   "token2": {
-    "symbol": "PHP",
-    "change_24h": 974.14,
-    "address": "YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw",
-    "volume": 4370370.0103059
+    "symbol": "Kimchi",
+    "change_24h": 104.939,
+    "address": "6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH",
+    "volume": 45784338.3330268
   },
-  "verdict": "По ончейн-метрикам TalkChart: Kimchi опережает по ценовому импульсу (+81732.6% против +974.1%). Кроме того, у Kimchi существенно глубже пул ликвидности ($628.1K против $67.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Kimchi.",
-  "updated_at": "2026-10-21 20:16 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PHP опережает по ценовому импульсу (+736.3% против +104.9%). Кроме того, у Kimchi более надёжная ликвидность ($544.7K против $59.6K). Краткосрочный фаворит по совокупности факторов: Kimchi.",
+  "updated_at": "2026-10-21 23:27 UTC"
 }
