@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/pill_+328.png",
+  "title": "TalkChart: pill (+328.2%) — Solana On-Chain Radar",
+  "description": "pill разрывает: +328.2% за 24ч. продают в рынок (62% сделок за час). суточный памп остывает. крупная сделка на фоне ленты: продал $614.37 (222× медианы, 0ч назад). нетто китов за сутки −$613.67.\n\nОбъём: $3.53M · Ликвидность: $257.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп pill (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-DvdmEnztCmXwBnAbedD48XVGZJSxq31zNvnyftXdpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Bof2XL9zAbLZ15kzAXcXy39wDeZFgKwyvb3UVkv3FhsX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

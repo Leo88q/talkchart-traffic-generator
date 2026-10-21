@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/KIMCHI_-92.png",
+  "title": "TalkChart: KIMCHI (-91.7%) — Solana On-Chain Radar",
+  "description": "KIMCHI в обвале: -91.7% за 24ч. объём $12.60M больше капы в 413.4× — бумага в огне. ликвидность тонкая ($15.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $12.60M · Ликвидность: $15.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп KIMCHI (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AYq1Hkkkq6oitjCNbDEYUo9AHHo6FLaXjuybmLBvvPzD"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

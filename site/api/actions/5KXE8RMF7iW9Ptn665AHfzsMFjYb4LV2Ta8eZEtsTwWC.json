@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DOOD_+212.png",
+  "title": "TalkChart: DOOD (+212.2%) — Solana On-Chain Radar",
+  "description": "DOOD разрывает: +212.2% за 24ч.\n\nОбъём: $3.30M · Ликвидность: $880.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DOOD (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5KXE8RMF7iW9Ptn665AHfzsMFjYb4LV2Ta8eZEtsTwWC"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

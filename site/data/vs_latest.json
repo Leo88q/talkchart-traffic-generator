@@ -1,17 +1,17 @@
 {
-  "slug": "kimchi-vs-compute",
+  "slug": "kimchi-vs-php",
   "token1": {
     "symbol": "Kimchi",
-    "change_24h": 77141.043,
+    "change_24h": 68823.335,
     "address": "6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH",
-    "volume": 40260239.365319
+    "volume": 44448012.5063565
   },
   "token2": {
-    "symbol": "COMPUTE",
-    "change_24h": 88.825,
-    "address": "CYE8bNGpo5RZRUEVnjxCRh997r8crqUtSUvJVPVBHBHJ",
-    "volume": 791493.858021239
+    "symbol": "PHP",
+    "change_24h": 882.118,
+    "address": "YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw",
+    "volume": 3256698.1193222
   },
-  "verdict": "По ончейн-метрикам TalkChart: Kimchi опережает по ценовому импульсу (+77141.0% против +88.8%). Кроме того, у Kimchi существенно глубже пул ликвидности ($589.6K против $40.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Kimchi.",
-  "updated_at": "2026-10-21 04:59 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Kimchi опережает по ценовому импульсу (+68823.3% против +882.1%). Кроме того, у Kimchi существенно глубже пул ликвидности ($570.5K против $61.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Kimchi.",
+  "updated_at": "2026-10-21 13:55 UTC"
 }

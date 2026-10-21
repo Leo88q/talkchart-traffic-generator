@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw",
+    "name": "PHP / SOL",
+    "base_symbol": "PHP",
+    "base_name": "PHP",
+    "base_address": "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0004211442540135933,
+    "created_at": "2026-10-21T05:14:18Z",
+    "fdv_usd": 416913.488799999,
+    "reserve_usd": 61406.3291,
+    "volume_h24": 3256698.1193222,
+    "change": {
+      "h1": -31.564,
+      "h6": -60.034,
+      "h24": 882.118
+    },
+    "tx_h1": {
+      "buys": 1149,
+      "sells": 1015
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 738.98,
+        "mult": 40.6,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "8vndYiha"
+      },
+      {
+        "kind": "buy",
+        "usd": 652.52,
+        "mult": 35.8,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "55BhYxse"
+      },
+      {
+        "kind": "buy",
+        "usd": 581.54,
+        "mult": 31.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "7BNaxx6K"
+      },
+      {
+        "kind": "sell",
+        "usd": 469.45,
+        "mult": 25.8,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "H9j75kTL"
+      },
+      {
+        "kind": "buy",
+        "usd": 396.21,
+        "mult": 21.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "2Dg8DgwM"
+      }
+    ],
+    "first_seen": "2026-10-21T13:55:18+00:00",
+    "last_seen": "2026-10-21T13:55:18+00:00"
+  },
+  "narrative": "PHP разрывает: +882.1% за 24ч. давление продаж нарастает. объём $3.26M больше капы в 7.8× — бумага в огне. ликвидность тонкая ($61.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $738.98 (41× медианы, 0ч назад). нетто китов за сутки +$1.9K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $738.98 (41× медианы). Нетто-поток китов: +$1.9K.",
+  "updated_at": "2026-10-21T13:55:18Z"
+}

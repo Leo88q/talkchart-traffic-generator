@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PHP_+882.png",
+  "title": "TalkChart: PHP (+882.1%) — Solana On-Chain Radar",
+  "description": "PHP разрывает: +882.1% за 24ч. давление продаж нарастает. объём $3.26M больше капы в 7.8× — бумага в огне. ликвидность тонкая ($61.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $738.98 (41× медианы, 0ч назад). нетто китов за сутки +$1.9K.\n\nОбъём: $3.26M · Ликвидность: $61.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PHP (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

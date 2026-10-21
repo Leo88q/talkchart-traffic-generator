@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "Bof2XL9zAbLZ15kzAXcXy39wDeZFgKwyvb3UVkv3FhsX",
+    "name": "pill / PUMP",
+    "base_symbol": "pill",
+    "base_name": "pill",
+    "base_address": "DvdmEnztCmXwBnAbedD48XVGZJSxq31zNvnyftXdpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0032394067030704888,
+    "created_at": "2026-09-13T23:31:49Z",
+    "fdv_usd": 3213568.244,
+    "reserve_usd": 257853.3107,
+    "volume_h24": 3527430.70947417,
+    "change": {
+      "h1": 1.156,
+      "h6": 23.226,
+      "h24": 328.159
+    },
+    "tx_h1": {
+      "buys": 353,
+      "sells": 580
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 614.37,
+        "mult": 221.7,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "BQDkgQGH"
+      },
+      {
+        "kind": "sell",
+        "usd": 550.7,
+        "mult": 198.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "6BJ5DyQ4"
+      },
+      {
+        "kind": "buy",
+        "usd": 513.51,
+        "mult": 185.3,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "291Yj2Yf"
+      },
+      {
+        "kind": "buy",
+        "usd": 510.12,
+        "mult": 184.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "3tx5mH6Z"
+      },
+      {
+        "kind": "sell",
+        "usd": 472.23,
+        "mult": 170.4,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "Fid86Lzw"
+      }
+    ],
+    "first_seen": "2026-10-21T13:55:18+00:00",
+    "last_seen": "2026-10-21T13:55:18+00:00"
+  },
+  "narrative": "pill разрывает: +328.2% за 24ч. продают в рынок (62% сделок за час). суточный памп остывает. крупная сделка на фоне ленты: продал $614.37 (222× медианы, 0ч назад). нетто китов за сутки −$613.67.",
+  "flags": [
+    "давление продаж",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $614.37 (222× медианы). Нетто-поток китов: $-613.67.",
+  "updated_at": "2026-10-21T13:55:18Z"
+}
