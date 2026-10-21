@@ -12,16 +12,16 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-10-21T13:55:18Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-10-21T20:16:03Z)
 - [TIKTOK](https://leo88q.github.io/content-/site/pools/DFZnu6CaxumwG8MeFv9i3Y4HhMxReyE1EYwHFQeRRCLY.md): TIKTOK / SOL on pumpswap — -91.9% 24h, Vol $140.99M, Liq $0.00298
 - [SOL](https://leo88q.github.io/content-/site/pools/58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2.md): SOL / USDC on raydium — +4.4% 24h, Vol $87.55M, Liq $41.84M
-- [Kimchi](https://leo88q.github.io/content-/site/pools/6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH.md): Kimchi / SOL on pumpswap — +68823.3% 24h, Vol $44.45M, Liq $570.5K
+- [Kimchi](https://leo88q.github.io/content-/site/pools/6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH.md): Kimchi / SOL on pumpswap — +81732.6% 24h, Vol $49.51M, Liq $628.1K
 - [AXIS](https://leo88q.github.io/content-/site/pools/5GHJdhuDttJyZU6D666QDjfa1Q3GXFec3VN1z65fgnGo.md): AXIS / SOL on pumpswap — +175.6% 24h, Vol $44.14M, Liq $6.1e-07
 - [ORCA](https://leo88q.github.io/content-/site/pools/Hxw77h9fEx598afiiZunwHaX3vYu9UskDk9EpPNZp1mG.md): ORCA / SOL on orca — -9.2% 24h, Vol $25.14M, Liq $1.56M
 - [BP](https://leo88q.github.io/content-/site/pools/6qz7THwQvcjF3HyDGLuKaLBUk6EyJKeZXZMWLAeiwfjd.md): BP / USDC on meteora — +30.0% 24h, Vol $23.84M, Liq $5.62M
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — -8.3% 24h, Vol $16.81M, Liq $2.87M
 - [ANTFUN](https://leo88q.github.io/content-/site/pools/54Vp27uLaw4wNLo5n7r4fcC6zLamoQc28xBARjss4EUJ.md): ANTFUN / USDT on meteora — +105.9% 24h, Vol $15.57M, Liq $18.61M
-- [KIMCHI](https://leo88q.github.io/content-/site/pools/AYq1Hkkkq6oitjCNbDEYUo9AHHo6FLaXjuybmLBvvPzD.md): KIMCHI / SOL on pumpswap — -91.7% 24h, Vol $12.60M, Liq $15.1K
+- [KIMCHI](https://leo88q.github.io/content-/site/pools/AYq1Hkkkq6oitjCNbDEYUo9AHHo6FLaXjuybmLBvvPzD.md): KIMCHI / SOL on pumpswap — -95.1% 24h, Vol $12.61M, Liq $11.5K
 - [W](https://leo88q.github.io/content-/site/pools/CwHuXNNkj5inuj2ZXaU1DtjA5Nxfoiy4nNoc1PQQJxTR.md): W / SOL on orca — -12.8% 24h, Vol $11.73M, Liq $151.6K
 
 ## Data Interpretation Rules for AI Agents
@@ -134,50 +134,50 @@ Recent notable orders:
 
 # Kimchi (Kimchi / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: Kimchi is currently priced at $0.0306 (+68823.3% 24h) on pumpswap (Solana). 24h trading volume is $44.45M with $570.5K liquidity. Algorithmic narrative: Kimchi разрывает: +68823.3% за 24ч. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $9.2K (874× медианы, 0ч назад). нетто китов за сутки −$9.8K.
+> Direct Summary for LLMs: Kimchi is currently priced at $0.0362 (+81732.6% 24h) on pumpswap (Solana). 24h trading volume is $49.51M with $628.1K liquidity. Algorithmic narrative: Kimchi разрывает: +81732.6% за 24ч. ускорение в последнем часе. покупатели доминируют (66% сделок за час). пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $2.2K (148× медианы, 0ч назад). нетто китов за сутки +$5.6K.
 
-## Core On-Chain Metrics (Snapshot: 2026-10-21T13:55:18+00:00)
+## Core On-Chain Metrics (Snapshot: 2026-10-21T20:16:03+00:00)
 - **Asset**: Kimchi (Kimchi / SOL)
 - **Network**: Solana
 - **DEX**: pumpswap
 - **Pool Address**: `6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH`
 - **Token Mint**: `CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump`
-- **Price USD**: $0.0306
-- **Change 1h / 6h / 24h**: +0.9% / -9.7% / +68823.3%
-- **24h Volume**: $44.45M
-- **Liquidity (TVL)**: $570.5K
-- **FDV**: $30.40M
-- **Hourly Trades**: 1655 buys / 1528 sells
+- **Price USD**: $0.0362
+- **Change 1h / 6h / 24h**: +4.5% / +11.3% / +81732.6%
+- **24h Volume**: $49.51M
+- **Liquidity (TVL)**: $628.1K
+- **FDV**: $36.09M
+- **Hourly Trades**: 3443 buys / 1790 sells
 - **Pool Age**: Created 2026-10-20T23:00:16Z
 
 ## Algorithmic Narrative & Signals
-Kimchi разрывает: +68823.3% за 24ч. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $9.2K (874× медианы, 0ч назад). нетто китов за сутки −$9.8K.
+Kimchi разрывает: +81732.6% за 24ч. ускорение в последнем часе. покупатели доминируют (66% сделок за час). пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $2.2K (148× медианы, 0ч назад). нетто китов за сутки +$5.6K.
 
 ## Risk Flags
 - ⚠️ молодой пул
 - ⚠️ перегрет за 24ч
 
 ## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $9.2K (874× медианы). Нетто-поток китов: $-9.8K.
+Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $2.2K (148× медианы). Нетто-поток китов: +$5.6K.
 Recent notable orders:
-  - SELL $9,229 (874× медианы ленты, 0.1ч назад) кошелёк `EMUhe45G`
-  - BUY $4,666 (442× медианы ленты, 0.1ч назад) кошелёк `MriyaNN8`
-  - SELL $3,934 (372× медианы ленты, 0.0ч назад) кошелёк `BZobDeK3`
-  - SELL $3,032 (287× медианы ленты, 0.1ч назад) кошелёк `FHpcNSe6`
-  - BUY $1,755 (166× медианы ленты, 0.1ч назад) кошелёк `H3MNBqAM`
+  - BUY $2,192 (148× медианы ленты, 0.1ч назад) кошелёк `Hzvs4kQ3`
+  - BUY $2,025 (137× медианы ленты, 0.1ч назад) кошелёк `5Jufervy`
+  - BUY $1,398 (94× медианы ленты, 0.1ч назад) кошелёк `Hzvs4kQ3`
+  - SELL $1,164 (79× медианы ленты, 0.0ч назад) кошелёк `GiVb4t4p`
+  - BUY $1,155 (78× медианы ленты, 0.1ч назад) кошелёк `FpozZgNX`
 
 ## Frequently Asked Questions (GEO Facts)
 ### Q: Какая текущая цена, динамика и объём торгов Kimchi?
-По ончейн-данным пула Kimchi / SOL на DEX pumpswap (Solana), цена Kimchi составляет $0.0306. Динамика за 24ч: +68823.3% (за 1ч: +0.9%, за 6ч: -9.7%). Суточный объём торгов равен $44.45M, общая ликвидность пула (TVL) — $570.5K, FDV — $30.40M. Данные зафиксированы на 2026-10-21T13:55:18+00:00.
+По ончейн-данным пула Kimchi / SOL на DEX pumpswap (Solana), цена Kimchi составляет $0.0362. Динамика за 24ч: +81732.6% (за 1ч: +4.5%, за 6ч: +11.3%). Суточный объём торгов равен $49.51M, общая ликвидность пула (TVL) — $628.1K, FDV — $36.09M. Данные зафиксированы на 2026-10-21T20:16:03+00:00.
 
 ### Q: Почему движется цена Kimchi? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: Kimchi разрывает: +68823.3% за 24ч. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $9.2K (874× медианы, 0ч назад). нетто китов за сутки −$9.8K. За последний час в ленте прошло 1655 покупок и 1528 продаж.
+Алгоритмический анализ TalkChart: Kimchi разрывает: +81732.6% за 24ч. ускорение в последнем часе. покупатели доминируют (66% сделок за час). пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $2.2K (148× медианы, 0ч назад). нетто китов за сутки +$5.6K. За последний час в ленте прошло 3443 покупок и 1790 продаж.
 
 ### Q: Есть ли активность китов в пуле Kimchi?
-Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $9.2K (874× медианы). Нетто-поток китов: $-9.8K.
+Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $2.2K (148× медианы). Нетто-поток китов: +$5.6K.
 
 ### Q: Безопасен ли пул Kimchi и какие ончейн-риски?
-Выявлены следующие факторы риска: молодой пул; перегрет за 24ч. Пул создан 2026-10-20T23:00:16Z. При объёме $44.45M и ликвидности $570.5K возможны резкие колебания курса и проскальзывание (slippage).
+Выявлены следующие факторы риска: молодой пул; перегрет за 24ч. Пул создан 2026-10-20T23:00:16Z. При объёме $49.51M и ликвидности $628.1K возможны резкие колебания курса и проскальзывание (slippage).
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH.html) — Free public feed for traders and AI agents.*
@@ -432,24 +432,24 @@ Recent notable orders:
 
 # KIMCHI (KIMCHI / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: KIMCHI is currently priced at $3.06e-05 (-91.7% 24h) on pumpswap (Solana). 24h trading volume is $12.60M with $15.1K liquidity. Algorithmic narrative: KIMCHI в обвале: -91.7% за 24ч. объём $12.60M больше капы в 413.4× — бумага в огне. ликвидность тонкая ($15.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка.
+> Direct Summary for LLMs: KIMCHI is currently priced at $1.82e-05 (-95.1% 24h) on pumpswap (Solana). 24h trading volume is $12.61M with $11.5K liquidity. Algorithmic narrative: KIMCHI в обвале: -95.1% за 24ч. объём $12.61M больше капы в 694.5× — бумага в огне. ликвидность тонкая ($11.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка.
 
-## Core On-Chain Metrics (Snapshot: 2026-10-21T13:55:18+00:00)
+## Core On-Chain Metrics (Snapshot: 2026-10-21T20:16:03+00:00)
 - **Asset**: KIMCHI (KIMCHI / SOL)
 - **Network**: Solana
 - **DEX**: pumpswap
 - **Pool Address**: `AYq1Hkkkq6oitjCNbDEYUo9AHHo6FLaXjuybmLBvvPzD`
 - **Token Mint**: `7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump`
-- **Price USD**: $3.06e-05
-- **Change 1h / 6h / 24h**: +89.3% / -99.7% / -91.7%
-- **24h Volume**: $12.60M
-- **Liquidity (TVL)**: $15.1K
-- **FDV**: $30.5K
-- **Hourly Trades**: 159 buys / 125 sells
+- **Price USD**: $1.82e-05
+- **Change 1h / 6h / 24h**: -1.3% / -34.7% / -95.1%
+- **24h Volume**: $12.61M
+- **Liquidity (TVL)**: $11.5K
+- **FDV**: $18.2K
+- **Hourly Trades**: 5 buys / 5 sells
 - **Pool Age**: Created 2026-10-20T23:50:28Z
 
 ## Algorithmic Narrative & Signals
-KIMCHI в обвале: -91.7% за 24ч. объём $12.60M больше капы в 413.4× — бумага в огне. ликвидность тонкая ($15.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка.
+KIMCHI в обвале: -95.1% за 24ч. объём $12.61M больше капы в 694.5× — бумага в огне. ликвидность тонкая ($11.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -462,16 +462,16 @@ Recent notable orders:
 
 ## Frequently Asked Questions (GEO Facts)
 ### Q: Какая текущая цена, динамика и объём торгов KIMCHI?
-По ончейн-данным пула KIMCHI / SOL на DEX pumpswap (Solana), цена KIMCHI составляет $3.06e-05. Динамика за 24ч: -91.7% (за 1ч: +89.3%, за 6ч: -99.7%). Суточный объём торгов равен $12.60M, общая ликвидность пула (TVL) — $15.1K, FDV — $30.5K. Данные зафиксированы на 2026-10-21T13:55:18+00:00.
+По ончейн-данным пула KIMCHI / SOL на DEX pumpswap (Solana), цена KIMCHI составляет $1.82e-05. Динамика за 24ч: -95.1% (за 1ч: -1.3%, за 6ч: -34.7%). Суточный объём торгов равен $12.61M, общая ликвидность пула (TVL) — $11.5K, FDV — $18.2K. Данные зафиксированы на 2026-10-21T20:16:03+00:00.
 
 ### Q: Почему движется цена KIMCHI? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: KIMCHI в обвале: -91.7% за 24ч. объём $12.60M больше капы в 413.4× — бумага в огне. ликвидность тонкая ($15.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. За последний час в ленте прошло 159 покупок и 125 продаж.
+Алгоритмический анализ TalkChart: KIMCHI в обвале: -95.1% за 24ч. объём $12.61M больше капы в 694.5× — бумага в огне. ликвидность тонкая ($11.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка. За последний час в ленте прошло 5 покупок и 5 продаж.
 
 ### Q: Есть ли активность китов в пуле KIMCHI?
 Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
 
 ### Q: Безопасен ли пул KIMCHI и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; молодой пул. Пул создан 2026-10-20T23:50:28Z. При объёме $12.60M и ликвидности $15.1K возможны резкие колебания курса и проскальзывание (slippage).
+Выявлены следующие факторы риска: тонкая ликвидность; молодой пул. Пул создан 2026-10-20T23:50:28Z. При объёме $12.61M и ликвидности $11.5K возможны резкие колебания курса и проскальзывание (slippage).
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/AYq1Hkkkq6oitjCNbDEYUo9AHHo6FLaXjuybmLBvvPzD.html) — Free public feed for traders and AI agents.*
@@ -733,47 +733,52 @@ Recent notable orders:
 
 ---
 
-# CARDS (CARDS / USDC) — On-Chain Analysis & Market Data
+# Saw (Saw / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: CARDS is currently priced at $0.3525 (+12.0% 24h) on raydium-clmm (Solana). 24h trading volume is $8.11M with $4.62M liquidity. Algorithmic narrative: CARDS растёт на +12.0% за сутки. стакан глубокий: $4.62M ликвидности.
+> Direct Summary for LLMs: Saw is currently priced at $8.01e-05 (+56.2% 24h) on pumpswap (Solana). 24h trading volume is $7.38M with $30.2K liquidity. Algorithmic narrative: Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46.
 
-## Core On-Chain Metrics (Snapshot: 2026-10-21T13:55:18+00:00)
-- **Asset**: CARDS (CARDS / USDC)
+## Core On-Chain Metrics (Snapshot: 2026-10-01T06:05:48+00:00)
+- **Asset**: Saw (Saw / SOL)
 - **Network**: Solana
-- **DEX**: raydium-clmm
-- **Pool Address**: `HnhpJPJgBG2KwniMTNW8cVBHvk1hFog3RC3kjnyc23tD`
-- **Token Mint**: `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`
-- **Price USD**: $0.3525
-- **Change 1h / 6h / 24h**: -1.3% / +1.0% / +12.0%
-- **24h Volume**: $8.11M
-- **Liquidity (TVL)**: $4.62M
-- **FDV**: $695.92M
-- **Hourly Trades**: 169 buys / 121 sells
-- **Pool Age**: Created 2025-08-29T18:54:46Z
+- **DEX**: pumpswap
+- **Pool Address**: `ATrJhrc46UkY4gTmJry2SUZvtaLJX3LydBufPnkWHTC3`
+- **Token Mint**: `9twiuSdTVkwtAC9XQDG57dFRhF4iqPih461HJfMZKci9`
+- **Price USD**: $8.01e-05
+- **Change 1h / 6h / 24h**: +10.9% / -20.4% / +56.2%
+- **24h Volume**: $7.38M
+- **Liquidity (TVL)**: $30.2K
+- **FDV**: $80.1K
+- **Hourly Trades**: 241 buys / 261 sells
+- **Pool Age**: Created 2026-09-30T11:06:29Z
 
 ## Algorithmic Narrative & Signals
-CARDS растёт на +12.0% за сутки. стакан глубокий: $4.62M ликвидности.
+Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46.
 
 ## Risk Flags
-- Флагов повышенного риска не выявлено.
+- ⚠️ тонкая ликвидность
+- ⚠️ перегрет за 24ч
 
 ## Whale Activity (Relative Tape Filter)
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $730.85 (188× медианы). Нетто-поток китов: +$340.46.
 Recent notable orders:
-  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
+  - SELL $731 (188× медианы ленты, 0.4ч назад) кошелёк `BNhJ2Pf2`
+  - BUY $653 (168× медианы ленты, 0.3ч назад) кошелёк `AgmLJBMD`
+  - BUY $494 (127× медианы ленты, 0.4ч назад) кошелёк `FHpcNSe6`
+  - SELL $429 (110× медианы ленты, 0.4ч назад) кошелёк `6QMyNniH`
+  - BUY $353 (91× медианы ленты, 0.4ч назад) кошелёк `Esj9pSMe`
 
 ## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов CARDS?
-По ончейн-данным пула CARDS / USDC на DEX raydium-clmm (Solana), цена CARDS составляет $0.3525. Динамика за 24ч: +12.0% (за 1ч: -1.3%, за 6ч: +1.0%). Суточный объём торгов равен $8.11M, общая ликвидность пула (TVL) — $4.62M, FDV — $695.92M. Данные зафиксированы на 2026-10-21T13:55:18+00:00.
+### Q: Какая текущая цена, динамика и объём торгов Saw?
+По ончейн-данным пула Saw / SOL на DEX pumpswap (Solana), цена Saw составляет $8.01e-05. Динамика за 24ч: +56.2% (за 1ч: +10.9%, за 6ч: -20.4%). Суточный объём торгов равен $7.38M, общая ликвидность пула (TVL) — $30.2K, FDV — $80.1K. Данные зафиксированы на 2026-10-01T06:05:48+00:00.
 
-### Q: Почему движется цена CARDS? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: CARDS растёт на +12.0% за сутки. стакан глубокий: $4.62M ликвидности. За последний час в ленте прошло 169 покупок и 121 продаж.
+### Q: Почему движется цена Saw? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: Saw разрывает: +56.2% за 24ч. объём $7.38M больше капы в 92.2× — бумага в огне. ликвидность тонкая ($30.2K) — движения будут резкими. крупная сделка на фоне ленты: продал $730.85 (188× медианы, 0ч назад). нетто китов за сутки +$340.46. За последний час в ленте прошло 241 покупок и 261 продаж.
 
-### Q: Есть ли активность китов в пуле CARDS?
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+### Q: Есть ли активность китов в пуле Saw?
+Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $730.85 (188× медианы). Нетто-поток китов: +$340.46.
 
-### Q: Безопасен ли пул CARDS и какие ончейн-риски?
-Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул CARDS / USDC на raydium-clmm создан 2025-08-29T18:54:46Z, ликвидность $4.62M при суточном объёме $8.11M.
+### Q: Безопасен ли пул Saw и какие ончейн-риски?
+Выявлены следующие факторы риска: тонкая ликвидность; перегрет за 24ч. Пул создан 2026-09-30T11:06:29Z. При объёме $7.38M и ликвидности $30.2K возможны резкие колебания курса и проскальзывание (slippage).
 
 ---
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/HnhpJPJgBG2KwniMTNW8cVBHvk1hFog3RC3kjnyc23tD.html) — Free public feed for traders and AI agents.*
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/ATrJhrc46UkY4gTmJry2SUZvtaLJX3LydBufPnkWHTC3.html) — Free public feed for traders and AI agents.*
