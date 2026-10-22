@@ -1,17 +1,17 @@
 {
-  "slug": "oa-vs-blacktober",
+  "slug": "oa-vs-shavcoin",
   "token1": {
     "symbol": "OA",
-    "change_24h": 6884.123,
+    "change_24h": 6630.111,
     "address": "2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq",
-    "volume": 7250215.64295721
+    "volume": 7981620.1766205
   },
   "token2": {
-    "symbol": "BLACKTOBER",
-    "change_24h": 1513.649,
-    "address": "C73M9QWLSAY16TKQEsEjSThBVXwMpbg94ijZRzYCxbiR",
-    "volume": 2371560.74336059
+    "symbol": "SHAVCOIN",
+    "change_24h": 2270.184,
+    "address": "HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt",
+    "volume": 3242866.18452545
   },
-  "verdict": "По ончейн-метрикам TalkChart: OA опережает по ценовому импульсу (+6884.1% против +1513.6%). Кроме того, у OA существенно глубже пул ликвидности ($410.7K против $76.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: OA.",
-  "updated_at": "2026-10-22 20:13 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: OA опережает по ценовому импульсу (+6630.1% против +2270.2%). Кроме того, у OA существенно глубже пул ликвидности ($402.7K против $169.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: OA.",
+  "updated_at": "2026-10-22 23:29 UTC"
 }

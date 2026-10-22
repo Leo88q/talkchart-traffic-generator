@@ -1,0 +1,69 @@
+{
+  "pool": {
+    "address": "HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt",
+    "name": "SHAVCOIN / SOL",
+    "base_symbol": "SHAVCOIN",
+    "base_name": "SHAVCOIN",
+    "base_address": "Baw61KXAJk4MMnNJPBa87S8F77oNhMy7gQ63S8SLpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0033861398584008797,
+    "created_at": "2026-10-22T11:38:42Z",
+    "fdv_usd": 3359402.3502871,
+    "reserve_usd": 169041.8583,
+    "volume_h24": 3242866.18452545,
+    "change": {
+      "h1": -3.344,
+      "h6": 135.516,
+      "h24": 2270.184
+    },
+    "tx_h1": {
+      "buys": 376,
+      "sells": 939
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 283.15,
+        "mult": 19.0,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "5as3z4g6"
+      },
+      {
+        "kind": "sell",
+        "usd": 275.85,
+        "mult": 18.5,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AZ68xqP8"
+      },
+      {
+        "kind": "buy",
+        "usd": 255.76,
+        "mult": 17.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "E3bHHDgS"
+      },
+      {
+        "kind": "sell",
+        "usd": 253.47,
+        "mult": 17.0,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AZ68xqP8"
+      }
+    ],
+    "first_seen": "2026-10-22T23:29:13+00:00",
+    "last_seen": "2026-10-22T23:29:13+00:00"
+  },
+  "narrative": "SHAVCOIN разрывает: +2270.2% за 24ч. продают в рынок (71% сделок за час). суточный памп остывает. ликвидность тонкая ($169.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $283.15 (19× медианы, 0ч назад). нетто китов за сутки +$9.59.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "давление продаж",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 4 (2 покупок, 2 продаж). Крупнейшая: покупка на $283.15 (19× медианы). Нетто-поток китов: +$9.59.",
+  "updated_at": "2026-10-22T23:29:13Z"
+}
