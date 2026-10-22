@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/OA_+6012.png",
+  "title": "TalkChart: OA (+6011.6%) — Solana On-Chain Radar",
+  "description": "OA разрывает: +6011.6% за 24ч. покупатели доминируют (64% сделок за час). пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.3K (3630× медианы, 0ч назад). нетто китов за сутки −$11.0K.\n\nОбъём: $5.72M · Ликвидность: $381.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп OA (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

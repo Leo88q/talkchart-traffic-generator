@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq",
+    "name": "OA / SOL",
+    "base_symbol": "OA",
+    "base_name": "OA",
+    "base_address": "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump",
+    "dex": "pumpswap",
+    "price_usd": 0.01750442328942377,
+    "created_at": "2026-10-22T02:59:35Z",
+    "fdv_usd": 17388015.8117543,
+    "reserve_usd": 381253.7893,
+    "volume_h24": 5723009.75817499,
+    "change": {
+      "h1": 14.193,
+      "h6": 9.075,
+      "h24": 6011.647
+    },
+    "tx_h1": {
+      "buys": 1536,
+      "sells": 864
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 2331.58,
+        "mult": 3630.3,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "EogArkUC"
+      },
+      {
+        "kind": "sell",
+        "usd": 2327.07,
+        "mult": 3623.3,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "2Mn9cEGc"
+      },
+      {
+        "kind": "sell",
+        "usd": 2233.09,
+        "mult": 3477.0,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "Er1A82Zu"
+      },
+      {
+        "kind": "sell",
+        "usd": 2084.86,
+        "mult": 3246.2,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "6pv8JusF"
+      },
+      {
+        "kind": "sell",
+        "usd": 2004.76,
+        "mult": 3121.5,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "2Mn9cEGc"
+      }
+    ],
+    "first_seen": "2026-10-22T14:01:15+00:00",
+    "last_seen": "2026-10-22T14:01:15+00:00"
+  },
+  "narrative": "OA разрывает: +6011.6% за 24ч. покупатели доминируют (64% сделок за час). пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.3K (3630× медианы, 0ч назад). нетто китов за сутки −$11.0K.",
+  "flags": [
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (0 покупок, 5 продаж). Крупнейшая: продажа на $2.3K (3630× медианы). Нетто-поток китов: $-11.0K.",
+  "updated_at": "2026-10-22T14:01:15Z"
+}

@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "6YkNBt32e2M9SF9JpbgWETD5QqGpvEdNdGNN87A9ADDr",
+    "name": "PANGEA / SOL",
+    "base_symbol": "PANGEA",
+    "base_name": "PANGEA",
+    "base_address": "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea",
+    "dex": "meteora-damm-v2",
+    "price_usd": 0.0010828438431740928,
+    "created_at": "2026-10-21T16:34:23Z",
+    "fdv_usd": 1459420.90794637,
+    "reserve_usd": 114050.8238,
+    "volume_h24": 5687636.66895764,
+    "change": {
+      "h1": -9.659,
+      "h6": -39.004,
+      "h24": 21077.814
+    },
+    "tx_h1": {
+      "buys": 255,
+      "sells": 208
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 4445.99,
+        "mult": 59.8,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "7DDJ7DnU"
+      },
+      {
+        "kind": "sell",
+        "usd": 1555.87,
+        "mult": 20.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "EMDUaJBt"
+      },
+      {
+        "kind": "buy",
+        "usd": 982.88,
+        "mult": 13.2,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "FKNgmvG2"
+      },
+      {
+        "kind": "buy",
+        "usd": 982.84,
+        "mult": 13.2,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "FKNgmvG2"
+      },
+      {
+        "kind": "buy",
+        "usd": 982.27,
+        "mult": 13.2,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "FKNgmvG2"
+      }
+    ],
+    "first_seen": "2026-10-22T14:01:15+00:00",
+    "last_seen": "2026-10-22T14:01:15+00:00"
+  },
+  "narrative": "PANGEA разрывает: +21077.8% за 24ч. давление продаж нарастает. объём $5.69M больше капы в 3.9× — бумага в огне. ликвидность тонкая ($114.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $4.4K (60× медианы, 0ч назад). нетто китов за сутки +$5.8K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $4.4K (60× медианы). Нетто-поток китов: +$5.8K.",
+  "updated_at": "2026-10-22T14:01:15Z"
+}

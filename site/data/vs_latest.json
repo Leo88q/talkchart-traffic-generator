@@ -1,17 +1,17 @@
 {
-  "slug": "php-vs-kimchibull",
+  "slug": "pangea-vs-oa",
   "token1": {
-    "symbol": "PHP",
-    "change_24h": 3323.006,
-    "address": "YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw",
-    "volume": 6605943.05978918
+    "symbol": "PANGEA",
+    "change_24h": 21077.814,
+    "address": "6YkNBt32e2M9SF9JpbgWETD5QqGpvEdNdGNN87A9ADDr",
+    "volume": 5687636.66895764
   },
   "token2": {
-    "symbol": "KIMCHIBULL",
-    "change_24h": 723.401,
-    "address": "Ds6CaQYBQL7GjDATf9CVH189S9ef1mz7dkTrSoV7RWEM",
-    "volume": 6816859.16134345
+    "symbol": "OA",
+    "change_24h": 6011.647,
+    "address": "2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq",
+    "volume": 5723009.75817499
   },
-  "verdict": "По ончейн-метрикам TalkChart: PHP опережает по ценовому импульсу (+3323.0% против +723.4%). Краткосрочный фаворит по совокупности факторов: PHP.",
-  "updated_at": "2026-10-22 04:58 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PANGEA опережает по ценовому импульсу (+21077.8% против +6011.6%). Кроме того, у OA более надёжная ликвидность ($381.3K против $114.1K). Краткосрочный фаворит по совокупности факторов: OA.",
+  "updated_at": "2026-10-22 14:01 UTC"
 }

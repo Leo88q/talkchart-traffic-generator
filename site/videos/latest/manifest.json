@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-22T04:58:44+00:00",
+ "generated_at": "2026-10-22T14:01:31+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-22/PHP.mp4",
-   "latest_file": "videos/latest/PHP.mp4",
-   "symbol": "PHP",
-   "chg_h24": 3323.006
+   "file": "videos/2026-10-22/PANGEA.mp4",
+   "latest_file": "videos/latest/PANGEA.mp4",
+   "symbol": "PANGEA",
+   "chg_h24": 21077.814
   },
   {
-   "file": "videos/2026-10-22/KIMCHIBULL.mp4",
-   "latest_file": "videos/latest/KIMCHIBULL.mp4",
-   "symbol": "KIMCHIBULL",
-   "chg_h24": 723.401
+   "file": "videos/2026-10-22/OA.mp4",
+   "latest_file": "videos/latest/OA.mp4",
+   "symbol": "OA",
+   "chg_h24": 6011.647
   },
   {
    "file": "videos/2026-10-22/CYBER.mp4",
    "latest_file": "videos/latest/CYBER.mp4",
    "symbol": "CYBER",
-   "chg_h24": 492.311
+   "chg_h24": 950.858
   }
  ]
 }
