@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-22
-1. PANGEA +21077.8% — PANGEA разрывает: +21077.8% за 24ч. давление продаж нарастает
-2. OA +6011.6% — OA разрывает: +6011.6% за 24ч. покупатели доминируют (64% сделок за час)
-3. CYBER +950.9% — CYBER разрывает: +950.9% за 24ч. объём $8.78M больше капы в 19.2× — бумага в огне
-4. KIMCHIBULL +817.0% — KIMCHIBULL разрывает: +817.0% за 24ч. давление продаж нарастает
-5. PHP +232.6% — PHP разрывает: +232.6% за 24ч. объём $4.20M больше капы в 4.3× — бумага в огне
+1. OA +6884.1% — OA разрывает: +6884.1% за 24ч. пулу 1 дн
+2. BLACKTOBER +1513.6% — BLACKTOBER разрывает: +1513.6% за 24ч. ускорение в последнем часе
+3. VIRTUAL +697.1% — VIRTUAL разрывает: +697.1% за 24ч. ускорение в последнем часе
+4. CYBER +492.1% — CYBER разрывает: +492.1% за 24ч. объём $9.10M больше капы в 35.3× — бумага в огне
+5. PANGEA +373.8% — PANGEA разрывает: +373.8% за 24ч. ускорение в последнем часе
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6YkNBt32e2M9SF9JpbgWETD5QqGpvEdNdGNN87A9ADDr.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Au_+128.png",
+  "title": "TalkChart: Au (+128.3%) — Solana On-Chain Radar",
+  "description": "Au разрывает: +128.3% за 24ч. давление продаж нарастает. объём $3.01M больше капы в 30.5× — бумага в огне. ликвидность тонкая ($26.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $918.37 (79× медианы, 0ч назад). нетто китов за сутки −$1.9K.\n\nОбъём: $3.01M · Ликвидность: $26.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Au (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FNYUadkhuYaNvbr25VxRhT2s3n9S3TKcJ3NBvy7sqJWJ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

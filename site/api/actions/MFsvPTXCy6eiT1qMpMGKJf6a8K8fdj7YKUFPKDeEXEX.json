@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/VIRTUAL_+697.png",
+  "title": "TalkChart: VIRTUAL (+697.1%) — Solana On-Chain Radar",
+  "description": "VIRTUAL разрывает: +697.1% за 24ч. ускорение в последнем часе. ликвидность тонкая ($49.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $409.9K · Ликвидность: $49.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп VIRTUAL (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=MFsvPTXCy6eiT1qMpMGKJf6a8K8fdj7YKUFPKDeEXEX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

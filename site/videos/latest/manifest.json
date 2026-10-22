@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-22T14:01:31+00:00",
+ "generated_at": "2026-10-22T20:13:23+00:00",
  "videos": [
-  {
-   "file": "videos/2026-10-22/PANGEA.mp4",
-   "latest_file": "videos/latest/PANGEA.mp4",
-   "symbol": "PANGEA",
-   "chg_h24": 21077.814
-  },
   {
    "file": "videos/2026-10-22/OA.mp4",
    "latest_file": "videos/latest/OA.mp4",
    "symbol": "OA",
-   "chg_h24": 6011.647
+   "chg_h24": 6884.123
   },
   {
-   "file": "videos/2026-10-22/CYBER.mp4",
-   "latest_file": "videos/latest/CYBER.mp4",
-   "symbol": "CYBER",
-   "chg_h24": 950.858
+   "file": "videos/2026-10-22/BLACKTOBER.mp4",
+   "latest_file": "videos/latest/BLACKTOBER.mp4",
+   "symbol": "BLACKTOBER",
+   "chg_h24": 1513.649
+  },
+  {
+   "file": "videos/2026-10-22/VIRTUAL.mp4",
+   "latest_file": "videos/latest/VIRTUAL.mp4",
+   "symbol": "VIRTUAL",
+   "chg_h24": 697.147
   }
  ]
 }

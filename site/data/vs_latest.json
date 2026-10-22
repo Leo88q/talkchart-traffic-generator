@@ -1,17 +1,17 @@
 {
-  "slug": "pangea-vs-oa",
+  "slug": "oa-vs-blacktober",
   "token1": {
-    "symbol": "PANGEA",
-    "change_24h": 21077.814,
-    "address": "6YkNBt32e2M9SF9JpbgWETD5QqGpvEdNdGNN87A9ADDr",
-    "volume": 5687636.66895764
+    "symbol": "OA",
+    "change_24h": 6884.123,
+    "address": "2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq",
+    "volume": 7250215.64295721
   },
   "token2": {
-    "symbol": "OA",
-    "change_24h": 6011.647,
-    "address": "2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq",
-    "volume": 5723009.75817499
+    "symbol": "BLACKTOBER",
+    "change_24h": 1513.649,
+    "address": "C73M9QWLSAY16TKQEsEjSThBVXwMpbg94ijZRzYCxbiR",
+    "volume": 2371560.74336059
   },
-  "verdict": "По ончейн-метрикам TalkChart: PANGEA опережает по ценовому импульсу (+21077.8% против +6011.6%). Кроме того, у OA более надёжная ликвидность ($381.3K против $114.1K). Краткосрочный фаворит по совокупности факторов: OA.",
-  "updated_at": "2026-10-22 14:01 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: OA опережает по ценовому импульсу (+6884.1% против +1513.6%). Кроме того, у OA существенно глубже пул ликвидности ($410.7K против $76.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: OA.",
+  "updated_at": "2026-10-22 20:13 UTC"
 }
