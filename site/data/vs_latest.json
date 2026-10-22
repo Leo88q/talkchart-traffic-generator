@@ -1,17 +1,17 @@
 {
-  "slug": "php-vs-kimchi",
+  "slug": "php-vs-kimchibull",
   "token1": {
     "symbol": "PHP",
-    "change_24h": 736.285,
+    "change_24h": 3323.006,
     "address": "YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw",
-    "volume": 4903008.45372788
+    "volume": 6605943.05978918
   },
   "token2": {
-    "symbol": "Kimchi",
-    "change_24h": 104.939,
-    "address": "6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH",
-    "volume": 45784338.3330268
+    "symbol": "KIMCHIBULL",
+    "change_24h": 723.401,
+    "address": "Ds6CaQYBQL7GjDATf9CVH189S9ef1mz7dkTrSoV7RWEM",
+    "volume": 6816859.16134345
   },
-  "verdict": "По ончейн-метрикам TalkChart: PHP опережает по ценовому импульсу (+736.3% против +104.9%). Кроме того, у Kimchi более надёжная ликвидность ($544.7K против $59.6K). Краткосрочный фаворит по совокупности факторов: Kimchi.",
-  "updated_at": "2026-10-21 23:27 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PHP опережает по ценовому импульсу (+3323.0% против +723.4%). Краткосрочный фаворит по совокупности факторов: PHP.",
+  "updated_at": "2026-10-22 04:58 UTC"
 }

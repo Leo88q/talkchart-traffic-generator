@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CYBER_+492.png",
+  "title": "TalkChart: CYBER (+492.3%) — Solana On-Chain Radar",
+  "description": "CYBER разрывает: +492.3% за 24ч. давление продаж нарастает. объём $8.27M больше капы в 32.1× — бумага в огне. ликвидность тонкая ($52.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $871.64 (59× медианы, 0ч назад). нетто китов за сутки −$1.7K.\n\nОбъём: $8.27M · Ликвидность: $52.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CYBER (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CMo7GfUhSGXuEfnY7qAzv8hhsV2M2P8GpWqmWikhpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4SMPAuRkMTMFiMnW1oDcDQdi54CC9R4of9xtr4phiYiG"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
