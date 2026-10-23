@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BIRB_+49.png",
+  "title": "TalkChart: BIRB (+49.1%) — Solana On-Chain Radar",
+  "description": "BIRB разрывает: +49.1% за 24ч. давление продаж нарастает.\n\nОбъём: $10.03M · Ликвидность: $1.46M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BIRB (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

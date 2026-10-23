@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-23T20:09:11+00:00",
+ "generated_at": "2026-10-23T23:13:29+00:00",
  "videos": [
   {
    "file": "videos/2026-10-23/ODIE.mp4",
    "latest_file": "videos/latest/ODIE.mp4",
    "symbol": "ODIE",
-   "chg_h24": 2108.414
+   "chg_h24": 1268.317
   },
   {
    "file": "videos/2026-10-23/ARCTIS.mp4",
    "latest_file": "videos/latest/ARCTIS.mp4",
    "symbol": "ARCTIS",
-   "chg_h24": 281.065
+   "chg_h24": 178.604
   },
   {
    "file": "videos/2026-10-23/McRib.mp4",
    "latest_file": "videos/latest/McRib.mp4",
    "symbol": "McRib",
-   "chg_h24": 280.948
+   "chg_h24": 175.271
   }
  ]
 }
