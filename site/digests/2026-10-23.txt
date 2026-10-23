@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-23
-1. McRib +1804.7% — McRib разрывает: +1804.7% за 24ч. ускорение в последнем часе
-2. VIRTUAL +774.2% — VIRTUAL разрывает: +774.2% за 24ч. покупатели доминируют (64% сделок за час)
-3. ヤギ +463.8% — ヤギ разрывает: +463.8% за 24ч. давление продаж нарастает
-4. GUST +455.1% — GUST разрывает: +455.1% за 24ч. объём $1.47M больше капы в 6.2× — бумага в огне
-5. BLACKTOBER +145.8% — BLACKTOBER разрывает: +145.8% за 24ч. давление продаж нарастает
+1. ODIE +2108.4% — ODIE разрывает: +2108.4% за 24ч. покупатели доминируют (74% сделок за час)
+2. ARCTIS +281.1% — ARCTIS разрывает: +281.1% за 24ч. ускорение в последнем часе
+3. McRib +280.9% — McRib разрывает: +280.9% за 24ч. объём $7.25M больше капы в 7.6× — бумага в огне
+4. ヤギ +87.2% — ヤギ разрывает: +87.2% за 24ч. давление продаж нарастает
+5. mint +76.8% — mint разрывает: +76.8% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

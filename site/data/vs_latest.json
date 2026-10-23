@@ -1,17 +1,17 @@
 {
-  "slug": "mcrib-vs-virtual",
+  "slug": "odie-vs-arctis",
   "token1": {
-    "symbol": "McRib",
-    "change_24h": 1804.726,
-    "address": "6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7",
-    "volume": 7052125.94845274
+    "symbol": "ODIE",
+    "change_24h": 2108.414,
+    "address": "DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs",
+    "volume": 6197088.75068684
   },
   "token2": {
-    "symbol": "VIRTUAL",
-    "change_24h": 774.158,
-    "address": "MFsvPTXCy6eiT1qMpMGKJf6a8K8fdj7YKUFPKDeEXEX",
-    "volume": 1185965.97548773
+    "symbol": "ARCTIS",
+    "change_24h": 281.065,
+    "address": "5SpztG8hdXCG3YWx7hWjHGHF8CYGNRSWZ1smmfQQkAMX",
+    "volume": 349188.50331455
   },
-  "verdict": "По ончейн-метрикам TalkChart: McRib опережает по ценовому импульсу (+1804.7% против +774.2%). Краткосрочный фаворит по совокупности факторов: McRib.",
-  "updated_at": "2026-10-23 13:33 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: ODIE опережает по ценовому импульсу (+2108.4% против +281.1%). Кроме того, у ODIE существенно глубже пул ликвидности ($140.7K против $32.6K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: ODIE.",
+  "updated_at": "2026-10-23 20:09 UTC"
 }

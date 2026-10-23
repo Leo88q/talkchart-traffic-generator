@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ARCTIS_+281.png",
+  "title": "TalkChart: ARCTIS (+281.1%) — Solana On-Chain Radar",
+  "description": "ARCTIS разрывает: +281.1% за 24ч. ускорение в последнем часе. покупатели доминируют (69% сделок за час). объём $349.2K больше капы в 2.4× — бумага в огне. ликвидность тонкая ($32.6K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $442.08 (41× медианы, 0ч назад). нетто китов за сутки +$167.09.\n\nОбъём: $349.2K · Ликвидность: $32.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ARCTIS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5SpztG8hdXCG3YWx7hWjHGHF8CYGNRSWZ1smmfQQkAMX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

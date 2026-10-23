@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/mint_+77.png",
+  "title": "TalkChart: mint (+76.8%) — Solana On-Chain Radar",
+  "description": "mint разрывает: +76.8% за 24ч. давление продаж нарастает. объём $1.06M больше капы в 5.6× — бумага в огне. ликвидность тонкая ($21.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.06M · Ликвидность: $21.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп mint (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-tybY2LFHH91VdoPJJkkFAsYaD7wnQQAm3BYg1x3mint"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HSXNa3Rc2np5qu17bcMm3A69567KyQFicjjRF569A8H3"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

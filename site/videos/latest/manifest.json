@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-23T13:33:33+00:00",
+ "generated_at": "2026-10-23T20:09:11+00:00",
  "videos": [
+  {
+   "file": "videos/2026-10-23/ODIE.mp4",
+   "latest_file": "videos/latest/ODIE.mp4",
+   "symbol": "ODIE",
+   "chg_h24": 2108.414
+  },
+  {
+   "file": "videos/2026-10-23/ARCTIS.mp4",
+   "latest_file": "videos/latest/ARCTIS.mp4",
+   "symbol": "ARCTIS",
+   "chg_h24": 281.065
+  },
   {
    "file": "videos/2026-10-23/McRib.mp4",
    "latest_file": "videos/latest/McRib.mp4",
    "symbol": "McRib",
-   "chg_h24": 1804.726
-  },
-  {
-   "file": "videos/2026-10-23/VIRTUAL.mp4",
-   "latest_file": "videos/latest/VIRTUAL.mp4",
-   "symbol": "VIRTUAL",
-   "chg_h24": 774.158
-  },
-  {
-   "file": "videos/2026-10-23/ヤギ.mp4",
-   "latest_file": "videos/latest/ヤギ.mp4",
-   "symbol": "ヤギ",
-   "chg_h24": 463.78
+   "chg_h24": 280.948
   }
  ]
 }

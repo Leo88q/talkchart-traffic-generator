@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ANDURL_+13.png",
+  "title": "TalkChart: ANDURL (+12.6%) — Solana On-Chain Radar",
+  "description": "ANDURL растёт на +12.6% за сутки. покупатели доминируют (62% сделок за час). объём $4.28M больше капы в 2.2× — бумага в огне. пулу 7 дн., история короткая.\n\nОбъём: $4.28M · Ликвидность: $517.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ANDURL (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-PresTj4Yc2bAR197Er7wz4UUKSfqt6FryBEdAriBoQB"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AAB2XATNJVDspbmFYA82TVWLrjrjBMdgQnJYmbpoUU78"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
