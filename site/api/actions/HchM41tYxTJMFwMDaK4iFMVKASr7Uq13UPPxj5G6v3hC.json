@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GUST_+455.png",
+  "title": "TalkChart: GUST (+455.1%) — Solana On-Chain Radar",
+  "description": "GUST разрывает: +455.1% за 24ч. объём $1.47M больше капы в 6.2× — бумага в огне. ликвидность тонкая ($42.9K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.47M · Ликвидность: $42.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GUST (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HchM41tYxTJMFwMDaK4iFMVKASr7Uq13UPPxj5G6v3hC"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

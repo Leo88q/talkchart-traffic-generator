@@ -1,64 +1,64 @@
 {
- "generated_at": "2026-10-23T05:01:14+00:00",
+ "generated_at": "2026-10-23T13:33:17+00:00",
  "cards": [
   {
-   "file": "cards/2026-10-23/SHAVCOIN_+2417.png",
-   "symbol": "SHAVCOIN",
-   "chg_h24": 2417.738,
-   "address": "HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt.html",
-   "latest_file": "cards/latest/SHAVCOIN_+2417.png"
-  },
-  {
-   "file": "cards/2026-10-23/McRib_+853.png",
+   "file": "cards/2026-10-23/McRib_+1804.png",
    "symbol": "McRib",
-   "chg_h24": 853.619,
+   "chg_h24": 1804.726,
    "address": "6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7",
    "pool_url": "https://leo88q.github.io/content-/site/pools/6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7.html",
-   "latest_file": "cards/latest/McRib_+853.png"
+   "latest_file": "cards/latest/McRib_+1804.png"
   },
   {
-   "file": "cards/2026-10-23/BLACKTOBER_+796.png",
-   "symbol": "BLACKTOBER",
-   "chg_h24": 796.067,
-   "address": "C73M9QWLSAY16TKQEsEjSThBVXwMpbg94ijZRzYCxbiR",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/C73M9QWLSAY16TKQEsEjSThBVXwMpbg94ijZRzYCxbiR.html",
-   "latest_file": "cards/latest/BLACKTOBER_+796.png"
-  },
-  {
-   "file": "cards/2026-10-23/VIRTUAL_+573.png",
+   "file": "cards/2026-10-23/VIRTUAL_+774.png",
    "symbol": "VIRTUAL",
-   "chg_h24": 573.006,
+   "chg_h24": 774.158,
    "address": "MFsvPTXCy6eiT1qMpMGKJf6a8K8fdj7YKUFPKDeEXEX",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/MFsvPTXCy6eiT1qMpMGKJf6a8K8fdj7YKUFPKDeEXEX.html"
+   "pool_url": "https://leo88q.github.io/content-/site/pools/MFsvPTXCy6eiT1qMpMGKJf6a8K8fdj7YKUFPKDeEXEX.html",
+   "latest_file": "cards/latest/VIRTUAL_+774.png"
   },
   {
-   "file": "cards/2026-10-23/OA_-96.png",
-   "symbol": "OA",
-   "chg_h24": -96.375,
-   "address": "2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq.html"
+   "file": "cards/2026-10-23/ヤギ_+463.png",
+   "symbol": "ヤギ",
+   "chg_h24": 463.78,
+   "address": "FQ75g9yWEK5jhyjVX3vWyXQ8AXKYJFNXaM5dYDBfqYyb",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/FQ75g9yWEK5jhyjVX3vWyXQ8AXKYJFNXaM5dYDBfqYyb.html",
+   "latest_file": "cards/latest/ヤギ_+463.png"
   },
   {
-   "file": "cards/2026-10-23/KIMCHIBULL_-79.png",
-   "symbol": "KIMCHIBULL",
-   "chg_h24": -79.147,
-   "address": "Ds6CaQYBQL7GjDATf9CVH189S9ef1mz7dkTrSoV7RWEM",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/Ds6CaQYBQL7GjDATf9CVH189S9ef1mz7dkTrSoV7RWEM.html"
+   "file": "cards/2026-10-23/GUST_+455.png",
+   "symbol": "GUST",
+   "chg_h24": 455.069,
+   "address": "HchM41tYxTJMFwMDaK4iFMVKASr7Uq13UPPxj5G6v3hC",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/HchM41tYxTJMFwMDaK4iFMVKASr7Uq13UPPxj5G6v3hC.html"
   },
   {
-   "file": "cards/2026-10-23/PHP_-76.png",
+   "file": "cards/2026-10-23/BLACKTOBER_+145.png",
+   "symbol": "BLACKTOBER",
+   "chg_h24": 145.809,
+   "address": "C73M9QWLSAY16TKQEsEjSThBVXwMpbg94ijZRzYCxbiR",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/C73M9QWLSAY16TKQEsEjSThBVXwMpbg94ijZRzYCxbiR.html"
+  },
+  {
+   "file": "cards/2026-10-23/PHP_-68.png",
    "symbol": "PHP",
-   "chg_h24": -76.574,
+   "chg_h24": -68.448,
    "address": "YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw",
    "pool_url": "https://leo88q.github.io/content-/site/pools/YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw.html"
   },
   {
-   "file": "cards/2026-10-23/Au_-67.png",
+   "file": "cards/2026-10-23/Au_-60.png",
    "symbol": "Au",
-   "chg_h24": -67.724,
+   "chg_h24": -60.591,
    "address": "FNYUadkhuYaNvbr25VxRhT2s3n9S3TKcJ3NBvy7sqJWJ",
    "pool_url": "https://leo88q.github.io/content-/site/pools/FNYUadkhuYaNvbr25VxRhT2s3n9S3TKcJ3NBvy7sqJWJ.html"
+  },
+  {
+   "file": "cards/2026-10-23/Kimchi_-45.png",
+   "symbol": "Kimchi",
+   "chg_h24": -45.778,
+   "address": "6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH.html"
   }
  ]
 }

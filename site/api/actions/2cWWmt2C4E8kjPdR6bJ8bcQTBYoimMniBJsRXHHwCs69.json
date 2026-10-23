@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/scribes_+28.png",
+  "title": "TalkChart: scribes (+27.5%) — Solana On-Chain Radar",
+  "description": "scribes растёт на +27.5% за сутки. давление продаж нарастает. объём $972.0K больше капы в 18.6× — бумага в огне. ликвидность тонкая ($19.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $972.0K · Ликвидность: $19.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп scribes (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5UHeHyfB4fo7sy4hHN9gGBJvYSQdz7w6ienZoSTDpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=2cWWmt2C4E8kjPdR6bJ8bcQTBYoimMniBJsRXHHwCs69"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,17 +1,17 @@
 {
-  "slug": "shavcoin-vs-mcrib",
+  "slug": "mcrib-vs-virtual",
   "token1": {
-    "symbol": "SHAVCOIN",
-    "change_24h": 2417.738,
-    "address": "HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt",
-    "volume": 3653435.91374712
+    "symbol": "McRib",
+    "change_24h": 1804.726,
+    "address": "6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7",
+    "volume": 7052125.94845274
   },
   "token2": {
-    "symbol": "McRib",
-    "change_24h": 853.619,
-    "address": "6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7",
-    "volume": 6069071.4168652
+    "symbol": "VIRTUAL",
+    "change_24h": 774.158,
+    "address": "MFsvPTXCy6eiT1qMpMGKJf6a8K8fdj7YKUFPKDeEXEX",
+    "volume": 1185965.97548773
   },
-  "verdict": "По ончейн-метрикам TalkChart: SHAVCOIN опережает по ценовому импульсу (+2417.7% против +853.6%). Кроме того, у SHAVCOIN существенно глубже пул ликвидности ($175.7K против $65.6K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: SHAVCOIN.",
-  "updated_at": "2026-10-23 05:01 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: McRib опережает по ценовому импульсу (+1804.7% против +774.2%). Краткосрочный фаворит по совокупности факторов: McRib.",
+  "updated_at": "2026-10-23 13:33 UTC"
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ヤギ_+464.png",
+  "title": "TalkChart: ヤギ (+463.8%) — Solana On-Chain Radar",
+  "description": "ヤギ разрывает: +463.8% за 24ч. давление продаж нарастает. объём $3.48M больше капы в 2.5× — бумага в огне. ликвидность тонкая ($116.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $3.48M · Ликвидность: $116.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ヤギ (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-EU1MHvQvBoJ7DnLorurze1hwR2JWuyoKyAmkwymwpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FQ75g9yWEK5jhyjVX3vWyXQ8AXKYJFNXaM5dYDBfqYyb"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

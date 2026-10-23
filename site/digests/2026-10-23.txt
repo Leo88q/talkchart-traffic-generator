@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-23
-1. SHAVCOIN +2417.7% — SHAVCOIN разрывает: +2417.7% за 24ч. ликвидность тонкая ($175.7K) — движения будут резкими
-2. McRib +853.6% — McRib разрывает: +853.6% за 24ч. объём $6.07M больше капы в 14.6× — бумага в огне
-3. BLACKTOBER +796.1% — BLACKTOBER разрывает: +796.1% за 24ч. объём $3.28M больше капы в 8.4× — бумага в огне
-4. VIRTUAL +573.0% — VIRTUAL разрывает: +573.0% за 24ч. покупатели доминируют (64% сделок за час)
-5. OA -96.4% — OA в обвале: -96.4% за 24ч. давление продаж нарастает
+1. McRib +1804.7% — McRib разрывает: +1804.7% за 24ч. ускорение в последнем часе
+2. VIRTUAL +774.2% — VIRTUAL разрывает: +774.2% за 24ч. покупатели доминируют (64% сделок за час)
+3. ヤギ +463.8% — ヤギ разрывает: +463.8% за 24ч. давление продаж нарастает
+4. GUST +455.1% — GUST разрывает: +455.1% за 24ч. объём $1.47M больше капы в 6.2× — бумага в огне
+5. BLACKTOBER +145.8% — BLACKTOBER разрывает: +145.8% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
