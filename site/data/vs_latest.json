@@ -1,17 +1,17 @@
 {
-  "slug": "oa-vs-shavcoin",
+  "slug": "shavcoin-vs-mcrib",
   "token1": {
-    "symbol": "OA",
-    "change_24h": 6630.111,
-    "address": "2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq",
-    "volume": 7981620.1766205
+    "symbol": "SHAVCOIN",
+    "change_24h": 2417.738,
+    "address": "HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt",
+    "volume": 3653435.91374712
   },
   "token2": {
-    "symbol": "SHAVCOIN",
-    "change_24h": 2270.184,
-    "address": "HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt",
-    "volume": 3242866.18452545
+    "symbol": "McRib",
+    "change_24h": 853.619,
+    "address": "6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7",
+    "volume": 6069071.4168652
   },
-  "verdict": "По ончейн-метрикам TalkChart: OA опережает по ценовому импульсу (+6630.1% против +2270.2%). Кроме того, у OA существенно глубже пул ликвидности ($402.7K против $169.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: OA.",
-  "updated_at": "2026-10-22 23:29 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: SHAVCOIN опережает по ценовому импульсу (+2417.7% против +853.6%). Кроме того, у SHAVCOIN существенно глубже пул ликвидности ($175.7K против $65.6K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: SHAVCOIN.",
+  "updated_at": "2026-10-23 05:01 UTC"
 }

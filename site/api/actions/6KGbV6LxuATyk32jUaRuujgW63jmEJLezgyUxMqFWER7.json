@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/McRib_+854.png",
+  "title": "TalkChart: McRib (+853.6%) — Solana On-Chain Radar",
+  "description": "McRib разрывает: +853.6% за 24ч. объём $6.07M больше капы в 14.6× — бумага в огне. ликвидность тонкая ($65.6K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $6.07M · Ликвидность: $65.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп McRib (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8idEA8QovsZJka6d9Z35fejE5MbL37BJxvw5k5r6pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
