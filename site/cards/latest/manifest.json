@@ -1,64 +1,64 @@
 {
- "generated_at": "2026-10-23T23:13:17+00:00",
+ "generated_at": "2026-10-24T04:46:14+00:00",
  "cards": [
   {
-   "file": "cards/2026-10-23/ODIE_+1268.png",
+   "file": "cards/2026-10-24/ODIE_+579.png",
    "symbol": "ODIE",
-   "chg_h24": 1268.317,
+   "chg_h24": 579.798,
    "address": "DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs",
    "pool_url": "https://leo88q.github.io/content-/site/pools/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs.html",
-   "latest_file": "cards/latest/ODIE_+1268.png"
+   "latest_file": "cards/latest/ODIE_+579.png"
   },
   {
-   "file": "cards/2026-10-23/ARCTIS_+178.png",
+   "file": "cards/2026-10-24/BIRB_+181.png",
+   "symbol": "BIRB",
+   "chg_h24": 181.379,
+   "address": "GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1.html",
+   "latest_file": "cards/latest/BIRB_+181.png"
+  },
+  {
+   "file": "cards/2026-10-24/ARCTIS_+154.png",
    "symbol": "ARCTIS",
-   "chg_h24": 178.604,
+   "chg_h24": 154.042,
    "address": "5SpztG8hdXCG3YWx7hWjHGHF8CYGNRSWZ1smmfQQkAMX",
    "pool_url": "https://leo88q.github.io/content-/site/pools/5SpztG8hdXCG3YWx7hWjHGHF8CYGNRSWZ1smmfQQkAMX.html",
-   "latest_file": "cards/latest/ARCTIS_+178.png"
+   "latest_file": "cards/latest/ARCTIS_+154.png"
   },
   {
-   "file": "cards/2026-10-23/McRib_+175.png",
-   "symbol": "McRib",
-   "chg_h24": 175.271,
-   "address": "6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/6KGbV6LxuATyk32jUaRuujgW63jmEJLezgyUxMqFWER7.html",
-   "latest_file": "cards/latest/McRib_+175.png"
+   "file": "cards/2026-10-24/TRUTH_+116.png",
+   "symbol": "TRUTH",
+   "chg_h24": 116.96,
+   "address": "GUkDEvSyoJJ5yFHUYKuePjwTTAZYLBmWsHQ2fYaCMKYm",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/GUkDEvSyoJJ5yFHUYKuePjwTTAZYLBmWsHQ2fYaCMKYm.html"
   },
   {
-   "file": "cards/2026-10-23/mint_+108.png",
+   "file": "cards/2026-10-24/mint_-39.png",
    "symbol": "mint",
-   "chg_h24": 108.872,
+   "chg_h24": -39.745,
    "address": "HSXNa3Rc2np5qu17bcMm3A69567KyQFicjjRF569A8H3",
    "pool_url": "https://leo88q.github.io/content-/site/pools/HSXNa3Rc2np5qu17bcMm3A69567KyQFicjjRF569A8H3.html"
   },
   {
-   "file": "cards/2026-10-23/scribes_-66.png",
-   "symbol": "scribes",
-   "chg_h24": -66.09,
-   "address": "2cWWmt2C4E8kjPdR6bJ8bcQTBYoimMniBJsRXHHwCs69",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/2cWWmt2C4E8kjPdR6bJ8bcQTBYoimMniBJsRXHHwCs69.html"
+   "file": "cards/2026-10-24/DOPE_+36.png",
+   "symbol": "DOPE",
+   "chg_h24": 36.198,
+   "address": "6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ.html"
   },
   {
-   "file": "cards/2026-10-23/BIRB_+49.png",
-   "symbol": "BIRB",
-   "chg_h24": 49.062,
-   "address": "GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1.html"
+   "file": "cards/2026-10-24/Kimchi_-33.png",
+   "symbol": "Kimchi",
+   "chg_h24": -33.393,
+   "address": "6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH.html"
   },
   {
-   "file": "cards/2026-10-23/PHP_-45.png",
+   "file": "cards/2026-10-24/PHP_-32.png",
    "symbol": "PHP",
-   "chg_h24": -45.764,
+   "chg_h24": -32.2,
    "address": "YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw",
    "pool_url": "https://leo88q.github.io/content-/site/pools/YQ4NNeQxHAtdcB8ohx21eJ9U8eTzxNRvGNHkRaA4Pnw.html"
-  },
-  {
-   "file": "cards/2026-10-23/BLACKTOBER_+33.png",
-   "symbol": "BLACKTOBER",
-   "chg_h24": 33.718,
-   "address": "C73M9QWLSAY16TKQEsEjSThBVXwMpbg94ijZRzYCxbiR",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/C73M9QWLSAY16TKQEsEjSThBVXwMpbg94ijZRzYCxbiR.html"
   }
  ]
 }

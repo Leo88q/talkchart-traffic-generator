@@ -1,17 +1,17 @@
 {
-  "slug": "odie-vs-arctis",
+  "slug": "odie-vs-birb",
   "token1": {
     "symbol": "ODIE",
-    "change_24h": 1268.317,
+    "change_24h": 579.798,
     "address": "DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs",
-    "volume": 6808800.71201999
+    "volume": 8456520.37566784
   },
   "token2": {
-    "symbol": "ARCTIS",
-    "change_24h": 178.604,
-    "address": "5SpztG8hdXCG3YWx7hWjHGHF8CYGNRSWZ1smmfQQkAMX",
-    "volume": 383031.130258004
+    "symbol": "BIRB",
+    "change_24h": 181.379,
+    "address": "GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1",
+    "volume": 22601270.3826389
   },
-  "verdict": "По ончейн-метрикам TalkChart: ODIE опережает по ценовому импульсу (+1268.3% против +178.6%). Кроме того, у ODIE существенно глубже пул ликвидности ($109.8K против $27.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: ODIE.",
-  "updated_at": "2026-10-23 23:13 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: ODIE опережает по ценовому импульсу (+579.8% против +181.4%). Кроме того, у BIRB более надёжная ликвидность ($1.81M против $79.8K). Краткосрочный фаворит по совокупности факторов: BIRB.",
+  "updated_at": "2026-10-24 04:46 UTC"
 }

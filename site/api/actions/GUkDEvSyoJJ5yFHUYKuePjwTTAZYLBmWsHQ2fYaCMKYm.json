@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/TRUTH_+117.png",
+  "title": "TalkChart: TRUTH (+117.0%) — Solana On-Chain Radar",
+  "description": "TRUTH разрывает: +117.0% за 24ч. давление продаж нарастает. объём $6.78M больше капы в 73.9× — бумага в огне. ликвидность тонкая ($30.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $6.78M · Ликвидность: $30.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп TRUTH (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6bW6xsZxYqcvqabk9rRgQwgjPNwe8SACPusx5o1wpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GUkDEvSyoJJ5yFHUYKuePjwTTAZYLBmWsHQ2fYaCMKYm"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
