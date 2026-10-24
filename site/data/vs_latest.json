@@ -1,17 +1,17 @@
 {
-  "slug": "moustache-vs-trump",
+  "slug": "moustache-vs-remus",
   "token1": {
     "symbol": "Moustache",
-    "change_24h": 1604.81,
+    "change_24h": 458.113,
     "address": "FFXScKY624ixVSvoBp3iZRLHUqcTERNwCouvNFDhgFrX",
-    "volume": 4598036.28927341
+    "volume": 5061738.50469578
   },
   "token2": {
-    "symbol": "TRUMP",
-    "change_24h": 423.032,
-    "address": "7Yk7UAsViEvP5wkyfapAFS7KySmCnJtpvamxmCMKiavU",
-    "volume": 3437034.26361244
+    "symbol": "REMUS",
+    "change_24h": 333.156,
+    "address": "6JDiSPsWBwcSN8xBa4LNBzMZRikxksbxcto8J3ELR4cG",
+    "volume": 1959364.64097823
   },
-  "verdict": "По ончейн-метрикам TalkChart: Moustache опережает по ценовому импульсу (+1604.8% против +423.0%). Краткосрочный фаворит по совокупности факторов: Moustache.",
-  "updated_at": "2026-10-24 12:47 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Moustache опережает по ценовому импульсу (+458.1% против +333.2%). Краткосрочный фаворит по совокупности факторов: Moustache.",
+  "updated_at": "2026-10-24 18:52 UTC"
 }

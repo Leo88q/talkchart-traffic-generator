@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "BDFCdXTi8JfCkioHtytKCBfy2axEMmQoUV6j9BoLj2KJ",
+    "name": "COIL / SOL",
+    "base_symbol": "COIL",
+    "base_name": "COIL",
+    "base_address": "Bdmz1BAj5B2YbYVdMyZexWbjX33kfhNonHGDtQjipump",
+    "dex": "pumpswap",
+    "price_usd": 0.00010301319180939782,
+    "created_at": "2026-10-24T06:39:43Z",
+    "fdv_usd": 103013.1918,
+    "reserve_usd": 27459.5983,
+    "volume_h24": 1183616.04517071,
+    "change": {
+      "h1": -12.015,
+      "h6": 5.931,
+      "h24": 141.548
+    },
+    "tx_h1": {
+      "buys": 123,
+      "sells": 134
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 988.1,
+        "mult": 95.7,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "87o83VF4"
+      },
+      {
+        "kind": "sell",
+        "usd": 925.78,
+        "mult": 89.7,
+        "whale": false,
+        "hours_ago": 0.7,
+        "addr8": "9AyDiCnf"
+      },
+      {
+        "kind": "buy",
+        "usd": 908.64,
+        "mult": 88.0,
+        "whale": false,
+        "hours_ago": 0.9,
+        "addr8": "Cbx6h4Vg"
+      },
+      {
+        "kind": "buy",
+        "usd": 396.83,
+        "mult": 38.5,
+        "whale": false,
+        "hours_ago": 0.7,
+        "addr8": "87o83VF4"
+      },
+      {
+        "kind": "sell",
+        "usd": 389.46,
+        "mult": 37.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "EmVvVFuh"
+      }
+    ],
+    "first_seen": "2026-10-24T18:52:16+00:00",
+    "last_seen": "2026-10-24T18:52:16+00:00"
+  },
+  "narrative": "COIL разрывает: +141.5% за 24ч. объём $1.18M больше капы в 11.5× — бумага в огне. ликвидность тонкая ($27.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $988.10 (96× медианы, 1ч назад). нетто китов за сутки +$978.33.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $988.10 (96× медианы). Нетто-поток китов: +$978.33.",
+  "updated_at": "2026-10-24T18:52:17Z"
+}

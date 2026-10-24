@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-24T12:47:18+00:00",
+ "generated_at": "2026-10-24T18:52:33+00:00",
  "videos": [
   {
    "file": "videos/2026-10-24/Moustache.mp4",
    "latest_file": "videos/latest/Moustache.mp4",
    "symbol": "Moustache",
-   "chg_h24": 1604.81
+   "chg_h24": 458.113
   },
   {
-   "file": "videos/2026-10-24/TRUMP.mp4",
-   "latest_file": "videos/latest/TRUMP.mp4",
-   "symbol": "TRUMP",
-   "chg_h24": 423.032
+   "file": "videos/2026-10-24/REMUS.mp4",
+   "latest_file": "videos/latest/REMUS.mp4",
+   "symbol": "REMUS",
+   "chg_h24": 333.156
   },
   {
-   "file": "videos/2026-10-24/DacityCoin.mp4",
-   "latest_file": "videos/latest/DacityCoin.mp4",
-   "symbol": "DacityCoin",
-   "chg_h24": 284.31
+   "file": "videos/2026-10-24/swordcat.mp4",
+   "latest_file": "videos/latest/swordcat.mp4",
+   "symbol": "swordcat",
+   "chg_h24": 197.812
   }
  ]
 }
