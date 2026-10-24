@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-24T04:46:28+00:00",
+ "generated_at": "2026-10-24T12:47:18+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-24/ODIE.mp4",
-   "latest_file": "videos/latest/ODIE.mp4",
-   "symbol": "ODIE",
-   "chg_h24": 579.798
+   "file": "videos/2026-10-24/Moustache.mp4",
+   "latest_file": "videos/latest/Moustache.mp4",
+   "symbol": "Moustache",
+   "chg_h24": 1604.81
   },
   {
-   "file": "videos/2026-10-24/BIRB.mp4",
-   "latest_file": "videos/latest/BIRB.mp4",
-   "symbol": "BIRB",
-   "chg_h24": 181.379
+   "file": "videos/2026-10-24/TRUMP.mp4",
+   "latest_file": "videos/latest/TRUMP.mp4",
+   "symbol": "TRUMP",
+   "chg_h24": 423.032
   },
   {
-   "file": "videos/2026-10-24/ARCTIS.mp4",
-   "latest_file": "videos/latest/ARCTIS.mp4",
-   "symbol": "ARCTIS",
-   "chg_h24": 154.042
+   "file": "videos/2026-10-24/DacityCoin.mp4",
+   "latest_file": "videos/latest/DacityCoin.mp4",
+   "symbol": "DacityCoin",
+   "chg_h24": 284.31
   }
  ]
 }

@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-24
-1. ODIE +579.8% — ODIE разрывает: +579.8% за 24ч. давление продаж нарастает
-2. BIRB +181.4% — BIRB разрывает: +181.4% за 24ч.
-3. ARCTIS +154.0% — ARCTIS разрывает: +154.0% за 24ч. давление продаж нарастает
-4. TRUTH +117.0% — TRUTH разрывает: +117.0% за 24ч. давление продаж нарастает
-5. mint -39.7% — mint в обвале: -39.7% за 24ч. объём $967.2K больше капы в 4.0× — бумага в огне
+1. Moustache +1604.8% — Moustache разрывает: +1604.8% за 24ч. ускорение в последнем часе
+2. TRUMP +423.0% — TRUMP разрывает: +423.0% за 24ч. покупатели доминируют (69% сделок за час)
+3. DacityCoin +284.3% — DacityCoin разрывает: +284.3% за 24ч. ликвидность тонкая ($154.5K) — движения будут резкими
+4. YMB -59.5% — YMB в обвале: -59.5% за 24ч. давление продаж нарастает
+5. BIRB +58.8% — BIRB разрывает: +58.8% за 24ч. крупная сделка на фоне ленты: купил $894.60 (16× медианы, 0ч назад)
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/FFXScKY624ixVSvoBp3iZRLHUqcTERNwCouvNFDhgFrX.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

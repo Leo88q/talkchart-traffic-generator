@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PRIVACY_-40.png",
+  "title": "TalkChart: PRIVACY (-40.0%) — Solana On-Chain Radar",
+  "description": "PRIVACY в обвале: -40.0% за 24ч. давление продаж нарастает. объём $1.25M больше капы в 57.3× — бумага в огне. ликвидность тонкая ($11.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $911.34 (57× медианы, 1ч назад). нетто китов за сутки −$1.0K.\n\nОбъём: $1.25M · Ликвидность: $11.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PRIVACY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9daaq4QBFia2C9BcAEwMP2RfWqseDsTYudqM4Lfmpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=78TxeedEi2hCvcdd6Aqi2ZeMUscQ7MWnsXvUBUixJaTo"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

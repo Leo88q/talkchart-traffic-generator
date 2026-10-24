@@ -1,17 +1,17 @@
 {
-  "slug": "odie-vs-birb",
+  "slug": "moustache-vs-trump",
   "token1": {
-    "symbol": "ODIE",
-    "change_24h": 579.798,
-    "address": "DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs",
-    "volume": 8456520.37566784
+    "symbol": "Moustache",
+    "change_24h": 1604.81,
+    "address": "FFXScKY624ixVSvoBp3iZRLHUqcTERNwCouvNFDhgFrX",
+    "volume": 4598036.28927341
   },
   "token2": {
-    "symbol": "BIRB",
-    "change_24h": 181.379,
-    "address": "GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1",
-    "volume": 22601270.3826389
+    "symbol": "TRUMP",
+    "change_24h": 423.032,
+    "address": "7Yk7UAsViEvP5wkyfapAFS7KySmCnJtpvamxmCMKiavU",
+    "volume": 3437034.26361244
   },
-  "verdict": "По ончейн-метрикам TalkChart: ODIE опережает по ценовому импульсу (+579.8% против +181.4%). Кроме того, у BIRB более надёжная ликвидность ($1.81M против $79.8K). Краткосрочный фаворит по совокупности факторов: BIRB.",
-  "updated_at": "2026-10-24 04:46 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Moustache опережает по ценовому импульсу (+1604.8% против +423.0%). Краткосрочный фаворит по совокупности факторов: Moustache.",
+  "updated_at": "2026-10-24 12:47 UTC"
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/YMB_-59.png",
+  "title": "TalkChart: YMB (-59.5%) — Solana On-Chain Radar",
+  "description": "YMB в обвале: -59.5% за 24ч. давление продаж нарастает. объём $11.69M больше капы в 44.9× — бумага в огне. ликвидность тонкая ($55.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $11.69M · Ликвидность: $55.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп YMB (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2TKDNLwVTbhVVy7jCvSDz6ic4REAqQshZ9n9ZTxmpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BcbQfEr3NKp8tJfbCmveqSS1o87npjfSbxuuLDSHwpsU"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DacityCoin_+284.png",
+  "title": "TalkChart: DacityCoin (+284.3%) — Solana On-Chain Radar",
+  "description": "DacityCoin разрывает: +284.3% за 24ч. ликвидность тонкая ($154.5K) — движения будут резкими. пулу 9 дн., история короткая.\n\nОбъём: $1.51M · Ликвидность: $154.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DacityCoin (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7Te1wXcfeQjKLGHXFvxSCnGZTqunoZ9fxBn7KKjrkNEr"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

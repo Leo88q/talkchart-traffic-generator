@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/TRUMP_+423.png",
+  "title": "TalkChart: TRUMP (+423.0%) — Solana On-Chain Radar",
+  "description": "TRUMP разрывает: +423.0% за 24ч. покупатели доминируют (69% сделок за час). объём $3.44M больше капы в 5.0× — бумага в огне. ликвидность тонкая ($75.9K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $3.44M · Ликвидность: $75.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп TRUMP (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7Yk7UAsViEvP5wkyfapAFS7KySmCnJtpvamxmCMKiavU"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

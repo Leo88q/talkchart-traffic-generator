@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Moustache_+1605.png",
+  "title": "TalkChart: Moustache (+1604.8%) — Solana On-Chain Radar",
+  "description": "Moustache разрывает: +1604.8% за 24ч. ускорение в последнем часе. объём $4.60M больше капы в 6.5× — бумага в огне. ликвидность тонкая ($80.9K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $2.6K (266× медианы, 0ч назад). нетто китов за сутки +$3.7K.\n\nОбъём: $4.60M · Ликвидность: $80.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Moustache (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-J9WL4zQVCFvLTydjtHoMGcLasjhRMZomnVmp4Y2cpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FFXScKY624ixVSvoBp3iZRLHUqcTERNwCouvNFDhgFrX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
