@@ -1,17 +1,17 @@
 {
-  "slug": "moustache-vs-remus",
+  "slug": "remus-vs-coil",
   "token1": {
-    "symbol": "Moustache",
-    "change_24h": 458.113,
-    "address": "FFXScKY624ixVSvoBp3iZRLHUqcTERNwCouvNFDhgFrX",
-    "volume": 5061738.50469578
+    "symbol": "REMUS",
+    "change_24h": 474.985,
+    "address": "6JDiSPsWBwcSN8xBa4LNBzMZRikxksbxcto8J3ELR4cG",
+    "volume": 2194807.77083491
   },
   "token2": {
-    "symbol": "REMUS",
-    "change_24h": 333.156,
-    "address": "6JDiSPsWBwcSN8xBa4LNBzMZRikxksbxcto8J3ELR4cG",
-    "volume": 1959364.64097823
+    "symbol": "COIL",
+    "change_24h": 264.777,
+    "address": "BDFCdXTi8JfCkioHtytKCBfy2axEMmQoUV6j9BoLj2KJ",
+    "volume": 1687533.90612175
   },
-  "verdict": "По ончейн-метрикам TalkChart: Moustache опережает по ценовому импульсу (+458.1% против +333.2%). Краткосрочный фаворит по совокупности факторов: Moustache.",
-  "updated_at": "2026-10-24 18:52 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: REMUS опережает по ценовому импульсу (+475.0% против +264.8%). Кроме того, у REMUS существенно глубже пул ликвидности ($77.0K против $35.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: REMUS.",
+  "updated_at": "2026-10-24 22:50 UTC"
 }

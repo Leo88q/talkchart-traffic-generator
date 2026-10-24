@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "WvHNACjNgZ1oBx8FRqfjnNuTiytXRgiLJuNu1gW2j1k",
+    "name": "OpenSolana / SOL",
+    "base_symbol": "OpenSolana",
+    "base_name": "OpenSolana",
+    "base_address": "Cggjah6mVhhh6uwCbjGUfPLnapsBbzUL2aAZokHo3iYT",
+    "dex": "pumpswap",
+    "price_usd": 1.5596274821445655e-05,
+    "created_at": "2026-10-24T10:33:22Z",
+    "fdv_usd": 15596.27482,
+    "reserve_usd": 9817.7702,
+    "volume_h24": 1625129.94957579,
+    "change": {
+      "h1": -9.628,
+      "h6": -21.002,
+      "h24": -63.85
+    },
+    "tx_h1": {
+      "buys": 114,
+      "sells": 87
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 684.82,
+        "mult": 37.5,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "BZmxuXQ6"
+      },
+      {
+        "kind": "buy",
+        "usd": 593.99,
+        "mult": 32.5,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "BZmxuXQ6"
+      },
+      {
+        "kind": "buy",
+        "usd": 399.92,
+        "mult": 21.9,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "3YB6cdm7"
+      },
+      {
+        "kind": "buy",
+        "usd": 347.73,
+        "mult": 19.1,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "99aeEDd3"
+      },
+      {
+        "kind": "sell",
+        "usd": 321.16,
+        "mult": 17.6,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "BAVB4UaF"
+      }
+    ],
+    "first_seen": "2026-10-24T22:49:50+00:00",
+    "last_seen": "2026-10-24T22:49:50+00:00"
+  },
+  "narrative": "OpenSolana в обвале: -63.9% за 24ч. давление продаж нарастает. объём $1.63M больше капы в 104.2× — бумага в огне. ликвидность тонкая ($9.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $684.82 (38× медианы, 1ч назад). нетто китов за сутки +$335.66.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $684.82 (38× медианы). Нетто-поток китов: +$335.66.",
+  "updated_at": "2026-10-24T22:49:50Z"
+}

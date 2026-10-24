@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-24T18:52:33+00:00",
+ "generated_at": "2026-10-24T22:50:02+00:00",
  "videos": [
-  {
-   "file": "videos/2026-10-24/Moustache.mp4",
-   "latest_file": "videos/latest/Moustache.mp4",
-   "symbol": "Moustache",
-   "chg_h24": 458.113
-  },
   {
    "file": "videos/2026-10-24/REMUS.mp4",
    "latest_file": "videos/latest/REMUS.mp4",
    "symbol": "REMUS",
-   "chg_h24": 333.156
+   "chg_h24": 474.985
+  },
+  {
+   "file": "videos/2026-10-24/COIL.mp4",
+   "latest_file": "videos/latest/COIL.mp4",
+   "symbol": "COIL",
+   "chg_h24": 264.777
   },
   {
    "file": "videos/2026-10-24/swordcat.mp4",
    "latest_file": "videos/latest/swordcat.mp4",
    "symbol": "swordcat",
-   "chg_h24": 197.812
+   "chg_h24": 137.146
   }
  ]
 }

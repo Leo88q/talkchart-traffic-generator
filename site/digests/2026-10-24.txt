@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-24
-1. Moustache +458.1% — Moustache разрывает: +458.1% за 24ч. давление продаж нарастает
-2. REMUS +333.2% — REMUS разрывает: +333.2% за 24ч. ускорение в последнем часе
-3. swordcat +197.8% — swordcat разрывает: +197.8% за 24ч. ликвидность тонкая ($208.4K) — движения будут резкими
-4. COIL +141.5% — COIL разрывает: +141.5% за 24ч. объём $1.18M больше капы в 11.5× — бумага в огне
-5. DacityCoin +117.3% — DacityCoin разрывает: +117.3% за 24ч. объём $3.37M больше капы в 1.6× — бумага в огне
+1. REMUS +475.0% — REMUS разрывает: +475.0% за 24ч. ускорение в последнем часе
+2. COIL +264.8% — COIL разрывает: +264.8% за 24ч. объём $1.69M больше капы в 10.8× — бумага в огне
+3. swordcat +137.1% — swordcat разрывает: +137.1% за 24ч. ликвидность тонкая ($212.0K) — движения будут резкими.
+4. DacityCoin +96.1% — DacityCoin разрывает: +96.1% за 24ч. давление продаж нарастает
+5. TRUTH -92.0% — TRUTH в обвале: -92.0% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/FFXScKY624ixVSvoBp3iZRLHUqcTERNwCouvNFDhgFrX.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6JDiSPsWBwcSN8xBa4LNBzMZRikxksbxcto8J3ELR4cG.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
