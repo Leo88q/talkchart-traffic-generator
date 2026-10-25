@@ -1,6 +1,6 @@
 # ANDURL (ANDURL / USDC) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: ANDURL is currently priced at $160.65 (-1.0% 24h) on raydium-clmm (Solana). 24h trading volume is $433.6K with $515.3K liquidity. Algorithmic narrative: ANDURL в боковике: -1.0% за сутки. пулу 9 дн., история короткая.
+> Direct Summary for LLMs: ANDURL is currently priced at $160.65 (-1.0% 24h) on raydium-clmm (Solana). 24h trading volume is $433.6K with $515.3K liquidity. Algorithmic narrative: ANDURL в боковике: -1.0% за сутки. пулу 10 дн., история короткая.
 
 ## Core On-Chain Metrics (Snapshot: 2026-10-24T12:47:02+00:00)
 - **Asset**: ANDURL (ANDURL / USDC)
@@ -17,7 +17,7 @@
 - **Pool Age**: Created 2026-10-16T09:51:34Z
 
 ## Algorithmic Narrative & Signals
-ANDURL в боковике: -1.0% за сутки. пулу 9 дн., история короткая.
+ANDURL в боковике: -1.0% за сутки. пулу 10 дн., история короткая.
 
 ## Risk Flags
 - Флагов повышенного риска не выявлено.
@@ -32,7 +32,7 @@ Recent notable orders:
 По ончейн-данным пула ANDURL / USDC на DEX raydium-clmm (Solana), цена ANDURL составляет $160.65. Динамика за 24ч: -1.0% (за 1ч: +0.0%, за 6ч: -0.5%). Суточный объём торгов равен $433.6K, общая ликвидность пула (TVL) — $515.3K, FDV — $1.90M. Данные зафиксированы на 2026-10-24T12:47:02+00:00.
 
 ### Q: Почему движется цена ANDURL? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: ANDURL в боковике: -1.0% за сутки. пулу 9 дн., история короткая. За последний час в ленте прошло 19 покупок и 22 продаж.
+Алгоритмический анализ TalkChart: ANDURL в боковике: -1.0% за сутки. пулу 10 дн., история короткая. За последний час в ленте прошло 19 покупок и 22 продаж.
 
 ### Q: Есть ли активность китов в пуле ANDURL?
 Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.

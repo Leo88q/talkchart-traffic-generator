@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/STONK_+11.png",
+  "title": "TalkChart: STONK (+11.0%) — Solana On-Chain Radar",
+  "description": "STONK растёт на +11.0% за сутки. ликвидность тонкая ($118.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $4.71M · Ликвидность: $118.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп STONK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GezArkyjgqsjid7m9zg3jkxxFmnHuh8dDzmqUpbL7K59"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

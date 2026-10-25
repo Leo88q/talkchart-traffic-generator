@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/LAUNCH_+62.png",
+  "title": "TalkChart: LAUNCH (+62.2%) — Solana On-Chain Radar",
+  "description": "LAUNCH разрывает: +62.2% за 24ч. ликвидность тонкая ($69.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.01M · Ликвидность: $69.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп LAUNCH (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FZWxV7C4JKKe3wX54MM6QpcVAHtyGrtnPFmihysWfiDB"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
