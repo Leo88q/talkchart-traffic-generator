@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/VELK_-71.png",
+  "title": "TalkChart: VELK (-71.4%) — Solana On-Chain Radar",
+  "description": "VELK в обвале: -71.4% за 24ч. покупатели доминируют (62% сделок за час). объём $660.9K больше капы в 56.4× — бумага в огне. ликвидность тонкая ($7.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $591.53 (59× медианы, 4ч назад). нетто китов за сутки −$95.14.\n\nОбъём: $660.9K · Ликвидность: $7.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп VELK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-BzoYWZL3fXC5KkzkA6dEh9pBKcv9NAqwkTxJReNxpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=74UkPPdnQmnBou91H9FNCpRggTfdKvGoJD9N6SDCqX1f"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

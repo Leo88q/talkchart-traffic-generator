@@ -1,0 +1,67 @@
+{
+  "pool": {
+    "address": "74UkPPdnQmnBou91H9FNCpRggTfdKvGoJD9N6SDCqX1f",
+    "name": "VELK / SOL",
+    "base_symbol": "VELK",
+    "base_name": "VELK",
+    "base_address": "BzoYWZL3fXC5KkzkA6dEh9pBKcv9NAqwkTxJReNxpump",
+    "dex": "pumpswap",
+    "price_usd": 1.2964377387066792e-05,
+    "created_at": "2026-10-24T13:05:10Z",
+    "fdv_usd": 11726.52768,
+    "reserve_usd": 7837.1425,
+    "volume_h24": 660863.152967787,
+    "change": {
+      "h1": 6.631,
+      "h6": -9.989,
+      "h24": -71.424
+    },
+    "tx_h1": {
+      "buys": 41,
+      "sells": 25
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 591.53,
+        "mult": 58.8,
+        "whale": false,
+        "hours_ago": 3.6,
+        "addr8": "nAWy4pMB"
+      },
+      {
+        "kind": "buy",
+        "usd": 491.94,
+        "mult": 48.9,
+        "whale": false,
+        "hours_ago": 3.6,
+        "addr8": "nAWy4pMB"
+      },
+      {
+        "kind": "buy",
+        "usd": 487.97,
+        "mult": 48.5,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "4tESB2kx"
+      },
+      {
+        "kind": "sell",
+        "usd": 483.52,
+        "mult": 48.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "4tESB2kx"
+      }
+    ],
+    "first_seen": "2026-10-25T04:52:17+00:00",
+    "last_seen": "2026-10-25T04:52:17+00:00"
+  },
+  "narrative": "VELK в обвале: -71.4% за 24ч. покупатели доминируют (62% сделок за час). объём $660.9K больше капы в 56.4× — бумага в огне. ликвидность тонкая ($7.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $591.53 (59× медианы, 4ч назад). нетто китов за сутки −$95.14.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 4 (2 покупок, 2 продаж). Крупнейшая: продажа на $591.53 (59× медианы). Нетто-поток китов: $-95.14.",
+  "updated_at": "2026-10-25T04:52:17Z"
+}

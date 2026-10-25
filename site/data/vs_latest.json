@@ -1,17 +1,17 @@
 {
-  "slug": "remus-vs-coil",
+  "slug": "swordope-vs-███",
   "token1": {
-    "symbol": "REMUS",
-    "change_24h": 474.985,
-    "address": "6JDiSPsWBwcSN8xBa4LNBzMZRikxksbxcto8J3ELR4cG",
-    "volume": 2194807.77083491
+    "symbol": "SWORDOPE",
+    "change_24h": 622.069,
+    "address": "3tXP9X2W1aL9jtZF1tuAwEZMuX4w3PWNvVAHPJjd3MAq",
+    "volume": 4605428.58219968
   },
   "token2": {
-    "symbol": "COIL",
-    "change_24h": 264.777,
-    "address": "BDFCdXTi8JfCkioHtytKCBfy2axEMmQoUV6j9BoLj2KJ",
-    "volume": 1687533.90612175
+    "symbol": "███",
+    "change_24h": 200.2,
+    "address": "9sY4Amm2RFpsBQ1qgCQTxcjfvhmfJ9K4d2J5xfM1k75M",
+    "volume": 2088649.05024864
   },
-  "verdict": "По ончейн-метрикам TalkChart: REMUS опережает по ценовому импульсу (+475.0% против +264.8%). Кроме того, у REMUS существенно глубже пул ликвидности ($77.0K против $35.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: REMUS.",
-  "updated_at": "2026-10-24 22:50 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: SWORDOPE опережает по ценовому импульсу (+622.1% против +200.2%). Кроме того, у SWORDOPE существенно глубже пул ликвидности ($135.6K против $63.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: SWORDOPE.",
+  "updated_at": "2026-10-25 04:52 UTC"
 }

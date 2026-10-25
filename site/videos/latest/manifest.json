@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-24T22:50:02+00:00",
+ "generated_at": "2026-10-25T04:52:26+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-24/REMUS.mp4",
-   "latest_file": "videos/latest/REMUS.mp4",
-   "symbol": "REMUS",
-   "chg_h24": 474.985
+   "file": "videos/2026-10-25/SWORDOPE.mp4",
+   "latest_file": "videos/latest/SWORDOPE.mp4",
+   "symbol": "SWORDOPE",
+   "chg_h24": 622.069
   },
   {
-   "file": "videos/2026-10-24/COIL.mp4",
+   "file": "videos/2026-10-25/███.mp4",
+   "latest_file": "videos/latest/███.mp4",
+   "symbol": "███",
+   "chg_h24": 200.2
+  },
+  {
+   "file": "videos/2026-10-25/COIL.mp4",
    "latest_file": "videos/latest/COIL.mp4",
    "symbol": "COIL",
-   "chg_h24": 264.777
-  },
-  {
-   "file": "videos/2026-10-24/swordcat.mp4",
-   "latest_file": "videos/latest/swordcat.mp4",
-   "symbol": "swordcat",
-   "chg_h24": 137.146
+   "chg_h24": 188.329
   }
  ]
 }

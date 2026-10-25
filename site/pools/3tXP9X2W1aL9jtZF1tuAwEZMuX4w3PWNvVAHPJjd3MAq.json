@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "3tXP9X2W1aL9jtZF1tuAwEZMuX4w3PWNvVAHPJjd3MAq",
+    "name": "SWORDOPE / SOL",
+    "base_symbol": "SWORDOPE",
+    "base_name": "SWORDOPE",
+    "base_address": "3SVjZ7BfT9FxiR49nZc7UdBmLgzRLJY7XBZDKhEFpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0022878844709094386,
+    "created_at": "2026-10-24T19:44:26Z",
+    "fdv_usd": 2277233.26468242,
+    "reserve_usd": 135600.8223,
+    "volume_h24": 4605428.58219968,
+    "change": {
+      "h1": 25.19,
+      "h6": -5.164,
+      "h24": 622.069
+    },
+    "tx_h1": {
+      "buys": 6033,
+      "sells": 3518
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 622.24,
+        "mult": 328.8,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "BrqnSfzM"
+      },
+      {
+        "kind": "sell",
+        "usd": 436.69,
+        "mult": 230.8,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "Fj5ehSmJ"
+      },
+      {
+        "kind": "buy",
+        "usd": 425.17,
+        "mult": 224.7,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "B9QVEdo7"
+      },
+      {
+        "kind": "sell",
+        "usd": 379.82,
+        "mult": 200.7,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AeSFLpkP"
+      },
+      {
+        "kind": "sell",
+        "usd": 375.64,
+        "mult": 198.5,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "D2wfjhcu"
+      }
+    ],
+    "first_seen": "2026-10-25T04:52:17+00:00",
+    "last_seen": "2026-10-25T04:52:17+00:00"
+  },
+  "narrative": "SWORDOPE разрывает: +622.1% за 24ч. покупатели доминируют (63% сделок за час). объём $4.61M больше капы в 2.0× — бумага в огне. ликвидность тонкая ($135.6K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $622.24 (329× медианы, 0ч назад). нетто китов за сутки −$1.4K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $622.24 (329× медианы). Нетто-поток китов: $-1.4K.",
+  "updated_at": "2026-10-25T04:52:17Z"
+}

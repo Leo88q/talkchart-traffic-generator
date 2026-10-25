@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SWORDOPE_+622.png",
+  "title": "TalkChart: SWORDOPE (+622.1%) — Solana On-Chain Radar",
+  "description": "SWORDOPE разрывает: +622.1% за 24ч. покупатели доминируют (63% сделок за час). объём $4.61M больше капы в 2.0× — бумага в огне. ликвидность тонкая ($135.6K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $622.24 (329× медианы, 0ч назад). нетто китов за сутки −$1.4K.\n\nОбъём: $4.61M · Ликвидность: $135.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SWORDOPE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3SVjZ7BfT9FxiR49nZc7UdBmLgzRLJY7XBZDKhEFpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3tXP9X2W1aL9jtZF1tuAwEZMuX4w3PWNvVAHPJjd3MAq"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
