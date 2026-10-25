@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CATTLEAXE_+386.png",
+  "title": "TalkChart: CATTLEAXE (+386.1%) — Solana On-Chain Radar",
+  "description": "CATTLEAXE разрывает: +386.1% за 24ч. покупатели доминируют (63% сделок за час). объём $4.61M больше капы в 2.4× — бумага в огне. ликвидность тонкая ($130.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $4.61M · Ликвидность: $130.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CATTLEAXE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-H7VZNCBynDK5ikBS9krDJ2Tx8CUr1wxedV19ZgkWpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3p3uYa9AYzV7w2nHEJeo8ANkuuwhYUonQvhHS8LyrqJY"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-25T04:52:26+00:00",
+ "generated_at": "2026-10-25T13:16:19+00:00",
  "videos": [
-  {
-   "file": "videos/2026-10-25/SWORDOPE.mp4",
-   "latest_file": "videos/latest/SWORDOPE.mp4",
-   "symbol": "SWORDOPE",
-   "chg_h24": 622.069
-  },
   {
    "file": "videos/2026-10-25/███.mp4",
    "latest_file": "videos/latest/███.mp4",
    "symbol": "███",
-   "chg_h24": 200.2
+   "chg_h24": 922.003
   },
   {
-   "file": "videos/2026-10-25/COIL.mp4",
-   "latest_file": "videos/latest/COIL.mp4",
-   "symbol": "COIL",
-   "chg_h24": 188.329
+   "file": "videos/2026-10-25/BTC.mp4",
+   "latest_file": "videos/latest/BTC.mp4",
+   "symbol": "BTC",
+   "chg_h24": 483.906
+  },
+  {
+   "file": "videos/2026-10-25/CATTLEAXE.mp4",
+   "latest_file": "videos/latest/CATTLEAXE.mp4",
+   "symbol": "CATTLEAXE",
+   "chg_h24": 386.14
   }
  ]
 }

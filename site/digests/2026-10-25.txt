@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-25
-1. SWORDOPE +622.1% — SWORDOPE разрывает: +622.1% за 24ч. покупатели доминируют (63% сделок за час)
-2. ███ +200.2% — ███ разрывает: +200.2% за 24ч. покупатели доминируют (65% сделок за час)
-3. COIL +188.3% — COIL разрывает: +188.3% за 24ч. давление продаж нарастает
-4. REMUS +166.5% — REMUS разрывает: +166.5% за 24ч. объём $1.84M больше капы в 2.6× — бумага в огне
-5. OpenSolana -81.7% — OpenSolana в обвале: -81.7% за 24ч. давление продаж нарастает
+1. ███ +922.0% — ███ разрывает: +922.0% за 24ч. объём $2.22M больше капы в 2.7× — бумага в огне
+2. BTC +483.9% — BTC разрывает: +483.9% за 24ч. покупатели доминируют (65% сделок за час)
+3. CATTLEAXE +386.1% — CATTLEAXE разрывает: +386.1% за 24ч. покупатели доминируют (63% сделок за час)
+4. SWORDOPE +306.8% — SWORDOPE разрывает: +306.8% за 24ч. давление продаж нарастает
+5. swordcat +178.9% — swordcat разрывает: +178.9% за 24ч. ликвидность тонкая ($249.9K) — движения будут резкими
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/3tXP9X2W1aL9jtZF1tuAwEZMuX4w3PWNvVAHPJjd3MAq.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/9sY4Amm2RFpsBQ1qgCQTxcjfvhmfJ9K4d2J5xfM1k75M.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

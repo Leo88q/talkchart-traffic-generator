@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "3M9sVgL4u6ATKaiExf3XhQqNfMB6ijvzk3meMcQaen1w",
+    "name": "BTC / WBTC",
+    "base_symbol": "BTC",
+    "base_name": "BTC",
+    "base_address": "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump",
+    "dex": "pumpswap",
+    "price_usd": 0.016000192617690773,
+    "created_at": "2026-09-13T20:10:18Z",
+    "fdv_usd": 15999626.21,
+    "reserve_usd": 471397.7726,
+    "volume_h24": 4902014.16197454,
+    "change": {
+      "h1": -9.076,
+      "h6": 44.717,
+      "h24": 483.906
+    },
+    "tx_h1": {
+      "buys": 5235,
+      "sells": 2867
+    },
+    "first_seen": "2026-10-25T13:16:03+00:00",
+    "last_seen": "2026-10-25T13:16:03+00:00"
+  },
+  "narrative": "BTC разрывает: +483.9% за 24ч. покупатели доминируют (65% сделок за час). но цена всё равно падает — кто-то разгружается в стакан.",
+  "flags": [
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-25T13:16:03Z"
+}
