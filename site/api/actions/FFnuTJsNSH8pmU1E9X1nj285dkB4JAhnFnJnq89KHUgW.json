@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GME_-64.png",
+  "title": "TalkChart: GME (-63.6%) — Solana On-Chain Radar",
+  "description": "GME в обвале: -63.6% за 24ч. давление продаж нарастает. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $2.24M больше капы в 20.0× — бумага в огне. ликвидность тонкая ($30.3K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $2.24M · Ликвидность: $30.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GME (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9gexoGn8qnxT1XpncwNXJDwQci9cPGuNXG3uNfDkpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FFnuTJsNSH8pmU1E9X1nj285dkB4JAhnFnJnq89KHUgW"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/LMAO!_+35.png",
+  "title": "TalkChart: LMAO! (+35.2%) — Solana On-Chain Radar",
+  "description": "LMAO! разрывает: +35.2% за 24ч. покупатели доминируют (78% сделок за час).\n\nОбъём: $880.2K · Ликвидность: $296.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп LMAO! (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-H74CYmXgMkYHYuSRsZt6RJb4NYp2u72Vw8BS5huApump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AFaYrFH7hUYnkv5mbvbnRHwX29M9JzUL3ySGtQz69AUv"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

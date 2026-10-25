@@ -1,17 +1,17 @@
 {
-  "slug": "███-vs-btc",
+  "slug": "goon-vs-███",
   "token1": {
-    "symbol": "███",
-    "change_24h": 922.003,
-    "address": "9sY4Amm2RFpsBQ1qgCQTxcjfvhmfJ9K4d2J5xfM1k75M",
-    "volume": 2224057.00779181
+    "symbol": "goon",
+    "change_24h": 2635.295,
+    "address": "9PYormkWiWYAALGWkNNBjSEqKk79HPoRaLgQhMfY4fuv",
+    "volume": 532801.198367478
   },
   "token2": {
-    "symbol": "BTC",
-    "change_24h": 483.906,
-    "address": "3M9sVgL4u6ATKaiExf3XhQqNfMB6ijvzk3meMcQaen1w",
-    "volume": 4902014.16197454
+    "symbol": "███",
+    "change_24h": 578.784,
+    "address": "9sY4Amm2RFpsBQ1qgCQTxcjfvhmfJ9K4d2J5xfM1k75M",
+    "volume": 2617883.27623408
   },
-  "verdict": "По ончейн-метрикам TalkChart: ███ опережает по ценовому импульсу (+922.0% против +483.9%). Кроме того, у BTC более надёжная ликвидность ($471.4K против $87.0K). Краткосрочный фаворит по совокупности факторов: BTC.",
-  "updated_at": "2026-10-25 13:16 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: goon опережает по ценовому импульсу (+2635.3% против +578.8%). Кроме того, у goon существенно глубже пул ликвидности ($180.2K против $72.6K), что снижает риск проскальзывания. Кроме того, у ███ соотношение объёма к TVL 36.1× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: goon.",
+  "updated_at": "2026-10-25 19:08 UTC"
 }
