@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "J6EK9Fv4ksNh87VTU42wagCuHmPTuFErFfTjzG3jfE5M",
+    "name": "Bow / SOL",
+    "base_symbol": "Bow",
+    "base_name": "Bow",
+    "base_address": "5qDiSWLy5mXog6L5u1rZGwCerDN29X5tFtVBp8j5pump",
+    "dex": "pumpswap",
+    "price_usd": 6.634726251754944e-05,
+    "created_at": "2026-10-26T01:16:59Z",
+    "fdv_usd": 66690.2000182317,
+    "reserve_usd": 23415.2582,
+    "volume_h24": 2285682.23895863,
+    "change": {
+      "h1": -19.823,
+      "h6": -19.894,
+      "h24": 62.135
+    },
+    "tx_h1": {
+      "buys": 146,
+      "sells": 160
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 650.7,
+        "mult": 81.7,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "9PvGgG1N"
+      },
+      {
+        "kind": "sell",
+        "usd": 602.81,
+        "mult": 75.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "5f1AoBaq"
+      },
+      {
+        "kind": "sell",
+        "usd": 506.73,
+        "mult": 63.6,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "7hK3Dfhm"
+      },
+      {
+        "kind": "sell",
+        "usd": 502.51,
+        "mult": 63.1,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "uYJbu2hw"
+      },
+      {
+        "kind": "buy",
+        "usd": 435.21,
+        "mult": 54.6,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "CR7hZC3r"
+      }
+    ],
+    "first_seen": "2026-10-26T15:55:17+00:00",
+    "last_seen": "2026-10-26T15:55:17+00:00"
+  },
+  "narrative": "Bow разрывает: +62.1% за 24ч. давление продаж нарастает. объём $2.29M больше капы в 34.3× — бумага в огне. ликвидность тонкая ($23.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $650.70 (82× медианы, 0ч назад). нетто китов за сутки −$1.8K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $650.70 (82× медианы). Нетто-поток китов: $-1.8K.",
+  "updated_at": "2026-10-26T15:55:17Z"
+}

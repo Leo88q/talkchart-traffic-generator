@@ -1,17 +1,17 @@
 {
-  "slug": "goon-vs-pmup",
+  "slug": "raypad-vs-president",
   "token1": {
-    "symbol": "goon",
-    "change_24h": 2322.732,
-    "address": "9PYormkWiWYAALGWkNNBjSEqKk79HPoRaLgQhMfY4fuv",
-    "volume": 642381.611368033
+    "symbol": "RAYPAD",
+    "change_24h": 289.88,
+    "address": "7ftn7EhRcEodfTdgo8CgM9fxHjJqSFvYc3VUk8dN4fCv",
+    "volume": 2064693.00928039
   },
   "token2": {
-    "symbol": "PMUP",
-    "change_24h": 1738.224,
-    "address": "Ang7vjh7KoSScfbuE1ZWW6gAoXf7EcAZLPJzmMdcgwZj",
-    "volume": 2068236.70595925
+    "symbol": "PRESIDENT",
+    "change_24h": 136.541,
+    "address": "4a4VAe5qmggjqtu2TcWt5pJYq6dXi7H1a5FJxr2KaMhD",
+    "volume": 2652581.75996333
   },
-  "verdict": "По ончейн-метрикам TalkChart: goon опережает по ценовому импульсу (+2322.7% против +1738.2%). Кроме того, у goon существенно глубже пул ликвидности ($185.4K против $78.2K), что снижает риск проскальзывания. Кроме того, у PMUP соотношение объёма к TVL 26.4× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: goon.",
-  "updated_at": "2026-10-26 04:57 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: RAYPAD опережает по ценовому импульсу (+289.9% против +136.5%). Краткосрочный фаворит по совокупности факторов: RAYPAD.",
+  "updated_at": "2026-10-26 15:55 UTC"
 }

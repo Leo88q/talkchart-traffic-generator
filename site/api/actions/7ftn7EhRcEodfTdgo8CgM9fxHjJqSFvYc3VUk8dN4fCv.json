@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/RAYPAD_+290.png",
+  "title": "TalkChart: RAYPAD (+289.9%) — Solana On-Chain Radar",
+  "description": "RAYPAD разрывает: +289.9% за 24ч. давление продаж нарастает. объём $2.06M больше капы в 13.0× — бумага в огне. ликвидность тонкая ($39.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.2K (162× медианы, 0ч назад). нетто китов за сутки −$2.5K.\n\nОбъём: $2.06M · Ликвидность: $39.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп RAYPAD (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5YEk5atScd8cJexzGMmoLxLggyyVPf7AY6zpiV5mray"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7ftn7EhRcEodfTdgo8CgM9fxHjJqSFvYc3VUk8dN4fCv"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PRESIDENT_+137.png",
+  "title": "TalkChart: PRESIDENT (+136.5%) — Solana On-Chain Radar",
+  "description": "PRESIDENT разрывает: +136.5% за 24ч. давление продаж нарастает. объём $2.65M больше капы в 23.4× — бумага в огне. ликвидность тонкая ($30.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.0K (132× медианы, 0ч назад). нетто китов за сутки −$2.4K.\n\nОбъём: $2.65M · Ликвидность: $30.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PRESIDENT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3LPTanzycRAjguU6VAXE7T2Fd12LePQLpHATXXs9pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4a4VAe5qmggjqtu2TcWt5pJYq6dXi7H1a5FJxr2KaMhD"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

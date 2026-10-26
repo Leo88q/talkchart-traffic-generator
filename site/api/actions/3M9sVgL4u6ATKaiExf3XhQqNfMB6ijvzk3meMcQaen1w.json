@@ -1,7 +1,7 @@
 {
-  "icon": "https://leo88q.github.io/content-/site/cards/latest/BTC_+0.png",
-  "title": "TalkChart: BTC (+0.1%) — Solana On-Chain Radar",
-  "description": "BTC в боковике: +0.1% за сутки. покупатели доминируют (70% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. крупная сделка на фоне ленты: купил $656.13 (65× медианы, 0ч назад). нетто китов за сутки +$1.2K.\n\nОбъём: $6.51M · Ликвидность: $358.8K",
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BTC_-65.png",
+  "title": "TalkChart: BTC (-65.2%) — Solana On-Chain Radar",
+  "description": "BTC в обвале: -65.2% за 24ч. давление продаж нарастает. крупная сделка на фоне ленты: купил $816.41 (89× медианы, 0ч назад). нетто китов за сутки −$58.76.\n\nОбъём: $3.09M · Ликвидность: $309.4K",
   "label": "Своп через Jupiter",
   "links": {
     "actions": [
