@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-25T22:39:29+00:00",
+ "generated_at": "2026-10-26T04:57:28+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-25/goon.mp4",
+   "file": "videos/2026-10-26/goon.mp4",
    "latest_file": "videos/latest/goon.mp4",
    "symbol": "goon",
-   "chg_h24": 2299.142
+   "chg_h24": 2322.732
   },
   {
-   "file": "videos/2026-10-25/BTC.mp4",
-   "latest_file": "videos/latest/BTC.mp4",
-   "symbol": "BTC",
-   "chg_h24": 82.667
+   "file": "videos/2026-10-26/PMUP.mp4",
+   "latest_file": "videos/latest/PMUP.mp4",
+   "symbol": "PMUP",
+   "chg_h24": 1738.224
   },
   {
-   "file": "videos/2026-10-25/CATTLEAXE.mp4",
-   "latest_file": "videos/latest/CATTLEAXE.mp4",
-   "symbol": "CATTLEAXE",
-   "chg_h24": 68.912
+   "file": "videos/2026-10-26/Bunnett.mp4",
+   "latest_file": "videos/latest/Bunnett.mp4",
+   "symbol": "Bunnett",
+   "chg_h24": 97.774
   }
  ]
 }
