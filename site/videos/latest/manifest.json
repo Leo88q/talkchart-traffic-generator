@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-26T15:55:34+00:00",
+ "generated_at": "2026-10-26T21:06:16+00:00",
  "videos": [
   {
    "file": "videos/2026-10-26/RAYPAD.mp4",
    "latest_file": "videos/latest/RAYPAD.mp4",
    "symbol": "RAYPAD",
-   "chg_h24": 289.88
+   "chg_h24": 312.622
   },
   {
    "file": "videos/2026-10-26/PRESIDENT.mp4",
    "latest_file": "videos/latest/PRESIDENT.mp4",
    "symbol": "PRESIDENT",
-   "chg_h24": 136.541
+   "chg_h24": 164.189
   },
   {
-   "file": "videos/2026-10-26/LAUNCH.mp4",
-   "latest_file": "videos/latest/LAUNCH.mp4",
-   "symbol": "LAUNCH",
-   "chg_h24": 135.996
+   "file": "videos/2026-10-26/REMUS.mp4",
+   "latest_file": "videos/latest/REMUS.mp4",
+   "symbol": "REMUS",
+   "chg_h24": 133.238
   }
  ]
 }

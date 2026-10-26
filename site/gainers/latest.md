@@ -1,6 +1,6 @@
 # Solana Top Gainers (24h) — 2026-10-26
 
-> Automated on-chain leaderboard from TalkChart. Updated 2026-10-26 15:55 UTC.
+> Automated on-chain leaderboard from TalkChart. Updated 2026-10-26 21:06 UTC.
 
 | # | Symbol | 24h Change | 24h Volume | On-Chain Narrative |
 |---|--------|------------|------------|-------------------|

@@ -2,16 +2,16 @@
   "slug": "raypad-vs-president",
   "token1": {
     "symbol": "RAYPAD",
-    "change_24h": 289.88,
+    "change_24h": 312.622,
     "address": "7ftn7EhRcEodfTdgo8CgM9fxHjJqSFvYc3VUk8dN4fCv",
-    "volume": 2064693.00928039
+    "volume": 2210491.08200241
   },
   "token2": {
     "symbol": "PRESIDENT",
-    "change_24h": 136.541,
+    "change_24h": 164.189,
     "address": "4a4VAe5qmggjqtu2TcWt5pJYq6dXi7H1a5FJxr2KaMhD",
-    "volume": 2652581.75996333
+    "volume": 2772232.42164476
   },
-  "verdict": "По ончейн-метрикам TalkChart: RAYPAD опережает по ценовому импульсу (+289.9% против +136.5%). Краткосрочный фаворит по совокупности факторов: RAYPAD.",
-  "updated_at": "2026-10-26 15:55 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: RAYPAD опережает по ценовому импульсу (+312.6% против +164.2%). Краткосрочный фаворит по совокупности факторов: RAYPAD.",
+  "updated_at": "2026-10-26 21:06 UTC"
 }

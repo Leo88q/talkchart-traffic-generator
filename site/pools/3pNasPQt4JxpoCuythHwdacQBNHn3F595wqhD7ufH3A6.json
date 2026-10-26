@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "3pNasPQt4JxpoCuythHwdacQBNHn3F595wqhD7ufH3A6",
+    "name": "ANT / ANTHRP",
+    "base_symbol": "ANT",
+    "base_name": "ANT",
+    "base_address": "4Wdn6GGJLdyeMLLfzu3pPQMmf9Kivd8e9xmbLb2bpump",
+    "dex": "pumpswap",
+    "price_usd": 0.00011442286942318703,
+    "created_at": "2026-10-19T17:47:31Z",
+    "fdv_usd": 120264.609514055,
+    "reserve_usd": 32110.4817,
+    "volume_h24": 2560443.06974796,
+    "change": {
+      "h1": -10.428,
+      "h6": -78.437,
+      "h24": -51.89
+    },
+    "tx_h1": {
+      "buys": 122,
+      "sells": 110
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 3305.95,
+        "mult": 118.8,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "pwZpq97v"
+      },
+      {
+        "kind": "buy",
+        "usd": 2346.01,
+        "mult": 84.3,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "BSWzqnWr"
+      },
+      {
+        "kind": "sell",
+        "usd": 1524.92,
+        "mult": 54.8,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "EQZZs141"
+      },
+      {
+        "kind": "sell",
+        "usd": 1271.25,
+        "mult": 45.7,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "7rEy2cYa"
+      },
+      {
+        "kind": "buy",
+        "usd": 1120.5,
+        "mult": 40.3,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "He4es39p"
+      }
+    ],
+    "first_seen": "2026-10-26T21:06:04+00:00",
+    "last_seen": "2026-10-26T21:06:04+00:00"
+  },
+  "narrative": "ANT в обвале: -51.9% за 24ч. давление продаж нарастает. объём $2.56M больше капы в 21.3× — бумага в огне. ликвидность тонкая ($32.1K) — движения будут резкими. пулу 7 дн., история короткая. крупная сделка на фоне ленты: продал $3.3K (119× медианы, 0ч назад). нетто китов за сутки −$2.6K.",
+  "flags": [
+    "кит разгружает позицию",
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $3.3K (119× медианы). Нетто-поток китов: $-2.6K.",
+  "updated_at": "2026-10-26T21:06:04Z"
+}
