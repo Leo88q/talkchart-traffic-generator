@@ -1,64 +1,64 @@
 {
- "generated_at": "2026-10-27T15:14:53+00:00",
+ "generated_at": "2026-10-27T20:48:08+00:00",
  "cards": [
   {
-   "file": "cards/2026-10-27/CHICO_+4976.png",
+   "file": "cards/2026-10-27/CHICO_+4968.png",
    "symbol": "CHICO",
-   "chg_h24": 4976.267,
+   "chg_h24": 4968.71,
    "address": "EZtwXZFmNS9sJjGVyCH35i6e3oywSDJDEQL9cBzGFDap",
    "pool_url": "https://leo88q.github.io/content-/site/pools/EZtwXZFmNS9sJjGVyCH35i6e3oywSDJDEQL9cBzGFDap.html",
-   "latest_file": "cards/latest/CHICO_+4976.png"
+   "latest_file": "cards/latest/CHICO_+4968.png"
   },
   {
-   "file": "cards/2026-10-27/Nothing_+1823.png",
+   "file": "cards/2026-10-27/Frongus_+2185.png",
+   "symbol": "Frongus",
+   "chg_h24": 2185.815,
+   "address": "Deb7ybe2LHf242BxqWD4hBQXKgfAoLSWFWXpgeHeNseq",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/Deb7ybe2LHf242BxqWD4hBQXKgfAoLSWFWXpgeHeNseq.html",
+   "latest_file": "cards/latest/Frongus_+2185.png"
+  },
+  {
+   "file": "cards/2026-10-27/Nothing_+2038.png",
    "symbol": "Nothing",
-   "chg_h24": 1823.299,
+   "chg_h24": 2038.079,
    "address": "GfgxhqZmKF1V2MfS94LdmK8Ckgf7rhzPJdZztTJjZKHQ",
    "pool_url": "https://leo88q.github.io/content-/site/pools/GfgxhqZmKF1V2MfS94LdmK8Ckgf7rhzPJdZztTJjZKHQ.html",
-   "latest_file": "cards/latest/Nothing_+1823.png"
+   "latest_file": "cards/latest/Nothing_+2038.png"
   },
   {
-   "file": "cards/2026-10-27/ELON2028_+581.png",
-   "symbol": "ELON2028",
-   "chg_h24": 581.771,
-   "address": "FwKhszK9qZFGe3A4nKfynt4GJvu2xGsa4tTqQ8zNYBX2",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/FwKhszK9qZFGe3A4nKfynt4GJvu2xGsa4tTqQ8zNYBX2.html",
-   "latest_file": "cards/latest/ELON2028_+581.png"
+   "file": "cards/2026-10-27/MOGZ_+1129.png",
+   "symbol": "MOGZ",
+   "chg_h24": 1129.808,
+   "address": "7j13CapqLC4dGaGYFCxgL8t31R7B1Gt93uBh8EdoRp9H",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/7j13CapqLC4dGaGYFCxgL8t31R7B1Gt93uBh8EdoRp9H.html"
   },
   {
-   "file": "cards/2026-10-27/HACHI_+507.png",
+   "file": "cards/2026-10-27/DICTATOR_+289.png",
+   "symbol": "DICTATOR",
+   "chg_h24": 289.426,
+   "address": "GnicFd5WkN4uc3hiwHA77pMyYDkBNwaChjEiZqQqskNt",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/GnicFd5WkN4uc3hiwHA77pMyYDkBNwaChjEiZqQqskNt.html"
+  },
+  {
+   "file": "cards/2026-10-27/HACHI_+167.png",
    "symbol": "HACHI",
-   "chg_h24": 507.295,
+   "chg_h24": 167.065,
    "address": "4x8xcqMnmaexKWUg7Xa6a3fG3LFLVCCVSYxoS5fwHjoL",
    "pool_url": "https://leo88q.github.io/content-/site/pools/4x8xcqMnmaexKWUg7Xa6a3fG3LFLVCCVSYxoS5fwHjoL.html"
   },
   {
-   "file": "cards/2026-10-27/GINNAN_+367.png",
+   "file": "cards/2026-10-27/GINNAN_+127.png",
    "symbol": "GINNAN",
-   "chg_h24": 367.708,
+   "chg_h24": 127.658,
    "address": "AUPVtmxNccSq5LYSrLRXEjCfAtpfGvDyJfdZCwKyia3G",
    "pool_url": "https://leo88q.github.io/content-/site/pools/AUPVtmxNccSq5LYSrLRXEjCfAtpfGvDyJfdZCwKyia3G.html"
   },
   {
-   "file": "cards/2026-10-27/XD_+133.png",
-   "symbol": "XD",
-   "chg_h24": 133.88,
-   "address": "KMDZkLZzKVN1VbMxbnojRYezPK7jGpbndMTB5xfsRHm",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/KMDZkLZzKVN1VbMxbnojRYezPK7jGpbndMTB5xfsRHm.html"
-  },
-  {
-   "file": "cards/2026-10-27/███_+127.png",
-   "symbol": "███",
-   "chg_h24": 127.578,
-   "address": "9sY4Amm2RFpsBQ1qgCQTxcjfvhmfJ9K4d2J5xfM1k75M",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/9sY4Amm2RFpsBQ1qgCQTxcjfvhmfJ9K4d2J5xfM1k75M.html"
-  },
-  {
-   "file": "cards/2026-10-27/CATTLEAXE_-99.png",
-   "symbol": "CATTLEAXE",
-   "chg_h24": -99.322,
-   "address": "3p3uYa9AYzV7w2nHEJeo8ANkuuwhYUonQvhHS8LyrqJY",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/3p3uYa9AYzV7w2nHEJeo8ANkuuwhYUonQvhHS8LyrqJY.html"
+   "file": "cards/2026-10-27/ELON2028_+112.png",
+   "symbol": "ELON2028",
+   "chg_h24": 112.74,
+   "address": "FwKhszK9qZFGe3A4nKfynt4GJvu2xGsa4tTqQ8zNYBX2",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/FwKhszK9qZFGe3A4nKfynt4GJvu2xGsa4tTqQ8zNYBX2.html"
   }
  ]
 }

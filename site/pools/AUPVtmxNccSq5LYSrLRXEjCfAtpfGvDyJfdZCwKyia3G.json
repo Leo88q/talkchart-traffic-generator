@@ -6,70 +6,70 @@
     "base_name": "GINNAN",
     "base_address": "GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f",
     "dex": "raydium",
-    "price_usd": 6.094817504848873e-08,
+    "price_usd": 6.317578586619664e-08,
     "created_at": "2024-07-28T00:27:36Z",
-    "fdv_usd": 420317.491974711,
-    "reserve_usd": 126770.3082,
-    "volume_h24": 614967.428489835,
+    "fdv_usd": 435967.980010356,
+    "reserve_usd": 129155.5274,
+    "volume_h24": 240730.727049201,
     "change": {
-      "h1": -5.064,
-      "h6": 56.186,
-      "h24": 367.708
+      "h1": -3.181,
+      "h6": -3.786,
+      "h24": 127.658
     },
     "tx_h1": {
-      "buys": 46,
-      "sells": 53
+      "buys": 28,
+      "sells": 30
     },
     "whales": [
       {
-        "kind": "sell",
-        "usd": 1351.66,
-        "mult": 91.4,
+        "kind": "buy",
+        "usd": 1397.01,
+        "mult": 138.8,
         "whale": false,
-        "hours_ago": 1.4,
-        "addr8": "8xztgxTa"
+        "hours_ago": 1.9,
+        "addr8": "tAg2tgyH"
+      },
+      {
+        "kind": "sell",
+        "usd": 982.41,
+        "mult": 97.6,
+        "whale": false,
+        "hours_ago": 3.2,
+        "addr8": "EtcypjU3"
+      },
+      {
+        "kind": "sell",
+        "usd": 968.32,
+        "mult": 96.2,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "89ZYdWdE"
       },
       {
         "kind": "buy",
-        "usd": 1182.47,
-        "mult": 80.0,
+        "usd": 749.2,
+        "mult": 74.5,
         "whale": false,
-        "hours_ago": 0.5,
-        "addr8": "73nenEbG"
-      },
-      {
-        "kind": "sell",
-        "usd": 1125.65,
-        "mult": 76.1,
-        "whale": false,
-        "hours_ago": 1.3,
-        "addr8": "4iBbavcJ"
+        "hours_ago": 2.8,
+        "addr8": "tAg2tgyH"
       },
       {
         "kind": "buy",
-        "usd": 1103.88,
-        "mult": 74.7,
+        "usd": 748.4,
+        "mult": 74.4,
         "whale": false,
-        "hours_ago": 1.2,
-        "addr8": "dmuXAmcX"
-      },
-      {
-        "kind": "sell",
-        "usd": 1066.49,
-        "mult": 72.1,
-        "whale": false,
-        "hours_ago": 1.4,
-        "addr8": "DeWNDsKc"
+        "hours_ago": 1.9,
+        "addr8": "tAg2tgyH"
       }
     ],
     "first_seen": "2026-10-27T15:14:52+00:00",
-    "last_seen": "2026-10-27T15:14:52+00:00"
+    "last_seen": "2026-10-27T20:48:07+00:00"
   },
-  "narrative": "GINNAN разрывает: +367.7% за 24ч. ликвидность тонкая ($126.8K) — движения будут резкими. крупная сделка на фоне ленты: продал $1.4K (91× медианы, 1ч назад). нетто китов за сутки −$1.3K.",
+  "narrative": "GINNAN разрывает: +127.7% за 24ч. давление продаж нарастает. ликвидность тонкая ($129.2K) — движения будут резкими. крупная сделка на фоне ленты: купил $1.4K (139× медианы, 2ч назад). нетто китов за сутки +$943.88.",
   "flags": [
     "тонкая ликвидность",
     "перегрет за 24ч"
   ],
-  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $1.4K (91× медианы). Нетто-поток китов: $-1.3K.",
-  "updated_at": "2026-10-27T15:14:52Z"
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $1.4K (139× медианы). Нетто-поток китов: +$943.88.",
+  "updated_at": "2026-10-27T20:48:07Z"
 }

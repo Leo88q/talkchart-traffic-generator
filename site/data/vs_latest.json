@@ -1,17 +1,17 @@
 {
-  "slug": "chico-vs-nothing",
+  "slug": "chico-vs-frongus",
   "token1": {
     "symbol": "CHICO",
-    "change_24h": 4976.267,
+    "change_24h": 4968.71,
     "address": "EZtwXZFmNS9sJjGVyCH35i6e3oywSDJDEQL9cBzGFDap",
-    "volume": 3282373.32732253
+    "volume": 3727106.35605161
   },
   "token2": {
-    "symbol": "Nothing",
-    "change_24h": 1823.299,
-    "address": "GfgxhqZmKF1V2MfS94LdmK8Ckgf7rhzPJdZztTJjZKHQ",
-    "volume": 6341837.18403742
+    "symbol": "Frongus",
+    "change_24h": 2185.815,
+    "address": "Deb7ybe2LHf242BxqWD4hBQXKgfAoLSWFWXpgeHeNseq",
+    "volume": 6028030.33828997
   },
-  "verdict": "По ончейн-метрикам TalkChart: CHICO опережает по ценовому импульсу (+4976.3% против +1823.3%). Кроме того, у CHICO существенно глубже пул ликвидности ($220.4K против $91.5K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CHICO.",
-  "updated_at": "2026-10-27 15:15 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: CHICO опережает по ценовому импульсу (+4968.7% против +2185.8%). Кроме того, у CHICO существенно глубже пул ликвидности ($222.4K против $90.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CHICO.",
+  "updated_at": "2026-10-27 20:48 UTC"
 }

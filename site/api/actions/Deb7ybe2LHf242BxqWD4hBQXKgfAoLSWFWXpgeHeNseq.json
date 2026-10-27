@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Frongus_+2186.png",
+  "title": "TalkChart: Frongus (+2185.8%) — Solana On-Chain Radar",
+  "description": "Frongus разрывает: +2185.8% за 24ч. объём $6.03M больше капы в 7.0× — бумага в огне. ликвидность тонкая ($90.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $6.03M · Ликвидность: $90.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Frongus (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2BJDwUdMbnJhRRfhacFDjrDNhxUWdzE9H6LEND89pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Deb7ybe2LHf242BxqWD4hBQXKgfAoLSWFWXpgeHeNseq"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

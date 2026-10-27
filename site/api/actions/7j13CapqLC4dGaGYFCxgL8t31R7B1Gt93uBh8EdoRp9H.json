@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MOGZ_+1130.png",
+  "title": "TalkChart: MOGZ (+1129.8%) — Solana On-Chain Radar",
+  "description": "MOGZ разрывает: +1129.8% за 24ч. ускорение в последнем часе. объём $1.98M больше капы в 3.9× — бумага в огне. ликвидность тонкая ($60.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.9K (240× медианы, 0ч назад). нетто китов за сутки +$3.3K.\n\nОбъём: $1.98M · Ликвидность: $60.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MOGZ (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Pmfm2RprxQRKZH1XWVsBUc2KgCTyzeDTSFbT1vJmogz"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7j13CapqLC4dGaGYFCxgL8t31R7B1Gt93uBh8EdoRp9H"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
