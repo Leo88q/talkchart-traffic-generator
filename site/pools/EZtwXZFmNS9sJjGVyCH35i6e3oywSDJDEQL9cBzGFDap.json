@@ -1,0 +1,34 @@
+{
+  "pool": {
+    "address": "EZtwXZFmNS9sJjGVyCH35i6e3oywSDJDEQL9cBzGFDap",
+    "name": "CHICO / SOL",
+    "base_symbol": "CHICO",
+    "base_name": "CHICO",
+    "base_address": "9v4airX4Vt45ADFg3QQG9pXX68LkX9Big4GiYEuJpump",
+    "dex": "pumpswap",
+    "price_usd": 0.006400436034779665,
+    "created_at": "2026-10-26T23:51:55Z",
+    "fdv_usd": 6323219.50922592,
+    "reserve_usd": 220362.466,
+    "volume_h24": 3282373.32732253,
+    "change": {
+      "h1": -6.439,
+      "h6": 4.283,
+      "h24": 4976.267
+    },
+    "tx_h1": {
+      "buys": 636,
+      "sells": 473
+    },
+    "first_seen": "2026-10-27T15:14:52+00:00",
+    "last_seen": "2026-10-27T15:14:52+00:00"
+  },
+  "narrative": "CHICO разрывает: +4976.3% за 24ч. ликвидность тонкая ($220.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-10-27T15:14:52Z"
+}

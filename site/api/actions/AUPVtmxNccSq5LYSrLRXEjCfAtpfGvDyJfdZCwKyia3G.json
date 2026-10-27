@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GINNAN_+368.png",
+  "title": "TalkChart: GINNAN (+367.7%) — Solana On-Chain Radar",
+  "description": "GINNAN разрывает: +367.7% за 24ч. ликвидность тонкая ($126.8K) — движения будут резкими. крупная сделка на фоне ленты: продал $1.4K (91× медианы, 1ч назад). нетто китов за сутки −$1.3K.\n\nОбъём: $615.0K · Ликвидность: $126.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GINNAN (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-GinNabffZL4fUj9Vactxha74GDAW8kDPGaHqMtMzps2f"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AUPVtmxNccSq5LYSrLRXEjCfAtpfGvDyJfdZCwKyia3G"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

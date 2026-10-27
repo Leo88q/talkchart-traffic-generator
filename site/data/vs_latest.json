@@ -1,17 +1,17 @@
 {
-  "slug": "nothing-vs-███",
+  "slug": "chico-vs-nothing",
   "token1": {
-    "symbol": "Nothing",
-    "change_24h": 850.463,
-    "address": "GfgxhqZmKF1V2MfS94LdmK8Ckgf7rhzPJdZztTJjZKHQ",
-    "volume": 4409997.15496899
+    "symbol": "CHICO",
+    "change_24h": 4976.267,
+    "address": "EZtwXZFmNS9sJjGVyCH35i6e3oywSDJDEQL9cBzGFDap",
+    "volume": 3282373.32732253
   },
   "token2": {
-    "symbol": "███",
-    "change_24h": 106.64,
-    "address": "9sY4Amm2RFpsBQ1qgCQTxcjfvhmfJ9K4d2J5xfM1k75M",
-    "volume": 1762146.76874553
+    "symbol": "Nothing",
+    "change_24h": 1823.299,
+    "address": "GfgxhqZmKF1V2MfS94LdmK8Ckgf7rhzPJdZztTJjZKHQ",
+    "volume": 6341837.18403742
   },
-  "verdict": "По ончейн-метрикам TalkChart: Nothing опережает по ценовому импульсу (+850.5% против +106.6%). Краткосрочный фаворит по совокупности факторов: Nothing.",
-  "updated_at": "2026-10-27 05:15 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: CHICO опережает по ценовому импульсу (+4976.3% против +1823.3%). Кроме того, у CHICO существенно глубже пул ликвидности ($220.4K против $91.5K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CHICO.",
+  "updated_at": "2026-10-27 15:15 UTC"
 }

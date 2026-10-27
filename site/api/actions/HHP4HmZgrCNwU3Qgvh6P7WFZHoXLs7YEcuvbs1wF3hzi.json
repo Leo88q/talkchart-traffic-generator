@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/wiener_+65.png",
+  "title": "TalkChart: wiener (+64.8%) — Solana On-Chain Radar",
+  "description": "wiener разрывает: +64.8% за 24ч. давление продаж нарастает. покупатели доминируют (78% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $1.59M больше капы в 23.9× — бумага в огне. ликвидность тонкая ($21.9K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.59M · Ликвидность: $21.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп wiener (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-EKZGtEsT2VbXH6car15x2zMHyeiYkB28DvMnBZqRpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HHP4HmZgrCNwU3Qgvh6P7WFZHoXLs7YEcuvbs1wF3hzi"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
