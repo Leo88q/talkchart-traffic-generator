@@ -1,17 +1,17 @@
 {
-  "slug": "raypad-vs-president",
+  "slug": "nothing-vs-███",
   "token1": {
-    "symbol": "RAYPAD",
-    "change_24h": 312.622,
-    "address": "7ftn7EhRcEodfTdgo8CgM9fxHjJqSFvYc3VUk8dN4fCv",
-    "volume": 2210491.08200241
+    "symbol": "Nothing",
+    "change_24h": 850.463,
+    "address": "GfgxhqZmKF1V2MfS94LdmK8Ckgf7rhzPJdZztTJjZKHQ",
+    "volume": 4409997.15496899
   },
   "token2": {
-    "symbol": "PRESIDENT",
-    "change_24h": 164.189,
-    "address": "4a4VAe5qmggjqtu2TcWt5pJYq6dXi7H1a5FJxr2KaMhD",
-    "volume": 2772232.42164476
+    "symbol": "███",
+    "change_24h": 106.64,
+    "address": "9sY4Amm2RFpsBQ1qgCQTxcjfvhmfJ9K4d2J5xfM1k75M",
+    "volume": 1762146.76874553
   },
-  "verdict": "По ончейн-метрикам TalkChart: RAYPAD опережает по ценовому импульсу (+312.6% против +164.2%). Краткосрочный фаворит по совокупности факторов: RAYPAD.",
-  "updated_at": "2026-10-26 21:06 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Nothing опережает по ценовому импульсу (+850.5% против +106.6%). Краткосрочный фаворит по совокупности факторов: Nothing.",
+  "updated_at": "2026-10-27 05:15 UTC"
 }

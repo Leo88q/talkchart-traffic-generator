@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-26T21:06:16+00:00",
+ "generated_at": "2026-10-27T05:15:17+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-26/RAYPAD.mp4",
-   "latest_file": "videos/latest/RAYPAD.mp4",
-   "symbol": "RAYPAD",
-   "chg_h24": 312.622
+   "file": "videos/2026-10-27/Nothing.mp4",
+   "latest_file": "videos/latest/Nothing.mp4",
+   "symbol": "Nothing",
+   "chg_h24": 850.463
   },
   {
-   "file": "videos/2026-10-26/PRESIDENT.mp4",
-   "latest_file": "videos/latest/PRESIDENT.mp4",
-   "symbol": "PRESIDENT",
-   "chg_h24": 164.189
+   "file": "videos/2026-10-27/███.mp4",
+   "latest_file": "videos/latest/███.mp4",
+   "symbol": "███",
+   "chg_h24": 106.64
   },
   {
-   "file": "videos/2026-10-26/REMUS.mp4",
-   "latest_file": "videos/latest/REMUS.mp4",
-   "symbol": "REMUS",
-   "chg_h24": 133.238
+   "file": "videos/2026-10-27/CATTLEAXE.mp4",
+   "latest_file": "videos/latest/CATTLEAXE.mp4",
+   "symbol": "CATTLEAXE",
+   "chg_h24": -99.658
   }
  ]
 }
