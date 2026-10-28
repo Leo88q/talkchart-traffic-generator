@@ -1,17 +1,17 @@
 {
-  "icon": "https://leo88q.github.io/content-/site/cards/latest/JOB_+4803.png",
-  "title": "TalkChart: JOB (+4802.6%) — Solana On-Chain Radar",
-  "description": "JOB разрывает: +4802.6% за 24ч. ликвидность тонкая ($135.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $5.0K (217× медианы, 0ч назад). нетто китов за сутки −$3.9K.\n\nОбъём: $926.9K · Ликвидность: $135.0K",
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SHAVCOIN_+2418.png",
+  "title": "TalkChart: SHAVCOIN (+2417.7%) — Solana On-Chain Radar",
+  "description": "SHAVCOIN разрывает: +2417.7% за 24ч. ликвидность тонкая ($175.7K) — движения будут резкими. пулу 6 дн., история короткая. крупная сделка на фоне ленты: продал $1.8K (140× медианы, 0ч назад). нетто китов за сутки −$1.7K.\n\nОбъём: $3.65M · Ликвидность: $175.7K",
   "label": "Своп через Jupiter",
   "links": {
     "actions": [
       {
-        "label": "⚡ Своп JOB (Jupiter)",
-        "href": "https://jup.ag/swap/SOL-9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
+        "label": "⚡ Своп SHAVCOIN (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Baw61KXAJk4MMnNJPBa87S8F77oNhMy7gQ63S8SLpump"
       },
       {
         "label": "📈 Живой график + киты",
-        "href": "https://leo88q.github.io/content-/site/index.html#pool=HAUVBmNthCFmG9SRXMvZ1GAXNpU955hkPdSAsC2cx4C8"
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt"
       },
       {
         "label": "🎁 TipLink: вход без сид-фраз",

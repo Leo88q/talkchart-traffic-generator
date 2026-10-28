@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GTA6_+23.png",
+  "title": "TalkChart: GTA6 (+22.8%) — Solana On-Chain Radar",
+  "description": "GTA6 растёт на +22.8% за сутки.\n\nОбъём: $2.96M · Ликвидность: $442.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GTA6 (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=xg71xrhn7MEj5akrZGteuYeiTLbBzyNCpBn69bRYd5a"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
