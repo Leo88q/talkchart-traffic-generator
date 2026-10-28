@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/INVERSE_+945.png",
+  "title": "TalkChart: INVERSE (+945.4%) — Solana On-Chain Radar",
+  "description": "INVERSE разрывает: +945.4% за 24ч. объём $3.00M больше капы в 6.4× — бумага в огне. ликвидность тонкая ($63.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $814.66 (59× медианы, 0ч назад). нетто китов за сутки −$650.83.\n\nОбъём: $3.00M · Ликвидность: $63.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп INVERSE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Rwq7WrFAzyBtDzGBxYKEHAtHfhAedW6vYqghPT1xBau"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
