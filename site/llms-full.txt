@@ -12,17 +12,17 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-10-27T20:48:07Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-10-28T05:52:15Z)
 - [ORCA](https://leo88q.github.io/content-/site/pools/Hxw77h9fEx598afiiZunwHaX3vYu9UskDk9EpPNZp1mG.md): ORCA / SOL on orca — -9.2% 24h, Vol $25.14M, Liq $1.56M
 - [W](https://leo88q.github.io/content-/site/pools/CwHuXNNkj5inuj2ZXaU1DtjA5Nxfoiy4nNoc1PQQJxTR.md): W / SOL on orca — -12.8% 24h, Vol $11.73M, Liq $151.6K
 - [BIRB](https://leo88q.github.io/content-/site/pools/GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1.md): BIRB / USDC on raydium-clmm — -41.4% 24h, Vol $10.98M, Liq $1.43M
 - [BANDIT](https://leo88q.github.io/content-/site/pools/6L2q7ZrUQCzUBm7RHV2w336ZCVVrVGqA6z5oNmQmUidP.md): BANDIT / SOL on pumpswap — +346.1% 24h, Vol $10.63M, Liq $52.2K
 - [SPLICE](https://leo88q.github.io/content-/site/pools/61Xw4Vm2AHZiQ2bQPtHZynuHoDzpJ2TKnYNjHN4Sjpmm.md): SPLICE / SOL on pumpswap — +2099.7% 24h, Vol $9.11M, Liq $105.0K
+- [Frongus](https://leo88q.github.io/content-/site/pools/Deb7ybe2LHf242BxqWD4hBQXKgfAoLSWFWXpgeHeNseq.md): Frongus / SOL on pumpswap — +434.0% 24h, Vol $8.59M, Liq $45.0K
 - [ODIE](https://leo88q.github.io/content-/site/pools/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs.md): ODIE / SOL on pumpswap — +579.8% 24h, Vol $8.46M, Liq $79.8K
 - [SPEC](https://leo88q.github.io/content-/site/pools/BKH29Cr5mZf8eahp7vD28jaBqU9HavY9v6SAbphbSA2D.md): SPEC / SOL on meteora-damm-v2 — -16.4% 24h, Vol $8.44M, Liq $100.6K
 - [ZEREBRO](https://leo88q.github.io/content-/site/pools/3sjNoCnkkhWPVXYGDtem8rCciHSGc9jSFZuUAzKbvRVp.md): ZEREBRO / SOL on raydium — -14.6% 24h, Vol $8.19M, Liq $3.23M
 - [OA](https://leo88q.github.io/content-/site/pools/2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq.md): OA / SOL on pumpswap — -96.4% 24h, Vol $7.70M, Liq $48.3K
-- [Saw](https://leo88q.github.io/content-/site/pools/ATrJhrc46UkY4gTmJry2SUZvtaLJX3LydBufPnkWHTC3.md): Saw / SOL on pumpswap — +56.2% 24h, Vol $7.38M, Liq $30.2K
 
 ## Data Interpretation Rules for AI Agents
 1. All USD values are normalized from DEX swap amounts.
@@ -283,9 +283,63 @@ Recent notable orders:
 
 ---
 
+# Frongus (Frongus / SOL) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: Frongus is currently priced at $0.000202 (+434.0% 24h) on pumpswap (Solana). 24h trading volume is $8.59M with $45.0K liquidity. Algorithmic narrative: Frongus разрывает: +434.0% за 24ч. объём $8.59M больше капы в 42.5× — бумага в огне. ликвидность тонкая ($45.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $758.83 (122× медианы, 0ч назад). нетто китов за сутки −$254.40.
+
+## Core On-Chain Metrics (Snapshot: 2026-10-28T05:52:15+00:00)
+- **Asset**: Frongus (Frongus / SOL)
+- **Network**: Solana
+- **DEX**: pumpswap
+- **Pool Address**: `Deb7ybe2LHf242BxqWD4hBQXKgfAoLSWFWXpgeHeNseq`
+- **Token Mint**: `2BJDwUdMbnJhRRfhacFDjrDNhxUWdzE9H6LEND89pump`
+- **Price USD**: $0.000202
+- **Change 1h / 6h / 24h**: +5.1% / -29.4% / +434.0%
+- **24h Volume**: $8.59M
+- **Liquidity (TVL)**: $45.0K
+- **FDV**: $201.8K
+- **Hourly Trades**: 493 buys / 428 sells
+- **Pool Age**: Created 2026-10-27T18:34:39Z
+
+## Algorithmic Narrative & Signals
+Frongus разрывает: +434.0% за 24ч. объём $8.59M больше капы в 42.5× — бумага в огне. ликвидность тонкая ($45.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $758.83 (122× медианы, 0ч назад). нетто китов за сутки −$254.40.
+
+## Risk Flags
+- ⚠️ тонкая ликвидность
+- ⚠️ молодой пул
+- ⚠️ перегрет за 24ч
+
+## Whale Activity (Relative Tape Filter)
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $758.83 (122× медианы). Нетто-поток китов: $-254.40.
+Recent notable orders:
+  - BUY $759 (122× медианы ленты, 0.2ч назад) кошелёк `DnskuWFX`
+  - BUY $738 (119× медианы ленты, 0.2ч назад) кошелёк `46t1mbkZ`
+  - SELL $679 (110× медианы ленты, 0.4ч назад) кошелёк `4ESzFZUW`
+  - SELL $611 (99× медианы ленты, 0.1ч назад) кошелёк `2MxsByU3`
+  - SELL $461 (74× медианы ленты, 0.3ч назад) кошелёк `HNfadZyU`
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов Frongus?
+По ончейн-данным пула Frongus / SOL на DEX pumpswap (Solana), цена Frongus составляет $0.000202. Динамика за 24ч: +434.0% (за 1ч: +5.1%, за 6ч: -29.4%). Суточный объём торгов равен $8.59M, общая ликвидность пула (TVL) — $45.0K, FDV — $201.8K. Данные зафиксированы на 2026-10-28T05:52:15+00:00.
+
+### Q: Почему движется цена Frongus? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: Frongus разрывает: +434.0% за 24ч. объём $8.59M больше капы в 42.5× — бумага в огне. ликвидность тонкая ($45.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $758.83 (122× медианы, 0ч назад). нетто китов за сутки −$254.40. За последний час в ленте прошло 493 покупок и 428 продаж.
+
+### Q: Есть ли активность китов в пуле Frongus?
+Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $758.83 (122× медианы). Нетто-поток китов: $-254.40.
+
+### Q: Безопасен ли пул Frongus и какие ончейн-риски?
+Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-27T18:34:39Z. При объёме $8.59M и ликвидности $45.0K возможны резкие колебания курса и проскальзывание (slippage).
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/Deb7ybe2LHf242BxqWD4hBQXKgfAoLSWFWXpgeHeNseq.html) — Free public feed for traders and AI agents.*
+
+
+---
+
 # ODIE (ODIE / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: ODIE is currently priced at $0.000645 (+579.8% 24h) on pumpswap (Solana). 24h trading volume is $8.46M with $79.8K liquidity. Algorithmic narrative: ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 4 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91.
+> Direct Summary for LLMs: ODIE is currently priced at $0.000645 (+579.8% 24h) on pumpswap (Solana). 24h trading volume is $8.46M with $79.8K liquidity. Algorithmic narrative: ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 5 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91.
 
 ## Core On-Chain Metrics (Snapshot: 2026-10-24T04:46:13+00:00)
 - **Asset**: ODIE (ODIE / SOL)
@@ -302,7 +356,7 @@ Recent notable orders:
 - **Pool Age**: Created 2026-10-23T13:00:40Z
 
 ## Algorithmic Narrative & Signals
-ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 4 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91.
+ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 5 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -323,7 +377,7 @@ Recent notable orders:
 По ончейн-данным пула ODIE / SOL на DEX pumpswap (Solana), цена ODIE составляет $0.000645. Динамика за 24ч: +579.8% (за 1ч: -50.9%, за 6ч: -62.9%). Суточный объём торгов равен $8.46M, общая ликвидность пула (TVL) — $79.8K, FDV — $642.1K. Данные зафиксированы на 2026-10-24T04:46:13+00:00.
 
 ### Q: Почему движется цена ODIE? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 4 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91. За последний час в ленте прошло 8154 покупок и 4519 продаж.
+Алгоритмический анализ TalkChart: ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 5 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91. За последний час в ленте прошло 8154 покупок и 4519 продаж.
 
 ### Q: Есть ли активность китов в пуле ODIE?
 Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $934.55 (1603× медианы). Нетто-поток китов: $-116.91.
@@ -543,60 +597,6 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/ATrJhrc46UkY4gTmJry2SUZvtaLJX3LydBufPnkWHTC3.html) — Free public feed for traders and AI agents.*
-
-
----
-
-# Nothing (Nothing / SOL) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: Nothing is currently priced at $0.000941 (+2038.1% 24h) on pumpswap (Solana). 24h trading volume is $7.17M with $100.3K liquidity. Algorithmic narrative: Nothing разрывает: +2038.1% за 24ч. объём $7.17M больше капы в 7.5× — бумага в огне. ликвидность тонкая ($100.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $977.04 (68× медианы, 0ч назад). нетто китов за сутки −$805.57.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-27T20:48:07+00:00)
-- **Asset**: Nothing (Nothing / SOL)
-- **Network**: Solana
-- **DEX**: pumpswap
-- **Pool Address**: `GfgxhqZmKF1V2MfS94LdmK8Ckgf7rhzPJdZztTJjZKHQ`
-- **Token Mint**: `51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump`
-- **Price USD**: $0.000941
-- **Change 1h / 6h / 24h**: +13.0% / +2.3% / +2038.1%
-- **24h Volume**: $7.17M
-- **Liquidity (TVL)**: $100.3K
-- **FDV**: $954.9K
-- **Hourly Trades**: 992 buys / 844 sells
-- **Pool Age**: Created 2026-10-26T21:11:53Z
-
-## Algorithmic Narrative & Signals
-Nothing разрывает: +2038.1% за 24ч. объём $7.17M больше капы в 7.5× — бумага в огне. ликвидность тонкая ($100.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $977.04 (68× медианы, 0ч назад). нетто китов за сутки −$805.57.
-
-## Risk Flags
-- ⚠️ тонкая ликвидность
-- ⚠️ молодой пул
-- ⚠️ перегрет за 24ч
-
-## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $977.04 (68× медианы). Нетто-поток китов: $-805.57.
-Recent notable orders:
-  - BUY $977 (68× медианы ленты, 0.1ч назад) кошелёк `JXHdMTw7`
-  - SELL $955 (67× медианы ленты, 0.1ч назад) кошелёк `AcUJM6Aq`
-  - SELL $842 (59× медианы ленты, 0.1ч назад) кошелёк `AgmLJBMD`
-  - BUY $632 (44× медианы ленты, 0.1ч назад) кошелёк `JXHdMTw7`
-  - SELL $618 (43× медианы ленты, 0.2ч назад) кошелёк `6jEyVnA7`
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов Nothing?
-По ончейн-данным пула Nothing / SOL на DEX pumpswap (Solana), цена Nothing составляет $0.000941. Динамика за 24ч: +2038.1% (за 1ч: +13.0%, за 6ч: +2.3%). Суточный объём торгов равен $7.17M, общая ликвидность пула (TVL) — $100.3K, FDV — $954.9K. Данные зафиксированы на 2026-10-27T20:48:07+00:00.
-
-### Q: Почему движется цена Nothing? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: Nothing разрывает: +2038.1% за 24ч. объём $7.17M больше капы в 7.5× — бумага в огне. ликвидность тонкая ($100.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $977.04 (68× медианы, 0ч назад). нетто китов за сутки −$805.57. За последний час в ленте прошло 992 покупок и 844 продаж.
-
-### Q: Есть ли активность китов в пуле Nothing?
-Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $977.04 (68× медианы). Нетто-поток китов: $-805.57.
-
-### Q: Безопасен ли пул Nothing и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-10-26T21:11:53Z. При объёме $7.17M и ликвидности $100.3K возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/GfgxhqZmKF1V2MfS94LdmK8Ckgf7rhzPJdZztTJjZKHQ.html) — Free public feed for traders and AI agents.*
 
 
 ---

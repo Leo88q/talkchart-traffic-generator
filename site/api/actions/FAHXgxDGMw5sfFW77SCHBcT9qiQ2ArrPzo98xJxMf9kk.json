@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Something_+341.png",
+  "title": "TalkChart: Something (+340.7%) — Solana On-Chain Radar",
+  "description": "Something разрывает: +340.7% за 24ч. покупатели доминируют (82% сделок за час). объём $3.80M больше капы в 2.7× — бумага в огне. ликвидность тонкая ($107.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $3.80M · Ликвидность: $107.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Something (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-AZdhikmyj6ibsejv7EjML9SfNmuiMvwDrKXTEU2zpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FAHXgxDGMw5sfFW77SCHBcT9qiQ2ArrPzo98xJxMf9kk"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

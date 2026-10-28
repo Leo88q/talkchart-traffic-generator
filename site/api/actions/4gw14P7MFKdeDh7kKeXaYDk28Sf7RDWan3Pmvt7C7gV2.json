@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MOONX_+371.png",
+  "title": "TalkChart: MOONX (+370.7%) — Solana On-Chain Radar",
+  "description": "MOONX разрывает: +370.7% за 24ч. покупатели доминируют (75% сделок за час). ликвидность тонкая ($36.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $271.1K · Ликвидность: $36.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MOONX (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-28vWTtEwxoWp5MpHutAMSK5DeVf8xXk8jEEtbrtppump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4gw14P7MFKdeDh7kKeXaYDk28Sf7RDWan3Pmvt7C7gV2"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

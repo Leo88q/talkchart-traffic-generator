@@ -1,17 +1,17 @@
 {
-  "slug": "chico-vs-frongus",
+  "slug": "job-vs-mogz",
   "token1": {
-    "symbol": "CHICO",
-    "change_24h": 4968.71,
-    "address": "EZtwXZFmNS9sJjGVyCH35i6e3oywSDJDEQL9cBzGFDap",
-    "volume": 3727106.35605161
+    "symbol": "JOB",
+    "change_24h": 3382.309,
+    "address": "HAUVBmNthCFmG9SRXMvZ1GAXNpU955hkPdSAsC2cx4C8",
+    "volume": 695409.60196343
   },
   "token2": {
-    "symbol": "Frongus",
-    "change_24h": 2185.815,
-    "address": "Deb7ybe2LHf242BxqWD4hBQXKgfAoLSWFWXpgeHeNseq",
-    "volume": 6028030.33828997
+    "symbol": "MOGZ",
+    "change_24h": 637.574,
+    "address": "7j13CapqLC4dGaGYFCxgL8t31R7B1Gt93uBh8EdoRp9H",
+    "volume": 2385009.53968467
   },
-  "verdict": "По ончейн-метрикам TalkChart: CHICO опережает по ценовому импульсу (+4968.7% против +2185.8%). Кроме того, у CHICO существенно глубже пул ликвидности ($222.4K против $90.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CHICO.",
-  "updated_at": "2026-10-27 20:48 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: JOB опережает по ценовому импульсу (+3382.3% против +637.6%). Кроме того, у JOB существенно глубже пул ликвидности ($113.7K против $46.8K), что снижает риск проскальзывания. Кроме того, у MOGZ соотношение объёма к TVL 50.9× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: JOB.",
+  "updated_at": "2026-10-28 05:52 UTC"
 }

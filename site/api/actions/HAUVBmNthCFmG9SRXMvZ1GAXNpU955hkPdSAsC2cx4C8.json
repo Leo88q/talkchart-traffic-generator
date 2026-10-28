@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/JOB_+3382.png",
+  "title": "TalkChart: JOB (+3382.3%) — Solana On-Chain Radar",
+  "description": "JOB разрывает: +3382.3% за 24ч. ускорение в последнем часе. ликвидность тонкая ($113.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.3K (24× медианы, 0ч назад). нетто китов за сутки +$1.8K.\n\nОбъём: $695.4K · Ликвидность: $113.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп JOB (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HAUVBmNthCFmG9SRXMvZ1GAXNpU955hkPdSAsC2cx4C8"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
