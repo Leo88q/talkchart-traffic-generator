@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-29
-1. DUBBLE +3339.2% — DUBBLE разрывает: +3339.2% за 24ч. покупатели доминируют (63% сделок за час)
-2. HOUSECOIN +1282.8% — HOUSECOIN разрывает: +1282.8% за 24ч. ускорение в последнем часе
-3. FLOAT +1213.0% — FLOAT разрывает: +1213.0% за 24ч. объём $4.50M больше капы в 2.4× — бумага в огне
-4. GTA6 +146.6% — GTA6 разрывает: +146.6% за 24ч. ускорение в последнем часе
-5. HERMIT +143.0% — HERMIT разрывает: +143.0% за 24ч. ускорение в последнем часе
+1. CATBOT +913.9% — CATBOT разрывает: +913.9% за 24ч. покупатели доминируют (69% сделок за час)
+2. HOUSECOIN +842.6% — HOUSECOIN разрывает: +842.6% за 24ч. объём $4.68M больше капы в 11.6× — бумага в огне
+3. FLOAT +816.0% — FLOAT разрывает: +816.0% за 24ч. давление продаж нарастает
+4. Bitcoin +600.3% — Bitcoin разрывает: +600.3% за 24ч. давление продаж нарастает
+5. DUBBLE +342.2% — DUBBLE разрывает: +342.2% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/EWiqwm9wXVoj5yyb8VV2FkS9rc5HWJ3PmtwCKuv94P24.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/9CnCbMdSHu7P4VvPzoELHbB6rmBy3quiAby36KqcswvW.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

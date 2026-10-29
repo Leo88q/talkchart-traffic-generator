@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/omni_+17.png",
+  "title": "TalkChart: omni (+16.9%) — Solana On-Chain Radar",
+  "description": "omni растёт на +16.9% за сутки. давление продаж нарастает. объём $1.39M больше капы в 30.0× — бумага в огне. ликвидность тонкая ($18.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.39M · Ликвидность: $18.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп omni (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-AN4mNPb3rP61d3b2u1LCKKhBdEgdW9BiNDp7ZHKupump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6roRswjPM2naFm5cu5Z9zE6a1UKAfKRRQHbHn6sWVTUi"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

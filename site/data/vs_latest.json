@@ -1,17 +1,17 @@
 {
-  "slug": "dubble-vs-housecoin",
+  "slug": "catbot-vs-housecoin",
   "token1": {
-    "symbol": "DUBBLE",
-    "change_24h": 3339.219,
-    "address": "EWiqwm9wXVoj5yyb8VV2FkS9rc5HWJ3PmtwCKuv94P24",
-    "volume": 6955446.96699072
+    "symbol": "CATBOT",
+    "change_24h": 913.921,
+    "address": "9CnCbMdSHu7P4VvPzoELHbB6rmBy3quiAby36KqcswvW",
+    "volume": 5771027.19336971
   },
   "token2": {
     "symbol": "HOUSECOIN",
-    "change_24h": 1282.837,
+    "change_24h": 842.599,
     "address": "92GXaeWxDSz3sVugo8JMeZy1FcXvWZNaEBkSmpeWP2k9",
-    "volume": 4306029.11559073
+    "volume": 4678523.48083417
   },
-  "verdict": "По ончейн-метрикам TalkChart: DUBBLE опережает по ценовому импульсу (+3339.2% против +1282.8%). Краткосрочный фаворит по совокупности факторов: DUBBLE.",
-  "updated_at": "2026-10-29 05:58 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: CATBOT опережает по ценовому импульсу (+913.9% против +842.6%). Кроме того, у CATBOT существенно глубже пул ликвидности ($150.1K против $61.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CATBOT.",
+  "updated_at": "2026-10-29 15:18 UTC"
 }

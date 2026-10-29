@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CATBOT_+914.png",
+  "title": "TalkChart: CATBOT (+913.9%) — Solana On-Chain Radar",
+  "description": "CATBOT разрывает: +913.9% за 24ч. покупатели доминируют (69% сделок за час). объём $5.77M больше капы в 2.3× — бумага в огне. ликвидность тонкая ($150.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.8K (1324× медианы, 0ч назад). нетто китов за сутки −$10.0K.\n\nОбъём: $5.77M · Ликвидность: $150.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CATBOT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-dyw5fDNv91eknniMG4tGCU1ZrzjuxbpsLiEzih6pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=9CnCbMdSHu7P4VvPzoELHbB6rmBy3quiAby36KqcswvW"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
