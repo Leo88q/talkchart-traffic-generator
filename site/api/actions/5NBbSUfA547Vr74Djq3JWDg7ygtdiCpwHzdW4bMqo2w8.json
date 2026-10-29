@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PEPEween_+112.png",
+  "title": "TalkChart: PEPEween (+112.4%) — Solana On-Chain Radar",
+  "description": "PEPEween разрывает: +112.4% за 24ч. покупатели доминируют (64% сделок за час). ликвидность тонкая ($14.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.8K (128× медианы, 3ч назад). нетто китов за сутки +$102.12.\n\nОбъём: $34.0K · Ликвидность: $14.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PEPEween (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5C5K1ZetdvGoF5QRcyRbVMiVLhkJzS8RkH8UL2pwpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5NBbSUfA547Vr74Djq3JWDg7ygtdiCpwHzdW4bMqo2w8"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

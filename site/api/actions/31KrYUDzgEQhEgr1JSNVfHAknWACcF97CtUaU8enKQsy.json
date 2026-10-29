@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HYPE_+14.png",
+  "title": "TalkChart: HYPE (+14.3%) — Solana On-Chain Radar",
+  "description": "HYPE растёт на +14.3% за сутки. стакан глубокий: $4.00M ликвидности.\n\nОбъём: $16.74M · Ликвидность: $4.00M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HYPE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-98sMhvDwXj1RQi5c5Mndm3vPe9cBqPrbLaufMXFNMh5g"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=31KrYUDzgEQhEgr1JSNVfHAknWACcF97CtUaU8enKQsy"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

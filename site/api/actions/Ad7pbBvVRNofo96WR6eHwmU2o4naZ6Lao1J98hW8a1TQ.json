@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PURR_+95.png",
+  "title": "TalkChart: PURR (+94.5%) — Solana On-Chain Radar",
+  "description": "PURR разрывает: +94.5% за 24ч. давление продаж нарастает. крупная сделка на фоне ленты: продал $2.6K (58× медианы, 0ч назад). нетто китов за сутки −$322.88.\n\nОбъём: $1.46M · Ликвидность: $263.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PURR (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8RNUw4N655VSrZKuhGdywhbSMDTrheguFPfxbpE2NZHQ"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Ad7pbBvVRNofo96WR6eHwmU2o4naZ6Lao1J98hW8a1TQ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

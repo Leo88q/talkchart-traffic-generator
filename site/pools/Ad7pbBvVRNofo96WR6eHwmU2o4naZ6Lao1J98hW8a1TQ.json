@@ -1,0 +1,74 @@
+{
+  "pool": {
+    "address": "Ad7pbBvVRNofo96WR6eHwmU2o4naZ6Lao1J98hW8a1TQ",
+    "name": "PURR / HYPE",
+    "base_symbol": "PURR",
+    "base_name": "PURR",
+    "base_address": "8RNUw4N655VSrZKuhGdywhbSMDTrheguFPfxbpE2NZHQ",
+    "dex": "raydium-clmm",
+    "price_usd": 0.0028629280698134626,
+    "created_at": "2026-08-20T01:07:00Z",
+    "fdv_usd": 2772389.96050018,
+    "reserve_usd": 263749.0269,
+    "volume_h24": 1463624.59555436,
+    "change": {
+      "h1": -17.775,
+      "h6": -5.398,
+      "h24": 94.507
+    },
+    "tx_h1": {
+      "buys": 303,
+      "sells": 241
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 2610.89,
+        "mult": 58.1,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 2552.45,
+        "mult": 56.8,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "AnPCNWd6"
+      },
+      {
+        "kind": "buy",
+        "usd": 1806.76,
+        "mult": 40.2,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "dmuXAmcX"
+      },
+      {
+        "kind": "buy",
+        "usd": 1671.21,
+        "mult": 37.2,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "FHpcNSe6"
+      },
+      {
+        "kind": "buy",
+        "usd": 1362.49,
+        "mult": 30.3,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "nobspXvu"
+      }
+    ],
+    "first_seen": "2026-10-29T21:14:24+00:00",
+    "last_seen": "2026-10-29T21:14:24+00:00"
+  },
+  "narrative": "PURR разрывает: +94.5% за 24ч. давление продаж нарастает. крупная сделка на фоне ленты: продал $2.6K (58× медианы, 0ч назад). нетто китов за сутки −$322.88.",
+  "flags": [
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $2.6K (58× медианы). Нетто-поток китов: $-322.88.",
+  "updated_at": "2026-10-29T21:14:24Z"
+}

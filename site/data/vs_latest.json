@@ -1,17 +1,17 @@
 {
-  "slug": "catbot-vs-housecoin",
+  "slug": "float-vs-podcat",
   "token1": {
-    "symbol": "CATBOT",
-    "change_24h": 913.921,
-    "address": "9CnCbMdSHu7P4VvPzoELHbB6rmBy3quiAby36KqcswvW",
-    "volume": 5771027.19336971
+    "symbol": "FLOAT",
+    "change_24h": 496.44,
+    "address": "FJk9sajdc2Q4heRPPu3yLzkmf2ZByZkpiHQLv9e2bn5A",
+    "volume": 6024879.73110475
   },
   "token2": {
-    "symbol": "HOUSECOIN",
-    "change_24h": 842.599,
-    "address": "92GXaeWxDSz3sVugo8JMeZy1FcXvWZNaEBkSmpeWP2k9",
-    "volume": 4678523.48083417
+    "symbol": "PODCAT",
+    "change_24h": 115.373,
+    "address": "4zyGG3NZ4td2dxSPoeY2rqfiU5MDbFeeSVeVR2KR1PwP",
+    "volume": 1865349.27943476
   },
-  "verdict": "По ончейн-метрикам TalkChart: CATBOT опережает по ценовому импульсу (+913.9% против +842.6%). Кроме того, у CATBOT существенно глубже пул ликвидности ($150.1K против $61.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CATBOT.",
-  "updated_at": "2026-10-29 15:18 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FLOAT опережает по ценовому импульсу (+496.4% против +115.4%). Кроме того, у FLOAT существенно глубже пул ликвидности ($194.3K против $24.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: FLOAT.",
+  "updated_at": "2026-10-29 21:14 UTC"
 }
