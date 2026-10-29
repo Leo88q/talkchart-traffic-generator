@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FLOAT_+1213.png",
+  "title": "TalkChart: FLOAT (+1213.0%) — Solana On-Chain Radar",
+  "description": "FLOAT разрывает: +1213.0% за 24ч. объём $4.50M больше капы в 2.4× — бумага в огне. пулу 0 дн. — чистая рулетка.\n\nОбъём: $4.50M · Ликвидность: $292.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FLOAT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FJk9sajdc2Q4heRPPu3yLzkmf2ZByZkpiHQLv9e2bn5A"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

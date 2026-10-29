@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HERMIT_+143.png",
+  "title": "TalkChart: HERMIT (+143.0%) — Solana On-Chain Radar",
+  "description": "HERMIT разрывает: +143.0% за 24ч. ускорение в последнем часе. объём $2.24M больше капы в 22.8× — бумага в огне. ликвидность тонкая ($27.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.24M · Ликвидность: $27.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HERMIT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-ASX4GtetW337jwG2rLZaU84eY64rRCoWbf63yXQepump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HknqzEAg7Q78CqAGfG1LZRVcnNzbFfczEV1hjKF7ELq9"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

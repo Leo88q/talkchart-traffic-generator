@@ -1,17 +1,17 @@
 {
-  "slug": "inverse-vs-rapport",
+  "slug": "dubble-vs-housecoin",
   "token1": {
-    "symbol": "INVERSE",
-    "change_24h": 2328.626,
-    "address": "Rwq7WrFAzyBtDzGBxYKEHAtHfhAedW6vYqghPT1xBau",
-    "volume": 3658409.81151858
+    "symbol": "DUBBLE",
+    "change_24h": 3339.219,
+    "address": "EWiqwm9wXVoj5yyb8VV2FkS9rc5HWJ3PmtwCKuv94P24",
+    "volume": 6955446.96699072
   },
   "token2": {
-    "symbol": "Rapport",
-    "change_24h": 228.617,
-    "address": "55Md1fKr9zze1LmfK2byyEcPd55d5A2FR9Duoi7Pfmw2",
-    "volume": 3566556.55688587
+    "symbol": "HOUSECOIN",
+    "change_24h": 1282.837,
+    "address": "92GXaeWxDSz3sVugo8JMeZy1FcXvWZNaEBkSmpeWP2k9",
+    "volume": 4306029.11559073
   },
-  "verdict": "По ончейн-метрикам TalkChart: INVERSE опережает по ценовому импульсу (+2328.6% против +228.6%). Кроме того, у INVERSE существенно глубже пул ликвидности ($100.6K против $36.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: INVERSE.",
-  "updated_at": "2026-10-28 21:11 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: DUBBLE опережает по ценовому импульсу (+3339.2% против +1282.8%). Краткосрочный фаворит по совокупности факторов: DUBBLE.",
+  "updated_at": "2026-10-29 05:58 UTC"
 }
