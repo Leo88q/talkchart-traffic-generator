@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-30T15:08:19+00:00",
+ "generated_at": "2026-10-30T20:54:19+00:00",
  "videos": [
+  {
+   "file": "videos/2026-10-30/PQC.mp4",
+   "latest_file": "videos/latest/PQC.mp4",
+   "symbol": "PQC",
+   "chg_h24": 388.89
+  },
   {
    "file": "videos/2026-10-30/HYPERCHAN.mp4",
    "latest_file": "videos/latest/HYPERCHAN.mp4",
    "symbol": "HYPERCHAN",
-   "chg_h24": 447.86
+   "chg_h24": 172.413
   },
   {
-   "file": "videos/2026-10-30/DESSA.mp4",
-   "latest_file": "videos/latest/DESSA.mp4",
-   "symbol": "DESSA",
-   "chg_h24": 345.687
-  },
-  {
-   "file": "videos/2026-10-30/HI.mp4",
-   "latest_file": "videos/latest/HI.mp4",
-   "symbol": "HI",
-   "chg_h24": 241.26
+   "file": "videos/2026-10-30/NIO.mp4",
+   "latest_file": "videos/latest/NIO.mp4",
+   "symbol": "NIO",
+   "chg_h24": 125.07
   }
  ]
 }

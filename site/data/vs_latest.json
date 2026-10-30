@@ -1,17 +1,17 @@
 {
-  "slug": "hyperchan-vs-dessa",
+  "slug": "pqc-vs-hyperchan",
   "token1": {
-    "symbol": "HYPERCHAN",
-    "change_24h": 447.86,
-    "address": "5mxPpt9pFtDyK624QQ5Lxbw1HfGr4YCqeaFUdKMtKyVY",
-    "volume": 3014857.03283738
+    "symbol": "PQC",
+    "change_24h": 388.89,
+    "address": "6qUUCwD9fyRafora8XVmdApQBxCkbUiZTMkcYD47rWsS",
+    "volume": 218413.764638074
   },
   "token2": {
-    "symbol": "DESSA",
-    "change_24h": 345.687,
-    "address": "DEXTCER4k9dwbxTMU8zNVVwGevVmvHMB183pF2xxZwvH",
-    "volume": 4737811.4382889
+    "symbol": "HYPERCHAN",
+    "change_24h": 172.413,
+    "address": "5mxPpt9pFtDyK624QQ5Lxbw1HfGr4YCqeaFUdKMtKyVY",
+    "volume": 3981705.91483616
   },
-  "verdict": "По ончейн-метрикам TalkChart: HYPERCHAN опережает по ценовому импульсу (+447.9% против +345.7%). Кроме того, у DESSA более надёжная ликвидность ($258.6K против $116.4K). Краткосрочный фаворит по совокупности факторов: HYPERCHAN.",
-  "updated_at": "2026-10-30 15:08 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PQC опережает по ценовому импульсу (+388.9% против +172.4%). Кроме того, у HYPERCHAN более надёжная ликвидность ($83.1K против $33.5K). Кроме того, у HYPERCHAN соотношение объёма к TVL 47.9× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: PQC.",
+  "updated_at": "2026-10-30 20:54 UTC"
 }
