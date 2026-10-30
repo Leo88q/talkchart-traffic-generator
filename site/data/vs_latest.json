@@ -1,17 +1,17 @@
 {
-  "slug": "hi-vs-purr",
+  "slug": "hyperchan-vs-dessa",
   "token1": {
-    "symbol": "HI",
-    "change_24h": 365.461,
-    "address": "2yyP1cEXm4VZEHSGpqnWGxcZ3kSSVAK7m3j5nsKmFAhE",
-    "volume": 3747095.89757181
+    "symbol": "HYPERCHAN",
+    "change_24h": 447.86,
+    "address": "5mxPpt9pFtDyK624QQ5Lxbw1HfGr4YCqeaFUdKMtKyVY",
+    "volume": 3014857.03283738
   },
   "token2": {
-    "symbol": "PURR",
-    "change_24h": 159.719,
-    "address": "Ad7pbBvVRNofo96WR6eHwmU2o4naZ6Lao1J98hW8a1TQ",
-    "volume": 1731006.23377599
+    "symbol": "DESSA",
+    "change_24h": 345.687,
+    "address": "DEXTCER4k9dwbxTMU8zNVVwGevVmvHMB183pF2xxZwvH",
+    "volume": 4737811.4382889
   },
-  "verdict": "По ончейн-метрикам TalkChart: HI опережает по ценовому импульсу (+365.5% против +159.7%). Кроме того, у PURR более надёжная ликвидность ($301.9K против $103.7K). Кроме того, у HI объём превышает ликвидность в 36.1× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: PURR.",
-  "updated_at": "2026-10-30 05:58 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HYPERCHAN опережает по ценовому импульсу (+447.9% против +345.7%). Кроме того, у DESSA более надёжная ликвидность ($258.6K против $116.4K). Краткосрочный фаворит по совокупности факторов: HYPERCHAN.",
+  "updated_at": "2026-10-30 15:08 UTC"
 }

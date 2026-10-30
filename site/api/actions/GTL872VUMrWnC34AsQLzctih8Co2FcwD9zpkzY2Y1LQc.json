@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SENSE_-58.png",
+  "title": "TalkChart: SENSE (-58.1%) — Solana On-Chain Radar",
+  "description": "SENSE в обвале: -58.1% за 24ч. продают в рынок (64% сделок за час). объём $754.7K больше капы в 2.5× — бумага в огне. ликвидность тонкая ($55.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $990.52 (101× медианы, 3ч назад). нетто китов за сутки +$1.0K.\n\nОбъём: $754.7K · Ликвидность: $55.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SENSE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GTL872VUMrWnC34AsQLzctih8Co2FcwD9zpkzY2Y1LQc"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

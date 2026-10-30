@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DESSA_+346.png",
+  "title": "TalkChart: DESSA (+345.7%) — Solana On-Chain Radar",
+  "description": "DESSA разрывает: +345.7% за 24ч. давление продаж нарастает. продают в рынок (66% сделок за час). суточный памп остывает. пулу 4 дн., история короткая. крупная сделка на фоне ленты: купил $2.7K (3441× медианы, 0ч назад). нетто китов за сутки −$1.4K.\n\nОбъём: $4.74M · Ликвидность: $258.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DESSA (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DEXTCER4k9dwbxTMU8zNVVwGevVmvHMB183pF2xxZwvH"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
