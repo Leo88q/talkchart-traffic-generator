@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-29T21:14:40+00:00",
+ "generated_at": "2026-10-30T05:58:25+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-29/FLOAT.mp4",
-   "latest_file": "videos/latest/FLOAT.mp4",
-   "symbol": "FLOAT",
-   "chg_h24": 496.44
+   "file": "videos/2026-10-30/HI.mp4",
+   "latest_file": "videos/latest/HI.mp4",
+   "symbol": "HI",
+   "chg_h24": 365.461
   },
   {
-   "file": "videos/2026-10-29/PODCAT.mp4",
-   "latest_file": "videos/latest/PODCAT.mp4",
-   "symbol": "PODCAT",
-   "chg_h24": 115.373
+   "file": "videos/2026-10-30/PURR.mp4",
+   "latest_file": "videos/latest/PURR.mp4",
+   "symbol": "PURR",
+   "chg_h24": 159.719
   },
   {
-   "file": "videos/2026-10-29/PEPEween.mp4",
-   "latest_file": "videos/latest/PEPEween.mp4",
-   "symbol": "PEPEween",
-   "chg_h24": 112.352
+   "file": "videos/2026-10-30/HOUSECOIN.mp4",
+   "latest_file": "videos/latest/HOUSECOIN.mp4",
+   "symbol": "HOUSECOIN",
+   "chg_h24": -93.372
   }
  ]
 }

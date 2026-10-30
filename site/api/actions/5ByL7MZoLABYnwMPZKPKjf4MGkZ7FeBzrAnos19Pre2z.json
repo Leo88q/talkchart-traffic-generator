@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/three_+42.png",
+  "title": "TalkChart: three (+42.2%) — Solana On-Chain Radar",
+  "description": "three разрывает: +42.2% за 24ч. покупатели доминируют (94% сделок за час). ликвидность тонкая ($170.1K) — движения будут резкими.\n\nОбъём: $284.8K · Ликвидность: $170.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп three (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-FeMbDoX7R1Psc4GEcvJdsbNbZA3bfztcyDCatJVJpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5ByL7MZoLABYnwMPZKPKjf4MGkZ7FeBzrAnos19Pre2z"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
