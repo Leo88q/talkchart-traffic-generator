@@ -1,17 +1,17 @@
 {
-  "slug": "leverhedge-vs-icoin",
+  "slug": "leverhedge-vs-sis",
   "token1": {
     "symbol": "Leverhedge",
-    "change_24h": 1315.521,
+    "change_24h": 1178.277,
     "address": "6d3uJEzDB2WDbvVryFycvgXSiH9fW6ML6hScia5QVHwp",
-    "volume": 1628469.16474069
+    "volume": 1936488.9818906
   },
   "token2": {
-    "symbol": "iCoin",
-    "change_24h": 191.201,
-    "address": "8JFAALGEWz3Mg86GoFe3Cph6eFgd3dq5H4M1z7SHTDNX",
-    "volume": 5343595.79911105
+    "symbol": "SIS",
+    "change_24h": 451.073,
+    "address": "Ht4GxW1pL2SfamcfC3qcZEcjDHpE55TtjUjnKVs2nhxr",
+    "volume": 2158070.21194479
   },
-  "verdict": "По ончейн-метрикам TalkChart: Leverhedge опережает по ценовому импульсу (+1315.5% против +191.2%). Кроме того, у Leverhedge существенно глубже пул ликвидности ($86.0K против $36.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Leverhedge.",
-  "updated_at": "2026-10-31 20:04 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Leverhedge опережает по ценовому импульсу (+1178.3% против +451.1%). Краткосрочный фаворит по совокупности факторов: Leverhedge.",
+  "updated_at": "2026-10-31 23:30 UTC"
 }

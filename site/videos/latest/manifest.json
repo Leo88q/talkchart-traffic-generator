@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-31T20:04:20+00:00",
+ "generated_at": "2026-10-31T23:30:03+00:00",
  "videos": [
   {
    "file": "videos/2026-10-31/Leverhedge.mp4",
    "latest_file": "videos/latest/Leverhedge.mp4",
    "symbol": "Leverhedge",
-   "chg_h24": 1315.521
+   "chg_h24": 1178.277
   },
   {
-   "file": "videos/2026-10-31/iCoin.mp4",
-   "latest_file": "videos/latest/iCoin.mp4",
-   "symbol": "iCoin",
-   "chg_h24": 191.201
+   "file": "videos/2026-10-31/SIS.mp4",
+   "latest_file": "videos/latest/SIS.mp4",
+   "symbol": "SIS",
+   "chg_h24": 451.073
   },
   {
    "file": "videos/2026-10-31/DESSA.mp4",
    "latest_file": "videos/latest/DESSA.mp4",
    "symbol": "DESSA",
-   "chg_h24": 182.337
+   "chg_h24": 138.321
   }
  ]
 }
