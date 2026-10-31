@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "8JFAALGEWz3Mg86GoFe3Cph6eFgd3dq5H4M1z7SHTDNX",
+    "name": "iCoin / AAPLx",
+    "base_symbol": "iCoin",
+    "base_name": "iCoin",
+    "base_address": "HgxEGTZ1Epb64RrYqcuHkqb1gGWWnF5WcPTCDWzApump",
+    "dex": "pumpswap",
+    "price_usd": 0.00035538319097710584,
+    "created_at": "2026-10-30T22:00:09Z",
+    "fdv_usd": 355154.1818,
+    "reserve_usd": 58459.8093,
+    "volume_h24": 4600532.60679683,
+    "change": {
+      "h1": -11.866,
+      "h6": -56.256,
+      "h24": 690.758
+    },
+    "tx_h1": {
+      "buys": 703,
+      "sells": 442
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 584.43,
+        "mult": 59.5,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "8oSD5a9E"
+      },
+      {
+        "kind": "buy",
+        "usd": 408.85,
+        "mult": 41.6,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "BjHec5vs"
+      },
+      {
+        "kind": "buy",
+        "usd": 363.77,
+        "mult": 37.0,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "Bd7vD2VF"
+      },
+      {
+        "kind": "buy",
+        "usd": 260.25,
+        "mult": 26.5,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "DZFD7MQ4"
+      },
+      {
+        "kind": "sell",
+        "usd": 251.59,
+        "mult": 25.6,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "42erMfZK"
+      }
+    ],
+    "first_seen": "2026-10-31T05:54:16+00:00",
+    "last_seen": "2026-10-31T05:54:16+00:00"
+  },
+  "narrative": "iCoin разрывает: +690.8% за 24ч. давление продаж нарастает. объём $4.60M больше капы в 13.0× — бумага в огне. ликвидность тонкая ($58.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $584.43 (60× медианы, 0ч назад). нетто китов за сутки +$196.85.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $584.43 (60× медианы). Нетто-поток китов: +$196.85.",
+  "updated_at": "2026-10-31T05:54:17Z"
+}

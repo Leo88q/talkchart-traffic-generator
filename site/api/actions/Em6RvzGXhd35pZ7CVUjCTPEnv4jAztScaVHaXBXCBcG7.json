@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GLITCH_+51.png",
+  "title": "TalkChart: GLITCH (+50.6%) — Solana On-Chain Radar",
+  "description": "GLITCH разрывает: +50.6% за 24ч. покупатели доминируют (70% сделок за час). ликвидность тонкая ($166.4K) — движения будут резкими. крупная сделка на фоне ленты: купил $2.0K (42× медианы, 3ч назад). нетто китов за сутки +$557.10.\n\nОбъём: $531.4K · Ликвидность: $166.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GLITCH (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Em6RvzGXhd35pZ7CVUjCTPEnv4jAztScaVHaXBXCBcG7"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

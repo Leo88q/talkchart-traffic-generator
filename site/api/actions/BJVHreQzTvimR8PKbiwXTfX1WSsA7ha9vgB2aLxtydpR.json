@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/TYGR_+106.png",
+  "title": "TalkChart: TYGR (+106.2%) — Solana On-Chain Radar",
+  "description": "TYGR разрывает: +106.2% за 24ч. продают в рынок (70% сделок за час). суточный памп остывает. объём $876.0K больше капы в 68.9× — бумага в огне. ликвидность тонкая ($12.4K) — движения будут резкими. крупная сделка на фоне ленты: продал $295.07 (71× медианы, 5ч назад). нетто китов за сутки −$38.86.\n\nОбъём: $876.0K · Ликвидность: $12.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп TYGR (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-yxqegfnoem8mMuRSqu8ouD8qsw32GpuMMXgTZGwpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BJVHreQzTvimR8PKbiwXTfX1WSsA7ha9vgB2aLxtydpR"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

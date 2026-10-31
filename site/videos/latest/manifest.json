@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-30T20:54:19+00:00",
+ "generated_at": "2026-10-31T05:54:29+00:00",
  "videos": [
   {
-   "file": "videos/2026-10-30/PQC.mp4",
+   "file": "videos/2026-10-31/iCoin.mp4",
+   "latest_file": "videos/latest/iCoin.mp4",
+   "symbol": "iCoin",
+   "chg_h24": 690.758
+  },
+  {
+   "file": "videos/2026-10-31/PQC.mp4",
    "latest_file": "videos/latest/PQC.mp4",
    "symbol": "PQC",
-   "chg_h24": 388.89
+   "chg_h24": 110.794
   },
   {
-   "file": "videos/2026-10-30/HYPERCHAN.mp4",
-   "latest_file": "videos/latest/HYPERCHAN.mp4",
-   "symbol": "HYPERCHAN",
-   "chg_h24": 172.413
-  },
-  {
-   "file": "videos/2026-10-30/NIO.mp4",
-   "latest_file": "videos/latest/NIO.mp4",
-   "symbol": "NIO",
-   "chg_h24": 125.07
+   "file": "videos/2026-10-31/TYGR.mp4",
+   "latest_file": "videos/latest/TYGR.mp4",
+   "symbol": "TYGR",
+   "chg_h24": 106.16
   }
  ]
 }

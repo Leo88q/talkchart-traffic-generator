@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "Em6RvzGXhd35pZ7CVUjCTPEnv4jAztScaVHaXBXCBcG7",
+    "name": "GLITCH / SOL",
+    "base_symbol": "GLITCH",
+    "base_name": "GLITCH",
+    "base_address": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0036065160107993975,
+    "created_at": "2026-10-16T15:34:48Z",
+    "fdv_usd": 3435356.84588091,
+    "reserve_usd": 166390.0412,
+    "volume_h24": 531352.282763607,
+    "change": {
+      "h1": 3.065,
+      "h6": -5.166,
+      "h24": 50.573
+    },
+    "tx_h1": {
+      "buys": 28,
+      "sells": 12
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 1992.03,
+        "mult": 41.5,
+        "whale": false,
+        "hours_ago": 2.6,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 1890.55,
+        "mult": 39.4,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "28pryh85"
+      },
+      {
+        "kind": "sell",
+        "usd": 1285.36,
+        "mult": 26.8,
+        "whale": false,
+        "hours_ago": 2.4,
+        "addr8": "F587wJEt"
+      },
+      {
+        "kind": "buy",
+        "usd": 951.53,
+        "mult": 19.8,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "Em8J3gBW"
+      },
+      {
+        "kind": "buy",
+        "usd": 789.45,
+        "mult": 16.5,
+        "whale": false,
+        "hours_ago": 3.2,
+        "addr8": "7E1jPDCn"
+      }
+    ],
+    "first_seen": "2026-10-31T05:54:16+00:00",
+    "last_seen": "2026-10-31T05:54:16+00:00"
+  },
+  "narrative": "GLITCH разрывает: +50.6% за 24ч. покупатели доминируют (70% сделок за час). ликвидность тонкая ($166.4K) — движения будут резкими. крупная сделка на фоне ленты: купил $2.0K (42× медианы, 3ч назад). нетто китов за сутки +$557.10.",
+  "flags": [
+    "тонкая ликвидность",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $2.0K (42× медианы). Нетто-поток китов: +$557.10.",
+  "updated_at": "2026-10-31T05:54:17Z"
+}

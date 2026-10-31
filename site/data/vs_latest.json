@@ -1,17 +1,17 @@
 {
-  "slug": "pqc-vs-hyperchan",
+  "slug": "icoin-vs-pqc",
   "token1": {
-    "symbol": "PQC",
-    "change_24h": 388.89,
-    "address": "6qUUCwD9fyRafora8XVmdApQBxCkbUiZTMkcYD47rWsS",
-    "volume": 218413.764638074
+    "symbol": "iCoin",
+    "change_24h": 690.758,
+    "address": "8JFAALGEWz3Mg86GoFe3Cph6eFgd3dq5H4M1z7SHTDNX",
+    "volume": 4600532.60679683
   },
   "token2": {
-    "symbol": "HYPERCHAN",
-    "change_24h": 172.413,
-    "address": "5mxPpt9pFtDyK624QQ5Lxbw1HfGr4YCqeaFUdKMtKyVY",
-    "volume": 3981705.91483616
+    "symbol": "PQC",
+    "change_24h": 110.794,
+    "address": "6qUUCwD9fyRafora8XVmdApQBxCkbUiZTMkcYD47rWsS",
+    "volume": 255271.444493253
   },
-  "verdict": "По ончейн-метрикам TalkChart: PQC опережает по ценовому импульсу (+388.9% против +172.4%). Кроме того, у HYPERCHAN более надёжная ликвидность ($83.1K против $33.5K). Кроме того, у HYPERCHAN соотношение объёма к TVL 47.9× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: PQC.",
-  "updated_at": "2026-10-30 20:54 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: iCoin опережает по ценовому импульсу (+690.8% против +110.8%). Кроме того, у iCoin объём превышает ликвидность в 78.7× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: iCoin.",
+  "updated_at": "2026-10-31 05:54 UTC"
 }
