@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FOCO_+64.png",
+  "title": "TalkChart: FOCO (+63.8%) — Solana On-Chain Radar",
+  "description": "FOCO разрывает: +63.8% за 24ч. объём $755.5K больше капы в 1.5× — бумага в огне. ликвидность тонкая ($64.3K) — движения будут резкими. пулу 8 дн., история короткая.\n\nОбъём: $755.5K · Ликвидность: $64.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FOCO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7ttfwuBSnbNTgf32gUAT7v9bjdDWsn6pYpp7nmGmpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8L3igRfrvKYRJnU9hZf7Sk5NJA62S8GA54DKatBf6qH2"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

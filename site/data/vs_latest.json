@@ -1,17 +1,17 @@
 {
-  "slug": "icoin-vs-vampcat",
+  "slug": "leverhedge-vs-icoin",
   "token1": {
-    "symbol": "iCoin",
-    "change_24h": 886.409,
-    "address": "8JFAALGEWz3Mg86GoFe3Cph6eFgd3dq5H4M1z7SHTDNX",
-    "volume": 5014854.92420689
+    "symbol": "Leverhedge",
+    "change_24h": 1315.521,
+    "address": "6d3uJEzDB2WDbvVryFycvgXSiH9fW6ML6hScia5QVHwp",
+    "volume": 1628469.16474069
   },
   "token2": {
-    "symbol": "VAMPCAT",
-    "change_24h": 162.571,
-    "address": "3QH8289k4Dme6yaAWFWkSyJDhNbcp4rEYz75zRtG2PHJ",
-    "volume": 894422.820045512
+    "symbol": "iCoin",
+    "change_24h": 191.201,
+    "address": "8JFAALGEWz3Mg86GoFe3Cph6eFgd3dq5H4M1z7SHTDNX",
+    "volume": 5343595.79911105
   },
-  "verdict": "По ончейн-метрикам TalkChart: iCoin опережает по ценовому импульсу (+886.4% против +162.6%). Кроме того, у iCoin существенно глубже пул ликвидности ($66.4K против $24.9K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: iCoin.",
-  "updated_at": "2026-10-31 14:37 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Leverhedge опережает по ценовому импульсу (+1315.5% против +191.2%). Кроме того, у Leverhedge существенно глубже пул ликвидности ($86.0K против $36.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Leverhedge.",
+  "updated_at": "2026-10-31 20:04 UTC"
 }

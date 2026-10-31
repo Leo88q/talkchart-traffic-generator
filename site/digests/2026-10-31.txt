@@ -1,10 +1,10 @@
 Solana · история дня · 2026-10-31
-1. iCoin +886.4% — iCoin разрывает: +886.4% за 24ч. объём $5.01M больше капы в 11.3× — бумага в огне
-2. VAMPCAT +162.6% — VAMPCAT разрывает: +162.6% за 24ч. объём $894.4K больше капы в 9.6× — бумага в огне
-3. CATPAD +154.1% — CATPAD разрывает: +154.1% за 24ч. давление продаж нарастает
-4. DESSA +146.8% — DESSA разрывает: +146.8% за 24ч. ускорение в последнем часе
-5. TYGR +120.6% — TYGR разрывает: +120.6% за 24ч. объём $878.4K больше капы в 64.6× — бумага в огне
+1. Leverhedge +1315.5% — Leverhedge разрывает: +1315.5% за 24ч. давление продаж нарастает
+2. iCoin +191.2% — iCoin разрывает: +191.2% за 24ч. объём $5.34M больше капы в 40.9× — бумага в огне
+3. DESSA +182.3% — DESSA разрывает: +182.3% за 24ч. ускорение в последнем часе
+4. BTC +101.9% — BTC разрывает: +101.9% за 24ч. ускорение в последнем часе
+5. FOCO +63.8% — FOCO разрывает: +63.8% за 24ч. объём $755.5K больше капы в 1.5× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/8JFAALGEWz3Mg86GoFe3Cph6eFgd3dq5H4M1z7SHTDNX.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6d3uJEzDB2WDbvVryFycvgXSiH9fW6ML6hScia5QVHwp.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

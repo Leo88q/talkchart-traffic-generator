@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-31T14:37:27+00:00",
+ "generated_at": "2026-10-31T20:04:20+00:00",
  "videos": [
+  {
+   "file": "videos/2026-10-31/Leverhedge.mp4",
+   "latest_file": "videos/latest/Leverhedge.mp4",
+   "symbol": "Leverhedge",
+   "chg_h24": 1315.521
+  },
   {
    "file": "videos/2026-10-31/iCoin.mp4",
    "latest_file": "videos/latest/iCoin.mp4",
    "symbol": "iCoin",
-   "chg_h24": 886.409
+   "chg_h24": 191.201
   },
   {
-   "file": "videos/2026-10-31/VAMPCAT.mp4",
-   "latest_file": "videos/latest/VAMPCAT.mp4",
-   "symbol": "VAMPCAT",
-   "chg_h24": 162.571
-  },
-  {
-   "file": "videos/2026-10-31/CATPAD.mp4",
-   "latest_file": "videos/latest/CATPAD.mp4",
-   "symbol": "CATPAD",
-   "chg_h24": 154.095
+   "file": "videos/2026-10-31/DESSA.mp4",
+   "latest_file": "videos/latest/DESSA.mp4",
+   "symbol": "DESSA",
+   "chg_h24": 182.337
   }
  ]
 }
