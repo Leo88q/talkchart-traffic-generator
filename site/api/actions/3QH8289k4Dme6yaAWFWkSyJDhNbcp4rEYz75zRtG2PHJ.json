@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/VAMPCAT_+163.png",
+  "title": "TalkChart: VAMPCAT (+162.6%) — Solana On-Chain Radar",
+  "description": "VAMPCAT разрывает: +162.6% за 24ч. объём $894.4K больше капы в 9.6× — бумага в огне. ликвидность тонкая ($24.9K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $894.4K · Ликвидность: $24.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп VAMPCAT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4rsSV6L6mQ6jN587eKi5tNgkbgdzc8c9fxEVY8wapump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3QH8289k4Dme6yaAWFWkSyJDhNbcp4rEYz75zRtG2PHJ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

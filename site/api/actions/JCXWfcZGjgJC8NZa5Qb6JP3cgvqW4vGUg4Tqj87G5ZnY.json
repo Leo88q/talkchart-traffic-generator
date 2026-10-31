@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/jeff_+48.png",
+  "title": "TalkChart: jeff (+48.0%) — Solana On-Chain Radar",
+  "description": "jeff разрывает: +48.0% за 24ч. покупатели доминируют (71% сделок за час). ликвидность тонкая ($132.3K) — движения будут резкими. пулу 4 дн., история короткая.\n\nОбъём: $355.3K · Ликвидность: $132.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп jeff (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=JCXWfcZGjgJC8NZa5Qb6JP3cgvqW4vGUg4Tqj87G5ZnY"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

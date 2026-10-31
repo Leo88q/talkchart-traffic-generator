@@ -1,17 +1,17 @@
 {
-  "slug": "icoin-vs-pqc",
+  "slug": "icoin-vs-vampcat",
   "token1": {
     "symbol": "iCoin",
-    "change_24h": 690.758,
+    "change_24h": 886.409,
     "address": "8JFAALGEWz3Mg86GoFe3Cph6eFgd3dq5H4M1z7SHTDNX",
-    "volume": 4600532.60679683
+    "volume": 5014854.92420689
   },
   "token2": {
-    "symbol": "PQC",
-    "change_24h": 110.794,
-    "address": "6qUUCwD9fyRafora8XVmdApQBxCkbUiZTMkcYD47rWsS",
-    "volume": 255271.444493253
+    "symbol": "VAMPCAT",
+    "change_24h": 162.571,
+    "address": "3QH8289k4Dme6yaAWFWkSyJDhNbcp4rEYz75zRtG2PHJ",
+    "volume": 894422.820045512
   },
-  "verdict": "По ончейн-метрикам TalkChart: iCoin опережает по ценовому импульсу (+690.8% против +110.8%). Кроме того, у iCoin объём превышает ликвидность в 78.7× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: iCoin.",
-  "updated_at": "2026-10-31 05:54 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: iCoin опережает по ценовому импульсу (+886.4% против +162.6%). Кроме того, у iCoin существенно глубже пул ликвидности ($66.4K против $24.9K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: iCoin.",
+  "updated_at": "2026-10-31 14:37 UTC"
 }

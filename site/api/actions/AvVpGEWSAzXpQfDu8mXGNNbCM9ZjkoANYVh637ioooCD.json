@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/TUSK_+36.png",
+  "title": "TalkChart: TUSK (+36.1%) — Solana On-Chain Radar",
+  "description": "TUSK разрывает: +36.1% за 24ч. объём $1.24M больше капы в 20.8× — бумага в огне. ликвидность тонкая ($20.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.24M · Ликвидность: $20.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп TUSK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8uBobWMhu6hRUn4jaA4kjcgWCjTxgHwHJtPgBePXpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AvVpGEWSAzXpQfDu8mXGNNbCM9ZjkoANYVh637ioooCD"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

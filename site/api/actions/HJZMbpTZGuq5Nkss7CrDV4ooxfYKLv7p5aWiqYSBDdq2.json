@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Saturween_+40.png",
+  "title": "TalkChart: Saturween (+39.7%) — Solana On-Chain Radar",
+  "description": "Saturween разрывает: +39.7% за 24ч. давление продаж нарастает. продают в рынок (72% сделок за час). суточный памп остывает. объём $1.33M больше капы в 3.2× — бумага в огне. ликвидность тонкая ($64.1K) — движения будут резкими.\n\nОбъём: $1.33M · Ликвидность: $64.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Saturween (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5THtNEGTF1y67eRWvcgz3MomDZePCVx1xdskHHeCpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HJZMbpTZGuq5Nkss7CrDV4ooxfYKLv7p5aWiqYSBDdq2"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
