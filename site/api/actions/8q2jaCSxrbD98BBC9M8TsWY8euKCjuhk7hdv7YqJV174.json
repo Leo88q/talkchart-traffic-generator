@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ANSEM_+1222.png",
+  "title": "TalkChart: ANSEM (+1221.6%) — Solana On-Chain Radar",
+  "description": "ANSEM разрывает: +1221.6% за 24ч. покупатели доминируют (66% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $2.58M больше капы в 4.9× — бумага в огне. ликвидность тонкая ($65.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $884.72 (93× медианы, 0ч назад). нетто китов за сутки +$530.32.\n\nОбъём: $2.58M · Ликвидность: $65.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ANSEM (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CvRJ8MrnB1AwjrgX25uyeLJiXNSugTo2ZHh8UXDTpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8q2jaCSxrbD98BBC9M8TsWY8euKCjuhk7hdv7YqJV174"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

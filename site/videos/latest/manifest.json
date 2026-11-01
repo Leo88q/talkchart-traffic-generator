@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-01T06:18:18+00:00",
+ "generated_at": "2026-11-01T15:18:28+00:00",
  "videos": [
   {
    "file": "videos/2026-11-01/PAWCAT.mp4",
    "latest_file": "videos/latest/PAWCAT.mp4",
    "symbol": "PAWCAT",
-   "chg_h24": 3327.713
+   "chg_h24": 2553.072
+  },
+  {
+   "file": "videos/2026-11-01/ANSEM.mp4",
+   "latest_file": "videos/latest/ANSEM.mp4",
+   "symbol": "ANSEM",
+   "chg_h24": 1221.56
   },
   {
    "file": "videos/2026-11-01/KIM.mp4",
    "latest_file": "videos/latest/KIM.mp4",
    "symbol": "KIM",
-   "chg_h24": 621.699
-  },
-  {
-   "file": "videos/2026-11-01/AAPLCAT.mp4",
-   "latest_file": "videos/latest/AAPLCAT.mp4",
-   "symbol": "AAPLCAT",
-   "chg_h24": 480.947
+   "chg_h24": 719.581
   }
  ]
 }

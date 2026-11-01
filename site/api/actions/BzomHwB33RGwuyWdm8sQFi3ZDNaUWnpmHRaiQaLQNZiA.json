@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BLUE_+670.png",
+  "title": "TalkChart: BLUE (+670.0%) — Solana On-Chain Radar",
+  "description": "BLUE разрывает: +670.0% за 24ч. давление продаж нарастает. объём $3.58M больше капы в 11.4× — бумага в огне. ликвидность тонкая ($51.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $486.93 (64× медианы, 0ч назад). нетто китов за сутки −$362.36.\n\nОбъём: $3.58M · Ликвидность: $51.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BLUE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CPoGSmcjprCvzA2MFYLJMpQkGjmgVzKg4RVwMdrzpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BzomHwB33RGwuyWdm8sQFi3ZDNaUWnpmHRaiQaLQNZiA"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

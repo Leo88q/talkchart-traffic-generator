@@ -1,17 +1,17 @@
 {
-  "slug": "pawcat-vs-kim",
+  "slug": "pawcat-vs-ansem",
   "token1": {
     "symbol": "PAWCAT",
-    "change_24h": 3327.713,
+    "change_24h": 2553.072,
     "address": "eEJ4ZYpgiNTCwRq4cVBdUbqq7s45KrM7XaEFcu3uuGb",
-    "volume": 3292246.91850085
+    "volume": 6097391.89554502
   },
   "token2": {
-    "symbol": "KIM",
-    "change_24h": 621.699,
-    "address": "AbeqLWaD4nQi37xvTZcPUo953cHcLqBUCUYC8MHDP4EQ",
-    "volume": 6788943.79511565
+    "symbol": "ANSEM",
+    "change_24h": 1221.56,
+    "address": "8q2jaCSxrbD98BBC9M8TsWY8euKCjuhk7hdv7YqJV174",
+    "volume": 2583371.78183149
   },
-  "verdict": "По ончейн-метрикам TalkChart: PAWCAT опережает по ценовому импульсу (+3327.7% против +621.7%). Кроме того, у PAWCAT существенно глубже пул ликвидности ($157.1K против $52.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: PAWCAT.",
-  "updated_at": "2026-11-01 06:18 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PAWCAT опережает по ценовому импульсу (+2553.1% против +1221.6%). Кроме того, у PAWCAT существенно глубже пул ликвидности ($141.6K против $65.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: PAWCAT.",
+  "updated_at": "2026-11-01 15:18 UTC"
 }

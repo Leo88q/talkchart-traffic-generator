@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/tipr_-27.png",
+  "title": "TalkChart: tipr (-27.1%) — Solana On-Chain Radar",
+  "description": "tipr в обвале: -27.1% за 24ч. давление продаж нарастает. объём $1.33M больше капы в 47.0× — бумага в огне. ликвидность тонкая ($13.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.33M · Ликвидность: $13.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп tipr (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3kRQDKPGqMWwBdGjiVPpPqVzFsnYG5PDqvrVz1D2pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6qfkD7d8RaFVAn1FC76M5MtqAr3kHrHpxPwMQvL6Ndxt"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
