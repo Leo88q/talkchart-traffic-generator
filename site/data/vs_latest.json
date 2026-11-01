@@ -1,17 +1,17 @@
 {
-  "slug": "pawcat-vs-ansem",
+  "slug": "anakin-vs-kim",
   "token1": {
-    "symbol": "PAWCAT",
-    "change_24h": 2553.072,
-    "address": "eEJ4ZYpgiNTCwRq4cVBdUbqq7s45KrM7XaEFcu3uuGb",
-    "volume": 6097391.89554502
+    "symbol": "Anakin",
+    "change_24h": 379.041,
+    "address": "HJa61kEfSAwRt3DW9p15mLh6U5MaQgZGbE51ngg7bYtT",
+    "volume": 3815751.0688975
   },
   "token2": {
-    "symbol": "ANSEM",
-    "change_24h": 1221.56,
-    "address": "8q2jaCSxrbD98BBC9M8TsWY8euKCjuhk7hdv7YqJV174",
-    "volume": 2583371.78183149
+    "symbol": "KIM",
+    "change_24h": 331.221,
+    "address": "AbeqLWaD4nQi37xvTZcPUo953cHcLqBUCUYC8MHDP4EQ",
+    "volume": 7651313.3684719
   },
-  "verdict": "По ончейн-метрикам TalkChart: PAWCAT опережает по ценовому импульсу (+2553.1% против +1221.6%). Кроме того, у PAWCAT существенно глубже пул ликвидности ($141.6K против $65.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: PAWCAT.",
-  "updated_at": "2026-11-01 15:18 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Anakin опережает по ценовому импульсу (+379.0% против +331.2%). Кроме того, у Anakin существенно глубже пул ликвидности ($167.5K против $41.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Anakin.",
+  "updated_at": "2026-11-01 20:36 UTC"
 }

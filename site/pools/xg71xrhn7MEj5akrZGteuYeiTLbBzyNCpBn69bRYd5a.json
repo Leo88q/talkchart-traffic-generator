@@ -6,19 +6,19 @@
     "base_name": "GTA6",
     "base_address": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
     "dex": "meteora",
-    "price_usd": 0.012139572166761177,
+    "price_usd": 0.012990050250061235,
     "created_at": "2026-08-27T19:16:41Z",
-    "fdv_usd": 12024831.81,
-    "reserve_usd": 327893.9508,
-    "volume_h24": 1011834.80068026,
+    "fdv_usd": 12990050.25,
+    "reserve_usd": 327270.4785,
+    "volume_h24": 599638.588635856,
     "change": {
-      "h1": -8.708,
-      "h6": 16.758,
-      "h24": 62.689
+      "h1": -1.895,
+      "h6": 2.822,
+      "h24": 64.556
     },
     "tx_h1": {
-      "buys": 160,
-      "sells": 91
+      "buys": 49,
+      "sells": 50
     },
     "ohlcv_h1": [
       [
@@ -407,54 +407,54 @@
       ]
     ],
     "first_seen": "2026-10-28T21:11:18+00:00",
-    "last_seen": "2026-11-01T15:18:12+00:00",
+    "last_seen": "2026-11-01T20:36:04+00:00",
     "whales": [
       {
-        "kind": "sell",
-        "usd": 4932.52,
-        "mult": 231.2,
-        "whale": false,
-        "hours_ago": 0.1,
-        "addr8": "7VcTmqkv"
-      },
-      {
-        "kind": "sell",
-        "usd": 3372.95,
-        "mult": 158.1,
+        "kind": "buy",
+        "usd": 2116.18,
+        "mult": 49.3,
         "whale": false,
         "hours_ago": 0.9,
-        "addr8": "FUuqK2X6"
+        "addr8": "95CQMsW7"
       },
       {
-        "kind": "buy",
-        "usd": 1480.63,
-        "mult": 69.4,
+        "kind": "sell",
+        "usd": 2001.75,
+        "mult": 46.6,
         "whale": false,
-        "hours_ago": 0.1,
-        "addr8": "DADDyLEu"
-      },
-      {
-        "kind": "buy",
-        "usd": 774.73,
-        "mult": 36.3,
-        "whale": false,
-        "hours_ago": 0.1,
+        "hours_ago": 0.9,
         "addr8": "AgmLJBMD"
       },
       {
         "kind": "buy",
-        "usd": 755.37,
-        "mult": 35.4,
+        "usd": 1758.02,
+        "mult": 40.9,
         "whale": false,
-        "hours_ago": 0.9,
-        "addr8": "9uGsPcu2"
+        "hours_ago": 1.1,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 1543.84,
+        "mult": 35.9,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 901.3,
+        "mult": 21.0,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "AgmLJBMD"
       }
     ]
   },
-  "narrative": "GTA6 разрывает: +62.7% за 24ч. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. крупная сделка на фоне ленты: продал $4.9K (231× медианы, 0ч назад). нетто китов за сутки −$5.3K.",
+  "narrative": "GTA6 разрывает: +64.6% за 24ч. крупная сделка на фоне ленты: купил $2.1K (49× медианы, 1ч назад). нетто китов за сутки −$572.69.",
   "flags": [
     "перегрет за 24ч"
   ],
-  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $4.9K (231× медианы). Нетто-поток китов: $-5.3K.",
-  "updated_at": "2026-11-01T15:18:12Z"
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $2.1K (49× медианы). Нетто-поток китов: $-572.69.",
+  "updated_at": "2026-11-01T20:36:04Z"
 }

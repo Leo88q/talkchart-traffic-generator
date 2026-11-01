@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-01T15:18:28+00:00",
+ "generated_at": "2026-11-01T20:36:17+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-01/PAWCAT.mp4",
-   "latest_file": "videos/latest/PAWCAT.mp4",
-   "symbol": "PAWCAT",
-   "chg_h24": 2553.072
-  },
-  {
-   "file": "videos/2026-11-01/ANSEM.mp4",
-   "latest_file": "videos/latest/ANSEM.mp4",
-   "symbol": "ANSEM",
-   "chg_h24": 1221.56
+   "file": "videos/2026-11-01/Anakin.mp4",
+   "latest_file": "videos/latest/Anakin.mp4",
+   "symbol": "Anakin",
+   "chg_h24": 379.041
   },
   {
    "file": "videos/2026-11-01/KIM.mp4",
    "latest_file": "videos/latest/KIM.mp4",
    "symbol": "KIM",
-   "chg_h24": 719.581
+   "chg_h24": 331.221
+  },
+  {
+   "file": "videos/2026-11-01/BLUE.mp4",
+   "latest_file": "videos/latest/BLUE.mp4",
+   "symbol": "BLUE",
+   "chg_h24": 312.752
   }
  ]
 }
