@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/AAPLCAT_+481.png",
+  "title": "TalkChart: AAPLCAT (+480.9%) — Solana On-Chain Radar",
+  "description": "AAPLCAT разрывает: +480.9% за 24ч. ускорение в последнем часе. объём $2.93M больше капы в 2.5× — бумага в огне. ликвидность тонкая ($95.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.4K (1183× медианы, 0ч назад). нетто китов за сутки −$2.0K.\n\nОбъём: $2.93M · Ликвидность: $95.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп AAPLCAT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6BNptAEKGETQFGQgDWiDhFqAgAmHusyqXqJnLLw74Exw"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

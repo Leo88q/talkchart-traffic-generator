@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CREDIT_+144.png",
+  "title": "TalkChart: CREDIT (+144.3%) — Solana On-Chain Radar",
+  "description": "CREDIT разрывает: +144.3% за 24ч. объём $1.82M больше капы в 19.5× — бумага в огне. ликвидность тонкая ($26.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $593.32 (61× медианы, 0ч назад). нетто китов за сутки +$744.63.\n\nОбъём: $1.82M · Ликвидность: $26.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CREDIT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Ewyifvp8X9NxeaKawXamGXBFDisuMfcFfcdvSZ8opump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DzyuZUVtvvwY1zjpZYuT3Tqu2L6ML17mTiMFf5QrRySd"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

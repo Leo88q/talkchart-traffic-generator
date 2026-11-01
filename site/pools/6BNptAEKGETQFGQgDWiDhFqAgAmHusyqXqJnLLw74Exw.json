@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "6BNptAEKGETQFGQgDWiDhFqAgAmHusyqXqJnLLw74Exw",
+    "name": "AAPLCAT / SOL",
+    "base_symbol": "AAPLCAT",
+    "base_name": "AAPLCAT",
+    "base_address": "GYKnd6jGUSQoBUnj6LdGCBtCWYDgr2Zd6QwNPcy5pump",
+    "dex": "pumpswap",
+    "price_usd": 0.0011745904567203708,
+    "created_at": "2026-10-31T18:44:53Z",
+    "fdv_usd": 1166077.28493543,
+    "reserve_usd": 95751.6119,
+    "volume_h24": 2926424.96785849,
+    "change": {
+      "h1": 9.58,
+      "h6": 37.28,
+      "h24": 480.947
+    },
+    "tx_h1": {
+      "buys": 9516,
+      "sells": 6487
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 1359.37,
+        "mult": 1182.8,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "71dZgBBB"
+      },
+      {
+        "kind": "sell",
+        "usd": 1282.51,
+        "mult": 1115.9,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "ERaZDjxq"
+      },
+      {
+        "kind": "buy",
+        "usd": 662.2,
+        "mult": 576.2,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "9Dv6MJUY"
+      },
+      {
+        "kind": "buy",
+        "usd": 487.42,
+        "mult": 424.1,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "FXTjP9TR"
+      },
+      {
+        "kind": "sell",
+        "usd": 466.19,
+        "mult": 405.6,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "9cNXXUqV"
+      }
+    ],
+    "first_seen": "2026-11-01T06:18:02+00:00",
+    "last_seen": "2026-11-01T06:18:02+00:00"
+  },
+  "narrative": "AAPLCAT разрывает: +480.9% за 24ч. ускорение в последнем часе. объём $2.93M больше капы в 2.5× — бумага в огне. ликвидность тонкая ($95.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.4K (1183× медианы, 0ч назад). нетто китов за сутки −$2.0K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $1.4K (1183× медианы). Нетто-поток китов: $-2.0K.",
+  "updated_at": "2026-11-01T06:18:02Z"
+}

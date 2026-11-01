@@ -1,17 +1,17 @@
 {
-  "slug": "leverhedge-vs-sis",
+  "slug": "pawcat-vs-kim",
   "token1": {
-    "symbol": "Leverhedge",
-    "change_24h": 1178.277,
-    "address": "6d3uJEzDB2WDbvVryFycvgXSiH9fW6ML6hScia5QVHwp",
-    "volume": 1936488.9818906
+    "symbol": "PAWCAT",
+    "change_24h": 3327.713,
+    "address": "eEJ4ZYpgiNTCwRq4cVBdUbqq7s45KrM7XaEFcu3uuGb",
+    "volume": 3292246.91850085
   },
   "token2": {
-    "symbol": "SIS",
-    "change_24h": 451.073,
-    "address": "Ht4GxW1pL2SfamcfC3qcZEcjDHpE55TtjUjnKVs2nhxr",
-    "volume": 2158070.21194479
+    "symbol": "KIM",
+    "change_24h": 621.699,
+    "address": "AbeqLWaD4nQi37xvTZcPUo953cHcLqBUCUYC8MHDP4EQ",
+    "volume": 6788943.79511565
   },
-  "verdict": "По ончейн-метрикам TalkChart: Leverhedge опережает по ценовому импульсу (+1178.3% против +451.1%). Краткосрочный фаворит по совокупности факторов: Leverhedge.",
-  "updated_at": "2026-10-31 23:30 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PAWCAT опережает по ценовому импульсу (+3327.7% против +621.7%). Кроме того, у PAWCAT существенно глубже пул ликвидности ($157.1K против $52.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: PAWCAT.",
+  "updated_at": "2026-11-01 06:18 UTC"
 }

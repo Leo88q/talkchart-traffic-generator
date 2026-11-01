@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PAWCAT_+3328.png",
+  "title": "TalkChart: PAWCAT (+3327.7%) — Solana On-Chain Radar",
+  "description": "PAWCAT разрывает: +3327.7% за 24ч. покупатели доминируют (63% сделок за час). ликвидность тонкая ($157.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $3.29M · Ликвидность: $157.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PAWCAT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-762ZqBCd5m2q3QJ5UPkFL5rqdEUeygNkfTZrpGEZpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=eEJ4ZYpgiNTCwRq4cVBdUbqq7s45KrM7XaEFcu3uuGb"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
