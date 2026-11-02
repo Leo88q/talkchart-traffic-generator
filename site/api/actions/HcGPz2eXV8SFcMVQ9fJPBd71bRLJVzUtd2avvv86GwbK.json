@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ANAKIN_+730.png",
+  "title": "TalkChart: ANAKIN (+729.7%) — Solana On-Chain Radar",
+  "description": "ANAKIN разрывает: +729.7% за 24ч. покупатели доминируют (66% сделок за час). объём $4.70M больше капы в 1.5× — бумага в огне. ликвидность тонкая ($155.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $4.70M · Ликвидность: $155.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ANAKIN (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HcGPz2eXV8SFcMVQ9fJPBd71bRLJVzUtd2avvv86GwbK"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

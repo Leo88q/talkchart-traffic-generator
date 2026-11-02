@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/uni_-63.png",
+  "title": "TalkChart: uni (-62.8%) — Solana On-Chain Radar",
+  "description": "uni в обвале: -62.8% за 24ч. пулу 0 дн. — чистая рулетка.\n\nОбъём: $8.68M · Ликвидность: $256.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп uni (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-jM9r9PJFyPaMEbhGZPbDeZJiysn2pfyz5TzdDs5pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3UydvHKHxDm77yPPDsKsvd73Kt8uQ48N4PNjuWN42HDJ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

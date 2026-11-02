@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-01T20:36:17+00:00",
+ "generated_at": "2026-11-02T06:20:29+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-01/Anakin.mp4",
+   "file": "videos/2026-11-02/ANAKIN.mp4",
+   "latest_file": "videos/latest/ANAKIN.mp4",
+   "symbol": "ANAKIN",
+   "chg_h24": 729.668
+  },
+  {
+   "file": "videos/2026-11-02/WASTED.mp4",
+   "latest_file": "videos/latest/WASTED.mp4",
+   "symbol": "WASTED",
+   "chg_h24": 581.258
+  },
+  {
+   "file": "videos/2026-11-02/Anakin.mp4",
    "latest_file": "videos/latest/Anakin.mp4",
    "symbol": "Anakin",
-   "chg_h24": 379.041
-  },
-  {
-   "file": "videos/2026-11-01/KIM.mp4",
-   "latest_file": "videos/latest/KIM.mp4",
-   "symbol": "KIM",
-   "chg_h24": 331.221
-  },
-  {
-   "file": "videos/2026-11-01/BLUE.mp4",
-   "latest_file": "videos/latest/BLUE.mp4",
-   "symbol": "BLUE",
-   "chg_h24": 312.752
+   "chg_h24": 322.997
   }
  ]
 }
