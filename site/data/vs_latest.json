@@ -1,17 +1,17 @@
 {
-  "slug": "anakin-vs-wasted",
+  "slug": "mamesuke-vs-wasted",
   "token1": {
-    "symbol": "ANAKIN",
-    "change_24h": 729.668,
-    "address": "HcGPz2eXV8SFcMVQ9fJPBd71bRLJVzUtd2avvv86GwbK",
-    "volume": 4704774.94618531
+    "symbol": "MAMESUKE",
+    "change_24h": 1632.602,
+    "address": "HPeXruE5Msv7paz5WPViwScLeSYWgZr8vhDakuiEp5ku",
+    "volume": 2890563.09692129
   },
   "token2": {
     "symbol": "WASTED",
-    "change_24h": 581.258,
+    "change_24h": 587.04,
     "address": "TT7DKs9YjJZj1fwMGoPmKBmDreZzyMAMrHoDCGdfwqN",
-    "volume": 841674.966934395
+    "volume": 1237069.68184851
   },
-  "verdict": "По ончейн-метрикам TalkChart: ANAKIN опережает по ценовому импульсу (+729.7% против +581.3%). Кроме того, у ANAKIN существенно глубже пул ликвидности ($155.0K против $76.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: ANAKIN.",
-  "updated_at": "2026-11-02 06:20 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: MAMESUKE опережает по ценовому импульсу (+1632.6% против +587.0%). Краткосрочный фаворит по совокупности факторов: MAMESUKE.",
+  "updated_at": "2026-11-02 18:57 UTC"
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GTA6_-5.png",
+  "title": "TalkChart: GTA6 (-5.4%) — Solana On-Chain Radar",
+  "description": "GTA6 в боковике: -5.4% за сутки. давление продаж нарастает. ликвидность тонкая ($128.2K) — движения будут резкими. пулу 4 дн., история короткая.\n\nОбъём: $1.96M · Ликвидность: $128.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GTA6 (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5AFbwVSQPJf4cgEjq4TajZYyPYUvYktrRN3SahNrPnmv"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-02T06:20:29+00:00",
+ "generated_at": "2026-11-02T18:57:20+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-02/ANAKIN.mp4",
-   "latest_file": "videos/latest/ANAKIN.mp4",
-   "symbol": "ANAKIN",
-   "chg_h24": 729.668
+   "file": "videos/2026-11-02/MAMESUKE.mp4",
+   "latest_file": "videos/latest/MAMESUKE.mp4",
+   "symbol": "MAMESUKE",
+   "chg_h24": 1632.602
   },
   {
    "file": "videos/2026-11-02/WASTED.mp4",
    "latest_file": "videos/latest/WASTED.mp4",
    "symbol": "WASTED",
-   "chg_h24": 581.258
+   "chg_h24": 587.04
   },
   {
-   "file": "videos/2026-11-02/Anakin.mp4",
-   "latest_file": "videos/latest/Anakin.mp4",
-   "symbol": "Anakin",
-   "chg_h24": 322.997
+   "file": "videos/2026-11-02/PEACE.mp4",
+   "latest_file": "videos/latest/PEACE.mp4",
+   "symbol": "PEACE",
+   "chg_h24": 337.256
   }
  ]
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Learjet_+132.png",
+  "title": "TalkChart: Learjet (+132.3%) — Solana On-Chain Radar",
+  "description": "Learjet разрывает: +132.3% за 24ч. объём $1.49M больше капы в 16.8× — бумага в огне. ликвидность тонкая ($24.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $693.38 (53× медианы, 0ч назад). нетто китов за сутки +$64.66.\n\nОбъём: $1.49M · Ликвидность: $24.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Learjet (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8Wi25nQhEay9KwAsoguEs3y1uxaJmCRQxRYnSY9dpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=B15nKKRQG4Mmgg1WBTWjXjEnJfQZp2NDtjx3r4DNouqL"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "B15nKKRQG4Mmgg1WBTWjXjEnJfQZp2NDtjx3r4DNouqL",
+    "name": "Learjet / SOL",
+    "base_symbol": "Learjet",
+    "base_name": "Learjet",
+    "base_address": "8Wi25nQhEay9KwAsoguEs3y1uxaJmCRQxRYnSY9dpump",
+    "dex": "pumpswap",
+    "price_usd": 8.886191747835821e-05,
+    "created_at": "2026-11-01T20:24:45Z",
+    "fdv_usd": 88861.91748,
+    "reserve_usd": 24687.5351,
+    "volume_h24": 1492778.80469052,
+    "change": {
+      "h1": 10.087,
+      "h6": -38.408,
+      "h24": 132.277
+    },
+    "tx_h1": {
+      "buys": 215,
+      "sells": 141
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 693.38,
+        "mult": 53.1,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "DkXrtfN2"
+      },
+      {
+        "kind": "sell",
+        "usd": 372.27,
+        "mult": 28.5,
+        "whale": false,
+        "hours_ago": 0.7,
+        "addr8": "CTtU4Nqp"
+      },
+      {
+        "kind": "buy",
+        "usd": 295.79,
+        "mult": 22.6,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 286.72,
+        "mult": 21.9,
+        "whale": false,
+        "hours_ago": 0.8,
+        "addr8": "7gEmowyG"
+      },
+      {
+        "kind": "sell",
+        "usd": 265.52,
+        "mult": 20.3,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "7BNaxx6K"
+      }
+    ],
+    "first_seen": "2026-11-02T18:57:04+00:00",
+    "last_seen": "2026-11-02T18:57:04+00:00"
+  },
+  "narrative": "Learjet разрывает: +132.3% за 24ч. объём $1.49M больше капы в 16.8× — бумага в огне. ликвидность тонкая ($24.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $693.38 (53× медианы, 0ч назад). нетто китов за сутки +$64.66.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $693.38 (53× медианы). Нетто-поток китов: +$64.66.",
+  "updated_at": "2026-11-02T18:57:04Z"
+}

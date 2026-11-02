@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/STEALTH_+100.png",
+  "title": "TalkChart: STEALTH (+99.8%) — Solana On-Chain Radar",
+  "description": "STEALTH разрывает: +99.8% за 24ч. давление продаж нарастает. объём $2.83M больше капы в 36.0× — бумага в огне. ликвидность тонкая ($24.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.83M · Ликвидность: $24.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп STEALTH (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-GoDSW31bTxfkoup9yA1qcGGx9RMXdTEWgApv3xzBmoA"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=E6RfkJwDBJRyPe4xWNDYu4QyYH1nYwzhxZunUfeifyLX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
