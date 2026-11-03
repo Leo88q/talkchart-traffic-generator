@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CAPY_+608.png",
+  "title": "TalkChart: CAPY (+608.2%) — Solana On-Chain Radar",
+  "description": "CAPY разрывает: +608.2% за 24ч. объём $6.26M больше капы в 23.8× — бумага в огне. ликвидность тонкая ($51.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $6.26M · Ликвидность: $51.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CAPY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5DnWmSL9t3YqK5MeYq8ozJpna46VcdePWzHvyN8avg2g"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7Jyz7YkQvvrHcjrmKhzs1Z6fUP16PKPcwonVDNkqrert"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

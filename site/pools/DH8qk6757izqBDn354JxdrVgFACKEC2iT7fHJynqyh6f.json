@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "DH8qk6757izqBDn354JxdrVgFACKEC2iT7fHJynqyh6f",
+    "name": "ascend / SOL",
+    "base_symbol": "ascend",
+    "base_name": "ascend",
+    "base_address": "8vFdgGFWkKS1euogVW4qmMurdnso8CPrfQNpB4qqpump",
+    "dex": "pumpswap",
+    "price_usd": 3.2518786453523964e-05,
+    "created_at": "2026-11-03T00:55:09Z",
+    "fdv_usd": 31977.1420646664,
+    "reserve_usd": 14506.6577,
+    "volume_h24": 1799630.21942618,
+    "change": {
+      "h1": -3.044,
+      "h6": 119.061,
+      "h24": -10.027
+    },
+    "tx_h1": {
+      "buys": 81,
+      "sells": 74
+    },
+    "first_seen": "2026-11-03T12:02:04+00:00",
+    "last_seen": "2026-11-03T12:02:04+00:00"
+  },
+  "narrative": "ascend теряет -10.0% за сутки. объём $1.80M больше капы в 56.3× — бумага в огне. ликвидность тонкая ($14.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-03T12:02:04Z"
+}

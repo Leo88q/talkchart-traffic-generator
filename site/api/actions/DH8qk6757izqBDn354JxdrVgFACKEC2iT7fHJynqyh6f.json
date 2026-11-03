@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ascend_-10.png",
+  "title": "TalkChart: ascend (-10.0%) — Solana On-Chain Radar",
+  "description": "ascend теряет -10.0% за сутки. объём $1.80M больше капы в 56.3× — бумага в огне. ликвидность тонкая ($14.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.80M · Ликвидность: $14.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ascend (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8vFdgGFWkKS1euogVW4qmMurdnso8CPrfQNpB4qqpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DH8qk6757izqBDn354JxdrVgFACKEC2iT7fHJynqyh6f"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

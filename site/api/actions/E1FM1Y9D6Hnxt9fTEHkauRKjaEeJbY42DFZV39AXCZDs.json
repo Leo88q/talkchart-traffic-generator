@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/UNPOOLED_+42.png",
+  "title": "TalkChart: UNPOOLED (+42.0%) — Solana On-Chain Radar",
+  "description": "UNPOOLED разрывает: +42.0% за 24ч. объём $866.3K больше капы в 16.3× — бумага в огне. ликвидность тонкая ($18.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $866.3K · Ликвидность: $18.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп UNPOOLED (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-FxQ5GbqCBxNHDpFTpiL9RDVHiP58ar5nMkR3eMwepump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=E1FM1Y9D6Hnxt9fTEHkauRKjaEeJbY42DFZV39AXCZDs"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

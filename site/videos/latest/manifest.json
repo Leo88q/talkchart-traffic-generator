@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-03T02:25:37+00:00",
+ "generated_at": "2026-11-03T12:02:20+00:00",
  "videos": [
+  {
+   "file": "videos/2026-11-03/CAPY.mp4",
+   "latest_file": "videos/latest/CAPY.mp4",
+   "symbol": "CAPY",
+   "chg_h24": 608.24
+  },
   {
    "file": "videos/2026-11-03/MAMESUKE.mp4",
    "latest_file": "videos/latest/MAMESUKE.mp4",
    "symbol": "MAMESUKE",
-   "chg_h24": 1098.428
+   "chg_h24": 557.88
   },
   {
-   "file": "videos/2026-11-03/MOVEMBER.mp4",
-   "latest_file": "videos/latest/MOVEMBER.mp4",
-   "symbol": "MOVEMBER",
-   "chg_h24": 128.551
-  },
-  {
-   "file": "videos/2026-11-03/FLOAT.mp4",
-   "latest_file": "videos/latest/FLOAT.mp4",
-   "symbol": "FLOAT",
-   "chg_h24": 120.945
+   "file": "videos/2026-11-03/CAPY.mp4",
+   "latest_file": "videos/latest/CAPY.mp4",
+   "symbol": "CAPY",
+   "chg_h24": 374.753
   }
  ]
 }
