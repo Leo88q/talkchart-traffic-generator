@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Slingoor_-95.png",
+  "title": "TalkChart: Slingoor (-95.2%) — Solana On-Chain Radar",
+  "description": "Slingoor в обвале: -95.2% за 24ч. давление продаж нарастает. объём $1.32M больше капы в 26.4× — бумага в огне. ликвидность тонкая ($18.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.32M · Ликвидность: $18.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Slingoor (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Hc4R8zmxKkPvDrsAcUH1YxaSVHmykUd85CkavcTB2GJo"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

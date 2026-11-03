@@ -1,17 +1,17 @@
 {
-  "slug": "capy-vs-mamesuke",
+  "slug": "capy-vs-mogmas",
   "token1": {
     "symbol": "CAPY",
-    "change_24h": 608.24,
-    "address": "7Jyz7YkQvvrHcjrmKhzs1Z6fUP16PKPcwonVDNkqrert",
-    "volume": 6259142.57679348
+    "change_24h": 262.605,
+    "address": "4WutFjFujupWJm5UUidXouMgUPauXG4sAEjVaYqjrMBW",
+    "volume": 3514130.42919436
   },
   "token2": {
-    "symbol": "MAMESUKE",
-    "change_24h": 557.88,
-    "address": "HPeXruE5Msv7paz5WPViwScLeSYWgZr8vhDakuiEp5ku",
-    "volume": 3920469.11634257
+    "symbol": "MOGMAS",
+    "change_24h": 205.021,
+    "address": "Dq9JgfQkFe9fX2vPM5tPbtWdB9HnYGoqFkfUKdHgM9U4",
+    "volume": 743799.551763622
   },
-  "verdict": "По ончейн-метрикам TalkChart: CAPY опережает по ценовому импульсу (+608.2% против +557.9%). Кроме того, у MAMESUKE более надёжная ликвидность ($106.9K против $51.7K). Краткосрочный фаворит по совокупности факторов: CAPY.",
-  "updated_at": "2026-11-03 12:02 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: CAPY опережает по ценовому импульсу (+262.6% против +205.0%). Кроме того, у CAPY существенно глубже пул ликвидности ($138.0K против $28.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CAPY.",
+  "updated_at": "2026-11-03 19:34 UTC"
 }

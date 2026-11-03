@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BINGUS_-66.png",
+  "title": "TalkChart: BINGUS (-66.2%) — Solana On-Chain Radar",
+  "description": "BINGUS в обвале: -66.2% за 24ч. давление продаж нарастает. объём $947.7K больше капы в 18.7× — бумага в огне. ликвидность тонкая ($46.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $947.7K · Ликвидность: $46.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BINGUS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2HbNwnhiL8HBK5mkdrcB9nbDxknPqGmJdXrtuH5fLoat"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Bv8FW9m6dT51sDASBEpPPmvHhJ4cffDG5RKayfoAnTzt"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

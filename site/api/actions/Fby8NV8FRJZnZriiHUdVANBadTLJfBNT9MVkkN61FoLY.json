@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/RICO_+172.png",
+  "title": "TalkChart: RICO (+172.0%) — Solana On-Chain Radar",
+  "description": "RICO разрывает: +172.0% за 24ч. давление продаж нарастает. объём $1.27M больше капы в 3.2× — бумага в огне. ликвидность тонкая ($53.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.27M · Ликвидность: $53.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп RICO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Fby8NV8FRJZnZriiHUdVANBadTLJfBNT9MVkkN61FoLY"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

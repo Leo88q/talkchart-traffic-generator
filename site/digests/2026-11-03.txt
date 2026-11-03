@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-03
-1. CAPY +608.2% — CAPY разрывает: +608.2% за 24ч. объём $6.26M больше капы в 23.8× — бумага в огне
-2. MAMESUKE +557.9% — MAMESUKE разрывает: +557.9% за 24ч. объём $3.92M больше капы в 2.7× — бумага в огне
-3. CAPY +374.8% — CAPY разрывает: +374.8% за 24ч. объём $3.01M больше капы в 4.8× — бумага в огне
-4. MOVEMBER +351.1% — MOVEMBER разрывает: +351.1% за 24ч. ускорение в последнем часе
-5. FLOAT +158.3% — FLOAT разрывает: +158.3% за 24ч. пулу 6 дн., история короткая
+1. CAPY +262.6% — CAPY разрывает: +262.6% за 24ч. давление продаж нарастает
+2. MOGMAS +205.0% — MOGMAS разрывает: +205.0% за 24ч. объём $743.8K больше капы в 6.2× — бумага в огне
+3. RICO +172.0% — RICO разрывает: +172.0% за 24ч. давление продаж нарастает
+4. CHOO +137.8% — CHOO разрывает: +137.8% за 24ч. ликвидность тонкая ($205.9K) — движения будут резкими
+5. Slingoor -95.2% — Slingoor в обвале: -95.2% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/7Jyz7YkQvvrHcjrmKhzs1Z6fUP16PKPcwonVDNkqrert.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/4WutFjFujupWJm5UUidXouMgUPauXG4sAEjVaYqjrMBW.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

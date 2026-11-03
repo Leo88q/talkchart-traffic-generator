@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Percolator_+54.png",
+  "title": "TalkChart: Percolator (+53.9%) — Solana On-Chain Radar",
+  "description": "Percolator разрывает: +53.9% за 24ч. покупатели доминируют (62% сделок за час).\n\nОбъём: $1.04M · Ликвидность: $336.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Percolator (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8PzFWyLpCVEmbZmVJcaRTU5r69XKJx1rd7YGpWvnpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Ebs3mXAzqZfzHfsdinTNw7gPy4uNyEAywcCiJxzLRrBW"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

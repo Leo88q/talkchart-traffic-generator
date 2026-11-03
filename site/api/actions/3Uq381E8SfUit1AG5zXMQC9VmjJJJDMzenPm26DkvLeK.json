@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/1WIN_+71.png",
+  "title": "TalkChart: 1WIN (+71.0%) — Solana On-Chain Radar",
+  "description": "1WIN разрывает: +71.0% за 24ч. пулу 1 дн. — чистая рулетка.\n\nОбъём: $4.77M · Ликвидность: $1.06M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп 1WIN (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-FjPKUGnF5zBpdEv18gT8FJCtxh3MKrFkoeYekgYr1win"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3Uq381E8SfUit1AG5zXMQC9VmjJJJDMzenPm26DkvLeK"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

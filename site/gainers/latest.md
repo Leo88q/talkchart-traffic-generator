@@ -1,6 +1,6 @@
 # Solana Top Gainers (24h) — 2026-11-03
 
-> Automated on-chain leaderboard from TalkChart. Updated 2026-11-03 12:02 UTC.
+> Automated on-chain leaderboard from TalkChart. Updated 2026-11-03 19:34 UTC.
 
 | # | Symbol | 24h Change | 24h Volume | On-Chain Narrative |
 |---|--------|------------|------------|-------------------|
@@ -13,4 +13,4 @@
 | 7 | [Groklet](https://leo88q.github.io/content-/site/pools/7oDjba4hZozvNWboKSRwFetStnM4iA5WiTKwFr1Lsy8t.md) | +921.3% | $2.18M | Groklet разрывает: +921.3% за 24ч. объём $2.18M больше капы в 7.8× — бумага в огне |
 | 8 | [CATBOT](https://leo88q.github.io/content-/site/pools/9CnCbMdSHu7P4VvPzoELHbB6rmBy3quiAby36KqcswvW.md) | +913.9% | $5.77M | CATBOT разрывает: +913.9% за 24ч. покупатели доминируют (69% сделок за час) |
 | 9 | [ZKDARK](https://leo88q.github.io/content-/site/pools/CR5dTgvTddGAqDjP8dGHTL51N6PKRaXqxFBp9FQ5PrKn.md) | +679.9% | $1.86M | ZKDARK разрывает: +679.9% за 24ч. давление продаж нарастает |
-| 10 | [CAPY](https://leo88q.github.io/content-/site/pools/7Jyz7YkQvvrHcjrmKhzs1Z6fUP16PKPcwonVDNkqrert.md) | +608.2% | $6.26M | CAPY разрывает: +608.2% за 24ч. объём $6.26M больше капы в 23.8× — бумага в огне |
+| 10 | [ODIE](https://leo88q.github.io/content-/site/pools/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs.md) | +579.8% | $8.46M | ODIE разрывает: +579.8% за 24ч. давление продаж нарастает |
