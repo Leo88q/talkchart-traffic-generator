@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CHAD_-60.png",
+  "title": "TalkChart: CHAD (-59.8%) — Solana On-Chain Radar",
+  "description": "CHAD в обвале: -59.8% за 24ч. объём $770.5K больше капы в 4.7× — бумага в огне. ликвидность тонкая ($78.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.5K (85× медианы, 1ч назад). нетто китов за сутки +$1.9K.\n\nОбъём: $770.5K · Ликвидность: $78.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CHAD (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3jAHcV6ZwmA3pnrR9MrWwNSbN5gDiM7rSM1RJradQ8xK"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4jNosyXHBnRLz7dUst6RMBED7F9T77UGXpXeWk3yKCy4"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

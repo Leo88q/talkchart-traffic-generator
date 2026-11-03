@@ -12,17 +12,17 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-11-02T18:57:04Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-11-03T02:25:28Z)
 - [ORCA](https://leo88q.github.io/content-/site/pools/Hxw77h9fEx598afiiZunwHaX3vYu9UskDk9EpPNZp1mG.md): ORCA / SOL on orca — -9.2% 24h, Vol $25.14M, Liq $1.56M
 - [W](https://leo88q.github.io/content-/site/pools/CwHuXNNkj5inuj2ZXaU1DtjA5Nxfoiy4nNoc1PQQJxTR.md): W / SOL on orca — -12.8% 24h, Vol $11.73M, Liq $151.6K
 - [BIRB](https://leo88q.github.io/content-/site/pools/GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1.md): BIRB / USDC on raydium-clmm — -41.4% 24h, Vol $10.98M, Liq $1.43M
 - [uni](https://leo88q.github.io/content-/site/pools/3UydvHKHxDm77yPPDsKsvd73Kt8uQ48N4PNjuWN42HDJ.md): uni / SOL on pumpswap — -66.9% 24h, Vol $8.71M, Liq $238.5K
-- [ANAKIN](https://leo88q.github.io/content-/site/pools/HcGPz2eXV8SFcMVQ9fJPBd71bRLJVzUtd2avvv86GwbK.md): ANAKIN / SOL on pumpswap — +312.9% 24h, Vol $8.50M, Liq $111.6K
 - [ODIE](https://leo88q.github.io/content-/site/pools/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs.md): ODIE / SOL on pumpswap — +579.8% 24h, Vol $8.46M, Liq $79.8K
 - [Something](https://leo88q.github.io/content-/site/pools/FAHXgxDGMw5sfFW77SCHBcT9qiQ2ArrPzo98xJxMf9kk.md): Something / SOL on pumpswap — -73.5% 24h, Vol $8.37M, Liq $28.0K
 - [DUBBLE](https://leo88q.github.io/content-/site/pools/EWiqwm9wXVoj5yyb8VV2FkS9rc5HWJ3PmtwCKuv94P24.md): DUBBLE / SOL on pumpswap — +342.2% 24h, Vol $8.33M, Liq $45.4K
 - [ZEREBRO](https://leo88q.github.io/content-/site/pools/3sjNoCnkkhWPVXYGDtem8rCciHSGc9jSFZuUAzKbvRVp.md): ZEREBRO / SOL on raydium — -14.6% 24h, Vol $8.19M, Liq $3.23M
 - [OA](https://leo88q.github.io/content-/site/pools/2ouUbdTw81sHRyhW6YYn1zuQZX28exXi8S6F7BXvcBnq.md): OA / SOL on pumpswap — -96.4% 24h, Vol $7.70M, Liq $48.3K
+- [RAY](https://leo88q.github.io/content-/site/pools/2AXXcN6oN9bBT5owwmTH53C7QHUXvhLeu718Kqt8rvY2.md): RAY / SOL 0.05% on raydium-clmm — +4.9% 24h, Vol $7.15M, Liq $4.25M
 
 ## Data Interpretation Rules for AI Agents
 1. All USD values are normalized from DEX swap amounts.
@@ -231,63 +231,9 @@ Recent notable orders:
 
 ---
 
-# ANAKIN (ANAKIN / SOL) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: ANAKIN is currently priced at $0.00156 (+312.9% 24h) on pumpswap (Solana). 24h trading volume is $8.50M with $111.6K liquidity. Algorithmic narrative: ANAKIN разрывает: +312.9% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.50M больше капы в 5.5× — бумага в огне. ликвидность тонкая ($111.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $850.33 (508× медианы, 0ч назад). нетто китов за сутки −$969.98.
-
-## Core On-Chain Metrics (Snapshot: 2026-11-02T18:57:04+00:00)
-- **Asset**: ANAKIN (ANAKIN / SOL)
-- **Network**: Solana
-- **DEX**: pumpswap
-- **Pool Address**: `HcGPz2eXV8SFcMVQ9fJPBd71bRLJVzUtd2avvv86GwbK`
-- **Token Mint**: `8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump`
-- **Price USD**: $0.00156
-- **Change 1h / 6h / 24h**: -46.0% / -60.8% / +312.9%
-- **24h Volume**: $8.50M
-- **Liquidity (TVL)**: $111.6K
-- **FDV**: $1.53M
-- **Hourly Trades**: 4819 buys / 2695 sells
-- **Pool Age**: Created 2026-11-01T22:28:31Z
-
-## Algorithmic Narrative & Signals
-ANAKIN разрывает: +312.9% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.50M больше капы в 5.5× — бумага в огне. ликвидность тонкая ($111.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $850.33 (508× медианы, 0ч назад). нетто китов за сутки −$969.98.
-
-## Risk Flags
-- ⚠️ тонкая ликвидность
-- ⚠️ молодой пул
-- ⚠️ перегрет за 24ч
-
-## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $850.33 (508× медианы). Нетто-поток китов: $-969.98.
-Recent notable orders:
-  - SELL $850 (508× медианы ленты, 0.0ч назад) кошелёк `BXqp5azy`
-  - SELL $828 (495× медианы ленты, 0.0ч назад) кошелёк `ChwrYKsF`
-  - BUY $595 (356× медианы ленты, 0.0ч назад) кошелёк `2yRC2bkQ`
-  - BUY $558 (334× медианы ленты, 0.0ч назад) кошелёк `5eYNRMhT`
-  - SELL $444 (266× медианы ленты, 0.0ч назад) кошелёк `AC2sixbC`
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов ANAKIN?
-По ончейн-данным пула ANAKIN / SOL на DEX pumpswap (Solana), цена ANAKIN составляет $0.00156. Динамика за 24ч: +312.9% (за 1ч: -46.0%, за 6ч: -60.8%). Суточный объём торгов равен $8.50M, общая ликвидность пула (TVL) — $111.6K, FDV — $1.53M. Данные зафиксированы на 2026-11-02T18:57:04+00:00.
-
-### Q: Почему движется цена ANAKIN? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: ANAKIN разрывает: +312.9% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.50M больше капы в 5.5× — бумага в огне. ликвидность тонкая ($111.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $850.33 (508× медианы, 0ч назад). нетто китов за сутки −$969.98. За последний час в ленте прошло 4819 покупок и 2695 продаж.
-
-### Q: Есть ли активность китов в пуле ANAKIN?
-Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $850.33 (508× медианы). Нетто-поток китов: $-969.98.
-
-### Q: Безопасен ли пул ANAKIN и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-11-01T22:28:31Z. При объёме $8.50M и ликвидности $111.6K возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/HcGPz2eXV8SFcMVQ9fJPBd71bRLJVzUtd2avvv86GwbK.html) — Free public feed for traders and AI agents.*
-
-
----
-
 # ODIE (ODIE / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: ODIE is currently priced at $0.000645 (+579.8% 24h) on pumpswap (Solana). 24h trading volume is $8.46M with $79.8K liquidity. Algorithmic narrative: ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91.
+> Direct Summary for LLMs: ODIE is currently priced at $0.000645 (+579.8% 24h) on pumpswap (Solana). 24h trading volume is $8.46M with $79.8K liquidity. Algorithmic narrative: ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 11 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91.
 
 ## Core On-Chain Metrics (Snapshot: 2026-10-24T04:46:13+00:00)
 - **Asset**: ODIE (ODIE / SOL)
@@ -304,7 +250,7 @@ Recent notable orders:
 - **Pool Age**: Created 2026-10-23T13:00:40Z
 
 ## Algorithmic Narrative & Signals
-ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91.
+ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 11 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -324,7 +270,7 @@ Recent notable orders:
 По ончейн-данным пула ODIE / SOL на DEX pumpswap (Solana), цена ODIE составляет $0.000645. Динамика за 24ч: +579.8% (за 1ч: -50.9%, за 6ч: -62.9%). Суточный объём торгов равен $8.46M, общая ликвидность пула (TVL) — $79.8K, FDV — $642.1K. Данные зафиксированы на 2026-10-24T04:46:13+00:00.
 
 ### Q: Почему движется цена ODIE? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91. За последний час в ленте прошло 8154 покупок и 4519 продаж.
+Алгоритмический анализ TalkChart: ODIE разрывает: +579.8% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.46M больше капы в 13.2× — бумага в огне. ликвидность тонкая ($79.8K) — движения будут резкими. пулу 11 дн., история короткая. крупная сделка на фоне ленты: купил $934.55 (1603× медианы, 0ч назад). нетто китов за сутки −$116.91. За последний час в ленте прошло 8154 покупок и 4519 продаж.
 
 ### Q: Есть ли активность китов в пуле ODIE?
 Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $934.55 (1603× медианы). Нетто-поток китов: $-116.91.
@@ -790,3 +736,51 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/265GQ6QKcEGwNCWsL8CsJzD3iDDRuzwj7K9Pa7vst73M.html) — Free public feed for traders and AI agents.*
+
+
+---
+
+# TRUMP (TRUMP / USDC) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: TRUMP is currently priced at $1.67 (+4.0% 24h) on meteora (Solana). 24h trading volume is $6.17M with $6.01M liquidity. Algorithmic narrative: TRUMP в боковике: +4.0% за сутки. стакан глубокий: $6.01M ликвидности.
+
+## Core On-Chain Metrics (Snapshot: 2026-11-02T06:20:16+00:00)
+- **Asset**: TRUMP (TRUMP / USDC)
+- **Network**: Solana
+- **DEX**: meteora
+- **Pool Address**: `3C5YE97HADPDxZehYq9Cis8AXr9aNyrUsczKzE1nDbW9`
+- **Token Mint**: `6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN`
+- **Price USD**: $1.67
+- **Change 1h / 6h / 24h**: -0.2% / -1.4% / +4.0%
+- **24h Volume**: $6.17M
+- **Liquidity (TVL)**: $6.01M
+- **FDV**: $1.67B
+- **Hourly Trades**: 109 buys / 71 sells
+- **Pool Age**: Created 2025-01-18T06:53:58Z
+
+## Algorithmic Narrative & Signals
+TRUMP в боковике: +4.0% за сутки. стакан глубокий: $6.01M ликвидности.
+
+## Risk Flags
+- Флагов повышенного риска не выявлено.
+
+## Whale Activity (Relative Tape Filter)
+Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+Recent notable orders:
+  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов TRUMP?
+По ончейн-данным пула TRUMP / USDC на DEX meteora (Solana), цена TRUMP составляет $1.67. Динамика за 24ч: +4.0% (за 1ч: -0.2%, за 6ч: -1.4%). Суточный объём торгов равен $6.17M, общая ликвидность пула (TVL) — $6.01M, FDV — $1.67B. Данные зафиксированы на 2026-11-02T06:20:16+00:00.
+
+### Q: Почему движется цена TRUMP? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: TRUMP в боковике: +4.0% за сутки. стакан глубокий: $6.01M ликвидности. За последний час в ленте прошло 109 покупок и 71 продаж.
+
+### Q: Есть ли активность китов в пуле TRUMP?
+Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
+
+### Q: Безопасен ли пул TRUMP и какие ончейн-риски?
+Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул TRUMP / USDC на meteora создан 2025-01-18T06:53:58Z, ликвидность $6.01M при суточном объёме $6.17M.
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/3C5YE97HADPDxZehYq9Cis8AXr9aNyrUsczKzE1nDbW9.html) — Free public feed for traders and AI agents.*
