@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/RAM_+134.png",
+  "title": "TalkChart: RAM (+134.0%) — Solana On-Chain Radar",
+  "description": "RAM разрывает: +134.0% за 24ч. давление продаж нарастает. объём $5.28M больше капы в 45.9× — бумага в огне. ликвидность тонкая ($34.5K) — движения будут резкими. пулу 5 дн., история короткая. крупная сделка на фоне ленты: продал $1.2K (82× медианы, 0ч назад). нетто китов за сутки −$879.54.\n\nОбъём: $5.28M · Ликвидность: $34.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп RAM (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6QUHcqYuiPRHxhnYZoygewXtNQr9kUrhc9Tmwgtbpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=A5FpVH5c4Zya6EwbBWGzLsFDoUGCX5BjSXK4FXKUwHMW"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

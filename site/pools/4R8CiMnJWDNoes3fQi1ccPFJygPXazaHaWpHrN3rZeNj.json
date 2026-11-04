@@ -6,22 +6,22 @@
     "base_name": "JEANPHIL",
     "base_address": "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
     "dex": "pumpswap",
-    "price_usd": 0.0033581692937771166,
+    "price_usd": 0.00533484620504125,
     "created_at": "2026-09-19T19:06:59Z",
-    "fdv_usd": 3255345.68129608,
-    "reserve_usd": 278148.9128,
-    "volume_h24": 266585.322280487,
+    "fdv_usd": 5171874.00105983,
+    "reserve_usd": 356864.5269,
+    "volume_h24": 609000.06772031,
     "change": {
-      "h1": -13.198,
-      "h6": -8.771,
-      "h24": -9.878
+      "h1": -7.47,
+      "h6": 36.491,
+      "h24": 44.397
     },
     "tx_h1": {
-      "buys": 71,
-      "sells": 50
+      "buys": 1133,
+      "sells": 448
     },
     "first_seen": "2026-09-21T03:24:25+00:00",
-    "last_seen": "2026-11-02T18:57:04+00:00",
+    "last_seen": "2026-11-04T19:55:10+00:00",
     "ohlcv_h1": [
       [
         1793599200,
@@ -410,49 +410,49 @@
     ],
     "whales": [
       {
-        "kind": "sell",
-        "usd": 3177.35,
-        "mult": 86.6,
+        "kind": "buy",
+        "usd": 7319.23,
+        "mult": 86909.8,
         "whale": false,
-        "hours_ago": 0.5,
-        "addr8": "CccSh2xw"
+        "hours_ago": 0.0,
+        "addr8": "DG5Fj1uD"
       },
       {
         "kind": "sell",
-        "usd": 2115.62,
-        "mult": 57.6,
+        "usd": 2046.11,
+        "mult": 24295.8,
         "whale": false,
-        "hours_ago": 0.5,
-        "addr8": "CccSh2xw"
-      },
-      {
-        "kind": "sell",
-        "usd": 1436.86,
-        "mult": 39.2,
-        "whale": false,
-        "hours_ago": 0.3,
-        "addr8": "6gMxC8Y5"
-      },
-      {
-        "kind": "sell",
-        "usd": 1009.73,
-        "mult": 27.5,
-        "whale": false,
-        "hours_ago": 0.5,
-        "addr8": "Cou3ky8h"
+        "hours_ago": 0.1,
+        "addr8": "BVMS3vY6"
       },
       {
         "kind": "buy",
-        "usd": 839.63,
-        "mult": 22.9,
+        "usd": 1389.89,
+        "mult": 16503.8,
         "whale": false,
-        "hours_ago": 0.5,
-        "addr8": "2EZsc3KX"
+        "hours_ago": 0.0,
+        "addr8": "BXN5RVsb"
+      },
+      {
+        "kind": "buy",
+        "usd": 674.44,
+        "mult": 8008.4,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "8k69umdu"
+      },
+      {
+        "kind": "sell",
+        "usd": 606.61,
+        "mult": 7203.0,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "AyVWcGRp"
       }
     ]
   },
-  "narrative": "JEANPHIL теряет -9.9% за сутки. давление продаж нарастает. крупная сделка на фоне ленты: продал $3.2K (87× медианы, 0ч назад). нетто китов за сутки −$6.9K.",
+  "narrative": "JEANPHIL разрывает: +44.4% за 24ч. покупатели доминируют (72% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. крупная сделка на фоне ленты: купил $7.3K (86910× медианы, 0ч назад). нетто китов за сутки +$6.7K.",
   "flags": [],
-  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $3.2K (87× медианы). Нетто-поток китов: $-6.9K.",
-  "updated_at": "2026-11-04T12:16:15Z"
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $7.3K (86910× медианы). Нетто-поток китов: +$6.7K.",
+  "updated_at": "2026-11-04T19:55:10Z"
 }
