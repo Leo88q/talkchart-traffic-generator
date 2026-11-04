@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/WTAIL_+24.png",
+  "title": "TalkChart: WTAIL (+24.2%) — Solana On-Chain Radar",
+  "description": "WTAIL растёт на +24.2% за сутки. продают в рынок (75% сделок за час). суточный памп остывает. ликвидность тонкая ($22.6K) — движения будут резкими. пулу 6 дн., история короткая.\n\nОбъём: $75.4K · Ликвидность: $22.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп WTAIL (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HBFxk72r4xVqhT8yK8ZFXEEGvpfkoeeSTQXiewZP7SZM"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3SD4zwQnpCLfmeNqBsCQvsPxBatKWkUPBV7hM7dy7Y3z"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

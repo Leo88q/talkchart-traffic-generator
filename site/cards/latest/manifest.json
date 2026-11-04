@@ -1,64 +1,64 @@
 {
- "generated_at": "2026-11-04T00:41:10+00:00",
+ "generated_at": "2026-11-04T12:16:16+00:00",
  "cards": [
   {
-   "file": "cards/2026-11-04/STONKS_+436.png",
+   "file": "cards/2026-11-04/AMD_+3516.png",
+   "symbol": "AMD",
+   "chg_h24": 3516.565,
+   "address": "7RD5YALHcMLUFKJ8FRePGd6ei11F15uXZF1rc7mPKeCv",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/7RD5YALHcMLUFKJ8FRePGd6ei11F15uXZF1rc7mPKeCv.html",
+   "latest_file": "cards/latest/AMD_+3516.png"
+  },
+  {
+   "file": "cards/2026-11-04/STONKS_+422.png",
    "symbol": "STONKS",
-   "chg_h24": 436.502,
+   "chg_h24": 422.291,
    "address": "4KHfHnqxV4BRGvwoRtuFj2P8P6JesY65sWecVpxfHdpn",
    "pool_url": "https://leo88q.github.io/content-/site/pools/4KHfHnqxV4BRGvwoRtuFj2P8P6JesY65sWecVpxfHdpn.html",
-   "latest_file": "cards/latest/STONKS_+436.png"
+   "latest_file": "cards/latest/STONKS_+422.png"
   },
   {
-   "file": "cards/2026-11-04/CHOO_+101.png",
+   "file": "cards/2026-11-04/Mag_+197.png",
+   "symbol": "Mag",
+   "chg_h24": 197.635,
+   "address": "54m3ACZLA7hK76HsbgRhYySVecaabP7T4J75uXe2ESNe",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/54m3ACZLA7hK76HsbgRhYySVecaabP7T4J75uXe2ESNe.html",
+   "latest_file": "cards/latest/Mag_+197.png"
+  },
+  {
+   "file": "cards/2026-11-04/CHOO_+109.png",
    "symbol": "CHOO",
-   "chg_h24": 101.618,
+   "chg_h24": 109.011,
    "address": "3unG5b7czBspnmjFRZzzNyQVpk8q3LERr6BAYnFohdfz",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/3unG5b7czBspnmjFRZzzNyQVpk8q3LERr6BAYnFohdfz.html",
-   "latest_file": "cards/latest/CHOO_+101.png"
-  },
-  {
-   "file": "cards/2026-11-04/UNPOOLED_-83.png",
-   "symbol": "UNPOOLED",
-   "chg_h24": -83.094,
-   "address": "E1FM1Y9D6Hnxt9fTEHkauRKjaEeJbY42DFZV39AXCZDs",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/E1FM1Y9D6Hnxt9fTEHkauRKjaEeJbY42DFZV39AXCZDs.html",
-   "latest_file": "cards/latest/UNPOOLED_-83.png"
-  },
-  {
-   "file": "cards/2026-11-04/MOVEMBER_-82.png",
-   "symbol": "MOVEMBER",
-   "chg_h24": -82.539,
-   "address": "J1y8kug8C3RChxTos8RA85iMDSrRZHx4kZGP3f4xU5YS",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/J1y8kug8C3RChxTos8RA85iMDSrRZHx4kZGP3f4xU5YS.html"
+   "pool_url": "https://leo88q.github.io/content-/site/pools/3unG5b7czBspnmjFRZzzNyQVpk8q3LERr6BAYnFohdfz.html"
   },
   {
    "file": "cards/2026-11-04/BINGUS_-79.png",
    "symbol": "BINGUS",
-   "chg_h24": -79.836,
+   "chg_h24": -79.306,
    "address": "Bv8FW9m6dT51sDASBEpPPmvHhJ4cffDG5RKayfoAnTzt",
    "pool_url": "https://leo88q.github.io/content-/site/pools/Bv8FW9m6dT51sDASBEpPPmvHhJ4cffDG5RKayfoAnTzt.html"
   },
   {
-   "file": "cards/2026-11-04/MAMESUKE_+77.png",
-   "symbol": "MAMESUKE",
-   "chg_h24": 77.881,
-   "address": "HPeXruE5Msv7paz5WPViwScLeSYWgZr8vhDakuiEp5ku",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/HPeXruE5Msv7paz5WPViwScLeSYWgZr8vhDakuiEp5ku.html"
+   "file": "cards/2026-11-04/FLOAT_-47.png",
+   "symbol": "FLOAT",
+   "chg_h24": -47.803,
+   "address": "FJk9sajdc2Q4heRPPu3yLzkmf2ZByZkpiHQLv9e2bn5A",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/FJk9sajdc2Q4heRPPu3yLzkmf2ZByZkpiHQLv9e2bn5A.html"
   },
   {
-   "file": "cards/2026-11-04/MOGMAS_+76.png",
+   "file": "cards/2026-11-04/MOGMAS_-28.png",
    "symbol": "MOGMAS",
-   "chg_h24": 76.183,
+   "chg_h24": -28.584,
    "address": "Dq9JgfQkFe9fX2vPM5tPbtWdB9HnYGoqFkfUKdHgM9U4",
    "pool_url": "https://leo88q.github.io/content-/site/pools/Dq9JgfQkFe9fX2vPM5tPbtWdB9HnYGoqFkfUKdHgM9U4.html"
   },
   {
-   "file": "cards/2026-11-04/ascend_-70.png",
-   "symbol": "ascend",
-   "chg_h24": -70.556,
-   "address": "DH8qk6757izqBDn354JxdrVgFACKEC2iT7fHJynqyh6f",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/DH8qk6757izqBDn354JxdrVgFACKEC2iT7fHJynqyh6f.html"
+   "file": "cards/2026-11-04/RICO_-27.png",
+   "symbol": "RICO",
+   "chg_h24": -27.361,
+   "address": "Fby8NV8FRJZnZriiHUdVANBadTLJfBNT9MVkkN61FoLY",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/Fby8NV8FRJZnZriiHUdVANBadTLJfBNT9MVkkN61FoLY.html"
   }
  ]
 }

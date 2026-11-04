@@ -1,17 +1,17 @@
 {
-  "slug": "stonks-vs-choo",
+  "slug": "amd-vs-stonks",
   "token1": {
-    "symbol": "STONKS",
-    "change_24h": 436.502,
-    "address": "4KHfHnqxV4BRGvwoRtuFj2P8P6JesY65sWecVpxfHdpn",
-    "volume": 3917956.56712563
+    "symbol": "AMD",
+    "change_24h": 3516.565,
+    "address": "7RD5YALHcMLUFKJ8FRePGd6ei11F15uXZF1rc7mPKeCv",
+    "volume": 10397958.2807614
   },
   "token2": {
-    "symbol": "CHOO",
-    "change_24h": 101.618,
-    "address": "3unG5b7czBspnmjFRZzzNyQVpk8q3LERr6BAYnFohdfz",
-    "volume": 2808633.96440046
+    "symbol": "STONKS",
+    "change_24h": 422.291,
+    "address": "4KHfHnqxV4BRGvwoRtuFj2P8P6JesY65sWecVpxfHdpn",
+    "volume": 4409481.51853794
   },
-  "verdict": "По ончейн-метрикам TalkChart: STONKS опережает по ценовому импульсу (+436.5% против +101.6%). Краткосрочный фаворит по совокупности факторов: STONKS.",
-  "updated_at": "2026-11-04 00:41 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: AMD опережает по ценовому импульсу (+3516.6% против +422.3%). Краткосрочный фаворит по совокупности факторов: AMD.",
+  "updated_at": "2026-11-04 12:16 UTC"
 }

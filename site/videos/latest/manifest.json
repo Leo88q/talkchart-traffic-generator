@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-04T00:41:22+00:00",
+ "generated_at": "2026-11-04T12:16:28+00:00",
  "videos": [
+  {
+   "file": "videos/2026-11-04/AMD.mp4",
+   "latest_file": "videos/latest/AMD.mp4",
+   "symbol": "AMD",
+   "chg_h24": 3516.565
+  },
   {
    "file": "videos/2026-11-04/STONKS.mp4",
    "latest_file": "videos/latest/STONKS.mp4",
    "symbol": "STONKS",
-   "chg_h24": 436.502
+   "chg_h24": 422.291
   },
   {
-   "file": "videos/2026-11-04/CHOO.mp4",
-   "latest_file": "videos/latest/CHOO.mp4",
-   "symbol": "CHOO",
-   "chg_h24": 101.618
-  },
-  {
-   "file": "videos/2026-11-04/UNPOOLED.mp4",
-   "latest_file": "videos/latest/UNPOOLED.mp4",
-   "symbol": "UNPOOLED",
-   "chg_h24": -83.094
+   "file": "videos/2026-11-04/Mag.mp4",
+   "latest_file": "videos/latest/Mag.mp4",
+   "symbol": "Mag",
+   "chg_h24": 197.635
   }
  ]
 }

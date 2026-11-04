@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/AMD_+3517.png",
+  "title": "TalkChart: AMD (+3516.6%) — Solana On-Chain Radar",
+  "description": "AMD разрывает: +3516.6% за 24ч. ускорение в последнем часе. объём $10.40M больше капы в 5.9× — бумага в огне. ликвидность тонкая ($137.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.6K (109× медианы, 0ч назад). нетто китов за сутки −$545.88.\n\nОбъём: $10.40M · Ликвидность: $137.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп AMD (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7RD5YALHcMLUFKJ8FRePGd6ei11F15uXZF1rc7mPKeCv"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

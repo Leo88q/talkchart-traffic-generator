@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MAMESUKE_+22.png",
+  "title": "TalkChart: MAMESUKE (+22.2%) — Solana On-Chain Radar",
+  "description": "MAMESUKE растёт на +22.2% за сутки. пулу 2 дн. — чистая рулетка.\n\nОбъём: $1.05M · Ликвидность: $293.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MAMESUKE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=fMKswmDKwstG3jm6V5PKeXE5LkcW3ny84QrhDCKtc7A"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

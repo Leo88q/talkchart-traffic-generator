@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-04
-1. STONKS +436.5% — STONKS разрывает: +436.5% за 24ч. давление продаж нарастает
-2. CHOO +101.6% — CHOO разрывает: +101.6% за 24ч. ликвидность тонкая ($190.4K) — движения будут резкими
-3. UNPOOLED -83.1% — UNPOOLED в обвале: -83.1% за 24ч. давление продаж нарастает
-4. MOVEMBER -82.5% — MOVEMBER в обвале: -82.5% за 24ч. давление продаж нарастает
-5. BINGUS -79.8% — BINGUS в обвале: -79.8% за 24ч. объём $998.7K больше капы в 33.1× — бумага в огне
+1. AMD +3516.6% — AMD разрывает: +3516.6% за 24ч. ускорение в последнем часе
+2. STONKS +422.3% — STONKS разрывает: +422.3% за 24ч. ускорение в последнем часе
+3. Mag +197.6% — Mag разрывает: +197.6% за 24ч. давление продаж нарастает
+4. CHOO +109.0% — CHOO разрывает: +109.0% за 24ч. ускорение в последнем часе
+5. BINGUS -79.3% — BINGUS в обвале: -79.3% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/4KHfHnqxV4BRGvwoRtuFj2P8P6JesY65sWecVpxfHdpn.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/7RD5YALHcMLUFKJ8FRePGd6ei11F15uXZF1rc7mPKeCv.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
