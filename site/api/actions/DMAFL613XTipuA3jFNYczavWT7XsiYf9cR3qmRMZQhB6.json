@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/67_+1.png",
+  "title": "TalkChart: 67 (+1.4%) — Solana On-Chain Radar",
+  "description": "67 в боковике: +1.4% за сутки.\n\nОбъём: $68.8K · Ликвидность: $274.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп 67 (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DMAFL613XTipuA3jFNYczavWT7XsiYf9cR3qmRMZQhB6"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

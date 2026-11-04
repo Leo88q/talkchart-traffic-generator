@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/STONKS_+437.png",
+  "title": "TalkChart: STONKS (+436.5%) — Solana On-Chain Radar",
+  "description": "STONKS разрывает: +436.5% за 24ч. давление продаж нарастает. объём $3.92M больше капы в 4.7× — бумага в огне. ликвидность тонкая ($202.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $3.92M · Ликвидность: $202.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп STONKS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-22r9JGoWRBYc4Z1pkSFw8p2tdjefS2ZZshw1vr8bBC2K"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4KHfHnqxV4BRGvwoRtuFj2P8P6JesY65sWecVpxfHdpn"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

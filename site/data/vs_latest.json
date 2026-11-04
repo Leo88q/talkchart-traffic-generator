@@ -1,17 +1,17 @@
 {
-  "slug": "capy-vs-mogmas",
+  "slug": "stonks-vs-choo",
   "token1": {
-    "symbol": "CAPY",
-    "change_24h": 262.605,
-    "address": "4WutFjFujupWJm5UUidXouMgUPauXG4sAEjVaYqjrMBW",
-    "volume": 3514130.42919436
+    "symbol": "STONKS",
+    "change_24h": 436.502,
+    "address": "4KHfHnqxV4BRGvwoRtuFj2P8P6JesY65sWecVpxfHdpn",
+    "volume": 3917956.56712563
   },
   "token2": {
-    "symbol": "MOGMAS",
-    "change_24h": 205.021,
-    "address": "Dq9JgfQkFe9fX2vPM5tPbtWdB9HnYGoqFkfUKdHgM9U4",
-    "volume": 743799.551763622
+    "symbol": "CHOO",
+    "change_24h": 101.618,
+    "address": "3unG5b7czBspnmjFRZzzNyQVpk8q3LERr6BAYnFohdfz",
+    "volume": 2808633.96440046
   },
-  "verdict": "По ончейн-метрикам TalkChart: CAPY опережает по ценовому импульсу (+262.6% против +205.0%). Кроме того, у CAPY существенно глубже пул ликвидности ($138.0K против $28.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: CAPY.",
-  "updated_at": "2026-11-03 19:34 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: STONKS опережает по ценовому импульсу (+436.5% против +101.6%). Краткосрочный фаворит по совокупности факторов: STONKS.",
+  "updated_at": "2026-11-04 00:41 UTC"
 }
