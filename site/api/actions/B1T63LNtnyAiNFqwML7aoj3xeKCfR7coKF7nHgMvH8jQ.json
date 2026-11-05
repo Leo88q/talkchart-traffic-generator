@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/george_+236.png",
+  "title": "TalkChart: george (+236.4%) — Solana On-Chain Radar",
+  "description": "george разрывает: +236.4% за 24ч. объём $1.35M больше капы в 6.8× — бумага в огне. ликвидность тонкая ($41.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $1.35M · Ликвидность: $41.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп george (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Hbpjmu51QXzwojmtvnzzFtwpgYdP8SUwxTTDACGxpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=B1T63LNtnyAiNFqwML7aoj3xeKCfR7coKF7nHgMvH8jQ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

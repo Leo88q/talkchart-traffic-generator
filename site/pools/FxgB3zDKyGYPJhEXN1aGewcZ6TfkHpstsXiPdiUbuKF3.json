@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "FxgB3zDKyGYPJhEXN1aGewcZ6TfkHpstsXiPdiUbuKF3",
+    "name": "ZELDA / SOL",
+    "base_symbol": "ZELDA",
+    "base_name": "ZELDA",
+    "base_address": "E1PpVMPtWPhPUKL7DbF6f2eAmuwo3CHBkKusKk54pump",
+    "dex": "pumpswap",
+    "price_usd": 9.819989801791432e-05,
+    "created_at": "2026-11-05T06:08:21Z",
+    "fdv_usd": 98199.8980199999,
+    "reserve_usd": 25663.2926,
+    "volume_h24": 1863722.05031008,
+    "change": {
+      "h1": -11.133,
+      "h6": -25.818,
+      "h24": 165.725
+    },
+    "tx_h1": {
+      "buys": 262,
+      "sells": 156
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 955.54,
+        "mult": 109.6,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "8hWSm2Su"
+      },
+      {
+        "kind": "sell",
+        "usd": 638.36,
+        "mult": 73.2,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "G4dZH7s2"
+      },
+      {
+        "kind": "buy",
+        "usd": 424.04,
+        "mult": 48.6,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "2bj6nYPj"
+      },
+      {
+        "kind": "sell",
+        "usd": 356.85,
+        "mult": 40.9,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "CECxGSBz"
+      },
+      {
+        "kind": "sell",
+        "usd": 321.32,
+        "mult": 36.9,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "nogZ6727"
+      }
+    ],
+    "first_seen": "2026-11-05T22:08:05+00:00",
+    "last_seen": "2026-11-05T22:08:05+00:00"
+  },
+  "narrative": "ZELDA разрывает: +165.7% за 24ч. давление продаж нарастает. покупатели доминируют (63% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $1.86M больше капы в 19.0× — бумага в огне. ликвидность тонкая ($25.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $955.54 (110× медианы, 0ч назад). нетто китов за сутки −$1.8K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $955.54 (110× медианы). Нетто-поток китов: $-1.8K.",
+  "updated_at": "2026-11-05T22:08:05Z"
+}

@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-05
-1. HIGH +1382.6% — HIGH разрывает: +1382.6% за 24ч. ускорение в последнем часе
-2. Impeach +333.1% — Impeach разрывает: +333.1% за 24ч. объём $2.37M больше капы в 4.6× — бумага в огне
-3. AI +321.0% — AI разрывает: +321.0% за 24ч. ускорение в последнем часе
-4. MOSQUE +204.6% — MOSQUE разрывает: +204.6% за 24ч. давление продаж нарастает
-5. PIRATE +149.5% — PIRATE разрывает: +149.5% за 24ч. объём $1.59M больше капы в 4.5× — бумага в огне
+1. george +236.4% — george разрывает: +236.4% за 24ч. объём $1.35M больше капы в 6.8× — бумага в огне
+2. ZELDA +165.7% — ZELDA разрывает: +165.7% за 24ч. давление продаж нарастает
+3. PIRATE +108.4% — PIRATE разрывает: +108.4% за 24ч. давление продаж нарастает
+4. DESSA +79.8% — DESSA разрывает: +79.8% за 24ч. пулу 10 дн., история короткая.
+5. Democat -73.9% — Democat в обвале: -73.9% за 24ч. покупатели доминируют (77% сделок за час)
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/CqvMZmWDvEufa5rzkubidyR4zMDqDPoLjAtsW6wGsPMu.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/B1T63LNtnyAiNFqwML7aoj3xeKCfR7coKF7nHgMvH8jQ.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
