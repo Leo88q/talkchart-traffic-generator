@@ -1,17 +1,17 @@
 {
-  "slug": "impeach-vs-high",
+  "slug": "high-vs-impeach",
   "token1": {
-    "symbol": "Impeach",
-    "change_24h": 9994.21,
-    "address": "12Y1mRKWEWEwoYqhSwybEsJzM8gAGnig1XqGQLC5uW3V",
-    "volume": 2546397.94291003
+    "symbol": "HIGH",
+    "change_24h": 1382.646,
+    "address": "CqvMZmWDvEufa5rzkubidyR4zMDqDPoLjAtsW6wGsPMu",
+    "volume": 6178757.88815816
   },
   "token2": {
-    "symbol": "HIGH",
-    "change_24h": 2230.374,
-    "address": "CqvMZmWDvEufa5rzkubidyR4zMDqDPoLjAtsW6wGsPMu",
-    "volume": 5113848.02780415
+    "symbol": "Impeach",
+    "change_24h": 333.085,
+    "address": "12Y1mRKWEWEwoYqhSwybEsJzM8gAGnig1XqGQLC5uW3V",
+    "volume": 2372868.23809871
   },
-  "verdict": "По ончейн-метрикам TalkChart: Impeach опережает по ценовому импульсу (+9994.2% против +2230.4%). Краткосрочный фаворит по совокупности факторов: Impeach.",
-  "updated_at": "2026-11-05 00:59 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HIGH опережает по ценовому импульсу (+1382.6% против +333.1%). Кроме того, у HIGH существенно глубже пул ликвидности ($176.7K против $63.7K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: HIGH.",
+  "updated_at": "2026-11-05 12:29 UTC"
 }

@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-05
-1. Impeach +9994.2% — Impeach разрывает: +9994.2% за 24ч. ускорение в последнем часе
-2. HIGH +2230.4% — HIGH разрывает: +2230.4% за 24ч. объём $5.11M больше капы в 2.5× — бумага в огне
-3. VI +101.6% — VI разрывает: +101.6% за 24ч. давление продаж нарастает
-4. RAM +101.4% — RAM разрывает: +101.4% за 24ч. объём $5.35M больше капы в 57.6× — бумага в огне
-5. FLOAT +79.1% — FLOAT разрывает: +79.1% за 24ч. покупатели доминируют (71% сделок за час)
+1. HIGH +1382.6% — HIGH разрывает: +1382.6% за 24ч. ускорение в последнем часе
+2. Impeach +333.1% — Impeach разрывает: +333.1% за 24ч. объём $2.37M больше капы в 4.6× — бумага в огне
+3. AI +321.0% — AI разрывает: +321.0% за 24ч. ускорение в последнем часе
+4. MOSQUE +204.6% — MOSQUE разрывает: +204.6% за 24ч. давление продаж нарастает
+5. PIRATE +149.5% — PIRATE разрывает: +149.5% за 24ч. объём $1.59M больше капы в 4.5× — бумага в огне
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/12Y1mRKWEWEwoYqhSwybEsJzM8gAGnig1XqGQLC5uW3V.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/CqvMZmWDvEufa5rzkubidyR4zMDqDPoLjAtsW6wGsPMu.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

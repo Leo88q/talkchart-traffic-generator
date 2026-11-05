@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Democat_+89.png",
+  "title": "TalkChart: Democat (+88.7%) — Solana On-Chain Radar",
+  "description": "Democat разрывает: +88.7% за 24ч. покупатели доминируют (71% сделок за час). объём $2.08M больше капы в 3.4× — бумага в огне. ликвидность тонкая ($66.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.08M · Ликвидность: $66.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Democat (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=ET3NWniYfoisP8WRpicCF5AT4dzX6Qwxu8do4bTP8Jwb"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
