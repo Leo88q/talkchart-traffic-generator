@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-04T19:55:26+00:00",
+ "generated_at": "2026-11-05T00:59:09+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-04/AMD.mp4",
-   "latest_file": "videos/latest/AMD.mp4",
-   "symbol": "AMD",
-   "chg_h24": 1292.887
+   "file": "videos/2026-11-05/Impeach.mp4",
+   "latest_file": "videos/latest/Impeach.mp4",
+   "symbol": "Impeach",
+   "chg_h24": 9994.21
   },
   {
-   "file": "videos/2026-11-04/RAM.mp4",
-   "latest_file": "videos/latest/RAM.mp4",
-   "symbol": "RAM",
-   "chg_h24": 133.989
+   "file": "videos/2026-11-05/HIGH.mp4",
+   "latest_file": "videos/latest/HIGH.mp4",
+   "symbol": "HIGH",
+   "chg_h24": 2230.374
   },
   {
-   "file": "videos/2026-11-04/MAMESUKE.mp4",
-   "latest_file": "videos/latest/MAMESUKE.mp4",
-   "symbol": "MAMESUKE",
-   "chg_h24": -67.314
+   "file": "videos/2026-11-05/VI.mp4",
+   "latest_file": "videos/latest/VI.mp4",
+   "symbol": "VI",
+   "chg_h24": 101.551
   }
  ]
 }

@@ -1,17 +1,17 @@
 {
-  "slug": "amd-vs-ram",
+  "slug": "impeach-vs-high",
   "token1": {
-    "symbol": "AMD",
-    "change_24h": 1292.887,
-    "address": "7RD5YALHcMLUFKJ8FRePGd6ei11F15uXZF1rc7mPKeCv",
-    "volume": 11300353.9422347
+    "symbol": "Impeach",
+    "change_24h": 9994.21,
+    "address": "12Y1mRKWEWEwoYqhSwybEsJzM8gAGnig1XqGQLC5uW3V",
+    "volume": 2546397.94291003
   },
   "token2": {
-    "symbol": "RAM",
-    "change_24h": 133.989,
-    "address": "A5FpVH5c4Zya6EwbBWGzLsFDoUGCX5BjSXK4FXKUwHMW",
-    "volume": 5283836.21642711
+    "symbol": "HIGH",
+    "change_24h": 2230.374,
+    "address": "CqvMZmWDvEufa5rzkubidyR4zMDqDPoLjAtsW6wGsPMu",
+    "volume": 5113848.02780415
   },
-  "verdict": "По ончейн-метрикам TalkChart: AMD опережает по ценовому импульсу (+1292.9% против +134.0%). Кроме того, у AMD существенно глубже пул ликвидности ($85.7K против $34.5K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: AMD.",
-  "updated_at": "2026-11-04 19:55 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Impeach опережает по ценовому импульсу (+9994.2% против +2230.4%). Краткосрочный фаворит по совокупности факторов: Impeach.",
+  "updated_at": "2026-11-05 00:59 UTC"
 }
