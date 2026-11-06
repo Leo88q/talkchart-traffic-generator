@@ -1,17 +1,17 @@
 {
-  "slug": "coge-vs-diamond",
+  "slug": "amd-vs-diamond",
   "token1": {
-    "symbol": "COGE",
-    "change_24h": 3186.249,
-    "address": "8GjMy6ipYsXfMWwRPu9C7ATssorjg6AL88d9xtTZsLqe",
-    "volume": 2207787.3095523
+    "symbol": "AMD",
+    "change_24h": 1442.185,
+    "address": "6ZV8dyRdxH56Au2EbhpZZBMKpRP5ixBKPRJ7hB2pJ3rr",
+    "volume": 3653633.22703893
   },
   "token2": {
     "symbol": "Diamond",
-    "change_24h": 527.766,
+    "change_24h": 480.086,
     "address": "GhFSaPdvu75KCpsUVk7CZ8A1tdjYeo6YvZx1QiBgwfSJ",
-    "volume": 2640722.9005698
+    "volume": 4323076.02790106
   },
-  "verdict": "По ончейн-метрикам TalkChart: COGE опережает по ценовому импульсу (+3186.2% против +527.8%). Краткосрочный фаворит по совокупности факторов: COGE.",
-  "updated_at": "2026-11-06 16:00 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: AMD опережает по ценовому импульсу (+1442.2% против +480.1%). Краткосрочный фаворит по совокупности факторов: AMD.",
+  "updated_at": "2026-11-06 21:36 UTC"
 }
