@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/COGE_+1967.png",
+  "title": "TalkChart: COGE (+1967.0%) — Solana On-Chain Radar",
+  "description": "COGE разрывает: +1967.0% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($132.9K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.72M · Ликвидность: $132.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп COGE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8GjMy6ipYsXfMWwRPu9C7ATssorjg6AL88d9xtTZsLqe"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

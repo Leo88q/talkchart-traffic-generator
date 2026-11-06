@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-05T22:08:21+00:00",
+ "generated_at": "2026-11-06T06:58:15+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-05/george.mp4",
-   "latest_file": "videos/latest/george.mp4",
-   "symbol": "george",
-   "chg_h24": 236.387
+   "file": "videos/2026-11-06/COGE.mp4",
+   "latest_file": "videos/latest/COGE.mp4",
+   "symbol": "COGE",
+   "chg_h24": 1967.021
   },
   {
-   "file": "videos/2026-11-05/ZELDA.mp4",
-   "latest_file": "videos/latest/ZELDA.mp4",
-   "symbol": "ZELDA",
-   "chg_h24": 165.725
+   "file": "videos/2026-11-06/COGE.mp4",
+   "latest_file": "videos/latest/COGE.mp4",
+   "symbol": "COGE",
+   "chg_h24": 249.755
   },
   {
-   "file": "videos/2026-11-05/PIRATE.mp4",
-   "latest_file": "videos/latest/PIRATE.mp4",
-   "symbol": "PIRATE",
-   "chg_h24": 108.391
+   "file": "videos/2026-11-06/MOSQUE.mp4",
+   "latest_file": "videos/latest/MOSQUE.mp4",
+   "symbol": "MOSQUE",
+   "chg_h24": -86.375
   }
  ]
 }

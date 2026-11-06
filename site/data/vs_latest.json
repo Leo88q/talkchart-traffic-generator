@@ -1,17 +1,17 @@
 {
-  "slug": "george-vs-zelda",
+  "slug": "coge-vs-coge",
   "token1": {
-    "symbol": "george",
-    "change_24h": 236.387,
-    "address": "B1T63LNtnyAiNFqwML7aoj3xeKCfR7coKF7nHgMvH8jQ",
-    "volume": 1352732.29527077
+    "symbol": "COGE",
+    "change_24h": 1967.021,
+    "address": "8GjMy6ipYsXfMWwRPu9C7ATssorjg6AL88d9xtTZsLqe",
+    "volume": 1717547.81568062
   },
   "token2": {
-    "symbol": "ZELDA",
-    "change_24h": 165.725,
-    "address": "FxgB3zDKyGYPJhEXN1aGewcZ6TfkHpstsXiPdiUbuKF3",
-    "volume": 1863722.05031008
+    "symbol": "COGE",
+    "change_24h": 249.755,
+    "address": "BqDNqApJNmV3jgoeeYZ34zyxYa9pe3Msza59HoPUuBWM",
+    "volume": 4369169.12106318
   },
-  "verdict": "По ончейн-метрикам TalkChart: george опережает по ценовому импульсу (+236.4% против +165.7%). Краткосрочный фаворит по совокупности факторов: george.",
-  "updated_at": "2026-11-05 22:08 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: COGE опережает по ценовому импульсу (+1967.0% против +249.8%). Кроме того, у COGE существенно глубже пул ликвидности ($132.9K против $29.7K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: COGE.",
+  "updated_at": "2026-11-06 06:58 UTC"
 }
