@@ -1,17 +1,17 @@
 {
-  "slug": "coge-vs-coge",
+  "slug": "coge-vs-diamond",
   "token1": {
     "symbol": "COGE",
-    "change_24h": 1967.021,
+    "change_24h": 3186.249,
     "address": "8GjMy6ipYsXfMWwRPu9C7ATssorjg6AL88d9xtTZsLqe",
-    "volume": 1717547.81568062
+    "volume": 2207787.3095523
   },
   "token2": {
-    "symbol": "COGE",
-    "change_24h": 249.755,
-    "address": "BqDNqApJNmV3jgoeeYZ34zyxYa9pe3Msza59HoPUuBWM",
-    "volume": 4369169.12106318
+    "symbol": "Diamond",
+    "change_24h": 527.766,
+    "address": "GhFSaPdvu75KCpsUVk7CZ8A1tdjYeo6YvZx1QiBgwfSJ",
+    "volume": 2640722.9005698
   },
-  "verdict": "По ончейн-метрикам TalkChart: COGE опережает по ценовому импульсу (+1967.0% против +249.8%). Кроме того, у COGE существенно глубже пул ликвидности ($132.9K против $29.7K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: COGE.",
-  "updated_at": "2026-11-06 06:58 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: COGE опережает по ценовому импульсу (+3186.2% против +527.8%). Краткосрочный фаворит по совокупности факторов: COGE.",
+  "updated_at": "2026-11-06 16:00 UTC"
 }

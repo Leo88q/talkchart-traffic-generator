@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Diamond_+528.png",
+  "title": "TalkChart: Diamond (+527.8%) — Solana On-Chain Radar",
+  "description": "Diamond разрывает: +527.8% за 24ч. ускорение в последнем часе. объём $2.64M больше капы в 2.8× — бумага в огне. ликвидность тонкая ($100.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $474.72 (45× медианы, 0ч назад). нетто китов за сутки +$1.2K.\n\nОбъём: $2.64M · Ликвидность: $100.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Diamond (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GhFSaPdvu75KCpsUVk7CZ8A1tdjYeo6YvZx1QiBgwfSJ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
