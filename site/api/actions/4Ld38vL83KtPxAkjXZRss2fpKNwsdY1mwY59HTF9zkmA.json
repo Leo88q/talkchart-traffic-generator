@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/duge_+352.png",
+  "title": "TalkChart: duge (+352.1%) — Solana On-Chain Radar",
+  "description": "duge разрывает: +352.1% за 24ч. объём $1.36M больше капы в 8.2× — бумага в огне. ликвидность тонкая ($33.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.36M · Ликвидность: $33.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп duge (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-iW4XP2BWd3iqf1LMZvpsKidb49wVAh3S8SfNUsDpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4Ld38vL83KtPxAkjXZRss2fpKNwsdY1mwY59HTF9zkmA"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

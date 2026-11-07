@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/STANK_+186.png",
+  "title": "TalkChart: STANK (+185.8%) — Solana On-Chain Radar",
+  "description": "STANK разрывает: +185.8% за 24ч. ликвидность тонкая ($126.1K) — движения будут резкими. пулу 9 дн., история короткая.\n\nОбъём: $692.8K · Ликвидность: $126.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп STANK (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6hYFMyE2BYYScTErqUeCKhihQ5X9j2WD2z9waTdwy38N"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

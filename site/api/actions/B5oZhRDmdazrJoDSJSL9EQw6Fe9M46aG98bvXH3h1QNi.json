@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FUSE_+151.png",
+  "title": "TalkChart: FUSE (+150.7%) — Solana On-Chain Radar",
+  "description": "FUSE разрывает: +150.7% за 24ч. объём $2.36M больше капы в 7.0× — бумага в огне. ликвидность тонкая ($113.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.36M · Ликвидность: $113.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FUSE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CzwzQw6eGr9RjF3ZLmEPxcxspSk6csRg9Gpvsnycz5eD"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=B5oZhRDmdazrJoDSJSL9EQw6Fe9M46aG98bvXH3h1QNi"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

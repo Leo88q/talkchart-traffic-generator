@@ -1,0 +1,30 @@
+{
+  "pool": {
+    "address": "B4PHSkL6CeZbxVqm1aUPQuVpc5ERFcaZj7u9dhtphmVX",
+    "name": "ACT / SOL",
+    "base_symbol": "ACT",
+    "base_name": "ACT",
+    "base_address": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+    "dex": "raydium",
+    "price_usd": 0.010389209013351134,
+    "created_at": "2024-10-19T11:36:39Z",
+    "fdv_usd": 9851409.90415605,
+    "reserve_usd": 1365262.2038,
+    "volume_h24": 1144715.33857438,
+    "change": {
+      "h1": 0.934,
+      "h6": -10.61,
+      "h24": 7.693
+    },
+    "tx_h1": {
+      "buys": 265,
+      "sells": 245
+    },
+    "first_seen": "2026-11-07T14:58:50+00:00",
+    "last_seen": "2026-11-07T14:58:50+00:00"
+  },
+  "narrative": "ACT в боковике: +7.7% за сутки.",
+  "flags": [],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-07T14:58:50Z"
+}

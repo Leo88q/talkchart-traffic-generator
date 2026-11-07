@@ -1,17 +1,17 @@
 {
-  "slug": "hodl-vs-coge",
+  "slug": "hodl-vs-duge",
   "token1": {
     "symbol": "HODL",
-    "change_24h": 1086.401,
+    "change_24h": 1167.852,
     "address": "ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR",
-    "volume": 2088377.33879367
+    "volume": 3013986.31043695
   },
   "token2": {
-    "symbol": "COGE",
-    "change_24h": 429.377,
-    "address": "8GjMy6ipYsXfMWwRPu9C7ATssorjg6AL88d9xtTZsLqe",
-    "volume": 2246899.36316558
+    "symbol": "duge",
+    "change_24h": 352.068,
+    "address": "4Ld38vL83KtPxAkjXZRss2fpKNwsdY1mwY59HTF9zkmA",
+    "volume": 1364994.89676576
   },
-  "verdict": "По ончейн-метрикам TalkChart: HODL опережает по ценовому импульсу (+1086.4% против +429.4%). Кроме того, у COGE более надёжная ликвидность ($336.4K против $164.6K). Кроме того, у HODL объём превышает ликвидность в 12.7× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: HODL.",
-  "updated_at": "2026-11-07 06:09 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HODL опережает по ценовому импульсу (+1167.9% против +352.1%). Кроме того, у HODL существенно глубже пул ликвидности ($170.7K против $33.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: HODL.",
+  "updated_at": "2026-11-07 14:59 UTC"
 }

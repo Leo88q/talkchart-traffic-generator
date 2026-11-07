@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ACT_+8.png",
+  "title": "TalkChart: ACT (+7.7%) — Solana On-Chain Radar",
+  "description": "ACT в боковике: +7.7% за сутки.\n\nОбъём: $1.14M · Ликвидность: $1.37M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ACT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=B4PHSkL6CeZbxVqm1aUPQuVpc5ERFcaZj7u9dhtphmVX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
