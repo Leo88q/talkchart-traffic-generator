@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "7PzBqm9vhh5ixKWwtpKEnppSqb3xzQ7NBK7JrEFPcMfq",
+    "name": "TAOLF / SOL",
+    "base_symbol": "TAOLF",
+    "base_name": "TAOLF",
+    "base_address": "3hWkYmr81vZbyVnTPzcSjSNxxZuSmSdrQUohx86Rrxqf",
+    "dex": "raydium",
+    "price_usd": 0.0005433881699974095,
+    "created_at": "2026-11-07T21:00:08Z",
+    "fdv_usd": 560495.6071,
+    "reserve_usd": 145206.2758,
+    "volume_h24": 2046997.36526424,
+    "change": {
+      "h1": 26.902,
+      "h6": 321.62,
+      "h24": 321.62
+    },
+    "tx_h1": {
+      "buys": 7079,
+      "sells": 4963
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 883.19,
+        "mult": 39.9,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "W3QdzQTX"
+      },
+      {
+        "kind": "sell",
+        "usd": 801.97,
+        "mult": 36.2,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 714.38,
+        "mult": 32.3,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "4momgA5C"
+      },
+      {
+        "kind": "sell",
+        "usd": 655.68,
+        "mult": 29.6,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "buy",
+        "usd": 479.37,
+        "mult": 21.6,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "7iVCXQn4"
+      }
+    ],
+    "first_seen": "2026-11-07T23:44:04+00:00",
+    "last_seen": "2026-11-07T23:44:04+00:00"
+  },
+  "narrative": "TAOLF разрывает: +321.6% за 24ч. ускорение в последнем часе. объём $2.05M больше капы в 3.7× — бумага в огне. ликвидность тонкая ($145.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $883.19 (40× медианы, 0ч назад). нетто китов за сутки −$809.47.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $883.19 (40× медианы). Нетто-поток китов: $-809.47.",
+  "updated_at": "2026-11-07T23:44:04Z"
+}

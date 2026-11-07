@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-07
-1. José +2174.5% — José разрывает: +2174.5% за 24ч. объём $5.46M больше капы в 5.0× — бумага в огне
-2. HODL +1015.1% — HODL разрывает: +1015.1% за 24ч. покупатели доминируют (82% сделок за час)
-3. BTC +195.9% — BTC разрывает: +195.9% за 24ч. ликвидность тонкая ($42.3K) — движения будут резкими
-4. Leonida +188.5% — Leonida разрывает: +188.5% за 24ч. объём $576.8K больше капы в 1.9× — бумага в огне
-5. WEALTH +134.9% — WEALTH разрывает: +134.9% за 24ч. ликвидность тонкая ($77.3K) — движения будут резкими
+1. TAOLF +321.6% — TAOLF разрывает: +321.6% за 24ч. ускорение в последнем часе
+2. BTC +202.7% — BTC разрывает: +202.7% за 24ч. объём $512.8K больше капы в 1.8× — бумага в огне
+3. CLAUDIA +135.4% — CLAUDIA разрывает: +135.4% за 24ч.
+4. WEALTH +108.7% — WEALTH разрывает: +108.7% за 24ч. давление продаж нарастает
+5. BAGSPAY +87.9% — BAGSPAY разрывает: +87.9% за 24ч. продают в рынок (64% сделок за час)
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/CdpY6qHVhtN9dVJx1WJutDztzVMck5TFVnNXZ51HdPrY.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/7PzBqm9vhh5ixKWwtpKEnppSqb3xzQ7NBK7JrEFPcMfq.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

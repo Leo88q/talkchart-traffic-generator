@@ -1,17 +1,17 @@
 {
-  "slug": "josé-vs-hodl",
+  "slug": "taolf-vs-btc",
   "token1": {
-    "symbol": "José",
-    "change_24h": 2174.514,
-    "address": "CdpY6qHVhtN9dVJx1WJutDztzVMck5TFVnNXZ51HdPrY",
-    "volume": 5455872.87312743
+    "symbol": "TAOLF",
+    "change_24h": 321.62,
+    "address": "7PzBqm9vhh5ixKWwtpKEnppSqb3xzQ7NBK7JrEFPcMfq",
+    "volume": 2046997.36526424
   },
   "token2": {
-    "symbol": "HODL",
-    "change_24h": 1015.077,
-    "address": "ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR",
-    "volume": 4197366.53170948
+    "symbol": "BTC",
+    "change_24h": 202.739,
+    "address": "CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7",
+    "volume": 512773.510446479
   },
-  "verdict": "По ончейн-метрикам TalkChart: José опережает по ценовому импульсу (+2174.5% против +1015.1%). Краткосрочный фаворит по совокупности факторов: José.",
-  "updated_at": "2026-11-07 20:19 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: TAOLF опережает по ценовому импульсу (+321.6% против +202.7%). Кроме того, у TAOLF существенно глубже пул ликвидности ($145.2K против $42.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: TAOLF.",
+  "updated_at": "2026-11-07 23:44 UTC"
 }
