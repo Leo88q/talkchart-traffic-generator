@@ -1,0 +1,34 @@
+{
+  "pool": {
+    "address": "CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7",
+    "name": "BTC / SOL",
+    "base_symbol": "BTC",
+    "base_name": "BTC",
+    "base_address": "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump",
+    "dex": "pumpswap",
+    "price_usd": 0.00028332426769321254,
+    "created_at": "2026-11-07T13:16:55Z",
+    "fdv_usd": 279663.870708454,
+    "reserve_usd": 42271.1381,
+    "volume_h24": 416462.843356843,
+    "change": {
+      "h1": -9.916,
+      "h6": 181.663,
+      "h24": 195.858
+    },
+    "tx_h1": {
+      "buys": 1161,
+      "sells": 968
+    },
+    "first_seen": "2026-11-07T20:18:53+00:00",
+    "last_seen": "2026-11-07T20:18:53+00:00"
+  },
+  "narrative": "BTC разрывает: +195.9% за 24ч. ликвидность тонкая ($42.3K) — движения будут резкими. пулу 0 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-07T20:18:54Z"
+}

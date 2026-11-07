@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/José_+2175.png",
+  "title": "TalkChart: José (+2174.5%) — Solana On-Chain Radar",
+  "description": "José разрывает: +2174.5% за 24ч. объём $5.46M больше капы в 5.0× — бумага в огне. ликвидность тонкая ($98.2K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $5.46M · Ликвидность: $98.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп José (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-87CQtouHSb6YCXaPZ1pp8jD56VudRMXBVqU3oDMD1UJT"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CdpY6qHVhtN9dVJx1WJutDztzVMck5TFVnNXZ51HdPrY"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/debtdog_-38.png",
+  "title": "TalkChart: debtdog (-37.7%) — Solana On-Chain Radar",
+  "description": "debtdog в обвале: -37.7% за 24ч. давление продаж нарастает. объём $941.9K больше капы в 39.2× — бумага в огне. ликвидность тонкая ($11.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $941.9K · Ликвидность: $11.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп debtdog (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4gyubJ7sqYDySUDmVFEfSdvvC43F1eWLUXgEHDDWpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FJSMvMR5bysnMZUkQgjadYFk4fpR3VRPCXbFbEaFXZQ1"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "5GxdoPcK2LJ6QYcJ3uvtC37tgsFHma55ULFkufTYe49R",
+    "name": "Leonida / SOL",
+    "base_symbol": "Leonida",
+    "base_name": "Leonida",
+    "base_address": "BWJfBNeXpapG7uoqByp5KSwWgCQba8QcDmA2DQiEpump",
+    "dex": "pumpswap",
+    "price_usd": 0.00029906410003271424,
+    "created_at": "2026-11-05T19:41:14Z",
+    "fdv_usd": 297665.0263,
+    "reserve_usd": 43253.4937,
+    "volume_h24": 576777.97032154,
+    "change": {
+      "h1": 2.456,
+      "h6": 12.575,
+      "h24": 188.491
+    },
+    "tx_h1": {
+      "buys": 700,
+      "sells": 621
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 1016.11,
+        "mult": 69.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "CfxmCzau"
+      },
+      {
+        "kind": "sell",
+        "usd": 914.78,
+        "mult": 62.8,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "ARtukqMu"
+      },
+      {
+        "kind": "sell",
+        "usd": 884.9,
+        "mult": 60.7,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "4ALLmH4a"
+      },
+      {
+        "kind": "sell",
+        "usd": 851.28,
+        "mult": 58.4,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "ARtukqMu"
+      },
+      {
+        "kind": "buy",
+        "usd": 746.8,
+        "mult": 51.2,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "8ioYZJHz"
+      }
+    ],
+    "first_seen": "2026-11-07T20:18:53+00:00",
+    "last_seen": "2026-11-07T20:18:53+00:00"
+  },
+  "narrative": "Leonida разрывает: +188.5% за 24ч. объём $576.8K больше капы в 1.9× — бумага в огне. ликвидность тонкая ($43.3K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.0K (70× медианы, 0ч назад). нетто китов за сутки −$888.05.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: покупка на $1.0K (70× медианы). Нетто-поток китов: $-888.05.",
+  "updated_at": "2026-11-07T20:18:54Z"
+}

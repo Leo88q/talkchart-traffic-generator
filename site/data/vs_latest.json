@@ -1,17 +1,17 @@
 {
-  "slug": "hodl-vs-duge",
+  "slug": "josé-vs-hodl",
   "token1": {
-    "symbol": "HODL",
-    "change_24h": 1167.852,
-    "address": "ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR",
-    "volume": 3013986.31043695
+    "symbol": "José",
+    "change_24h": 2174.514,
+    "address": "CdpY6qHVhtN9dVJx1WJutDztzVMck5TFVnNXZ51HdPrY",
+    "volume": 5455872.87312743
   },
   "token2": {
-    "symbol": "duge",
-    "change_24h": 352.068,
-    "address": "4Ld38vL83KtPxAkjXZRss2fpKNwsdY1mwY59HTF9zkmA",
-    "volume": 1364994.89676576
+    "symbol": "HODL",
+    "change_24h": 1015.077,
+    "address": "ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR",
+    "volume": 4197366.53170948
   },
-  "verdict": "По ончейн-метрикам TalkChart: HODL опережает по ценовому импульсу (+1167.9% против +352.1%). Кроме того, у HODL существенно глубже пул ликвидности ($170.7K против $33.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: HODL.",
-  "updated_at": "2026-11-07 14:59 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: José опережает по ценовому импульсу (+2174.5% против +1015.1%). Краткосрочный фаворит по совокупности факторов: José.",
+  "updated_at": "2026-11-07 20:19 UTC"
 }

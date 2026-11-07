@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "FJSMvMR5bysnMZUkQgjadYFk4fpR3VRPCXbFbEaFXZQ1",
+    "name": "debtdog / SOL",
+    "base_symbol": "debtdog",
+    "base_name": "debtdog",
+    "base_address": "4gyubJ7sqYDySUDmVFEfSdvvC43F1eWLUXgEHDDWpump",
+    "dex": "pumpswap",
+    "price_usd": 2.4041298625238726e-05,
+    "created_at": "2026-11-07T13:18:46Z",
+    "fdv_usd": 24041.29863,
+    "reserve_usd": 11732.0829,
+    "volume_h24": 941913.905967925,
+    "change": {
+      "h1": -29.015,
+      "h6": -76.756,
+      "h24": -37.669
+    },
+    "tx_h1": {
+      "buys": 197,
+      "sells": 155
+    },
+    "first_seen": "2026-11-07T20:18:53+00:00",
+    "last_seen": "2026-11-07T20:18:53+00:00"
+  },
+  "narrative": "debtdog в обвале: -37.7% за 24ч. давление продаж нарастает. объём $941.9K больше капы в 39.2× — бумага в огне. ликвидность тонкая ($11.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-07T20:18:54Z"
+}

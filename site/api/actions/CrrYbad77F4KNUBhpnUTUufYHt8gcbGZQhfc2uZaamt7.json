@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BTC_+196.png",
+  "title": "TalkChart: BTC (+195.9%) — Solana On-Chain Radar",
+  "description": "BTC разрывает: +195.9% за 24ч. ликвидность тонкая ($42.3K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $416.5K · Ликвидность: $42.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BTC (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
