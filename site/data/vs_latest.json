@@ -1,17 +1,17 @@
 {
-  "slug": "amd-vs-diamond",
+  "slug": "hodl-vs-coge",
   "token1": {
-    "symbol": "AMD",
-    "change_24h": 1442.185,
-    "address": "6ZV8dyRdxH56Au2EbhpZZBMKpRP5ixBKPRJ7hB2pJ3rr",
-    "volume": 3653633.22703893
+    "symbol": "HODL",
+    "change_24h": 1086.401,
+    "address": "ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR",
+    "volume": 2088377.33879367
   },
   "token2": {
-    "symbol": "Diamond",
-    "change_24h": 480.086,
-    "address": "GhFSaPdvu75KCpsUVk7CZ8A1tdjYeo6YvZx1QiBgwfSJ",
-    "volume": 4323076.02790106
+    "symbol": "COGE",
+    "change_24h": 429.377,
+    "address": "8GjMy6ipYsXfMWwRPu9C7ATssorjg6AL88d9xtTZsLqe",
+    "volume": 2246899.36316558
   },
-  "verdict": "По ончейн-метрикам TalkChart: AMD опережает по ценовому импульсу (+1442.2% против +480.1%). Краткосрочный фаворит по совокупности факторов: AMD.",
-  "updated_at": "2026-11-06 21:36 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HODL опережает по ценовому импульсу (+1086.4% против +429.4%). Кроме того, у COGE более надёжная ликвидность ($336.4K против $164.6K). Кроме того, у HODL объём превышает ликвидность в 12.7× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: HODL.",
+  "updated_at": "2026-11-07 06:09 UTC"
 }
