@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GIGAHUG_+121.png",
+  "title": "TalkChart: GIGAHUG (+120.6%) — Solana On-Chain Radar",
+  "description": "GIGAHUG разрывает: +120.6% за 24ч. давление продаж нарастает. покупатели доминируют (76% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $2.52M больше капы в 4.1× — бумага в огне. ликвидность тонкая ($64.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $279.04 (690× медианы, 0ч назад). нетто китов за сутки −$836.75.\n\nОбъём: $2.52M · Ликвидность: $64.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GIGAHUG (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-BWh8q5etuPwekJ2JEDkbMxMQWy4FysoJ8LEwE3rFpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BrkcwRYAJ22Fgqh6GgeLbRmUEdXx7yLhNcAAsAJoR8yt"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,17 +1,17 @@
 {
-  "slug": "btc-vs-josé",
+  "slug": "herewego-vs-josé",
   "token1": {
-    "symbol": "BTC",
-    "change_24h": 478.34,
-    "address": "CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7",
-    "volume": 662994.990376067
+    "symbol": "HEREWEGO",
+    "change_24h": 3669.046,
+    "address": "67BwjNjSjbdPP3KPi6GDeevK25QGrprwFTTmQE4wSziR",
+    "volume": 3848533.73763492
   },
   "token2": {
     "symbol": "José",
-    "change_24h": 287.427,
+    "change_24h": 1206.795,
     "address": "CdpY6qHVhtN9dVJx1WJutDztzVMck5TFVnNXZ51HdPrY",
-    "volume": 4692215.45764818
+    "volume": 4856420.148729
   },
-  "verdict": "По ончейн-метрикам TalkChart: BTC опережает по ценовому импульсу (+478.3% против +287.4%). Краткосрочный фаворит по совокупности факторов: BTC.",
-  "updated_at": "2026-11-08 06:13 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HEREWEGO опережает по ценовому импульсу (+3669.0% против +1206.8%). Краткосрочный фаворит по совокупности факторов: HEREWEGO.",
+  "updated_at": "2026-11-08 15:21 UTC"
 }

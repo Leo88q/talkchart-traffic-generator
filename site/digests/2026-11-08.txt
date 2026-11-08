@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-08
-1. BTC +478.3% — BTC разрывает: +478.3% за 24ч. ускорение в последнем часе
-2. José +287.4% — José разрывает: +287.4% за 24ч. давление продаж нарастает
-3. CLAUDIA +163.5% — CLAUDIA разрывает: +163.5% за 24ч.
-4. FLOAT +115.5% — FLOAT разрывает: +115.5% за 24ч. пулу 10 дн., история короткая
-5. COGE -92.2% — COGE в обвале: -92.2% за 24ч. давление продаж нарастает
+1. HEREWEGO +3669.0% — HEREWEGO разрывает: +3669.0% за 24ч. ускорение в последнем часе
+2. José +1206.8% — José разрывает: +1206.8% за 24ч. объём $4.86M больше капы в 7.3× — бумага в огне
+3. MAGGIE +844.3% — MAGGIE разрывает: +844.3% за 24ч. объём $4.65M больше капы в 14.2× — бумага в огне
+4. CLAUDIA +336.3% — CLAUDIA разрывает: +336.3% за 24ч. крупная сделка на фоне ленты: продал $20.4K (1446× медианы, 0ч назад)
+5. BTC +252.2% — BTC разрывает: +252.2% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/67BwjNjSjbdPP3KPi6GDeevK25QGrprwFTTmQE4wSziR.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

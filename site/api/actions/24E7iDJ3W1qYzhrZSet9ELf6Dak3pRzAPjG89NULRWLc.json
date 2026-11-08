@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/yarl_+114.png",
+  "title": "TalkChart: yarl (+114.0%) — Solana On-Chain Radar",
+  "description": "yarl разрывает: +114.0% за 24ч. давление продаж нарастает. объём $1.21M больше капы в 15.7× — бумага в огне. ликвидность тонкая ($22.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $716.36 (69× медианы, 0ч назад). нетто китов за сутки −$2.0K.\n\nОбъём: $1.21M · Ликвидность: $22.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп yarl (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-2cdswcuZfeRgdTeKheCUQWMqz2NiQkDeb635smkZpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=24E7iDJ3W1qYzhrZSet9ELf6Dak3pRzAPjG89NULRWLc"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

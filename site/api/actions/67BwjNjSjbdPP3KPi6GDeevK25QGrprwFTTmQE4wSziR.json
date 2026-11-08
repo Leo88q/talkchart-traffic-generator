@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HEREWEGO_+3669.png",
+  "title": "TalkChart: HEREWEGO (+3669.0%) — Solana On-Chain Radar",
+  "description": "HEREWEGO разрывает: +3669.0% за 24ч. ускорение в последнем часе. объём $3.85M больше капы в 1.5× — бумага в огне. ликвидность тонкая ($135.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $3.85M · Ликвидность: $135.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HEREWEGO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-483nprwoMSoGQgrojSHWiePMbKPre7ZRDy4f8YNSpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=67BwjNjSjbdPP3KPi6GDeevK25QGrprwFTTmQE4wSziR"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
