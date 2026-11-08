@@ -1,17 +1,17 @@
 {
-  "slug": "taolf-vs-btc",
+  "slug": "btc-vs-josé",
   "token1": {
-    "symbol": "TAOLF",
-    "change_24h": 321.62,
-    "address": "7PzBqm9vhh5ixKWwtpKEnppSqb3xzQ7NBK7JrEFPcMfq",
-    "volume": 2046997.36526424
+    "symbol": "BTC",
+    "change_24h": 478.34,
+    "address": "CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7",
+    "volume": 662994.990376067
   },
   "token2": {
-    "symbol": "BTC",
-    "change_24h": 202.739,
-    "address": "CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7",
-    "volume": 512773.510446479
+    "symbol": "José",
+    "change_24h": 287.427,
+    "address": "CdpY6qHVhtN9dVJx1WJutDztzVMck5TFVnNXZ51HdPrY",
+    "volume": 4692215.45764818
   },
-  "verdict": "По ончейн-метрикам TalkChart: TAOLF опережает по ценовому импульсу (+321.6% против +202.7%). Кроме того, у TAOLF существенно глубже пул ликвидности ($145.2K против $42.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: TAOLF.",
-  "updated_at": "2026-11-07 23:44 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: BTC опережает по ценовому импульсу (+478.3% против +287.4%). Краткосрочный фаворит по совокупности факторов: BTC.",
+  "updated_at": "2026-11-08 06:13 UTC"
 }

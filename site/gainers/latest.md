@@ -1,6 +1,6 @@
-# Solana Top Gainers (24h) — 2026-11-07
+# Solana Top Gainers (24h) — 2026-11-08
 
-> Automated on-chain leaderboard from TalkChart. Updated 2026-11-07 23:44 UTC.
+> Automated on-chain leaderboard from TalkChart. Updated 2026-11-08 06:13 UTC.
 
 | # | Symbol | 24h Change | 24h Volume | On-Chain Narrative |
 |---|--------|------------|------------|-------------------|
@@ -13,4 +13,4 @@
 | 7 | [CATBOT](https://leo88q.github.io/content-/site/pools/9CnCbMdSHu7P4VvPzoELHbB6rmBy3quiAby36KqcswvW.md) | +913.9% | $5.77M | CATBOT разрывает: +913.9% за 24ч. покупатели доминируют (69% сделок за час) |
 | 8 | [ODIE](https://leo88q.github.io/content-/site/pools/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs.md) | +579.8% | $8.46M | ODIE разрывает: +579.8% за 24ч. давление продаж нарастает |
 | 9 | [UNICORN](https://leo88q.github.io/content-/site/pools/5fqSRTcMQ52388KvDg9bqr3PGDVBEXEwqMbDyFEfjRF.md) | +565.7% | $2.24M | UNICORN разрывает: +565.7% за 24ч. давление продаж нарастает |
-| 10 | [FLOYD](https://leo88q.github.io/content-/site/pools/7GF7CVXdHij7iZwgxZ3DbHaVk7zTXi9EYRbZc1dY8ySX.md) | +471.3% | $4.24M | FLOYD разрывает: +471.3% за 24ч. давление продаж нарастает |
+| 10 | [BTC](https://leo88q.github.io/content-/site/pools/CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7.md) | +478.3% | $663.0K | BTC разрывает: +478.3% за 24ч. ускорение в последнем часе |
