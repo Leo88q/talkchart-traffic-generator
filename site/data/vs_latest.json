@@ -1,17 +1,17 @@
 {
-  "slug": "herewego-vs-josé",
+  "slug": "herewego-vs-maggie",
   "token1": {
     "symbol": "HEREWEGO",
-    "change_24h": 3669.046,
+    "change_24h": 1793.589,
     "address": "67BwjNjSjbdPP3KPi6GDeevK25QGrprwFTTmQE4wSziR",
-    "volume": 3848533.73763492
+    "volume": 4743931.81025677
   },
   "token2": {
-    "symbol": "José",
-    "change_24h": 1206.795,
-    "address": "CdpY6qHVhtN9dVJx1WJutDztzVMck5TFVnNXZ51HdPrY",
-    "volume": 4856420.148729
+    "symbol": "MAGGIE",
+    "change_24h": 706.425,
+    "address": "Hs5n9VP5obCAeyyBcTrV1T6LQrFLUPqaXZtSDkkRu7rw",
+    "volume": 5886209.14834851
   },
-  "verdict": "По ончейн-метрикам TalkChart: HEREWEGO опережает по ценовому импульсу (+3669.0% против +1206.8%). Краткосрочный фаворит по совокупности факторов: HEREWEGO.",
-  "updated_at": "2026-11-08 15:21 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HEREWEGO опережает по ценовому импульсу (+1793.6% против +706.4%). Краткосрочный фаворит по совокупности факторов: HEREWEGO.",
+  "updated_at": "2026-11-08 20:34 UTC"
 }

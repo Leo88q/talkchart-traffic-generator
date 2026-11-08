@@ -6,25 +6,69 @@
     "base_name": "Percolator",
     "base_address": "8PzFWyLpCVEmbZmVJcaRTU5r69XKJx1rd7YGpWvnpump",
     "dex": "pumpswap",
-    "price_usd": 0.003447907651631914,
+    "price_usd": 0.00027099693845035325,
     "created_at": "2025-10-20T09:31:51Z",
-    "fdv_usd": 3410753.76667724,
-    "reserve_usd": 327197.6888,
-    "volume_h24": 1115148.50252493,
+    "fdv_usd": 261494.432977244,
+    "reserve_usd": 93384.5041,
+    "volume_h24": 1271740.98104631,
     "change": {
-      "h1": 3.168,
-      "h6": -8.304,
-      "h24": 49.492
+      "h1": 12.667,
+      "h6": -18.097,
+      "h24": -89.947
     },
     "tx_h1": {
-      "buys": 242,
-      "sells": 178
+      "buys": 34,
+      "sells": 53
     },
     "first_seen": "2026-11-03T19:34:13+00:00",
-    "last_seen": "2026-11-04T00:41:09+00:00"
+    "last_seen": "2026-11-08T20:34:16+00:00",
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 2419.68,
+        "mult": 242.5,
+        "whale": false,
+        "hours_ago": 2.4,
+        "addr8": "AZ5JEcnr"
+      },
+      {
+        "kind": "buy",
+        "usd": 1442.28,
+        "mult": 144.5,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 1219.48,
+        "mult": 122.2,
+        "whale": false,
+        "hours_ago": 2.4,
+        "addr8": "9S9LeMaw"
+      },
+      {
+        "kind": "buy",
+        "usd": 1097.02,
+        "mult": 109.9,
+        "whale": false,
+        "hours_ago": 2.6,
+        "addr8": "H7cQKaSa"
+      },
+      {
+        "kind": "sell",
+        "usd": 1025.73,
+        "mult": 102.8,
+        "whale": false,
+        "hours_ago": 1.6,
+        "addr8": "H7cQKaSa"
+      }
+    ]
   },
-  "narrative": "Percolator разрывает: +49.5% за 24ч.",
-  "flags": [],
-  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
-  "updated_at": "2026-11-08T15:21:15Z"
+  "narrative": "Percolator в обвале: -89.9% за 24ч. объём $1.27M больше капы в 4.9× — бумага в огне. ликвидность тонкая ($93.4K) — движения будут резкими. крупная сделка на фоне ленты: купил $2.4K (242× медианы, 2ч назад). нетто китов за сутки +$2.7K.",
+  "flags": [
+    "тонкая ликвидность"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $2.4K (242× медианы). Нетто-поток китов: +$2.7K.",
+  "updated_at": "2026-11-08T20:34:16Z"
 }
