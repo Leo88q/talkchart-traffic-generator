@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/STOKE_+17.png",
+  "title": "TalkChart: STOKE (+16.7%) — Solana On-Chain Radar",
+  "description": "STOKE растёт на +16.7% за сутки. объём $646.8K больше капы в 9.3× — бумага в огне. ликвидность тонкая ($27.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $646.8K · Ликвидность: $27.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп STOKE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5BeD1Uc3Rz2Eha5FqGEnVUpGRNRk8khkXLXQNxynPyTx"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Cns3TxMp6kArSNUFdAiALUwZYPXvHWk6EVRMzXL2hoqz"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

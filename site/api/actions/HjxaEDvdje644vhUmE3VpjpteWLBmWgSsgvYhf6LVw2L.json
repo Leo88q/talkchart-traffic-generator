@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ELYSION_+4377.png",
+  "title": "TalkChart: ELYSION (+4377.3%) — Solana On-Chain Radar",
+  "description": "ELYSION разрывает: +4377.3% за 24ч. объём $3.83M больше капы в 1.7× — бумага в огне. ликвидность тонкая ($125.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $3.83M · Ликвидность: $125.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ELYSION (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HjxaEDvdje644vhUmE3VpjpteWLBmWgSsgvYhf6LVw2L"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

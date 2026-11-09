@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "HcyYBrZVFDDVBLtLxL5C1HDJND1p86BoNA6m7MjBKE3p",
+    "name": "PUSSY / SOL",
+    "base_symbol": "PUSSY",
+    "base_name": "PUSSY",
+    "base_address": "FZxHLUGiGchY5uvvoeqh1EKiXTrGdN67WUBhUc1fLoat",
+    "dex": "meteora",
+    "price_usd": 0.0027829891951366846,
+    "created_at": "2026-11-08T20:31:58Z",
+    "fdv_usd": 2782989.195,
+    "reserve_usd": 138077.9578,
+    "volume_h24": 1535033.69502529,
+    "change": {
+      "h1": 10.61,
+      "h6": -3.768,
+      "h24": 2006.664
+    },
+    "tx_h1": {
+      "buys": 82,
+      "sells": 132
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 3409.4,
+        "mult": 177.3,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "tKNFhj5k"
+      },
+      {
+        "kind": "buy",
+        "usd": 1489.99,
+        "mult": 77.5,
+        "whale": false,
+        "hours_ago": 1.0,
+        "addr8": "9EwQoN74"
+      },
+      {
+        "kind": "buy",
+        "usd": 1435.33,
+        "mult": 74.6,
+        "whale": false,
+        "hours_ago": 0.8,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "sell",
+        "usd": 1433.35,
+        "mult": 74.5,
+        "whale": false,
+        "hours_ago": 0.7,
+        "addr8": "F6o3wNdR"
+      },
+      {
+        "kind": "sell",
+        "usd": 1413.6,
+        "mult": 73.5,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "BcmS96iP"
+      }
+    ],
+    "first_seen": "2026-11-09T06:47:04+00:00",
+    "last_seen": "2026-11-09T06:47:04+00:00"
+  },
+  "narrative": "PUSSY разрывает: +2006.7% за 24ч. ликвидность тонкая ($138.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $3.4K (177× медианы, 0ч назад). нетто китов за сутки −$3.3K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $3.4K (177× медианы). Нетто-поток китов: $-3.3K.",
+  "updated_at": "2026-11-09T06:47:04Z"
+}

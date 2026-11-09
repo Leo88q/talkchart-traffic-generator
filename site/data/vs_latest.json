@@ -1,17 +1,17 @@
 {
-  "slug": "herewego-vs-maggie",
+  "slug": "elysion-vs-pussy",
   "token1": {
-    "symbol": "HEREWEGO",
-    "change_24h": 1793.589,
-    "address": "67BwjNjSjbdPP3KPi6GDeevK25QGrprwFTTmQE4wSziR",
-    "volume": 4743931.81025677
+    "symbol": "ELYSION",
+    "change_24h": 4377.3,
+    "address": "HjxaEDvdje644vhUmE3VpjpteWLBmWgSsgvYhf6LVw2L",
+    "volume": 3825048.27094213
   },
   "token2": {
-    "symbol": "MAGGIE",
-    "change_24h": 706.425,
-    "address": "Hs5n9VP5obCAeyyBcTrV1T6LQrFLUPqaXZtSDkkRu7rw",
-    "volume": 5886209.14834851
+    "symbol": "PUSSY",
+    "change_24h": 2006.664,
+    "address": "HcyYBrZVFDDVBLtLxL5C1HDJND1p86BoNA6m7MjBKE3p",
+    "volume": 1535033.69502529
   },
-  "verdict": "По ончейн-метрикам TalkChart: HEREWEGO опережает по ценовому импульсу (+1793.6% против +706.4%). Краткосрочный фаворит по совокупности факторов: HEREWEGO.",
-  "updated_at": "2026-11-08 20:34 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: ELYSION опережает по ценовому импульсу (+4377.3% против +2006.7%). Краткосрочный фаворит по совокупности факторов: ELYSION.",
+  "updated_at": "2026-11-09 06:47 UTC"
 }
