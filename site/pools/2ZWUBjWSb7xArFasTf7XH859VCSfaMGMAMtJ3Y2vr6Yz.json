@@ -1,0 +1,67 @@
+{
+  "pool": {
+    "address": "2ZWUBjWSb7xArFasTf7XH859VCSfaMGMAMtJ3Y2vr6Yz",
+    "name": "QUINN / SOL",
+    "base_symbol": "QUINN",
+    "base_name": "QUINN",
+    "base_address": "B32gQ1hRs6ZHG2Tv6N8PLtESBa1rcKufatp8gb38pump",
+    "dex": "pumpswap",
+    "price_usd": 9.349984593999957e-06,
+    "created_at": "2026-11-09T01:17:10Z",
+    "fdv_usd": 9349.984594,
+    "reserve_usd": 6674.6792,
+    "volume_h24": 1162176.19891756,
+    "change": {
+      "h1": -7.75,
+      "h6": -16.482,
+      "h24": -73.661
+    },
+    "tx_h1": {
+      "buys": 15,
+      "sells": 17
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 322.58,
+        "mult": 37.3,
+        "whale": false,
+        "hours_ago": 1.3,
+        "addr8": "DABwrQEV"
+      },
+      {
+        "kind": "buy",
+        "usd": 308.75,
+        "mult": 35.7,
+        "whale": false,
+        "hours_ago": 3.8,
+        "addr8": "DABwrQEV"
+      },
+      {
+        "kind": "sell",
+        "usd": 300.53,
+        "mult": 34.7,
+        "whale": false,
+        "hours_ago": 1.7,
+        "addr8": "DABwrQEV"
+      },
+      {
+        "kind": "buy",
+        "usd": 298.71,
+        "mult": 34.5,
+        "whale": false,
+        "hours_ago": 1.7,
+        "addr8": "DABwrQEV"
+      }
+    ],
+    "first_seen": "2026-11-09T18:55:03+00:00",
+    "last_seen": "2026-11-09T18:55:03+00:00"
+  },
+  "narrative": "QUINN в обвале: -73.7% за 24ч. давление продаж нарастает. объём $1.16M больше капы в 124.3× — бумага в огне. ликвидность тонкая ($6.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $322.58 (37× медианы, 1ч назад). нетто китов за сутки +$629.51.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 4 (3 покупок, 1 продаж). Крупнейшая: покупка на $322.58 (37× медианы). Нетто-поток китов: +$629.51.",
+  "updated_at": "2026-11-09T18:55:03Z"
+}

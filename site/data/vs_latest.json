@@ -1,17 +1,17 @@
 {
-  "slug": "elysion-vs-pussy",
+  "slug": "pussy-vs-stank",
   "token1": {
-    "symbol": "ELYSION",
-    "change_24h": 4377.3,
-    "address": "HjxaEDvdje644vhUmE3VpjpteWLBmWgSsgvYhf6LVw2L",
-    "volume": 3825048.27094213
+    "symbol": "PUSSY",
+    "change_24h": 983.843,
+    "address": "HcyYBrZVFDDVBLtLxL5C1HDJND1p86BoNA6m7MjBKE3p",
+    "volume": 2049041.11227605
   },
   "token2": {
-    "symbol": "PUSSY",
-    "change_24h": 2006.664,
-    "address": "HcyYBrZVFDDVBLtLxL5C1HDJND1p86BoNA6m7MjBKE3p",
-    "volume": 1535033.69502529
+    "symbol": "STANK",
+    "change_24h": 134.646,
+    "address": "6hYFMyE2BYYScTErqUeCKhihQ5X9j2WD2z9waTdwy38N",
+    "volume": 1003716.12659992
   },
-  "verdict": "По ончейн-метрикам TalkChart: ELYSION опережает по ценовому импульсу (+4377.3% против +2006.7%). Краткосрочный фаворит по совокупности факторов: ELYSION.",
-  "updated_at": "2026-11-09 06:47 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: PUSSY опережает по ценовому импульсу (+983.8% против +134.6%). Краткосрочный фаворит по совокупности факторов: PUSSY.",
+  "updated_at": "2026-11-09 18:55 UTC"
 }
