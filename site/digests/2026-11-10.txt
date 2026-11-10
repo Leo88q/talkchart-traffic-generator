@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-10
-1. FAIR +639.6% — FAIR разрывает: +639.6% за 24ч. объём $1.47M больше капы в 5.6× — бумага в огне
-2. AICoin +120.0% — AICoin разрывает: +120.0% за 24ч. объём $1.54M больше капы в 15.2× — бумага в огне
-3. WEALTH +64.7% — WEALTH разрывает: +64.7% за 24ч. ликвидность тонкая ($85.3K) — движения будут резкими
-4. DESSA -59.3% — DESSA в обвале: -59.3% за 24ч. крупная сделка на фоне ленты: продал $7.9K (75× медианы, 1ч назад)
-5. FLOAT -39.2% — FLOAT в обвале: -39.2% за 24ч. давление продаж нарастает
+1. X +806.6% — X разрывает: +806.6% за 24ч. объём $3.76M больше капы в 12.0× — бумага в огне
+2. AICoin +197.3% — AICoin разрывает: +197.3% за 24ч. ускорение в последнем часе
+3. DacityCoin +195.6% — DacityCoin разрывает: +195.6% за 24ч. ликвидность тонкая ($245.3K) — движения будут резкими
+4. PIRATE +82.9% — PIRATE разрывает: +82.9% за 24ч. объём $874.7K больше капы в 2.6× — бумага в огне
+5. STANK +75.1% — STANK разрывает: +75.1% за 24ч. ускорение в последнем часе
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/54GtpHJaEGKsfq6pWSRJa656zRgVFhkC5fzQBmp7qXmS.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/6MdmwvCsrMAbTqJC7GBBu5FBUFLbC6dJXGxm5VtnrDzQ.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

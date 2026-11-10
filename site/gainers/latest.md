@@ -1,6 +1,6 @@
 # Solana Top Gainers (24h) — 2026-11-10
 
-> Automated on-chain leaderboard from TalkChart. Updated 2026-11-10 12:46 UTC.
+> Automated on-chain leaderboard from TalkChart. Updated 2026-11-10 21:52 UTC.
 
 | # | Symbol | 24h Change | 24h Volume | On-Chain Narrative |
 |---|--------|------------|------------|-------------------|
@@ -12,5 +12,5 @@
 | 6 | [HODL](https://leo88q.github.io/content-/site/pools/ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR.md) | +1015.1% | $4.20M | HODL разрывает: +1015.1% за 24ч. покупатели доминируют (82% сделок за час) |
 | 7 | [Groklet](https://leo88q.github.io/content-/site/pools/7oDjba4hZozvNWboKSRwFetStnM4iA5WiTKwFr1Lsy8t.md) | +921.3% | $2.18M | Groklet разрывает: +921.3% за 24ч. объём $2.18M больше капы в 7.8× — бумага в огне |
 | 8 | [CATBOT](https://leo88q.github.io/content-/site/pools/9CnCbMdSHu7P4VvPzoELHbB6rmBy3quiAby36KqcswvW.md) | +913.9% | $5.77M | CATBOT разрывает: +913.9% за 24ч. покупатели доминируют (69% сделок за час) |
-| 9 | [MAGGIE](https://leo88q.github.io/content-/site/pools/Hs5n9VP5obCAeyyBcTrV1T6LQrFLUPqaXZtSDkkRu7rw.md) | +706.4% | $5.89M | MAGGIE разрывает: +706.4% за 24ч. давление продаж нарастает |
-| 10 | [FAIR](https://leo88q.github.io/content-/site/pools/54GtpHJaEGKsfq6pWSRJa656zRgVFhkC5fzQBmp7qXmS.md) | +639.6% | $1.47M | FAIR разрывает: +639.6% за 24ч. объём $1.47M больше капы в 5.6× — бумага в огне |
+| 9 | [X](https://leo88q.github.io/content-/site/pools/6MdmwvCsrMAbTqJC7GBBu5FBUFLbC6dJXGxm5VtnrDzQ.md) | +806.6% | $3.76M | X разрывает: +806.6% за 24ч. объём $3.76M больше капы в 12.0× — бумага в огне |
+| 10 | [MAGGIE](https://leo88q.github.io/content-/site/pools/Hs5n9VP5obCAeyyBcTrV1T6LQrFLUPqaXZtSDkkRu7rw.md) | +706.4% | $5.89M | MAGGIE разрывает: +706.4% за 24ч. давление продаж нарастает |

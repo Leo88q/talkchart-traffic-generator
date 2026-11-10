@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PIRATE_+83.png",
+  "title": "TalkChart: PIRATE (+82.9%) — Solana On-Chain Radar",
+  "description": "PIRATE разрывает: +82.9% за 24ч. объём $874.7K больше капы в 2.6× — бумага в огне. ликвидность тонкая ($55.5K) — движения будут резкими. пулу 8 дн., история короткая.\n\nОбъём: $874.7K · Ликвидность: $55.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PIRATE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6mXFCoZ515w37YfmwXGJMPfQfiK5tr9WkihW3oN9pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CKuwAXUbnxmeCNurN5VvyC7kLz42JnQtyh2nyFJ8Kv1X"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

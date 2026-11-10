@@ -1,17 +1,17 @@
 {
-  "slug": "fair-vs-aicoin",
+  "slug": "x-vs-aicoin",
   "token1": {
-    "symbol": "FAIR",
-    "change_24h": 639.604,
-    "address": "54GtpHJaEGKsfq6pWSRJa656zRgVFhkC5fzQBmp7qXmS",
-    "volume": 1474625.66604915
+    "symbol": "X",
+    "change_24h": 806.647,
+    "address": "6MdmwvCsrMAbTqJC7GBBu5FBUFLbC6dJXGxm5VtnrDzQ",
+    "volume": 3763961.02370349
   },
   "token2": {
     "symbol": "AICoin",
-    "change_24h": 120.042,
+    "change_24h": 197.319,
     "address": "CmKXFUCW8CSnmqTVHBrK3E6sZk4fLeeB24yia7GyXeWt",
-    "volume": 1543165.80770311
+    "volume": 1744336.90924444
   },
-  "verdict": "По ончейн-метрикам TalkChart: FAIR опережает по ценовому импульсу (+639.6% против +120.0%). Краткосрочный фаворит по совокупности факторов: FAIR.",
-  "updated_at": "2026-11-10 12:46 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: X опережает по ценовому импульсу (+806.6% против +197.3%). Краткосрочный фаворит по совокупности факторов: X.",
+  "updated_at": "2026-11-10 21:52 UTC"
 }
