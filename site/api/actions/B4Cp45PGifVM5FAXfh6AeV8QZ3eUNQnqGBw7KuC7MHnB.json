@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CBUCKS_+28.png",
+  "title": "TalkChart: CBUCKS (+27.6%) — Solana On-Chain Radar",
+  "description": "CBUCKS растёт на +27.6% за сутки. покупатели доминируют (65% сделок за час). ликвидность тонкая ($222.8K) — движения будут резкими.\n\nОбъём: $499.8K · Ликвидность: $222.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CBUCKS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=B4Cp45PGifVM5FAXfh6AeV8QZ3eUNQnqGBw7KuC7MHnB"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

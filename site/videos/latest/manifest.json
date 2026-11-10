@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-09T18:55:19+00:00",
+ "generated_at": "2026-11-10T02:56:30+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-09/PUSSY.mp4",
-   "latest_file": "videos/latest/PUSSY.mp4",
-   "symbol": "PUSSY",
-   "chg_h24": 983.843
+   "file": "videos/2026-11-10/HODL.mp4",
+   "latest_file": "videos/latest/HODL.mp4",
+   "symbol": "HODL",
+   "chg_h24": 259.014
   },
   {
-   "file": "videos/2026-11-09/STANK.mp4",
-   "latest_file": "videos/latest/STANK.mp4",
-   "symbol": "STANK",
-   "chg_h24": 134.646
+   "file": "videos/2026-11-10/Pepetide.mp4",
+   "latest_file": "videos/latest/Pepetide.mp4",
+   "symbol": "Pepetide",
+   "chg_h24": 179.456
   },
   {
-   "file": "videos/2026-11-09/BTC.mp4",
-   "latest_file": "videos/latest/BTC.mp4",
-   "symbol": "BTC",
-   "chg_h24": 116.502
+   "file": "videos/2026-11-10/FAIR.mp4",
+   "latest_file": "videos/latest/FAIR.mp4",
+   "symbol": "FAIR",
+   "chg_h24": 119.881
   }
  ]
 }

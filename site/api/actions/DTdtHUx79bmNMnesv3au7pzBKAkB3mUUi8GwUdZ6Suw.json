@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HODL_+259.png",
+  "title": "TalkChart: HODL (+259.0%) — Solana On-Chain Radar",
+  "description": "HODL разрывает: +259.0% за 24ч.\n\nОбъём: $2.44M · Ликвидность: $317.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HODL (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Hh3oTaqDCKKfdBgsQEvxp9sUwyNf8x9qmKqEMLBWpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DTdtHUx79bmNMnesv3au7pzBKAkB3mUUi8GwUdZ6Suw"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Pepetide_+179.png",
+  "title": "TalkChart: Pepetide (+179.5%) — Solana On-Chain Radar",
+  "description": "Pepetide разрывает: +179.5% за 24ч. покупатели доминируют (87% сделок за час). ликвидность тонкая ($40.6K) — движения будут резкими. пулу 2 дн. — чистая рулетка.\n\nОбъём: $489.2K · Ликвидность: $40.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Pepetide (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-22JKmY9YZfnQfb3pGYb6hctL5Jyvv3zhL3nQ8oyNuoYp"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=2uA94Y3X9dwDduojoj2NRcyZQaYtcoSsHZ4y1UX5P8Rs"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

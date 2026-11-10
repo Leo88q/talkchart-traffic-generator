@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FAIR_+120.png",
+  "title": "TalkChart: FAIR (+119.9%) — Solana On-Chain Radar",
+  "description": "FAIR разрывает: +119.9% за 24ч. давление продаж нарастает. объём $1.19M больше капы в 15.1× — бумага в огне. ликвидность тонкая ($22.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.19M · Ликвидность: $22.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FAIR (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-FairDR2UmRqHxsVPdPcetePCjFaDqVYv3oQX9fcQTpTg"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=54GtpHJaEGKsfq6pWSRJa656zRgVFhkC5fzQBmp7qXmS"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,17 +1,17 @@
 {
-  "slug": "pussy-vs-stank",
+  "slug": "hodl-vs-pepetide",
   "token1": {
-    "symbol": "PUSSY",
-    "change_24h": 983.843,
-    "address": "HcyYBrZVFDDVBLtLxL5C1HDJND1p86BoNA6m7MjBKE3p",
-    "volume": 2049041.11227605
+    "symbol": "HODL",
+    "change_24h": 259.014,
+    "address": "DTdtHUx79bmNMnesv3au7pzBKAkB3mUUi8GwUdZ6Suw",
+    "volume": 2441378.99121034
   },
   "token2": {
-    "symbol": "STANK",
-    "change_24h": 134.646,
-    "address": "6hYFMyE2BYYScTErqUeCKhihQ5X9j2WD2z9waTdwy38N",
-    "volume": 1003716.12659992
+    "symbol": "Pepetide",
+    "change_24h": 179.456,
+    "address": "2uA94Y3X9dwDduojoj2NRcyZQaYtcoSsHZ4y1UX5P8Rs",
+    "volume": 489182.403521296
   },
-  "verdict": "По ончейн-метрикам TalkChart: PUSSY опережает по ценовому импульсу (+983.8% против +134.6%). Краткосрочный фаворит по совокупности факторов: PUSSY.",
-  "updated_at": "2026-11-09 18:55 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HODL опережает по ценовому импульсу (+259.0% против +179.5%). Кроме того, у HODL существенно глубже пул ликвидности ($317.5K против $40.6K), что снижает риск проскальзывания. Кроме того, у Pepetide соотношение объёма к TVL 12.1× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: HODL.",
+  "updated_at": "2026-11-10 02:56 UTC"
 }
