@@ -6,64 +6,64 @@
     "base_name": "DESSA",
     "base_address": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
     "dex": "pumpswap",
-    "price_usd": 0.03069616785249321,
+    "price_usd": 0.01849205305189802,
     "created_at": "2026-10-26T13:05:18Z",
-    "fdv_usd": 29923250.4170631,
-    "reserve_usd": 522606.7154,
-    "volume_h24": 3609266.58936622,
+    "fdv_usd": 17722665.2945162,
+    "reserve_usd": 400434.8471,
+    "volume_h24": 4001751.29110629,
     "change": {
-      "h1": -12.889,
-      "h6": -8.973,
-      "h24": -37.407
+      "h1": -1.085,
+      "h6": -8.255,
+      "h24": -59.297
     },
     "tx_h1": {
-      "buys": 1053,
-      "sells": 1082
+      "buys": 216,
+      "sells": 182
     },
     "whales": [
       {
-        "kind": "buy",
-        "usd": 2184.25,
-        "mult": 41.4,
+        "kind": "sell",
+        "usd": 7888.86,
+        "mult": 75.3,
         "whale": false,
-        "hours_ago": 0.8,
-        "addr8": "BXgHZWzw"
-      },
-      {
-        "kind": "buy",
-        "usd": 1665.71,
-        "mult": 31.6,
-        "whale": false,
-        "hours_ago": 0.7,
-        "addr8": "HARFKBFQ"
-      },
-      {
-        "kind": "buy",
-        "usd": 1638.58,
-        "mult": 31.1,
-        "whale": false,
-        "hours_ago": 0.9,
-        "addr8": "3whbi1bR"
-      },
-      {
-        "kind": "buy",
-        "usd": 1404.63,
-        "mult": 26.7,
-        "whale": false,
-        "hours_ago": 0.3,
-        "addr8": "5VDvYFMM"
+        "hours_ago": 0.6,
+        "addr8": "H2iQTA66"
       },
       {
         "kind": "sell",
-        "usd": 1234.78,
-        "mult": 23.4,
+        "usd": 1793.87,
+        "mult": 17.1,
         "whale": false,
-        "hours_ago": 0.2,
-        "addr8": "7kfqRvWu"
+        "hours_ago": 0.1,
+        "addr8": "5WCZY3rK"
+      },
+      {
+        "kind": "buy",
+        "usd": 1269.44,
+        "mult": 12.1,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "9ktxYEqq"
+      },
+      {
+        "kind": "buy",
+        "usd": 1268.96,
+        "mult": 12.1,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "3aiM8Adw"
+      },
+      {
+        "kind": "buy",
+        "usd": 1268.96,
+        "mult": 12.1,
+        "whale": false,
+        "hours_ago": 0.3,
+        "addr8": "3aiM8Adw"
       }
     ],
     "first_seen": "2026-10-30T15:08:02+00:00",
-    "last_seen": "2026-11-10T02:56:14+00:00",
+    "last_seen": "2026-11-10T12:46:17+00:00",
     "ohlcv_h1": [
       [
         1794276000,
@@ -451,8 +451,8 @@
       ]
     ]
   },
-  "narrative": "DESSA в обвале: -37.4% за 24ч. давление продаж нарастает. крупная сделка на фоне ленты: купил $2.2K (41× медианы, 1ч назад). нетто китов за сутки +$5.7K.",
+  "narrative": "DESSA в обвале: -59.3% за 24ч. крупная сделка на фоне ленты: продал $7.9K (75× медианы, 1ч назад). нетто китов за сутки −$5.9K.",
   "flags": [],
-  "whale_summary": "Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $2.2K (41× медианы). Нетто-поток китов: +$5.7K.",
-  "updated_at": "2026-11-10T02:56:14Z"
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $7.9K (75× медианы). Нетто-поток китов: $-5.9K.",
+  "updated_at": "2026-11-10T12:46:17Z"
 }

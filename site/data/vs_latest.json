@@ -1,17 +1,17 @@
 {
-  "slug": "hodl-vs-pepetide",
+  "slug": "fair-vs-aicoin",
   "token1": {
-    "symbol": "HODL",
-    "change_24h": 259.014,
-    "address": "DTdtHUx79bmNMnesv3au7pzBKAkB3mUUi8GwUdZ6Suw",
-    "volume": 2441378.99121034
+    "symbol": "FAIR",
+    "change_24h": 639.604,
+    "address": "54GtpHJaEGKsfq6pWSRJa656zRgVFhkC5fzQBmp7qXmS",
+    "volume": 1474625.66604915
   },
   "token2": {
-    "symbol": "Pepetide",
-    "change_24h": 179.456,
-    "address": "2uA94Y3X9dwDduojoj2NRcyZQaYtcoSsHZ4y1UX5P8Rs",
-    "volume": 489182.403521296
+    "symbol": "AICoin",
+    "change_24h": 120.042,
+    "address": "CmKXFUCW8CSnmqTVHBrK3E6sZk4fLeeB24yia7GyXeWt",
+    "volume": 1543165.80770311
   },
-  "verdict": "По ончейн-метрикам TalkChart: HODL опережает по ценовому импульсу (+259.0% против +179.5%). Кроме того, у HODL существенно глубже пул ликвидности ($317.5K против $40.6K), что снижает риск проскальзывания. Кроме того, у Pepetide соотношение объёма к TVL 12.1× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: HODL.",
-  "updated_at": "2026-11-10 02:56 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FAIR опережает по ценовому импульсу (+639.6% против +120.0%). Краткосрочный фаворит по совокупности факторов: FAIR.",
+  "updated_at": "2026-11-10 12:46 UTC"
 }

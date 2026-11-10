@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-10
-1. HODL +259.0% — HODL разрывает: +259.0% за 24ч.
-2. Pepetide +179.5% — Pepetide разрывает: +179.5% за 24ч. покупатели доминируют (87% сделок за час)
-3. FAIR +119.9% — FAIR разрывает: +119.9% за 24ч. давление продаж нарастает
-4. WEALTH +111.2% — WEALTH разрывает: +111.2% за 24ч. ликвидность тонкая ($95.9K) — движения будут резкими
-5. STANK +71.9% — STANK разрывает: +71.9% за 24ч. ликвидность тонкая ($115.0K) — движения будут резкими
+1. FAIR +639.6% — FAIR разрывает: +639.6% за 24ч. объём $1.47M больше капы в 5.6× — бумага в огне
+2. AICoin +120.0% — AICoin разрывает: +120.0% за 24ч. объём $1.54M больше капы в 15.2× — бумага в огне
+3. WEALTH +64.7% — WEALTH разрывает: +64.7% за 24ч. ликвидность тонкая ($85.3K) — движения будут резкими
+4. DESSA -59.3% — DESSA в обвале: -59.3% за 24ч. крупная сделка на фоне ленты: продал $7.9K (75× медианы, 1ч назад)
+5. FLOAT -39.2% — FLOAT в обвале: -39.2% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/DTdtHUx79bmNMnesv3au7pzBKAkB3mUUi8GwUdZ6Suw.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/54GtpHJaEGKsfq6pWSRJa656zRgVFhkC5fzQBmp7qXmS.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

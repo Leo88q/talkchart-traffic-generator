@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-10T02:56:30+00:00",
+ "generated_at": "2026-11-10T12:46:33+00:00",
  "videos": [
-  {
-   "file": "videos/2026-11-10/HODL.mp4",
-   "latest_file": "videos/latest/HODL.mp4",
-   "symbol": "HODL",
-   "chg_h24": 259.014
-  },
-  {
-   "file": "videos/2026-11-10/Pepetide.mp4",
-   "latest_file": "videos/latest/Pepetide.mp4",
-   "symbol": "Pepetide",
-   "chg_h24": 179.456
-  },
   {
    "file": "videos/2026-11-10/FAIR.mp4",
    "latest_file": "videos/latest/FAIR.mp4",
    "symbol": "FAIR",
-   "chg_h24": 119.881
+   "chg_h24": 639.604
+  },
+  {
+   "file": "videos/2026-11-10/AICoin.mp4",
+   "latest_file": "videos/latest/AICoin.mp4",
+   "symbol": "AICoin",
+   "chg_h24": 120.042
+  },
+  {
+   "file": "videos/2026-11-10/WEALTH.mp4",
+   "latest_file": "videos/latest/WEALTH.mp4",
+   "symbol": "WEALTH",
+   "chg_h24": 64.675
   }
  ]
 }

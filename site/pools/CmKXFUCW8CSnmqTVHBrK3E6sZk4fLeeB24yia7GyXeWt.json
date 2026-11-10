@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "CmKXFUCW8CSnmqTVHBrK3E6sZk4fLeeB24yia7GyXeWt",
+    "name": "AICoin / ANTHRP",
+    "base_symbol": "AICoin",
+    "base_name": "AICoin",
+    "base_address": "B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump",
+    "dex": "pumpswap",
+    "price_usd": 0.00010153826730311657,
+    "created_at": "2026-11-10T02:26:08Z",
+    "fdv_usd": 101538.2673,
+    "reserve_usd": 27108.7071,
+    "volume_h24": 1543165.80770311,
+    "change": {
+      "h1": -26.499,
+      "h6": 1.787,
+      "h24": 120.042
+    },
+    "tx_h1": {
+      "buys": 262,
+      "sells": 255
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 460.36,
+        "mult": 47.3,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "Hz12hVh7"
+      },
+      {
+        "kind": "buy",
+        "usd": 401.67,
+        "mult": 41.3,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "ByHgyqew"
+      },
+      {
+        "kind": "sell",
+        "usd": 308.81,
+        "mult": 31.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "pXEKng2v"
+      },
+      {
+        "kind": "buy",
+        "usd": 298.64,
+        "mult": 30.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "bb7ran6q"
+      },
+      {
+        "kind": "sell",
+        "usd": 298.05,
+        "mult": 30.6,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "99ADR6Pq"
+      }
+    ],
+    "first_seen": "2026-11-10T12:46:17+00:00",
+    "last_seen": "2026-11-10T12:46:17+00:00"
+  },
+  "narrative": "AICoin разрывает: +120.0% за 24ч. объём $1.54M больше капы в 15.2× — бумага в огне. ликвидность тонкая ($27.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $460.36 (47× медианы, 0ч назад). нетто китов за сутки −$366.91.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $460.36 (47× медианы). Нетто-поток китов: $-366.91.",
+  "updated_at": "2026-11-10T12:46:17Z"
+}

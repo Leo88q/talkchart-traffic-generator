@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/AICoin_+120.png",
+  "title": "TalkChart: AICoin (+120.0%) — Solana On-Chain Radar",
+  "description": "AICoin разрывает: +120.0% за 24ч. объём $1.54M больше капы в 15.2× — бумага в огне. ликвидность тонкая ($27.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $460.36 (47× медианы, 0ч назад). нетто китов за сутки −$366.91.\n\nОбъём: $1.54M · Ликвидность: $27.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп AICoin (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CmKXFUCW8CSnmqTVHBrK3E6sZk4fLeeB24yia7GyXeWt"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
