@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/TTWO_+4.png",
+  "title": "TalkChart: TTWO (+4.2%) — Solana On-Chain Radar",
+  "description": "TTWO в боковике: +4.2% за сутки. продают в рынок (65% сделок за час). объём $8.44M больше капы в 2.4× — бумага в огне.\n\nОбъём: $8.44M · Ликвидность: $463.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп TTWO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6PTm7MkUmtsLU7w6dWrMHJAt8PnzoCgcZdKyTKEhUAPL"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

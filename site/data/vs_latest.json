@@ -1,17 +1,17 @@
 {
-  "slug": "x-vs-aicoin",
+  "slug": "hold-vs-mihao",
   "token1": {
-    "symbol": "X",
-    "change_24h": 806.647,
-    "address": "6MdmwvCsrMAbTqJC7GBBu5FBUFLbC6dJXGxm5VtnrDzQ",
-    "volume": 3763961.02370349
+    "symbol": "HOLD",
+    "change_24h": 1769.101,
+    "address": "GUsid5mPW6KiExjQDDggoTHrFv4ecGqqAgYwiHa4Ujbb",
+    "volume": 4171900.62063378
   },
   "token2": {
-    "symbol": "AICoin",
-    "change_24h": 197.319,
-    "address": "CmKXFUCW8CSnmqTVHBrK3E6sZk4fLeeB24yia7GyXeWt",
-    "volume": 1744336.90924444
+    "symbol": "mihao",
+    "change_24h": 1723.006,
+    "address": "Ho1aSG6WGH1FfXdEHrK2f4Ggt1Hoxo9s5jcLMDqeyeBz",
+    "volume": 26454774.1265912
   },
-  "verdict": "По ончейн-метрикам TalkChart: X опережает по ценовому импульсу (+806.6% против +197.3%). Краткосрочный фаворит по совокупности факторов: X.",
-  "updated_at": "2026-11-10 21:52 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HOLD опережает по ценовому импульсу (+1769.1% против +1723.0%). Кроме того, у mihao более надёжная ликвидность ($374.4K против $71.8K). Краткосрочный фаворит по совокупности факторов: mihao.",
+  "updated_at": "2026-11-11 06:38 UTC"
 }

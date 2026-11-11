@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/NIHAO_+1722.png",
+  "title": "TalkChart: NIHAO (+1722.3%) — Solana On-Chain Radar",
+  "description": "NIHAO разрывает: +1722.3% за 24ч. ускорение в последнем часе. ликвидность тонкая ($183.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $3.31M · Ликвидность: $183.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп NIHAO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4rsLuj8sBFFMwM4AK6p4R5RbZ7y2m9CGrefxVb29JbgN"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

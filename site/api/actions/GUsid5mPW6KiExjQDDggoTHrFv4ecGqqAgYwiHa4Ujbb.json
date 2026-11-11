@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HOLD_+1769.png",
+  "title": "TalkChart: HOLD (+1769.1%) — Solana On-Chain Radar",
+  "description": "HOLD разрывает: +1769.1% за 24ч. объём $4.17M больше капы в 6.1× — бумага в огне. ликвидность тонкая ($71.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $4.17M · Ликвидность: $71.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HOLD (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4iJ7xEQrUvVUQH9KVStvw3FaY2PZDd7RtR4L9zx2pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=GUsid5mPW6KiExjQDDggoTHrFv4ecGqqAgYwiHa4Ujbb"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
