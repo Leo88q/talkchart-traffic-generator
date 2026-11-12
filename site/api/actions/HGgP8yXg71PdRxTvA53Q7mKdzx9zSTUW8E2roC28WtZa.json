@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FLC_+133.png",
+  "title": "TalkChart: FLC (+133.0%) — Solana On-Chain Radar",
+  "description": "FLC разрывает: +133.0% за 24ч. объём $3.26M больше капы в 39.8× — бумага в огне. ликвидность тонкая ($23.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $3.26M · Ликвидность: $23.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FLC (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7yLCJpWQvE2bnX3JZGbmmKrCkCSrSGbqTmgA8tMdpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HGgP8yXg71PdRxTvA53Q7mKdzx9zSTUW8E2roC28WtZa"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

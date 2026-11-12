@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PUMP_-7.png",
+  "title": "TalkChart: PUMP (-7.2%) — Solana On-Chain Radar",
+  "description": "PUMP в боковике: -7.2% за сутки.\n\nОбъём: $2.99M · Ликвидность: $2.17M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PUMP (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BofA2ViUSudPBTUms2KRuG6AHNeMawjNfwqTJDgx5BKW"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

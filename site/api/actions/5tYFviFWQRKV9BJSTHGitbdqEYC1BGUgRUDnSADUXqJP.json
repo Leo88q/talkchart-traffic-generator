@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BURNIE_+99.png",
+  "title": "TalkChart: BURNIE (+98.8%) — Solana On-Chain Radar",
+  "description": "BURNIE разрывает: +98.8% за 24ч. объём $2.32M больше капы в 3.9× — бумага в огне. ликвидность тонкая ($147.7K) — движения будут резкими.\n\nОбъём: $2.32M · Ликвидность: $147.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BURNIE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CGEDT9QZDvvH5GmVkWJH2BXiMJqMJySC9ihWyr7Spump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5tYFviFWQRKV9BJSTHGitbdqEYC1BGUgRUDnSADUXqJP"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/SPCX_-1.png",
+  "title": "TalkChart: SPCX (-0.6%) — Solana On-Chain Radar",
+  "description": "SPCX в боковике: -0.6% за сутки.\n\nОбъём: $13.57M · Ликвидность: $2.77M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп SPCX (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FjuBy7jjf9DXj9d3R7cHpvcnoFW2iQxf7F7P3vqx4Jza"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

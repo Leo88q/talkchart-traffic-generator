@@ -1,17 +1,17 @@
 {
-  "slug": "hold-vs-mihao",
+  "slug": "max-vs-hung",
   "token1": {
-    "symbol": "HOLD",
-    "change_24h": 1769.101,
-    "address": "GUsid5mPW6KiExjQDDggoTHrFv4ecGqqAgYwiHa4Ujbb",
-    "volume": 4171900.62063378
+    "symbol": "Max",
+    "change_24h": 3929.177,
+    "address": "Eoe22HdCa9rhtBwKL6nNZmZxfuzF35xkxobcvfaF1vWQ",
+    "volume": 55624026.8361142
   },
   "token2": {
-    "symbol": "mihao",
-    "change_24h": 1723.006,
-    "address": "Ho1aSG6WGH1FfXdEHrK2f4Ggt1Hoxo9s5jcLMDqeyeBz",
-    "volume": 26454774.1265912
+    "symbol": "HUNG",
+    "change_24h": 3667.904,
+    "address": "2ULaeaUQWkid31cVKyFEujx9ReF7cdGepPxuoptz57m5",
+    "volume": 6257545.14286725
   },
-  "verdict": "По ончейн-метрикам TalkChart: HOLD опережает по ценовому импульсу (+1769.1% против +1723.0%). Кроме того, у mihao более надёжная ликвидность ($374.4K против $71.8K). Краткосрочный фаворит по совокупности факторов: mihao.",
-  "updated_at": "2026-11-11 06:38 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Max опережает по ценовому импульсу (+3929.2% против +3667.9%). Кроме того, у Max существенно глубже пул ликвидности ($170.9K против $63.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Max.",
+  "updated_at": "2026-11-12 16:54 UTC"
 }

@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "5tYFviFWQRKV9BJSTHGitbdqEYC1BGUgRUDnSADUXqJP",
+    "name": "BURNIE / SOL",
+    "base_symbol": "BURNIE",
+    "base_name": "BURNIE",
+    "base_address": "CGEDT9QZDvvH5GmVkWJH2BXiMJqMJySC9ihWyr7Spump",
+    "dex": "pumpswap",
+    "price_usd": 0.0006393842639335839,
+    "created_at": "2026-04-03T03:08:37Z",
+    "fdv_usd": 599617.797953221,
+    "reserve_usd": 147668.189,
+    "volume_h24": 2319511.38240449,
+    "change": {
+      "h1": 7.112,
+      "h6": -7.118,
+      "h24": 98.823
+    },
+    "tx_h1": {
+      "buys": 82,
+      "sells": 93
+    },
+    "first_seen": "2026-11-12T16:53:56+00:00",
+    "last_seen": "2026-11-12T16:53:56+00:00"
+  },
+  "narrative": "BURNIE разрывает: +98.8% за 24ч. объём $2.32M больше капы в 3.9× — бумага в огне. ликвидность тонкая ($147.7K) — движения будут резкими.",
+  "flags": [
+    "тонкая ликвидность",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-12T16:53:57Z"
+}

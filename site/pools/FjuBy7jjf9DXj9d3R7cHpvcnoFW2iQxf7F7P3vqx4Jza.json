@@ -1,0 +1,30 @@
+{
+  "pool": {
+    "address": "FjuBy7jjf9DXj9d3R7cHpvcnoFW2iQxf7F7P3vqx4Jza",
+    "name": "SPCX / USDC",
+    "base_symbol": "SPCX",
+    "base_name": "SPCX",
+    "base_address": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+    "dex": "raydium-clmm",
+    "price_usd": 142.8482756533201,
+    "created_at": "2026-06-12T15:57:12Z",
+    "fdv_usd": 13400318.0731912,
+    "reserve_usd": 2768976.7945,
+    "volume_h24": 13566585.3655873,
+    "change": {
+      "h1": 0.653,
+      "h6": 1.184,
+      "h24": -0.553
+    },
+    "tx_h1": {
+      "buys": 1396,
+      "sells": 1424
+    },
+    "first_seen": "2026-11-12T16:53:56+00:00",
+    "last_seen": "2026-11-12T16:53:56+00:00"
+  },
+  "narrative": "SPCX в боковике: -0.6% за сутки.",
+  "flags": [],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-12T16:53:57Z"
+}
