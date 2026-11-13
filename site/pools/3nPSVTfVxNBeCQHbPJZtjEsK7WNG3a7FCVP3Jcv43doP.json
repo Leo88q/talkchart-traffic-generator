@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "3nPSVTfVxNBeCQHbPJZtjEsK7WNG3a7FCVP3Jcv43doP",
+    "name": "Speed / SOL",
+    "base_symbol": "Speed",
+    "base_name": "Speed",
+    "base_address": "4cPQ6skqbj4qLGddcaJDxZSHoyB94sA3kfNKCptepump",
+    "dex": "pumpswap",
+    "price_usd": 0.0002995841223569228,
+    "created_at": "2026-11-13T14:05:53Z",
+    "fdv_usd": 297369.086833026,
+    "reserve_usd": 45493.8917,
+    "volume_h24": 2508777.8663242,
+    "change": {
+      "h1": 11.003,
+      "h6": 36.554,
+      "h24": 799.511
+    },
+    "tx_h1": {
+      "buys": 1095,
+      "sells": 782
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 2707.62,
+        "mult": 217.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "4n7ifyEW"
+      },
+      {
+        "kind": "buy",
+        "usd": 843.34,
+        "mult": 67.9,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "3gorFagf"
+      },
+      {
+        "kind": "buy",
+        "usd": 813.6,
+        "mult": 65.5,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "HvLi4xBR"
+      },
+      {
+        "kind": "buy",
+        "usd": 493.96,
+        "mult": 39.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "AgmLJBMD"
+      },
+      {
+        "kind": "buy",
+        "usd": 493.77,
+        "mult": 39.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "3gorFagf"
+      }
+    ],
+    "first_seen": "2026-11-13T22:03:02+00:00",
+    "last_seen": "2026-11-13T22:03:02+00:00"
+  },
+  "narrative": "Speed разрывает: +799.5% за 24ч. ускорение в последнем часе. объём $2.51M больше капы в 8.4× — бумага в огне. ликвидность тонкая ($45.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.7K (218× медианы, 0ч назад). нетто китов за сутки −$62.95.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: продажа на $2.7K (218× медианы). Нетто-поток китов: $-62.95.",
+  "updated_at": "2026-11-13T22:03:02Z"
+}

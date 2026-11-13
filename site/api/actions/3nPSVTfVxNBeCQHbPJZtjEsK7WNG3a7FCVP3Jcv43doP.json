@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Speed_+800.png",
+  "title": "TalkChart: Speed (+799.5%) — Solana On-Chain Radar",
+  "description": "Speed разрывает: +799.5% за 24ч. ускорение в последнем часе. объём $2.51M больше капы в 8.4× — бумага в огне. ликвидность тонкая ($45.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.7K (218× медианы, 0ч назад). нетто китов за сутки −$62.95.\n\nОбъём: $2.51M · Ликвидность: $45.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Speed (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4cPQ6skqbj4qLGddcaJDxZSHoyB94sA3kfNKCptepump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3nPSVTfVxNBeCQHbPJZtjEsK7WNG3a7FCVP3Jcv43doP"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

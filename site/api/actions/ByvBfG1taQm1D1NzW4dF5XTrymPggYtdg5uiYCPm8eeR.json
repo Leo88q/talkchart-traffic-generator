@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Suica_-10.png",
+  "title": "TalkChart: Suica (-9.7%) — Solana On-Chain Radar",
+  "description": "Suica теряет -9.7% за сутки. продают в рынок (70% сделок за час). объём $7.5K больше капы в 1.5× — бумага в огне. ликвидность тонкая ($4.0K) — движения будут резкими. пулу 10 дн., история короткая.\n\nОбъём: $7.5K · Ликвидность: $4.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Suica (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-t2TGpqDS81fNNXCST8hxNrRsfVPxJdw41Cct4yLpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=ByvBfG1taQm1D1NzW4dF5XTrymPggYtdg5uiYCPm8eeR"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

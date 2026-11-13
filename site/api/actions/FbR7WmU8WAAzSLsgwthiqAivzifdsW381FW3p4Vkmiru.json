@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Sakura_+659.png",
+  "title": "TalkChart: Sakura (+659.1%) — Solana On-Chain Radar",
+  "description": "Sakura разрывает: +659.1% за 24ч. давление продаж нарастает. объём $4.66M больше капы в 23.0× — бумага в огне. ликвидность тонкая ($39.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $620.21 (53× медианы, 0ч назад). нетто китов за сутки +$1.5K.\n\nОбъём: $4.66M · Ликвидность: $39.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Sakura (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FbR7WmU8WAAzSLsgwthiqAivzifdsW381FW3p4Vkmiru"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

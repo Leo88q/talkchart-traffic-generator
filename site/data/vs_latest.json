@@ -1,17 +1,17 @@
 {
-  "slug": "food-vs-huang",
+  "slug": "food-vs-speed",
   "token1": {
     "symbol": "FOOD",
-    "change_24h": 2381.003,
+    "change_24h": 2881.067,
     "address": "2XhQqp1vDVxtaa21bPsekQF5gjts9euqRPSZ6Urs41qk",
-    "volume": 9871701.20577963
+    "volume": 12041018.5061772
   },
   "token2": {
-    "symbol": "Huang",
-    "change_24h": 450.283,
-    "address": "FJ1Y3drK5Z715mj8Hk512ekk3rQhTAhgRv6HMhnPCN2u",
-    "volume": 4211331.91951877
+    "symbol": "Speed",
+    "change_24h": 799.511,
+    "address": "3nPSVTfVxNBeCQHbPJZtjEsK7WNG3a7FCVP3Jcv43doP",
+    "volume": 2508777.8663242
   },
-  "verdict": "По ончейн-метрикам TalkChart: FOOD опережает по ценовому импульсу (+2381.0% против +450.3%). Кроме того, у FOOD существенно глубже пул ликвидности ($88.8K против $37.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: FOOD.",
-  "updated_at": "2026-11-13 12:22 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FOOD опережает по ценовому импульсу (+2881.1% против +799.5%). Кроме того, у FOOD существенно глубже пул ликвидности ($99.8K против $45.5K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: FOOD.",
+  "updated_at": "2026-11-13 22:03 UTC"
 }

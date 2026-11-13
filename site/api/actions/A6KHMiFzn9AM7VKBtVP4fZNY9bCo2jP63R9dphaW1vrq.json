@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Punch_+61.png",
+  "title": "TalkChart: Punch (+60.7%) — Solana On-Chain Radar",
+  "description": "Punch разрывает: +60.7% за 24ч. давление продаж нарастает. объём $1.27M больше капы в 4.0× — бумага в огне. ликвидность тонкая ($128.9K) — движения будут резкими. крупная сделка на фоне ленты: продал $714.14 (57× медианы, 1ч назад). нетто китов за сутки −$1.5K.\n\nОбъём: $1.27M · Ликвидность: $128.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Punch (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=A6KHMiFzn9AM7VKBtVP4fZNY9bCo2jP63R9dphaW1vrq"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

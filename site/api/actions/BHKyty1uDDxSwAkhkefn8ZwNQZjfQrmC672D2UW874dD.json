@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PINO_+26.png",
+  "title": "TalkChart: PINO (+26.5%) — Solana On-Chain Radar",
+  "description": "PINO растёт на +26.5% за сутки. ликвидность тонкая ($45.0K) — движения будут резкими.\n\nОбъём: $98.5K · Ликвидность: $45.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PINO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6d9fD5SxvN4DAG4SHQD8pebm8TM6XeSbYezPDjdapump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BHKyty1uDDxSwAkhkefn8ZwNQZjfQrmC672D2UW874dD"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

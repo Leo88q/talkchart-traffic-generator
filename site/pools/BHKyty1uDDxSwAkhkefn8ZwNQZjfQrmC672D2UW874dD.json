@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "BHKyty1uDDxSwAkhkefn8ZwNQZjfQrmC672D2UW874dD",
+    "name": "PINO / SOL",
+    "base_symbol": "PINO",
+    "base_name": "PINO",
+    "base_address": "6d9fD5SxvN4DAG4SHQD8pebm8TM6XeSbYezPDjdapump",
+    "dex": "pumpswap",
+    "price_usd": 0.00033363283624251755,
+    "created_at": "2026-09-29T20:03:28Z",
+    "fdv_usd": 333632.8362,
+    "reserve_usd": 45008.132,
+    "volume_h24": 98492.320231518,
+    "change": {
+      "h1": -3.854,
+      "h6": 37.992,
+      "h24": 26.471
+    },
+    "tx_h1": {
+      "buys": 24,
+      "sells": 27
+    },
+    "first_seen": "2026-11-13T22:03:02+00:00",
+    "last_seen": "2026-11-13T22:03:02+00:00"
+  },
+  "narrative": "PINO растёт на +26.5% за сутки. ликвидность тонкая ($45.0K) — движения будут резкими.",
+  "flags": [
+    "тонкая ликвидность"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-13T22:03:02Z"
+}

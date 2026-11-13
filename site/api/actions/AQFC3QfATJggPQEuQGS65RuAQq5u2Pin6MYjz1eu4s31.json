@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/inuhao_-53.png",
+  "title": "TalkChart: inuhao (-53.2%) — Solana On-Chain Radar",
+  "description": "inuhao в обвале: -53.2% за 24ч. покупатели доминируют (75% сделок за час). объём $5.96M больше капы в 10.0× — бумага в огне. ликвидность тонкая ($66.1K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.7K (72× медианы, 0ч назад). нетто китов за сутки −$379.24.\n\nОбъём: $5.96M · Ликвидность: $66.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп inuhao (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-FyHakvZH3L4UABSQYK7e9ECEzWV37u7GTkmAbHXspump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AQFC3QfATJggPQEuQGS65RuAQq5u2Pin6MYjz1eu4s31"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
