@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/$WIF_-1.png",
+  "title": "TalkChart: $WIF (-1.5%) — Solana On-Chain Radar",
+  "description": "$WIF в боковике: -1.5% за сутки. продают в рынок (67% сделок за час). стакан глубокий: $4.40M ликвидности.\n\nОбъём: $157.3K · Ликвидность: $4.40M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп $WIF (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=EP2ib6dYdEeqD8MfE2ezHCxX3kP3K2eLKkirfPm5eyMx"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

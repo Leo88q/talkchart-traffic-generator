@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CLOUD_+120.png",
+  "title": "TalkChart: CLOUD (+119.9%) — Solana On-Chain Radar",
+  "description": "CLOUD разрывает: +119.9% за 24ч.\n\nОбъём: $5.53M · Ликвидность: $485.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CLOUD (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=F1KKNyUCsQcZLRjwQ4abX6Ri8gDAQ46nHwSHFKA5sFQv"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

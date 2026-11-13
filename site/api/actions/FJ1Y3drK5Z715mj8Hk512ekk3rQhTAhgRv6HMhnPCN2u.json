@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Huang_+450.png",
+  "title": "TalkChart: Huang (+450.3%) — Solana On-Chain Radar",
+  "description": "Huang разрывает: +450.3% за 24ч. ускорение в последнем часе. объём $4.21M больше капы в 23.0× — бумага в огне. ликвидность тонкая ($37.3K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $4.21M · Ликвидность: $37.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Huang (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FJ1Y3drK5Z715mj8Hk512ekk3rQhTAhgRv6HMhnPCN2u"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

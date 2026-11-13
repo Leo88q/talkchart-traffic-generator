@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "EP2ib6dYdEeqD8MfE2ezHCxX3kP3K2eLKkirfPm5eyMx",
+    "name": "$WIF / SOL",
+    "base_symbol": "$WIF",
+    "base_name": "$WIF",
+    "base_address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "dex": "raydium",
+    "price_usd": 0.15075027667160712,
+    "created_at": "2023-11-20T20:10:04Z",
+    "fdv_usd": 150574888.323869,
+    "reserve_usd": 4395766.9827,
+    "volume_h24": 157302.880436333,
+    "change": {
+      "h1": -0.241,
+      "h6": 1.992,
+      "h24": -1.453
+    },
+    "tx_h1": {
+      "buys": 2,
+      "sells": 4
+    },
+    "first_seen": "2026-11-13T12:21:50+00:00",
+    "last_seen": "2026-11-13T12:21:50+00:00"
+  },
+  "narrative": "$WIF в боковике: -1.5% за сутки. продают в рынок (67% сделок за час). стакан глубокий: $4.40M ликвидности.",
+  "flags": [
+    "давление продаж"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-13T12:21:50Z"
+}
