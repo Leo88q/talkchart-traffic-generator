@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Snoopy_+427.png",
+  "title": "TalkChart: Snoopy (+426.9%) — Solana On-Chain Radar",
+  "description": "Snoopy разрывает: +426.9% за 24ч. объём $4.27M больше капы в 6.9× — бумага в огне. ликвидность тонкая ($64.2K) — движения будут резкими.\n\nОбъём: $4.27M · Ликвидность: $64.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Snoopy (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7mEhH5gsuwPeBC9n9C2XQJdXinWhKGfNhrt4r8db47Cn"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5bYtv8P5197JM6oKwAt1hZBo1xJ8m7VTco1NArmqMv6B"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

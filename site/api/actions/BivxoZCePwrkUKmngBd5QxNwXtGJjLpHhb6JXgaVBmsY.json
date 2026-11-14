@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GTA$_-39.png",
+  "title": "TalkChart: GTA$ (-38.5%) — Solana On-Chain Radar",
+  "description": "GTA$ в обвале: -38.5% за 24ч. объём $1.94M больше капы в 10.8× — бумага в огне. ликвидность тонкая ($41.9K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.94M · Ликвидность: $41.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GTA$ (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6Nh9cmDoQvd2FvjNm44VmTwbyiKtxgmM7SCuhREhpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BivxoZCePwrkUKmngBd5QxNwXtGJjLpHhb6JXgaVBmsY"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

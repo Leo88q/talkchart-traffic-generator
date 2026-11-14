@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "5bYtv8P5197JM6oKwAt1hZBo1xJ8m7VTco1NArmqMv6B",
+    "name": "Snoopy / SOL",
+    "base_symbol": "Snoopy",
+    "base_name": "Snoopy",
+    "base_address": "7mEhH5gsuwPeBC9n9C2XQJdXinWhKGfNhrt4r8db47Cn",
+    "dex": "pumpswap",
+    "price_usd": 0.0006239495344983433,
+    "created_at": "2026-10-01T12:19:30Z",
+    "fdv_usd": 615342.6708,
+    "reserve_usd": 64175.1633,
+    "volume_h24": 4269686.72262828,
+    "change": {
+      "h1": -10.348,
+      "h6": 133.551,
+      "h24": 426.903
+    },
+    "tx_h1": {
+      "buys": 915,
+      "sells": 707
+    },
+    "first_seen": "2026-11-14T20:49:01+00:00",
+    "last_seen": "2026-11-14T20:49:01+00:00"
+  },
+  "narrative": "Snoopy разрывает: +426.9% за 24ч. объём $4.27M больше капы в 6.9× — бумага в огне. ликвидность тонкая ($64.2K) — движения будут резкими.",
+  "flags": [
+    "тонкая ликвидность",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-14T20:49:02Z"
+}

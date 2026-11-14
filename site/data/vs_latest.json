@@ -1,17 +1,17 @@
 {
-  "slug": "jensen-vs-greg",
+  "slug": "snoopy-vs-wasted",
   "token1": {
-    "symbol": "JENSEN",
-    "change_24h": 188.538,
-    "address": "51KN4und5bwRyfRfTP1eFw4uPL8t4vTPHZ6okmLhr5iE",
-    "volume": 2226439.35726122
+    "symbol": "Snoopy",
+    "change_24h": 426.903,
+    "address": "5bYtv8P5197JM6oKwAt1hZBo1xJ8m7VTco1NArmqMv6B",
+    "volume": 4269686.72262828
   },
   "token2": {
-    "symbol": "greg",
-    "change_24h": 179.855,
-    "address": "4s8CAbVgaDHoPkkbitjdQZ4TfqXKuczHWdfy8HLVUbdQ",
-    "volume": 473634.472212297
+    "symbol": "WASTED",
+    "change_24h": 177.167,
+    "address": "TT7DKs9YjJZj1fwMGoPmKBmDreZzyMAMrHoDCGdfwqN",
+    "volume": 1177721.40978879
   },
-  "verdict": "По ончейн-метрикам TalkChart: JENSEN опережает по ценовому импульсу (+188.5% против +179.9%). Краткосрочный фаворит по совокупности факторов: JENSEN.",
-  "updated_at": "2026-11-14 15:12 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Snoopy опережает по ценовому импульсу (+426.9% против +177.2%). Кроме того, у WASTED более надёжная ликвидность ($189.4K против $64.2K). Кроме того, у Snoopy объём превышает ликвидность в 66.5× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: WASTED.",
+  "updated_at": "2026-11-14 20:49 UTC"
 }

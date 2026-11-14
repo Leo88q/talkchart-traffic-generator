@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-14
-1. JENSEN +188.5% — JENSEN разрывает: +188.5% за 24ч. покупатели доминируют (63% сделок за час)
-2. greg +179.9% — greg разрывает: +179.9% за 24ч. давление продаж нарастает
-3. WASTED +160.5% — WASTED разрывает: +160.5% за 24ч. покупатели доминируют (63% сделок за час)
-4. Suica +100.3% — Suica разрывает: +100.3% за 24ч. ликвидность тонкая ($4.9K) — движения будут резкими
-5. Sakura -80.7% — Sakura в обвале: -80.7% за 24ч. объём $1.40M больше капы в 22.3× — бумага в огне
+1. Snoopy +426.9% — Snoopy разрывает: +426.9% за 24ч. объём $4.27M больше капы в 6.9× — бумага в огне
+2. WASTED +177.2% — WASTED разрывает: +177.2% за 24ч. ускорение в последнем часе
+3. JENSEN +144.6% — JENSEN разрывает: +144.6% за 24ч. объём $2.60M больше капы в 4.4× — бумага в огне
+4. greg +85.2% — greg разрывает: +85.2% за 24ч. давление продаж нарастает
+5. FOOD -66.9% — FOOD в обвале: -66.9% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/51KN4und5bwRyfRfTP1eFw4uPL8t4vTPHZ6okmLhr5iE.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/5bYtv8P5197JM6oKwAt1hZBo1xJ8m7VTco1NArmqMv6B.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
