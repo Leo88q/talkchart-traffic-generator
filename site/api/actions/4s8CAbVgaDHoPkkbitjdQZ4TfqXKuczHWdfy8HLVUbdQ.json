@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/greg_+180.png",
+  "title": "TalkChart: greg (+179.9%) — Solana On-Chain Radar",
+  "description": "greg разрывает: +179.9% за 24ч. давление продаж нарастает. покупатели доминируют (65% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $473.6K больше капы в 2.0× — бумага в огне. ликвидность тонкая ($36.0K) — движения будут резкими. пулу 4 дн., история короткая.\n\nОбъём: $473.6K · Ликвидность: $36.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп greg (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4Ye6Y6Vaic8cyPdfW2f9PcLhXkysBtSmV84G8X7spump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4s8CAbVgaDHoPkkbitjdQZ4TfqXKuczHWdfy8HLVUbdQ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

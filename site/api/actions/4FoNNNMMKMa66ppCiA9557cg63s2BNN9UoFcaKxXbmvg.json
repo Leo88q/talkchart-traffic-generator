@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Macca_+40.png",
+  "title": "TalkChart: Macca (+39.9%) — Solana On-Chain Radar",
+  "description": "Macca разрывает: +39.9% за 24ч. продают в рынок (66% сделок за час). суточный памп остывает. ликвидность тонкая ($191.4K) — движения будут резкими.\n\nОбъём: $957.3K · Ликвидность: $191.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Macca (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4FoNNNMMKMa66ppCiA9557cg63s2BNN9UoFcaKxXbmvg"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
