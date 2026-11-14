@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-13T22:03:14+00:00",
+ "generated_at": "2026-11-14T06:36:42+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-13/FOOD.mp4",
-   "latest_file": "videos/latest/FOOD.mp4",
-   "symbol": "FOOD",
-   "chg_h24": 2881.067
-  },
-  {
-   "file": "videos/2026-11-13/Speed.mp4",
-   "latest_file": "videos/latest/Speed.mp4",
-   "symbol": "Speed",
-   "chg_h24": 799.511
-  },
-  {
-   "file": "videos/2026-11-13/Sakura.mp4",
+   "file": "videos/2026-11-14/Sakura.mp4",
    "latest_file": "videos/latest/Sakura.mp4",
    "symbol": "Sakura",
-   "chg_h24": 659.076
+   "chg_h24": 342.201
+  },
+  {
+   "file": "videos/2026-11-14/Speed.mp4",
+   "latest_file": "videos/latest/Speed.mp4",
+   "symbol": "Speed",
+   "chg_h24": -67.202
+  },
+  {
+   "file": "videos/2026-11-14/inuhao.mp4",
+   "latest_file": "videos/latest/inuhao.mp4",
+   "symbol": "inuhao",
+   "chg_h24": -66.77
   }
  ]
 }

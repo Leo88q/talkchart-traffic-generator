@@ -1,17 +1,17 @@
 {
-  "slug": "food-vs-speed",
+  "slug": "sakura-vs-punch",
   "token1": {
-    "symbol": "FOOD",
-    "change_24h": 2881.067,
-    "address": "2XhQqp1vDVxtaa21bPsekQF5gjts9euqRPSZ6Urs41qk",
-    "volume": 12041018.5061772
+    "symbol": "Sakura",
+    "change_24h": 342.201,
+    "address": "FbR7WmU8WAAzSLsgwthiqAivzifdsW381FW3p4Vkmiru",
+    "volume": 4964524.00870334
   },
   "token2": {
-    "symbol": "Speed",
-    "change_24h": 799.511,
-    "address": "3nPSVTfVxNBeCQHbPJZtjEsK7WNG3a7FCVP3Jcv43doP",
-    "volume": 2508777.8663242
+    "symbol": "Punch",
+    "change_24h": 64.723,
+    "address": "A6KHMiFzn9AM7VKBtVP4fZNY9bCo2jP63R9dphaW1vrq",
+    "volume": 1315420.47163886
   },
-  "verdict": "По ончейн-метрикам TalkChart: FOOD опережает по ценовому импульсу (+2881.1% против +799.5%). Кроме того, у FOOD существенно глубже пул ликвидности ($99.8K против $45.5K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: FOOD.",
-  "updated_at": "2026-11-13 22:03 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Sakura опережает по ценовому импульсу (+342.2% против +64.7%). Кроме того, у Punch более надёжная ликвидность ($127.9K против $29.2K). Краткосрочный фаворит по совокупности факторов: Punch.",
+  "updated_at": "2026-11-14 06:36 UTC"
 }
