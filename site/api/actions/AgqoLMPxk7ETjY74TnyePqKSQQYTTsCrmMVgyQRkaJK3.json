@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Socks_+395.png",
+  "title": "TalkChart: Socks (+394.6%) — Solana On-Chain Radar",
+  "description": "Socks разрывает: +394.6% за 24ч. объём $1.88M больше капы в 12.4× — бумага в огне. ликвидность тонкая ($29.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.88M · Ликвидность: $29.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Socks (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-FS1pBmZKp2Qw1atC64GoLamHstECAos9ot8bGPgDpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AgqoLMPxk7ETjY74TnyePqKSQQYTTsCrmMVgyQRkaJK3"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

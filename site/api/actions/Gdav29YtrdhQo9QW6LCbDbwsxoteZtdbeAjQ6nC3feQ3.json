@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/FUTA_+439.png",
+  "title": "TalkChart: FUTA (+438.7%) — Solana On-Chain Radar",
+  "description": "FUTA разрывает: +438.7% за 24ч. давление продаж нарастает. объём $156.6K больше капы в 1.6× — бумага в огне. ликвидность тонкая ($23.1K) — движения будут резкими.\n\nОбъём: $156.6K · Ликвидность: $23.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп FUTA (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-8JCsa61htnPj2af7g1KSyU1UEncruHE1Ph9aNR6rpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=Gdav29YtrdhQo9QW6LCbDbwsxoteZtdbeAjQ6nC3feQ3"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
