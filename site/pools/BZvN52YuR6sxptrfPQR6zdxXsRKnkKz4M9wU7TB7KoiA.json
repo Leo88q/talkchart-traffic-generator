@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "BZvN52YuR6sxptrfPQR6zdxXsRKnkKz4M9wU7TB7KoiA",
+    "name": "FEAR / SOL",
+    "base_symbol": "FEAR",
+    "base_name": "FEAR",
+    "base_address": "CHtXwJ3qa2ozS9vQkxhR3MmNwkoUqkh3icGXgZPepump",
+    "dex": "pumpswap",
+    "price_usd": 5.861267972250791e-06,
+    "created_at": "2026-11-02T15:41:04Z",
+    "fdv_usd": 5726.8254009002,
+    "reserve_usd": 4647.5503,
+    "volume_h24": 22429.7315850678,
+    "change": {
+      "h1": -9.777,
+      "h6": -48.009,
+      "h24": -54.857
+    },
+    "tx_h1": {
+      "buys": 7,
+      "sells": 8
+    },
+    "first_seen": "2026-11-15T21:08:02+00:00",
+    "last_seen": "2026-11-15T21:08:02+00:00"
+  },
+  "narrative": "FEAR в обвале: -54.9% за 24ч. давление продаж нарастает. объём $22.4K больше капы в 3.9× — бумага в огне. ликвидность тонкая ($4.6K) — движения будут резкими. пулу 13 дн., история короткая.",
+  "flags": [
+    "тонкая ликвидность"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-15T21:08:02Z"
+}

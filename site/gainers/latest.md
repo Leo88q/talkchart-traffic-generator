@@ -1,6 +1,6 @@
 # Solana Top Gainers (24h) — 2026-11-15
 
-> Automated on-chain leaderboard from TalkChart. Updated 2026-11-15 15:44 UTC.
+> Automated on-chain leaderboard from TalkChart. Updated 2026-11-15 21:08 UTC.
 
 | # | Symbol | 24h Change | 24h Volume | On-Chain Narrative |
 |---|--------|------------|------------|-------------------|
@@ -11,6 +11,6 @@
 | 5 | [PMUP](https://leo88q.github.io/content-/site/pools/Ang7vjh7KoSScfbuE1ZWW6gAoXf7EcAZLPJzmMdcgwZj.md) | +1738.2% | $2.07M | PMUP разрывает: +1738.2% за 24ч. ускорение в последнем часе |
 | 6 | [NIHAO](https://leo88q.github.io/content-/site/pools/4rsLuj8sBFFMwM4AK6p4R5RbZ7y2m9CGrefxVb29JbgN.md) | +1722.3% | $3.31M | NIHAO разрывает: +1722.3% за 24ч. ускорение в последнем часе |
 | 7 | [MOGZ](https://leo88q.github.io/content-/site/pools/7j13CapqLC4dGaGYFCxgL8t31R7B1Gt93uBh8EdoRp9H.md) | +1327.6% | $3.01M | MOGZ разрывает: +1327.6% за 24ч. объём $3.01M больше капы в 5.1× — бумага в огне |
-| 8 | [bill](https://leo88q.github.io/content-/site/pools/95ytGFRcBgT1d8ioAQkPtXEA6QrgJ5omgiMHnyheRxdP.md) | +1138.2% | $4.88M | bill разрывает: +1138.2% за 24ч. объём $4.88M больше капы в 6.8× — бумага в огне |
-| 9 | [HODL](https://leo88q.github.io/content-/site/pools/ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR.md) | +1015.1% | $4.20M | HODL разрывает: +1015.1% за 24ч. покупатели доминируют (82% сделок за час) |
-| 10 | [X](https://leo88q.github.io/content-/site/pools/6MdmwvCsrMAbTqJC7GBBu5FBUFLbC6dJXGxm5VtnrDzQ.md) | +1006.5% | $4.56M | X разрывает: +1006.5% за 24ч. объём $4.56M больше капы в 11.9× — бумага в огне |
+| 8 | [HODL](https://leo88q.github.io/content-/site/pools/ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR.md) | +1015.1% | $4.20M | HODL разрывает: +1015.1% за 24ч. покупатели доминируют (82% сделок за час) |
+| 9 | [X](https://leo88q.github.io/content-/site/pools/6MdmwvCsrMAbTqJC7GBBu5FBUFLbC6dJXGxm5VtnrDzQ.md) | +1006.5% | $4.56M | X разрывает: +1006.5% за 24ч. объём $4.56M больше капы в 11.9× — бумага в огне |
+| 10 | [CATBOT](https://leo88q.github.io/content-/site/pools/9CnCbMdSHu7P4VvPzoELHbB6rmBy3quiAby36KqcswvW.md) | +913.9% | $5.77M | CATBOT разрывает: +913.9% за 24ч. покупатели доминируют (69% сделок за час) |

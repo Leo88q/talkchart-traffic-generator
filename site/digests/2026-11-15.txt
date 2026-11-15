@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-15
-1. bill +1138.2% — bill разрывает: +1138.2% за 24ч. объём $4.88M больше капы в 6.8× — бумага в огне
-2. FUTA +438.7% — FUTA разрывает: +438.7% за 24ч. давление продаж нарастает
-3. Socks +394.6% — Socks разрывает: +394.6% за 24ч. объём $1.88M больше капы в 12.4× — бумага в огне
-4. AURA +140.2% — AURA разрывает: +140.2% за 24ч. давление продаж нарастает
-5. JENSEN -83.9% — JENSEN в обвале: -83.9% за 24ч. покупатели доминируют (63% сделок за час)
+1. FUTA +409.2% — FUTA разрывает: +409.2% за 24ч. ускорение в последнем часе
+2. Socks +326.9% — Socks разрывает: +326.9% за 24ч. давление продаж нарастает
+3. AURA +130.0% — AURA разрывает: +130.0% за 24ч. давление продаж нарастает
+4. STOKE -84.6% — STOKE в обвале: -84.6% за 24ч. объём $60.5K больше капы в 6.1× — бумага в огне
+5. JENSEN -84.5% — JENSEN в обвале: -84.5% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/95ytGFRcBgT1d8ioAQkPtXEA6QrgJ5omgiMHnyheRxdP.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/Gdav29YtrdhQo9QW6LCbDbwsxoteZtdbeAjQ6nC3feQ3.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

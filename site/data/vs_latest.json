@@ -1,17 +1,17 @@
 {
-  "slug": "bill-vs-futa",
+  "slug": "futa-vs-socks",
   "token1": {
-    "symbol": "bill",
-    "change_24h": 1138.232,
-    "address": "95ytGFRcBgT1d8ioAQkPtXEA6QrgJ5omgiMHnyheRxdP",
-    "volume": 4877103.32409639
+    "symbol": "FUTA",
+    "change_24h": 409.221,
+    "address": "Gdav29YtrdhQo9QW6LCbDbwsxoteZtdbeAjQ6nC3feQ3",
+    "volume": 170524.156299771
   },
   "token2": {
-    "symbol": "FUTA",
-    "change_24h": 438.693,
-    "address": "Gdav29YtrdhQo9QW6LCbDbwsxoteZtdbeAjQ6nC3feQ3",
-    "volume": 156632.735884147
+    "symbol": "Socks",
+    "change_24h": 326.854,
+    "address": "AgqoLMPxk7ETjY74TnyePqKSQQYTTsCrmMVgyQRkaJK3",
+    "volume": 2152170.90000476
   },
-  "verdict": "По ончейн-метрикам TalkChart: bill опережает по ценовому импульсу (+1138.2% против +438.7%). Кроме того, у bill существенно глубже пул ликвидности ($95.6K против $23.1K), что снижает риск проскальзывания. Кроме того, у bill объём превышает ликвидность в 51.0× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: bill.",
-  "updated_at": "2026-11-15 15:45 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FUTA опережает по ценовому импульсу (+409.2% против +326.9%). Кроме того, у Socks соотношение объёма к TVL 77.9× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: FUTA.",
+  "updated_at": "2026-11-15 21:08 UTC"
 }
