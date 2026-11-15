@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/bill_+1573.png",
+  "title": "TalkChart: bill (+1572.5%) — Solana On-Chain Radar",
+  "description": "bill разрывает: +1572.5% за 24ч. ускорение в последнем часе. покупатели доминируют (63% сделок за час). объём $4.05M больше капы в 4.2× — бумага в огне. ликвидность тонкая ($109.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.9K (985× медианы, 0ч назад). нетто китов за сутки −$2.8K.\n\nОбъём: $4.05M · Ликвидность: $109.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп bill (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=95ytGFRcBgT1d8ioAQkPtXEA6QrgJ5omgiMHnyheRxdP"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

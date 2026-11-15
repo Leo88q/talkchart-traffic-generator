@@ -1,17 +1,17 @@
 {
-  "slug": "snoopy-vs-wasted",
+  "slug": "bill-vs-snoopy",
   "token1": {
-    "symbol": "Snoopy",
-    "change_24h": 426.903,
-    "address": "5bYtv8P5197JM6oKwAt1hZBo1xJ8m7VTco1NArmqMv6B",
-    "volume": 4269686.72262828
+    "symbol": "bill",
+    "change_24h": 1572.54,
+    "address": "95ytGFRcBgT1d8ioAQkPtXEA6QrgJ5omgiMHnyheRxdP",
+    "volume": 4053621.64889098
   },
   "token2": {
-    "symbol": "WASTED",
-    "change_24h": 177.167,
-    "address": "TT7DKs9YjJZj1fwMGoPmKBmDreZzyMAMrHoDCGdfwqN",
-    "volume": 1177721.40978879
+    "symbol": "Snoopy",
+    "change_24h": 132.805,
+    "address": "5bYtv8P5197JM6oKwAt1hZBo1xJ8m7VTco1NArmqMv6B",
+    "volume": 4556904.22459925
   },
-  "verdict": "По ончейн-метрикам TalkChart: Snoopy опережает по ценовому импульсу (+426.9% против +177.2%). Кроме того, у WASTED более надёжная ликвидность ($189.4K против $64.2K). Кроме того, у Snoopy объём превышает ликвидность в 66.5× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: WASTED.",
-  "updated_at": "2026-11-14 20:49 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: bill опережает по ценовому импульсу (+1572.5% против +132.8%). Кроме того, у bill существенно глубже пул ликвидности ($109.8K против $45.7K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: bill.",
+  "updated_at": "2026-11-15 06:45 UTC"
 }

@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-14T20:49:12+00:00",
+ "generated_at": "2026-11-15T06:45:38+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-14/Snoopy.mp4",
+   "file": "videos/2026-11-15/bill.mp4",
+   "latest_file": "videos/latest/bill.mp4",
+   "symbol": "bill",
+   "chg_h24": 1572.54
+  },
+  {
+   "file": "videos/2026-11-15/Snoopy.mp4",
    "latest_file": "videos/latest/Snoopy.mp4",
    "symbol": "Snoopy",
-   "chg_h24": 426.903
+   "chg_h24": 132.805
   },
   {
-   "file": "videos/2026-11-14/WASTED.mp4",
-   "latest_file": "videos/latest/WASTED.mp4",
-   "symbol": "WASTED",
-   "chg_h24": 177.167
-  },
-  {
-   "file": "videos/2026-11-14/JENSEN.mp4",
+   "file": "videos/2026-11-15/JENSEN.mp4",
    "latest_file": "videos/latest/JENSEN.mp4",
    "symbol": "JENSEN",
-   "chg_h24": 144.64
+   "chg_h24": -93.111
   }
  ]
 }
