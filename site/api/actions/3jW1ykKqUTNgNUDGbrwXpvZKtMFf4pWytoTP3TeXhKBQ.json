@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Rocco_+106.png",
+  "title": "TalkChart: Rocco (+106.5%) — Solana On-Chain Radar",
+  "description": "Rocco разрывает: +106.5% за 24ч. покупатели доминируют (71% сделок за час). ликвидность тонкая ($114.3K) — движения будут резкими. пулу 11 дн., история короткая. крупная сделка на фоне ленты: продал $3.5K (101× медианы, 3ч назад). нетто китов за сутки −$4.3K.\n\nОбъём: $362.6K · Ликвидность: $114.3K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Rocco (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3jW1ykKqUTNgNUDGbrwXpvZKtMFf4pWytoTP3TeXhKBQ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

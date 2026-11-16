@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "7CNC9gGegzEfFK8fLXiYUhdtMEeFPQZoND56U1Mxhnor",
+    "name": "HOGE / USDC",
+    "base_symbol": "HOGE",
+    "base_name": "HOGE",
+    "base_address": "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump",
+    "dex": "pumpswap",
+    "price_usd": 0.0004259985768602418,
+    "created_at": "2026-11-15T06:56:10Z",
+    "fdv_usd": 424988.6073,
+    "reserve_usd": 71788.9768,
+    "volume_h24": 4483965.90606289,
+    "change": {
+      "h1": -4.782,
+      "h6": 3029.59,
+      "h24": 630.79
+    },
+    "tx_h1": {
+      "buys": 677,
+      "sells": 617
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 891.8,
+        "mult": 84.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "Ew58rptS"
+      },
+      {
+        "kind": "sell",
+        "usd": 693.43,
+        "mult": 65.8,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "A3hT32ZG"
+      },
+      {
+        "kind": "buy",
+        "usd": 691.06,
+        "mult": 65.6,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "EVmMzEF5"
+      },
+      {
+        "kind": "buy",
+        "usd": 690.89,
+        "mult": 65.6,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "EVmMzEF5"
+      },
+      {
+        "kind": "sell",
+        "usd": 612.14,
+        "mult": 58.1,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "7BNaxx6K"
+      }
+    ],
+    "first_seen": "2026-11-16T06:42:17+00:00",
+    "last_seen": "2026-11-16T06:42:17+00:00"
+  },
+  "narrative": "HOGE разрывает: +630.8% за 24ч. объём $4.48M больше капы в 10.6× — бумага в огне. ликвидность тонкая ($71.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $891.80 (85× медианы, 0ч назад). нетто китов за сутки −$815.42.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $891.80 (85× медианы). Нетто-поток китов: $-815.42.",
+  "updated_at": "2026-11-16T06:42:17Z"
+}

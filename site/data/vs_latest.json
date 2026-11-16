@@ -1,17 +1,17 @@
 {
-  "slug": "futa-vs-socks",
+  "slug": "hoge-vs-socks",
   "token1": {
-    "symbol": "FUTA",
-    "change_24h": 409.221,
-    "address": "Gdav29YtrdhQo9QW6LCbDbwsxoteZtdbeAjQ6nC3feQ3",
-    "volume": 170524.156299771
+    "symbol": "HOGE",
+    "change_24h": 630.79,
+    "address": "7CNC9gGegzEfFK8fLXiYUhdtMEeFPQZoND56U1Mxhnor",
+    "volume": 4483965.90606289
   },
   "token2": {
     "symbol": "Socks",
-    "change_24h": 326.854,
+    "change_24h": 257.897,
     "address": "AgqoLMPxk7ETjY74TnyePqKSQQYTTsCrmMVgyQRkaJK3",
-    "volume": 2152170.90000476
+    "volume": 2333599.50909989
   },
-  "verdict": "По ончейн-метрикам TalkChart: FUTA опережает по ценовому импульсу (+409.2% против +326.9%). Кроме того, у Socks соотношение объёма к TVL 77.9× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: FUTA.",
-  "updated_at": "2026-11-15 21:08 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HOGE опережает по ценовому импульсу (+630.8% против +257.9%). Кроме того, у HOGE существенно глубже пул ликвидности ($71.8K против $25.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: HOGE.",
+  "updated_at": "2026-11-16 06:42 UTC"
 }
