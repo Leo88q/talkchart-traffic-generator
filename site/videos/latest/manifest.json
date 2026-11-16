@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-16T06:42:34+00:00",
+ "generated_at": "2026-11-16T18:41:12+00:00",
  "videos": [
   {
    "file": "videos/2026-11-16/HOGE.mp4",
    "latest_file": "videos/latest/HOGE.mp4",
    "symbol": "HOGE",
-   "chg_h24": 630.79
+   "chg_h24": 6096.76
   },
   {
-   "file": "videos/2026-11-16/Socks.mp4",
-   "latest_file": "videos/latest/Socks.mp4",
-   "symbol": "Socks",
-   "chg_h24": 257.897
+   "file": "videos/2026-11-16/WIGGLES.mp4",
+   "latest_file": "videos/latest/WIGGLES.mp4",
+   "symbol": "WIGGLES",
+   "chg_h24": 686.496
   },
   {
-   "file": "videos/2026-11-16/VINE.mp4",
-   "latest_file": "videos/latest/VINE.mp4",
-   "symbol": "VINE",
-   "chg_h24": 161.903
+   "file": "videos/2026-11-16/BLOB.mp4",
+   "latest_file": "videos/latest/BLOB.mp4",
+   "symbol": "BLOB",
+   "chg_h24": 233.565
   }
  ]
 }

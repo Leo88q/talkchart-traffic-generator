@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "Hr9qopJXCuak38rxDpZduUFhdAK2BfjtoXbfQZVn2EwU",
+    "name": "BLOB / SOL",
+    "base_symbol": "BLOB",
+    "base_name": "BLOB",
+    "base_address": "8s11PkgQt4ZzdZ7oo84hK5t9HG1EvdgAjcg4W7Lpump",
+    "dex": "pumpswap",
+    "price_usd": 0.014218861465870175,
+    "created_at": "2026-10-31T15:36:12Z",
+    "fdv_usd": 14111989.0649192,
+    "reserve_usd": 314615.5393,
+    "volume_h24": 4167617.55275592,
+    "change": {
+      "h1": -7.55,
+      "h6": -2.102,
+      "h24": 233.565
+    },
+    "tx_h1": {
+      "buys": 71,
+      "sells": 167
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 2598.19,
+        "mult": 41.8,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "D9EPhvf3"
+      },
+      {
+        "kind": "buy",
+        "usd": 2500.68,
+        "mult": 40.2,
+        "whale": false,
+        "hours_ago": 0.8,
+        "addr8": "6iTE6TVA"
+      },
+      {
+        "kind": "sell",
+        "usd": 2252.58,
+        "mult": 36.2,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "JCQk9has"
+      },
+      {
+        "kind": "buy",
+        "usd": 2155.43,
+        "mult": 34.6,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "5zp2z5oL"
+      },
+      {
+        "kind": "buy",
+        "usd": 1782.43,
+        "mult": 28.7,
+        "whale": false,
+        "hours_ago": 0.8,
+        "addr8": "AgTYXiQS"
+      }
+    ],
+    "first_seen": "2026-11-16T18:41:03+00:00",
+    "last_seen": "2026-11-16T18:41:03+00:00"
+  },
+  "narrative": "BLOB разрывает: +233.6% за 24ч. давление продаж нарастает. продают в рынок (70% сделок за час). суточный памп остывает. крупная сделка на фоне ленты: купил $2.6K (42× медианы, 0ч назад). нетто китов за сутки +$6.8K.",
+  "flags": [
+    "давление продаж",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $2.6K (42× медианы). Нетто-поток китов: +$6.8K.",
+  "updated_at": "2026-11-16T18:41:03Z"
+}

@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "5PYNPPTNpdG5REsu3VqeJKqHePiJ1uwP5L7A2CcHMxdY",
+    "name": "rockstar / TTWO",
+    "base_symbol": "rockstar",
+    "base_name": "rockstar",
+    "base_address": "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump",
+    "dex": "pumpswap",
+    "price_usd": 0.0009247139227907687,
+    "created_at": "2026-11-15T11:00:18Z",
+    "fdv_usd": 934356.5297,
+    "reserve_usd": 97559.4843,
+    "volume_h24": 3793290.12882312,
+    "change": {
+      "h1": -11.947,
+      "h6": -27.027,
+      "h24": 221.21
+    },
+    "tx_h1": {
+      "buys": 678,
+      "sells": 564
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 2090.25,
+        "mult": 211.4,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "BrjohFBs"
+      },
+      {
+        "kind": "sell",
+        "usd": 965.25,
+        "mult": 97.6,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "8pHMqASw"
+      },
+      {
+        "kind": "buy",
+        "usd": 839.1,
+        "mult": 84.9,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "BkbtvEGS"
+      },
+      {
+        "kind": "sell",
+        "usd": 745.53,
+        "mult": 75.4,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "23L6yqZ3"
+      },
+      {
+        "kind": "buy",
+        "usd": 500.36,
+        "mult": 50.6,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "FbK7d7r1"
+      }
+    ],
+    "first_seen": "2026-11-16T18:41:03+00:00",
+    "last_seen": "2026-11-16T18:41:03+00:00"
+  },
+  "narrative": "rockstar разрывает: +221.2% за 24ч. давление продаж нарастает. объём $3.79M больше капы в 4.1× — бумага в огне. ликвидность тонкая ($97.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $2.1K (211× медианы, 0ч назад). нетто китов за сутки −$2.5K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $2.1K (211× медианы). Нетто-поток китов: $-2.5K.",
+  "updated_at": "2026-11-16T18:41:03Z"
+}

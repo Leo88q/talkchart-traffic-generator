@@ -1,17 +1,17 @@
 {
-  "slug": "hoge-vs-socks",
+  "slug": "hoge-vs-wiggles",
   "token1": {
     "symbol": "HOGE",
-    "change_24h": 630.79,
+    "change_24h": 6096.76,
     "address": "7CNC9gGegzEfFK8fLXiYUhdtMEeFPQZoND56U1Mxhnor",
-    "volume": 4483965.90606289
+    "volume": 4158614.117092
   },
   "token2": {
-    "symbol": "Socks",
-    "change_24h": 257.897,
-    "address": "AgqoLMPxk7ETjY74TnyePqKSQQYTTsCrmMVgyQRkaJK3",
-    "volume": 2333599.50909989
+    "symbol": "WIGGLES",
+    "change_24h": 686.496,
+    "address": "6Lk5AZYQ9TkvqMzAc6YQ2RwWSg46RzuN3enqu6g6xQAE",
+    "volume": 3098214.31805085
   },
-  "verdict": "По ончейн-метрикам TalkChart: HOGE опережает по ценовому импульсу (+630.8% против +257.9%). Кроме того, у HOGE существенно глубже пул ликвидности ($71.8K против $25.0K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: HOGE.",
-  "updated_at": "2026-11-16 06:42 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: HOGE опережает по ценовому импульсу (+6096.8% против +686.5%). Кроме того, у HOGE существенно глубже пул ликвидности ($112.8K против $37.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: HOGE.",
+  "updated_at": "2026-11-16 18:41 UTC"
 }
