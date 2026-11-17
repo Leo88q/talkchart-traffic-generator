@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DIGS_+116.png",
+  "title": "TalkChart: DIGS (+115.7%) — Solana On-Chain Radar",
+  "description": "DIGS разрывает: +115.7% за 24ч. ускорение в последнем часе. объём $882.3K больше капы в 2.8× — бумага в огне. ликвидность тонкая ($52.7K) — движения будут резкими.\n\nОбъём: $882.3K · Ликвидность: $52.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DIGS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9QT8K685Hrae4k11dhGXirdtpfAaimExtyfwt8cPpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3mxDjdZ1gAe5HziC4dj4UnLdXJ5DBcC9jsSYq55mFyKg"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

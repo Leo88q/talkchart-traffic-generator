@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/mihao_-39.png",
+  "title": "TalkChart: mihao (-39.1%) — Solana On-Chain Radar",
+  "description": "mihao в обвале: -39.1% за 24ч. пулу 7 дн., история короткая.\n\nОбъём: $3.47M · Ликвидность: $293.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп mihao (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=92iqiEu5XADScMugFLSjaQUqS1uAKWeCsstNuJo35Cbs"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

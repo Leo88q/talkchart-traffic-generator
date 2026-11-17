@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/bul_+156.png",
+  "title": "TalkChart: bul (+155.9%) — Solana On-Chain Radar",
+  "description": "bul разрывает: +155.9% за 24ч. объём $1.54M больше капы в 5.4× — бумага в огне. ликвидность тонкая ($94.7K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.54M · Ликвидность: $94.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп bul (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Dys6SYbjUsy8kksaqrXqo5L2GzgCYDiguGGcS8B5rkrv"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5sMsh4hGRPqnRzgokRifqGfE5QtDWoZqw3anYEaZi297"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

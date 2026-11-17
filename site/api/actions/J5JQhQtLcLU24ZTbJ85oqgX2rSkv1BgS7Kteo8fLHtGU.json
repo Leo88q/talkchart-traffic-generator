@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/CHAR_+242.png",
+  "title": "TalkChart: CHAR (+241.8%) — Solana On-Chain Radar",
+  "description": "CHAR разрывает: +241.8% за 24ч. объём $1.87M больше капы в 18.3× — бумага в огне. ликвидность тонкая ($24.8K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $755.91 (96× медианы, 0ч назад). нетто китов за сутки +$181.95.\n\nОбъём: $1.87M · Ликвидность: $24.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп CHAR (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9k2nqjUrSh9p2ZBnWxNE3QRWYiLocrWZfoDm3Vdxpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=J5JQhQtLcLU24ZTbJ85oqgX2rSkv1BgS7Kteo8fLHtGU"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

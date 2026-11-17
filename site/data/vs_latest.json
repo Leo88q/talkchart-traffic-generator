@@ -2,16 +2,16 @@
   "slug": "dsp-vs-bawsaq",
   "token1": {
     "symbol": "DSP",
-    "change_24h": 3766.923,
+    "change_24h": 3537.737,
     "address": "8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX",
-    "volume": 421632.614226475
+    "volume": 441270.276971133
   },
   "token2": {
     "symbol": "BAWSAQ",
-    "change_24h": 580.168,
-    "address": "B8a1mw1vfm5pnm4RgUd8zhbtBnkPB2fBMdikU33Z1jqv",
-    "volume": 1795853.42032138
+    "change_24h": 1891.155,
+    "address": "DQnoiJies9KrPJUiuCLExiCWh8jCrofL3zzUhgdL55kR",
+    "volume": 5640399.36590899
   },
-  "verdict": "По ончейн-метрикам TalkChart: DSP опережает по ценовому импульсу (+3766.9% против +580.2%). Кроме того, у BAWSAQ соотношение объёма к TVL 18.9× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: DSP.",
-  "updated_at": "2026-11-17 03:01 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: DSP опережает по ценовому импульсу (+3537.7% против +1891.2%). Кроме того, у BAWSAQ соотношение объёма к TVL 84.9× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: DSP.",
+  "updated_at": "2026-11-17 13:35 UTC"
 }
