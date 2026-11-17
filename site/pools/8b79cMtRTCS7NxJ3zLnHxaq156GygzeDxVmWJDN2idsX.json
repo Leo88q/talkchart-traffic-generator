@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX",
+    "name": "DSP / SOL",
+    "base_symbol": "DSP",
+    "base_name": "DSP",
+    "base_address": "EsSzJa8xsyehSvVsNUy6t1KxMXgZYYaJKBAqyJxT3bid",
+    "dex": "meteora-damm-v2",
+    "price_usd": 0.0010000801158875474,
+    "created_at": "2026-11-16T17:00:35Z",
+    "fdv_usd": 386802.125118277,
+    "reserve_usd": 60248.7159,
+    "volume_h24": 421632.614226475,
+    "change": {
+      "h1": 9.073,
+      "h6": 24.161,
+      "h24": 3766.923
+    },
+    "tx_h1": {
+      "buys": 16,
+      "sells": 15
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 1295.96,
+        "mult": 62.0,
+        "whale": false,
+        "hours_ago": 4.6,
+        "addr8": "J35cLXjK"
+      },
+      {
+        "kind": "buy",
+        "usd": 1077.33,
+        "mult": 51.6,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "G3C1uZvd"
+      },
+      {
+        "kind": "buy",
+        "usd": 1071.16,
+        "mult": 51.3,
+        "whale": false,
+        "hours_ago": 6.0,
+        "addr8": "3vmJSoZ1"
+      },
+      {
+        "kind": "sell",
+        "usd": 1007.56,
+        "mult": 48.2,
+        "whale": false,
+        "hours_ago": 1.5,
+        "addr8": "3vmJSoZ1"
+      },
+      {
+        "kind": "buy",
+        "usd": 996.02,
+        "mult": 47.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "GDAtwgeo"
+      }
+    ],
+    "first_seen": "2026-11-17T03:00:53+00:00",
+    "last_seen": "2026-11-17T03:00:53+00:00"
+  },
+  "narrative": "DSP разрывает: +3766.9% за 24ч. ускорение в последнем часе. ликвидность тонкая ($60.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.3K (62× медианы, 5ч назад). нетто китов за сутки +$3.4K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $1.3K (62× медианы). Нетто-поток китов: +$3.4K.",
+  "updated_at": "2026-11-17T03:00:53Z"
+}

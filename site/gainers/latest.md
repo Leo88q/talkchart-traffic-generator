@@ -1,11 +1,11 @@
-# Solana Top Gainers (24h) — 2026-11-16
+# Solana Top Gainers (24h) — 2026-11-17
 
-> Automated on-chain leaderboard from TalkChart. Updated 2026-11-16 18:41 UTC.
+> Automated on-chain leaderboard from TalkChart. Updated 2026-11-17 03:00 UTC.
 
 | # | Symbol | 24h Change | 24h Volume | On-Chain Narrative |
 |---|--------|------------|------------|-------------------|
-| 1 | [HOGE](https://leo88q.github.io/content-/site/pools/7CNC9gGegzEfFK8fLXiYUhdtMEeFPQZoND56U1Mxhnor.md) | +6096.8% | $4.16M | HOGE разрывает: +6096.8% за 24ч. ускорение в последнем часе |
-| 2 | [ELYSION](https://leo88q.github.io/content-/site/pools/HjxaEDvdje644vhUmE3VpjpteWLBmWgSsgvYhf6LVw2L.md) | +4377.3% | $3.83M | ELYSION разрывает: +4377.3% за 24ч. объём $3.83M больше капы в 1.7× — бумага в огне |
+| 1 | [ELYSION](https://leo88q.github.io/content-/site/pools/HjxaEDvdje644vhUmE3VpjpteWLBmWgSsgvYhf6LVw2L.md) | +4377.3% | $3.83M | ELYSION разрывает: +4377.3% за 24ч. объём $3.83M больше капы в 1.7× — бумага в огне |
+| 2 | [DSP](https://leo88q.github.io/content-/site/pools/8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX.md) | +3766.9% | $421.6K | DSP разрывает: +3766.9% за 24ч. ускорение в последнем часе |
 | 3 | [PAWCAT](https://leo88q.github.io/content-/site/pools/eEJ4ZYpgiNTCwRq4cVBdUbqq7s45KrM7XaEFcu3uuGb.md) | +2553.1% | $6.10M | PAWCAT разрывает: +2553.1% за 24ч. давление продаж нарастает |
 | 4 | [SHAVCOIN](https://leo88q.github.io/content-/site/pools/HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt.md) | +2417.7% | $3.65M | SHAVCOIN разрывает: +2417.7% за 24ч. ликвидность тонкая ($175.7K) — движения будут резкими |
 | 5 | [HOLD](https://leo88q.github.io/content-/site/pools/GUsid5mPW6KiExjQDDggoTHrFv4ecGqqAgYwiHa4Ujbb.md) | +1769.1% | $4.17M | HOLD разрывает: +1769.1% за 24ч. объём $4.17M больше капы в 6.1× — бумага в огне |

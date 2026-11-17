@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DSP_+3767.png",
+  "title": "TalkChart: DSP (+3766.9%) — Solana On-Chain Radar",
+  "description": "DSP разрывает: +3766.9% за 24ч. ускорение в последнем часе. ликвидность тонкая ($60.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $1.3K (62× медианы, 5ч назад). нетто китов за сутки +$3.4K.\n\nОбъём: $421.6K · Ликвидность: $60.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DSP (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-EsSzJa8xsyehSvVsNUy6t1KxMXgZYYaJKBAqyJxT3bid"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

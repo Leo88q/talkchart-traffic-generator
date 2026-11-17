@@ -1,17 +1,17 @@
 {
-  "slug": "hoge-vs-wiggles",
+  "slug": "dsp-vs-bawsaq",
   "token1": {
-    "symbol": "HOGE",
-    "change_24h": 6096.76,
-    "address": "7CNC9gGegzEfFK8fLXiYUhdtMEeFPQZoND56U1Mxhnor",
-    "volume": 4158614.117092
+    "symbol": "DSP",
+    "change_24h": 3766.923,
+    "address": "8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX",
+    "volume": 421632.614226475
   },
   "token2": {
-    "symbol": "WIGGLES",
-    "change_24h": 686.496,
-    "address": "6Lk5AZYQ9TkvqMzAc6YQ2RwWSg46RzuN3enqu6g6xQAE",
-    "volume": 3098214.31805085
+    "symbol": "BAWSAQ",
+    "change_24h": 580.168,
+    "address": "B8a1mw1vfm5pnm4RgUd8zhbtBnkPB2fBMdikU33Z1jqv",
+    "volume": 1795853.42032138
   },
-  "verdict": "По ончейн-метрикам TalkChart: HOGE опережает по ценовому импульсу (+6096.8% против +686.5%). Кроме того, у HOGE существенно глубже пул ликвидности ($112.8K против $37.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: HOGE.",
-  "updated_at": "2026-11-16 18:41 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: DSP опережает по ценовому импульсу (+3766.9% против +580.2%). Кроме того, у BAWSAQ соотношение объёма к TVL 18.9× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: DSP.",
+  "updated_at": "2026-11-17 03:01 UTC"
 }
