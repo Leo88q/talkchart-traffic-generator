@@ -1,17 +1,17 @@
 {
-  "slug": "dsp-vs-bawsaq",
+  "slug": "gekko-vs-claudia",
   "token1": {
-    "symbol": "DSP",
-    "change_24h": 3537.737,
-    "address": "8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX",
-    "volume": 441270.276971133
+    "symbol": "GEKKO",
+    "change_24h": 131.31,
+    "address": "8fn8y2pcEVtMPyXuKtUmTPTFnDu1yTugDzpM1bDdcATy",
+    "volume": 2093178.19542333
   },
   "token2": {
-    "symbol": "BAWSAQ",
-    "change_24h": 1891.155,
-    "address": "DQnoiJies9KrPJUiuCLExiCWh8jCrofL3zzUhgdL55kR",
-    "volume": 5640399.36590899
+    "symbol": "CLAUDIA",
+    "change_24h": 52.74,
+    "address": "Fe7bpDYCs74GqiCUF14HwgUMToPKV1d9mDYVX5BTohFr",
+    "volume": 5212786.09212674
   },
-  "verdict": "По ончейн-метрикам TalkChart: DSP опережает по ценовому импульсу (+3537.7% против +1891.2%). Кроме того, у BAWSAQ соотношение объёма к TVL 84.9× указывает на повышенный спекулятивный накал. Краткосрочный фаворит по совокупности факторов: DSP.",
-  "updated_at": "2026-11-17 13:35 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: GEKKO опережает по ценовому импульсу (+131.3% против +52.7%). Кроме того, у CLAUDIA более надёжная ликвидность ($345.8K против $19.4K). Краткосрочный фаворит по совокупности факторов: CLAUDIA.",
+  "updated_at": "2026-11-17 23:35 UTC"
 }

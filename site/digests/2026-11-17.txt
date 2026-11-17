@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-17
-1. DSP +3537.7% — DSP разрывает: +3537.7% за 24ч. давление продаж нарастает
-2. BAWSAQ +1891.2% — BAWSAQ разрывает: +1891.2% за 24ч. ускорение в последнем часе
-3. GTA +986.6% — GTA разрывает: +986.6% за 24ч. ускорение в последнем часе
-4. CHAR +241.8% — CHAR разрывает: +241.8% за 24ч. объём $1.87M больше капы в 18.3× — бумага в огне
-5. bul +155.9% — bul разрывает: +155.9% за 24ч. объём $1.54M больше капы в 5.4× — бумага в огне
+1. GEKKO +131.3% — GEKKO разрывает: +131.3% за 24ч. объём $2.09M больше капы в 34.2× — бумага в огне
+2. CLAUDIA +52.7% — CLAUDIA разрывает: +52.7% за 24ч. крупная сделка на фоне ленты: купил $1.1K (92× медианы, 1ч назад)
+3. CHAR +46.7% — CHAR разрывает: +46.7% за 24ч. давление продаж нарастает
+4. BAWSAQ -34.8% — BAWSAQ в обвале: -34.8% за 24ч. объём $3.60M больше капы в 6.9× — бумага в огне
+5. WASTED +30.2% — WASTED разрывает: +30.2% за 24ч. покупатели доминируют (76% сделок за час)
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/8fn8y2pcEVtMPyXuKtUmTPTFnDu1yTugDzpM1bDdcATy.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
