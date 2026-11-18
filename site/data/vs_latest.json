@@ -1,17 +1,17 @@
 {
-  "slug": "gekko-vs-claudia",
+  "slug": "gtavi-vs-jalu",
   "token1": {
-    "symbol": "GEKKO",
-    "change_24h": 131.31,
-    "address": "8fn8y2pcEVtMPyXuKtUmTPTFnDu1yTugDzpM1bDdcATy",
-    "volume": 2093178.19542333
+    "symbol": "GTAVI",
+    "change_24h": 3461.81,
+    "address": "2YP3Bw83YQHdnd9H2TqX77ZW6zVFqUjta9CHbBsvRJAJ",
+    "volume": 1317194.94549325
   },
   "token2": {
-    "symbol": "CLAUDIA",
-    "change_24h": 52.74,
-    "address": "Fe7bpDYCs74GqiCUF14HwgUMToPKV1d9mDYVX5BTohFr",
-    "volume": 5212786.09212674
+    "symbol": "JALU",
+    "change_24h": 831.582,
+    "address": "GnwWXPwh9VyYT9e7tj7dADkuU95Q5CC2VTBpQERECvfy",
+    "volume": 1882548.15150795
   },
-  "verdict": "По ончейн-метрикам TalkChart: GEKKO опережает по ценовому импульсу (+131.3% против +52.7%). Кроме того, у CLAUDIA более надёжная ликвидность ($345.8K против $19.4K). Краткосрочный фаворит по совокупности факторов: CLAUDIA.",
-  "updated_at": "2026-11-17 23:35 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: GTAVI опережает по ценовому импульсу (+3461.8% против +831.6%). Кроме того, у GTAVI существенно глубже пул ликвидности ($115.5K против $50.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: GTAVI.",
+  "updated_at": "2026-11-18 07:48 UTC"
 }

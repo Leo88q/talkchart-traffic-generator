@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GTAVI_+3462.png",
+  "title": "TalkChart: GTAVI (+3461.8%) — Solana On-Chain Radar",
+  "description": "GTAVI разрывает: +3461.8% за 24ч. давление продаж нарастает. покупатели доминируют (69% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($115.5K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.32M · Ликвидность: $115.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GTAVI (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6wiaCq8oQiupFfeDU4ouAuYnCKXCch581HAmpvrxpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=2YP3Bw83YQHdnd9H2TqX77ZW6zVFqUjta9CHbBsvRJAJ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
