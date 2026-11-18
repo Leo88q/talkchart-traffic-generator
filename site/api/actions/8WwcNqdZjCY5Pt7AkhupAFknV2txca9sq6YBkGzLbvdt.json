@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/pippin_+73.png",
+  "title": "TalkChart: pippin (+73.5%) — Solana On-Chain Radar",
+  "description": "pippin разрывает: +73.5% за 24ч. стакан глубокий: $3.45M ликвидности.\n\nОбъём: $10.88M · Ликвидность: $3.45M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп pippin (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8WwcNqdZjCY5Pt7AkhupAFknV2txca9sq6YBkGzLbvdt"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

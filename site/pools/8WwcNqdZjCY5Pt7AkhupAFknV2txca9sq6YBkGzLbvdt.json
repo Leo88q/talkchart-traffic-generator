@@ -1,0 +1,32 @@
+{
+  "pool": {
+    "address": "8WwcNqdZjCY5Pt7AkhupAFknV2txca9sq6YBkGzLbvdt",
+    "name": "pippin / SOL",
+    "base_symbol": "pippin",
+    "base_name": "pippin",
+    "base_address": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+    "dex": "raydium",
+    "price_usd": 0.018945963046239477,
+    "created_at": "2024-11-09T20:27:41Z",
+    "fdv_usd": 19001765.0631081,
+    "reserve_usd": 3452137.6705,
+    "volume_h24": 10877507.9547427,
+    "change": {
+      "h1": 3.955,
+      "h6": -3.841,
+      "h24": 73.478
+    },
+    "tx_h1": {
+      "buys": 872,
+      "sells": 841
+    },
+    "first_seen": "2026-11-18T17:21:06+00:00",
+    "last_seen": "2026-11-18T17:21:06+00:00"
+  },
+  "narrative": "pippin разрывает: +73.5% за 24ч. стакан глубокий: $3.45M ликвидности.",
+  "flags": [
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-18T17:21:06Z"
+}

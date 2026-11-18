@@ -2,16 +2,16 @@
   "slug": "gtavi-vs-jalu",
   "token1": {
     "symbol": "GTAVI",
-    "change_24h": 3461.81,
+    "change_24h": 1023.722,
     "address": "2YP3Bw83YQHdnd9H2TqX77ZW6zVFqUjta9CHbBsvRJAJ",
-    "volume": 1317194.94549325
+    "volume": 2213200.72644793
   },
   "token2": {
     "symbol": "JALU",
-    "change_24h": 831.582,
+    "change_24h": 667.947,
     "address": "GnwWXPwh9VyYT9e7tj7dADkuU95Q5CC2VTBpQERECvfy",
-    "volume": 1882548.15150795
+    "volume": 2889543.97940914
   },
-  "verdict": "По ончейн-метрикам TalkChart: GTAVI опережает по ценовому импульсу (+3461.8% против +831.6%). Кроме того, у GTAVI существенно глубже пул ликвидности ($115.5K против $50.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: GTAVI.",
-  "updated_at": "2026-11-18 07:48 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: GTAVI опережает по ценовому импульсу (+1023.7% против +667.9%). Краткосрочный фаворит по совокупности факторов: GTAVI.",
+  "updated_at": "2026-11-18 17:21 UTC"
 }
