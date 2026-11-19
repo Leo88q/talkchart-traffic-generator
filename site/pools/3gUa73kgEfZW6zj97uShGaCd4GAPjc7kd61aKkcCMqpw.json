@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw",
+    "name": "DCTY / SOL",
+    "base_symbol": "DCTY",
+    "base_name": "DCTY",
+    "base_address": "9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump",
+    "dex": "meteora",
+    "price_usd": 0.019582185805410438,
+    "created_at": "2026-11-18T16:26:56Z",
+    "fdv_usd": 18972599.7,
+    "reserve_usd": 486988.1361,
+    "volume_h24": 24054121.6455698,
+    "change": {
+      "h1": 1.93,
+      "h6": 55.61,
+      "h24": 138.027
+    },
+    "tx_h1": {
+      "buys": 3012,
+      "sells": 2629
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 4501.21,
+        "mult": 161.0,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "4iBbavcJ"
+      },
+      {
+        "kind": "sell",
+        "usd": 3245.07,
+        "mult": 116.1,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "9CaQLdhZ"
+      },
+      {
+        "kind": "sell",
+        "usd": 2523.23,
+        "mult": 90.3,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "4EWoDzmE"
+      },
+      {
+        "kind": "buy",
+        "usd": 2353.91,
+        "mult": 84.2,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "DAqCpTpQ"
+      },
+      {
+        "kind": "sell",
+        "usd": 2337.49,
+        "mult": 83.6,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "9CaQLdhZ"
+      }
+    ],
+    "first_seen": "2026-11-19T13:24:03+00:00",
+    "last_seen": "2026-11-19T13:24:03+00:00"
+  },
+  "narrative": "DCTY разрывает: +138.0% за 24ч. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (161× медианы, 0ч назад). нетто китов за сутки −$10.3K.",
+  "flags": [
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $4.5K (161× медианы). Нетто-поток китов: $-10.3K.",
+  "updated_at": "2026-11-19T13:24:03Z"
+}

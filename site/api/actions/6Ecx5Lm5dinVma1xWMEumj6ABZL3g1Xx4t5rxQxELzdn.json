@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Leonida_+52.png",
+  "title": "TalkChart: Leonida (+52.2%) — Solana On-Chain Radar",
+  "description": "Leonida разрывает: +52.2% за 24ч. ускорение в последнем часе. ликвидность тонкая ($122.4K) — движения будут резкими. пулу 2 дн. — чистая рулетка.\n\nОбъём: $1.54M · Ликвидность: $122.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Leonida (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=6Ecx5Lm5dinVma1xWMEumj6ABZL3g1Xx4t5rxQxELzdn"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -12,10 +12,10 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-11-19T02:23:05Z)
-- [TTWO](https://leo88q.github.io/content-/site/pools/7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT.md): TTWO / SOL on meteora — +6.9% 24h, Vol $85.39M, Liq $694.5K
-- [DCTY](https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.md): DCTY / TTWO on pumpswap — +1790.6% 24h, Vol $41.97M, Liq $456.9K
-- [pippin](https://leo88q.github.io/content-/site/pools/8WwcNqdZjCY5Pt7AkhupAFknV2txca9sq6YBkGzLbvdt.md): pippin / SOL on raydium — +59.6% 24h, Vol $14.74M, Liq $3.32M
+## Top Monitored Solana Tokens (Snapshot: 2026-11-19T13:24:03Z)
+- [TTWO](https://leo88q.github.io/content-/site/pools/7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT.md): TTWO / SOL on meteora — -0.5% 24h, Vol $103.04M, Liq $616.7K
+- [DCTY](https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.md): DCTY / TTWO on pumpswap — +2434.8% 24h, Vol $62.11M, Liq $561.3K
+- [DCTY](https://leo88q.github.io/content-/site/pools/3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw.md): DCTY / SOL on meteora — +138.0% 24h, Vol $24.05M, Liq $487.0K
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — +4.2% 24h, Vol $14.56M, Liq $4.26M
 - [GTA6](https://leo88q.github.io/content-/site/pools/Hb5RbkVssdJictskVjn9c2p16BsCesdHX4JdSWbFjG7a.md): GTA6 / SOL on raydium-clmm — +3.1% 24h, Vol $9.90M, Liq $71.3K
 - [uni](https://leo88q.github.io/content-/site/pools/3UydvHKHxDm77yPPDsKsvd73Kt8uQ48N4PNjuWN42HDJ.md): uni / SOL on pumpswap — -66.9% 24h, Vol $8.71M, Liq $238.5K

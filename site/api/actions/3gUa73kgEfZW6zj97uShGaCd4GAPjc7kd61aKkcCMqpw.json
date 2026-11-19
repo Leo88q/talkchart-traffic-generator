@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DCTY_+138.png",
+  "title": "TalkChart: DCTY (+138.0%) — Solana On-Chain Radar",
+  "description": "DCTY разрывает: +138.0% за 24ч. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (161× медианы, 0ч назад). нетто китов за сутки −$10.3K.\n\nОбъём: $24.05M · Ликвидность: $487.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DCTY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

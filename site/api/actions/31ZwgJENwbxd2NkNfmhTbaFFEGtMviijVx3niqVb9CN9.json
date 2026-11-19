@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Apocrycoin_+20.png",
+  "title": "TalkChart: Apocrycoin (+19.8%) — Solana On-Chain Radar",
+  "description": "Apocrycoin растёт на +19.8% за сутки. объём $4.86M больше капы в 19.8× — бумага в огне. ликвидность тонкая ($51.7K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $4.86M · Ликвидность: $51.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Apocrycoin (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-79rE2ac8JhN3U12QLhymgDmCTiwBN1d4maTcK1fhpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=31ZwgJENwbxd2NkNfmhTbaFFEGtMviijVx3niqVb9CN9"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
