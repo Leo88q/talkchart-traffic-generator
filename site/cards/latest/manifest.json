@@ -1,64 +1,64 @@
 {
- "generated_at": "2026-11-19T13:24:04+00:00",
+ "generated_at": "2026-11-19T23:08:07+00:00",
  "cards": [
   {
-   "file": "cards/2026-11-19/DCTY_+2434.png",
-   "symbol": "DCTY",
-   "chg_h24": 2434.789,
-   "address": "DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.html",
-   "latest_file": "cards/latest/DCTY_+2434.png"
+   "file": "cards/2026-11-19/FIONA_+4954.png",
+   "symbol": "FIONA",
+   "chg_h24": 4954.69,
+   "address": "DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB.html",
+   "latest_file": "cards/latest/FIONA_+4954.png"
   },
   {
-   "file": "cards/2026-11-19/FNDR_+734.png",
-   "symbol": "FNDR",
-   "chg_h24": 734.046,
-   "address": "E228rR6v99NTkHW19DoTdPCmrcL8rnnzTBVwz2VNkwww",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/E228rR6v99NTkHW19DoTdPCmrcL8rnnzTBVwz2VNkwww.html",
-   "latest_file": "cards/latest/FNDR_+734.png"
+   "file": "cards/2026-11-19/CATMARIO_+227.png",
+   "symbol": "CATMARIO",
+   "chg_h24": 227.667,
+   "address": "E1Vu4cTTaPn56hrzdS2UjK1dXVCi5awmM13J2ZY6ksvY",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/E1Vu4cTTaPn56hrzdS2UjK1dXVCi5awmM13J2ZY6ksvY.html",
+   "latest_file": "cards/latest/CATMARIO_+227.png"
   },
   {
-   "file": "cards/2026-11-19/GTASZN_+636.png",
-   "symbol": "GTASZN",
-   "chg_h24": 636.41,
-   "address": "C3ai5bk7q9jTtVcbWQeEXSta99BMmLCNVyasDD7mnQBt",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/C3ai5bk7q9jTtVcbWQeEXSta99BMmLCNVyasDD7mnQBt.html",
-   "latest_file": "cards/latest/GTASZN_+636.png"
-  },
-  {
-   "file": "cards/2026-11-19/DCTY_+138.png",
-   "symbol": "DCTY",
-   "chg_h24": 138.027,
-   "address": "3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw.html"
-  },
-  {
-   "file": "cards/2026-11-19/DacityCoin_-95.png",
-   "symbol": "DacityCoin",
-   "chg_h24": -95.225,
-   "address": "7Te1wXcfeQjKLGHXFvxSCnGZTqunoZ9fxBn7KKjrkNEr",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/7Te1wXcfeQjKLGHXFvxSCnGZTqunoZ9fxBn7KKjrkNEr.html"
-  },
-  {
-   "file": "cards/2026-11-19/GATO_-70.png",
-   "symbol": "GATO",
-   "chg_h24": -70.556,
-   "address": "5E3dXLXGwmTDCokA51WYYaKttjFZBwqCoyUHBUi5gt2m",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/5E3dXLXGwmTDCokA51WYYaKttjFZBwqCoyUHBUi5gt2m.html"
-  },
-  {
-   "file": "cards/2026-11-19/GTA6_-61.png",
+   "file": "cards/2026-11-19/GTA6_-67.png",
    "symbol": "GTA6",
-   "chg_h24": -61.47,
+   "chg_h24": -67.805,
+   "address": "5AFbwVSQPJf4cgEjq4TajZYyPYUvYktrRN3SahNrPnmv",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/5AFbwVSQPJf4cgEjq4TajZYyPYUvYktrRN3SahNrPnmv.html",
+   "latest_file": "cards/latest/GTA6_-67.png"
+  },
+  {
+   "file": "cards/2026-11-19/GTA6_-67.png",
+   "symbol": "GTA6",
+   "chg_h24": -67.433,
    "address": "xg71xrhn7MEj5akrZGteuYeiTLbBzyNCpBn69bRYd5a",
    "pool_url": "https://leo88q.github.io/content-/site/pools/xg71xrhn7MEj5akrZGteuYeiTLbBzyNCpBn69bRYd5a.html"
   },
   {
-   "file": "cards/2026-11-19/GTA6_-60.png",
-   "symbol": "GTA6",
-   "chg_h24": -60.228,
-   "address": "5AFbwVSQPJf4cgEjq4TajZYyPYUvYktrRN3SahNrPnmv",
-   "pool_url": "https://leo88q.github.io/content-/site/pools/5AFbwVSQPJf4cgEjq4TajZYyPYUvYktrRN3SahNrPnmv.html"
+   "file": "cards/2026-11-19/DacityCoin_-62.png",
+   "symbol": "DacityCoin",
+   "chg_h24": -62.101,
+   "address": "7Te1wXcfeQjKLGHXFvxSCnGZTqunoZ9fxBn7KKjrkNEr",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/7Te1wXcfeQjKLGHXFvxSCnGZTqunoZ9fxBn7KKjrkNEr.html"
+  },
+  {
+   "file": "cards/2026-11-19/GATO_-59.png",
+   "symbol": "GATO",
+   "chg_h24": -59.619,
+   "address": "5E3dXLXGwmTDCokA51WYYaKttjFZBwqCoyUHBUi5gt2m",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/5E3dXLXGwmTDCokA51WYYaKttjFZBwqCoyUHBUi5gt2m.html"
+  },
+  {
+   "file": "cards/2026-11-19/CYBERLEEK_+49.png",
+   "symbol": "CYBERLEEK",
+   "chg_h24": 49.93,
+   "address": "G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/G8kgi7aUpeX8EVR8VMkrth9SKEv5BietWC33UjAiiMGh.html"
+  },
+  {
+   "file": "cards/2026-11-19/Apocrycoin_-40.png",
+   "symbol": "Apocrycoin",
+   "chg_h24": -40.759,
+   "address": "31ZwgJENwbxd2NkNfmhTbaFFEGtMviijVx3niqVb9CN9",
+   "pool_url": "https://leo88q.github.io/content-/site/pools/31ZwgJENwbxd2NkNfmhTbaFFEGtMviijVx3niqVb9CN9.html"
   }
  ]
 }

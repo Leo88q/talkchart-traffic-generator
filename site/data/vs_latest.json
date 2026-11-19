@@ -1,17 +1,17 @@
 {
-  "slug": "dcty-vs-fndr",
+  "slug": "fiona-vs-catmario",
   "token1": {
-    "symbol": "DCTY",
-    "change_24h": 2434.789,
-    "address": "DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf",
-    "volume": 62107457.6582613
+    "symbol": "FIONA",
+    "change_24h": 4954.69,
+    "address": "DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB",
+    "volume": 5116075.89435933
   },
   "token2": {
-    "symbol": "FNDR",
-    "change_24h": 734.046,
-    "address": "E228rR6v99NTkHW19DoTdPCmrcL8rnnzTBVwz2VNkwww",
-    "volume": 2586675.32828933
+    "symbol": "CATMARIO",
+    "change_24h": 227.667,
+    "address": "E1Vu4cTTaPn56hrzdS2UjK1dXVCi5awmM13J2ZY6ksvY",
+    "volume": 4271599.00632909
   },
-  "verdict": "По ончейн-метрикам TalkChart: DCTY опережает по ценовому импульсу (+2434.8% против +734.0%). Кроме того, у DCTY существенно глубже пул ликвидности ($561.3K против $36.3K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: DCTY.",
-  "updated_at": "2026-11-19 13:24 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FIONA опережает по ценовому импульсу (+4954.7% против +227.7%). Кроме того, у FIONA существенно глубже пул ликвидности ($108.8K против $39.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: FIONA.",
+  "updated_at": "2026-11-19 23:08 UTC"
 }

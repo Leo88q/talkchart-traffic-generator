@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-19
-1. DCTY +2434.8% — DCTY разрывает: +2434.8% за 24ч. объём $62.11M больше капы в 3.3× — бумага в огне
-2. FNDR +734.0% — FNDR разрывает: +734.0% за 24ч. объём $2.59M больше капы в 13.4× — бумага в огне
-3. GTASZN +636.4% — GTASZN разрывает: +636.4% за 24ч. давление продаж нарастает
-4. DCTY +138.0% — DCTY разрывает: +138.0% за 24ч. пулу 1 дн
-5. DacityCoin -95.2% — DacityCoin в обвале: -95.2% за 24ч. давление продаж нарастает
+1. FIONA +4954.7% — FIONA разрывает: +4954.7% за 24ч. ускорение в последнем часе
+2. CATMARIO +227.7% — CATMARIO разрывает: +227.7% за 24ч. объём $4.27M больше капы в 28.3× — бумага в огне
+3. GTA6 -67.8% — GTA6 в обвале: -67.8% за 24ч. ликвидность тонкая ($9.6K) — движения будут резкими.
+4. GTA6 -67.4% — GTA6 в обвале: -67.4% за 24ч. ликвидность тонкая ($65.9K) — движения будут резкими.
+5. DacityCoin -62.1% — DacityCoin в обвале: -62.1% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

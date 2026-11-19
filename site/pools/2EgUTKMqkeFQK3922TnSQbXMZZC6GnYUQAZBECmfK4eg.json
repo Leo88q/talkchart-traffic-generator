@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "2EgUTKMqkeFQK3922TnSQbXMZZC6GnYUQAZBECmfK4eg",
+    "name": "PIPI / TTWO",
+    "base_symbol": "PIPI",
+    "base_name": "PIPI",
+    "base_address": "6MKD1NkLvWRqdbFtqmgACBwUV5o6GJpZry8HkNgzpump",
+    "dex": "pumpswap",
+    "price_usd": 0.00023339652291716936,
+    "created_at": "2026-11-19T12:05:53Z",
+    "fdv_usd": 233396.5229,
+    "reserve_usd": 49331.7027,
+    "volume_h24": 5421427.19120113,
+    "change": {
+      "h1": 5.816,
+      "h6": -37.046,
+      "h24": -32.25
+    },
+    "tx_h1": {
+      "buys": 595,
+      "sells": 541
+    },
+    "first_seen": "2026-11-19T23:08:06+00:00",
+    "last_seen": "2026-11-19T23:08:06+00:00"
+  },
+  "narrative": "PIPI в обвале: -32.2% за 24ч. объём $5.42M больше капы в 23.2× — бумага в огне. ликвидность тонкая ($49.3K) — движения будут резкими. пулу 0 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-19T23:08:06Z"
+}
