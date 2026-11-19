@@ -1,6 +1,6 @@
-# Solana Top Gainers (24h) — 2026-11-18
+# Solana Top Gainers (24h) — 2026-11-19
 
-> Automated on-chain leaderboard from TalkChart. Updated 2026-11-18 17:21 UTC.
+> Automated on-chain leaderboard from TalkChart. Updated 2026-11-19 02:23 UTC.
 
 | # | Symbol | 24h Change | 24h Volume | On-Chain Narrative |
 |---|--------|------------|------------|-------------------|
@@ -8,9 +8,9 @@
 | 2 | [DSP](https://leo88q.github.io/content-/site/pools/8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX.md) | +3537.7% | $441.3K | DSP разрывает: +3537.7% за 24ч. давление продаж нарастает |
 | 3 | [PAWCAT](https://leo88q.github.io/content-/site/pools/eEJ4ZYpgiNTCwRq4cVBdUbqq7s45KrM7XaEFcu3uuGb.md) | +2553.1% | $6.10M | PAWCAT разрывает: +2553.1% за 24ч. давление продаж нарастает |
 | 4 | [SHAVCOIN](https://leo88q.github.io/content-/site/pools/HfT2fJjb1SmDsdjHbCkJuvnVdzDSY1525j4rhYXwdTDt.md) | +2417.7% | $3.65M | SHAVCOIN разрывает: +2417.7% за 24ч. ликвидность тонкая ($175.7K) — движения будут резкими |
-| 5 | [HOLD](https://leo88q.github.io/content-/site/pools/GUsid5mPW6KiExjQDDggoTHrFv4ecGqqAgYwiHa4Ujbb.md) | +1769.1% | $4.17M | HOLD разрывает: +1769.1% за 24ч. объём $4.17M больше капы в 6.1× — бумага в огне |
-| 6 | [PMUP](https://leo88q.github.io/content-/site/pools/Ang7vjh7KoSScfbuE1ZWW6gAoXf7EcAZLPJzmMdcgwZj.md) | +1738.2% | $2.07M | PMUP разрывает: +1738.2% за 24ч. ускорение в последнем часе |
-| 7 | [NIHAO](https://leo88q.github.io/content-/site/pools/4rsLuj8sBFFMwM4AK6p4R5RbZ7y2m9CGrefxVb29JbgN.md) | +1722.3% | $3.31M | NIHAO разрывает: +1722.3% за 24ч. ускорение в последнем часе |
-| 8 | [MOGZ](https://leo88q.github.io/content-/site/pools/7j13CapqLC4dGaGYFCxgL8t31R7B1Gt93uBh8EdoRp9H.md) | +1327.6% | $3.01M | MOGZ разрывает: +1327.6% за 24ч. объём $3.01M больше капы в 5.1× — бумага в огне |
-| 9 | [GTAVI](https://leo88q.github.io/content-/site/pools/2YP3Bw83YQHdnd9H2TqX77ZW6zVFqUjta9CHbBsvRJAJ.md) | +1023.7% | $2.21M | GTAVI разрывает: +1023.7% за 24ч. давление продаж нарастает |
-| 10 | [HODL](https://leo88q.github.io/content-/site/pools/ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR.md) | +1015.1% | $4.20M | HODL разрывает: +1015.1% за 24ч. покупатели доминируют (82% сделок за час) |
+| 5 | [DCTY](https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.md) | +1790.6% | $41.97M | DCTY разрывает: +1790.6% за 24ч. покупатели доминируют (67% сделок за час) |
+| 6 | [HOLD](https://leo88q.github.io/content-/site/pools/GUsid5mPW6KiExjQDDggoTHrFv4ecGqqAgYwiHa4Ujbb.md) | +1769.1% | $4.17M | HOLD разрывает: +1769.1% за 24ч. объём $4.17M больше капы в 6.1× — бумага в огне |
+| 7 | [PMUP](https://leo88q.github.io/content-/site/pools/Ang7vjh7KoSScfbuE1ZWW6gAoXf7EcAZLPJzmMdcgwZj.md) | +1738.2% | $2.07M | PMUP разрывает: +1738.2% за 24ч. ускорение в последнем часе |
+| 8 | [NIHAO](https://leo88q.github.io/content-/site/pools/4rsLuj8sBFFMwM4AK6p4R5RbZ7y2m9CGrefxVb29JbgN.md) | +1722.3% | $3.31M | NIHAO разрывает: +1722.3% за 24ч. ускорение в последнем часе |
+| 9 | [MOGZ](https://leo88q.github.io/content-/site/pools/7j13CapqLC4dGaGYFCxgL8t31R7B1Gt93uBh8EdoRp9H.md) | +1327.6% | $3.01M | MOGZ разрывает: +1327.6% за 24ч. объём $3.01M больше капы в 5.1× — бумага в огне |
+| 10 | [GTAVI](https://leo88q.github.io/content-/site/pools/2YP3Bw83YQHdnd9H2TqX77ZW6zVFqUjta9CHbBsvRJAJ.md) | +1023.7% | $2.21M | GTAVI разрывает: +1023.7% за 24ч. давление продаж нарастает |

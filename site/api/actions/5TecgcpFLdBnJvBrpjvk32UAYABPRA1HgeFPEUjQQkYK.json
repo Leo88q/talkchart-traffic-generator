@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BIG_-99.png",
+  "title": "TalkChart: BIG (-98.6%) — Solana On-Chain Radar",
+  "description": "BIG в обвале: -98.6% за 24ч. объём $461.0K больше капы в 23.8× — бумага в огне. ликвидность тонкая ($11.5K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: купил $494.76 (42× медианы, 2ч назад). нетто китов за сутки +$1.2K.\n\nОбъём: $461.0K · Ликвидность: $11.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BIG (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-34DXEU2ttEtBSb1TqGJm7izgvYTTkqKcCoiNWdPDpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=5TecgcpFLdBnJvBrpjvk32UAYABPRA1HgeFPEUjQQkYK"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
