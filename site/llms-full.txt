@@ -12,14 +12,14 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-11-19T23:08:06Z)
-- [TTWO](https://leo88q.github.io/content-/site/pools/7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT.md): TTWO / SOL on meteora — -4.6% 24h, Vol $65.19M, Liq $530.1K
-- [DCTY](https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.md): DCTY / TTWO on pumpswap — -28.4% 24h, Vol $35.46M, Liq $418.5K
-- [DCTY](https://leo88q.github.io/content-/site/pools/3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw.md): DCTY / SOL on meteora — -28.7% 24h, Vol $26.59M, Liq $225.5K
+## Top Monitored Solana Tokens (Snapshot: 2026-11-20T07:29:14Z)
+- [TTWO](https://leo88q.github.io/content-/site/pools/7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT.md): TTWO / SOL on meteora — -6.4% 24h, Vol $47.38M, Liq $675.8K
+- [DCTY](https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.md): DCTY / TTWO on pumpswap — -64.6% 24h, Vol $26.31M, Liq $278.4K
+- [DCTY](https://leo88q.github.io/content-/site/pools/3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw.md): DCTY / SOL on meteora — -65.7% 24h, Vol $21.92M, Liq $113.5K
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — +4.2% 24h, Vol $14.56M, Liq $4.26M
 - [GTA6](https://leo88q.github.io/content-/site/pools/Hb5RbkVssdJictskVjn9c2p16BsCesdHX4JdSWbFjG7a.md): GTA6 / SOL on raydium-clmm — +3.1% 24h, Vol $9.90M, Liq $71.3K
 - [uni](https://leo88q.github.io/content-/site/pools/3UydvHKHxDm77yPPDsKsvd73Kt8uQ48N4PNjuWN42HDJ.md): uni / SOL on pumpswap — -66.9% 24h, Vol $8.71M, Liq $238.5K
-- [mihao](https://leo88q.github.io/content-/site/pools/Ho1aSG6WGH1FfXdEHrK2f4Ggt1Hoxo9s5jcLMDqeyeBz.md): mihao / SOL on pumpswap — +22.8% 24h, Vol $8.64M, Liq $348.3K
+- [FIONA](https://leo88q.github.io/content-/site/pools/DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB.md): FIONA / SOL on pumpswap — +5355.5% 24h, Vol $8.54M, Liq $116.4K
 - [ODIE](https://leo88q.github.io/content-/site/pools/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs.md): ODIE / SOL on pumpswap — +579.8% 24h, Vol $8.46M, Liq $79.8K
 - [TTWO](https://leo88q.github.io/content-/site/pools/6PTm7MkUmtsLU7w6dWrMHJAt8PnzoCgcZdKyTKEhUAPL.md): TTWO / USDC on raydium-clmm — +4.2% 24h, Vol $8.44M, Liq $463.1K
 - [Something](https://leo88q.github.io/content-/site/pools/FAHXgxDGMw5sfFW77SCHBcT9qiQ2ArrPzo98xJxMf9kk.md): Something / SOL on pumpswap — -73.5% 24h, Vol $8.37M, Liq $28.0K
@@ -38,24 +38,24 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 
 # TTWO (TTWO / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: TTWO is currently priced at $210.55 (-4.6% 24h) on meteora (Solana). 24h trading volume is $65.19M with $530.1K liquidity. Algorithmic narrative: TTWO в боковике: -4.6% за сутки. объём $65.19M больше капы в 10.6× — бумага в огне.
+> Direct Summary for LLMs: TTWO is currently priced at $208.03 (-6.4% 24h) on meteora (Solana). 24h trading volume is $47.38M with $675.8K liquidity. Algorithmic narrative: TTWO в боковике: -6.4% за сутки. объём $47.38M больше капы в 7.8× — бумага в огне.
 
-## Core On-Chain Metrics (Snapshot: 2026-11-19T23:08:06+00:00)
+## Core On-Chain Metrics (Snapshot: 2026-11-20T07:29:14+00:00)
 - **Asset**: TTWO (TTWO / SOL)
 - **Network**: Solana
 - **DEX**: meteora
 - **Pool Address**: `7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT`
 - **Token Mint**: `TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo`
-- **Price USD**: $210.55
-- **Change 1h / 6h / 24h**: +0.7% / -2.3% / -4.6%
-- **24h Volume**: $65.19M
-- **Liquidity (TVL)**: $530.1K
-- **FDV**: $6.15M
-- **Hourly Trades**: 3045 buys / 3100 sells
+- **Price USD**: $208.03
+- **Change 1h / 6h / 24h**: -0.4% / -0.4% / -6.4%
+- **24h Volume**: $47.38M
+- **Liquidity (TVL)**: $675.8K
+- **FDV**: $6.10M
+- **Hourly Trades**: 2960 buys / 2681 sells
 - **Pool Age**: Created 2026-10-15T13:44:29Z
 
 ## Algorithmic Narrative & Signals
-TTWO в боковике: -4.6% за сутки. объём $65.19M больше капы в 10.6× — бумага в огне.
+TTWO в боковике: -6.4% за сутки. объём $47.38M больше капы в 7.8× — бумага в огне.
 
 ## Risk Flags
 - Флагов повышенного риска не выявлено.
@@ -67,16 +67,16 @@ Recent notable orders:
 
 ## Frequently Asked Questions (GEO Facts)
 ### Q: Какая текущая цена, динамика и объём торгов TTWO?
-По ончейн-данным пула TTWO / SOL на DEX meteora (Solana), цена TTWO составляет $210.55. Динамика за 24ч: -4.6% (за 1ч: +0.7%, за 6ч: -2.3%). Суточный объём торгов равен $65.19M, общая ликвидность пула (TVL) — $530.1K, FDV — $6.15M. Данные зафиксированы на 2026-11-19T23:08:06+00:00.
+По ончейн-данным пула TTWO / SOL на DEX meteora (Solana), цена TTWO составляет $208.03. Динамика за 24ч: -6.4% (за 1ч: -0.4%, за 6ч: -0.4%). Суточный объём торгов равен $47.38M, общая ликвидность пула (TVL) — $675.8K, FDV — $6.10M. Данные зафиксированы на 2026-11-20T07:29:14+00:00.
 
 ### Q: Почему движется цена TTWO? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: TTWO в боковике: -4.6% за сутки. объём $65.19M больше капы в 10.6× — бумага в огне. За последний час в ленте прошло 3045 покупок и 3100 продаж.
+Алгоритмический анализ TalkChart: TTWO в боковике: -6.4% за сутки. объём $47.38M больше капы в 7.8× — бумага в огне. За последний час в ленте прошло 2960 покупок и 2681 продаж.
 
 ### Q: Есть ли активность китов в пуле TTWO?
 Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
 
 ### Q: Безопасен ли пул TTWO и какие ончейн-риски?
-Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул TTWO / SOL на meteora создан 2026-10-15T13:44:29Z, ликвидность $530.1K при суточном объёме $65.19M.
+Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул TTWO / SOL на meteora создан 2026-10-15T13:44:29Z, ликвидность $675.8K при суточном объёме $47.38M.
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT.html) — Free public feed for traders and AI agents.*
@@ -86,49 +86,49 @@ Recent notable orders:
 
 # DCTY (DCTY / TTWO) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: DCTY is currently priced at $0.00986 (-28.4% 24h) on pumpswap (Solana). 24h trading volume is $35.46M with $418.5K liquidity. Algorithmic narrative: DCTY в обвале: -28.4% за 24ч. объём $35.46M больше капы в 3.6× — бумага в огне. крупная сделка на фоне ленты: продал $2.1K (78× медианы, 0ч назад). нетто китов за сутки −$4.1K.
+> Direct Summary for LLMs: DCTY is currently priced at $0.00414 (-64.6% 24h) on pumpswap (Solana). 24h trading volume is $26.31M with $278.4K liquidity. Algorithmic narrative: DCTY в обвале: -64.6% за 24ч. давление продаж нарастает. объём $26.31M больше капы в 6.4× — бумага в огне. крупная сделка на фоне ленты: продал $4.0K (279× медианы, 0ч назад). нетто китов за сутки −$8.9K.
 
-## Core On-Chain Metrics (Snapshot: 2026-11-19T23:08:06+00:00)
+## Core On-Chain Metrics (Snapshot: 2026-11-20T07:29:14+00:00)
 - **Asset**: DCTY (DCTY / TTWO)
 - **Network**: Solana
 - **DEX**: pumpswap
 - **Pool Address**: `DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf`
 - **Token Mint**: `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump`
-- **Price USD**: $0.00986
-- **Change 1h / 6h / 24h**: +3.1% / -27.2% / -28.4%
-- **24h Volume**: $35.46M
-- **Liquidity (TVL)**: $418.5K
-- **FDV**: $9.86M
-- **Hourly Trades**: 1052 buys / 901 sells
+- **Price USD**: $0.00414
+- **Change 1h / 6h / 24h**: -6.2% / -47.5% / -64.6%
+- **24h Volume**: $26.31M
+- **Liquidity (TVL)**: $278.4K
+- **FDV**: $4.14M
+- **Hourly Trades**: 956 buys / 845 sells
 - **Pool Age**: Created 2026-10-20T03:03:35Z
 
 ## Algorithmic Narrative & Signals
-DCTY в обвале: -28.4% за 24ч. объём $35.46M больше капы в 3.6× — бумага в огне. крупная сделка на фоне ленты: продал $2.1K (78× медианы, 0ч назад). нетто китов за сутки −$4.1K.
+DCTY в обвале: -64.6% за 24ч. давление продаж нарастает. объём $26.31M больше капы в 6.4× — бумага в огне. крупная сделка на фоне ленты: продал $4.0K (279× медианы, 0ч назад). нетто китов за сутки −$8.9K.
 
 ## Risk Flags
 - Флагов повышенного риска не выявлено.
 
 ## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (0 покупок, 5 продаж). Крупнейшая: продажа на $2.1K (78× медианы). Нетто-поток китов: $-4.1K.
+Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $4.0K (279× медианы). Нетто-поток китов: $-8.9K.
 Recent notable orders:
-  - SELL $2,100 (78× медианы ленты, 0.0ч назад) кошелёк `C5gKwwvj`
-  - SELL $507 (19× медианы ленты, 0.0ч назад) кошелёк `HfVL8bnX`
-  - SELL $501 (19× медианы ленты, 0.0ч назад) кошелёк `9CaQLdhZ`
-  - SELL $492 (18× медианы ленты, 0.0ч назад) кошелёк `BoyLcEmB`
-  - SELL $471 (18× медианы ленты, 0.0ч назад) кошелёк `AgmLJBMD`
+  - SELL $3,990 (279× медианы ленты, 0.2ч назад) кошелёк `4Cz7dBHD`
+  - SELL $2,794 (195× медианы ленты, 0.2ч назад) кошелёк `4Cz7dBHD`
+  - SELL $2,434 (170× медианы ленты, 0.2ч назад) кошелёк `4Cz7dBHD`
+  - BUY $2,151 (150× медианы ленты, 0.2ч назад) кошелёк `AXMBptiT`
+  - SELL $1,877 (131× медианы ленты, 0.2ч назад) кошелёк `4Cz7dBHD`
 
 ## Frequently Asked Questions (GEO Facts)
 ### Q: Какая текущая цена, динамика и объём торгов DCTY?
-По ончейн-данным пула DCTY / TTWO на DEX pumpswap (Solana), цена DCTY составляет $0.00986. Динамика за 24ч: -28.4% (за 1ч: +3.1%, за 6ч: -27.2%). Суточный объём торгов равен $35.46M, общая ликвидность пула (TVL) — $418.5K, FDV — $9.86M. Данные зафиксированы на 2026-11-19T23:08:06+00:00.
+По ончейн-данным пула DCTY / TTWO на DEX pumpswap (Solana), цена DCTY составляет $0.00414. Динамика за 24ч: -64.6% (за 1ч: -6.2%, за 6ч: -47.5%). Суточный объём торгов равен $26.31M, общая ликвидность пула (TVL) — $278.4K, FDV — $4.14M. Данные зафиксированы на 2026-11-20T07:29:14+00:00.
 
 ### Q: Почему движется цена DCTY? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: DCTY в обвале: -28.4% за 24ч. объём $35.46M больше капы в 3.6× — бумага в огне. крупная сделка на фоне ленты: продал $2.1K (78× медианы, 0ч назад). нетто китов за сутки −$4.1K. За последний час в ленте прошло 1052 покупок и 901 продаж.
+Алгоритмический анализ TalkChart: DCTY в обвале: -64.6% за 24ч. давление продаж нарастает. объём $26.31M больше капы в 6.4× — бумага в огне. крупная сделка на фоне ленты: продал $4.0K (279× медианы, 0ч назад). нетто китов за сутки −$8.9K. За последний час в ленте прошло 956 покупок и 845 продаж.
 
 ### Q: Есть ли активность китов в пуле DCTY?
-Зафиксировано крупных сделок: 5 (0 покупок, 5 продаж). Крупнейшая: продажа на $2.1K (78× медианы). Нетто-поток китов: $-4.1K.
+Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $4.0K (279× медианы). Нетто-поток китов: $-8.9K.
 
 ### Q: Безопасен ли пул DCTY и какие ончейн-риски?
-Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул DCTY / TTWO на pumpswap создан 2026-10-20T03:03:35Z, ликвидность $418.5K при суточном объёме $35.46M.
+Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул DCTY / TTWO на pumpswap создан 2026-10-20T03:03:35Z, ликвидность $278.4K при суточном объёме $26.31M.
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.html) — Free public feed for traders and AI agents.*
@@ -138,24 +138,24 @@ Recent notable orders:
 
 # DCTY (DCTY / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: DCTY is currently priced at $0.00976 (-28.7% 24h) on meteora (Solana). 24h trading volume is $26.59M with $225.5K liquidity. Algorithmic narrative: DCTY в обвале: -28.7% за 24ч. объём $26.59M больше капы в 2.7× — бумага в огне. ликвидность тонкая ($225.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (161× медианы, 0ч назад). нетто китов за сутки −$10.3K.
+> Direct Summary for LLMs: DCTY is currently priced at $0.00411 (-65.7% 24h) on meteora (Solana). 24h trading volume is $21.92M with $113.5K liquidity. Algorithmic narrative: DCTY в обвале: -65.7% за 24ч. давление продаж нарастает. объём $21.92M больше капы в 5.3× — бумага в огне. ликвидность тонкая ($113.5K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (161× медианы, 0ч назад). нетто китов за сутки −$10.3K.
 
-## Core On-Chain Metrics (Snapshot: 2026-11-19T23:08:06+00:00)
+## Core On-Chain Metrics (Snapshot: 2026-11-20T07:29:14+00:00)
 - **Asset**: DCTY (DCTY / SOL)
 - **Network**: Solana
 - **DEX**: meteora
 - **Pool Address**: `3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw`
 - **Token Mint**: `9hjBLBrc7WZW2H8UQvBAvG5WiTZotXUv2Bdcn4f4pump`
-- **Price USD**: $0.00976
-- **Change 1h / 6h / 24h**: +2.0% / -27.9% / -28.7%
-- **24h Volume**: $26.59M
-- **Liquidity (TVL)**: $225.5K
-- **FDV**: $9.76M
-- **Hourly Trades**: 1010 buys / 1114 sells
+- **Price USD**: $0.00411
+- **Change 1h / 6h / 24h**: -11.4% / -47.2% / -65.7%
+- **24h Volume**: $21.92M
+- **Liquidity (TVL)**: $113.5K
+- **FDV**: $4.11M
+- **Hourly Trades**: 909 buys / 615 sells
 - **Pool Age**: Created 2026-11-18T16:26:56Z
 
 ## Algorithmic Narrative & Signals
-DCTY в обвале: -28.7% за 24ч. объём $26.59M больше капы в 2.7× — бумага в огне. ликвидность тонкая ($225.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (161× медианы, 0ч назад). нетто китов за сутки −$10.3K.
+DCTY в обвале: -65.7% за 24ч. давление продаж нарастает. объём $21.92M больше капы в 5.3× — бумага в огне. ликвидность тонкая ($113.5K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (161× медианы, 0ч назад). нетто китов за сутки −$10.3K.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -172,16 +172,16 @@ Recent notable orders:
 
 ## Frequently Asked Questions (GEO Facts)
 ### Q: Какая текущая цена, динамика и объём торгов DCTY?
-По ончейн-данным пула DCTY / SOL на DEX meteora (Solana), цена DCTY составляет $0.00976. Динамика за 24ч: -28.7% (за 1ч: +2.0%, за 6ч: -27.9%). Суточный объём торгов равен $26.59M, общая ликвидность пула (TVL) — $225.5K, FDV — $9.76M. Данные зафиксированы на 2026-11-19T23:08:06+00:00.
+По ончейн-данным пула DCTY / SOL на DEX meteora (Solana), цена DCTY составляет $0.00411. Динамика за 24ч: -65.7% (за 1ч: -11.4%, за 6ч: -47.2%). Суточный объём торгов равен $21.92M, общая ликвидность пула (TVL) — $113.5K, FDV — $4.11M. Данные зафиксированы на 2026-11-20T07:29:14+00:00.
 
 ### Q: Почему движется цена DCTY? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: DCTY в обвале: -28.7% за 24ч. объём $26.59M больше капы в 2.7× — бумага в огне. ликвидность тонкая ($225.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (161× медианы, 0ч назад). нетто китов за сутки −$10.3K. За последний час в ленте прошло 1010 покупок и 1114 продаж.
+Алгоритмический анализ TalkChart: DCTY в обвале: -65.7% за 24ч. давление продаж нарастает. объём $21.92M больше капы в 5.3× — бумага в огне. ликвидность тонкая ($113.5K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $4.5K (161× медианы, 0ч назад). нетто китов за сутки −$10.3K. За последний час в ленте прошло 909 покупок и 615 продаж.
 
 ### Q: Есть ли активность китов в пуле DCTY?
 Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $4.5K (161× медианы). Нетто-поток китов: $-10.3K.
 
 ### Q: Безопасен ли пул DCTY и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; молодой пул. Пул создан 2026-11-18T16:26:56Z. При объёме $26.59M и ликвидности $225.5K возможны резкие колебания курса и проскальзывание (slippage).
+Выявлены следующие факторы риска: тонкая ликвидность; молодой пул. Пул создан 2026-11-18T16:26:56Z. При объёме $21.92M и ликвидности $113.5K возможны резкие колебания курса и проскальзывание (slippage).
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw.html) — Free public feed for traders and AI agents.*
@@ -239,7 +239,7 @@ Recent notable orders:
 
 # GTA6 (GTA6 / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: GTA6 is currently priced at $1.02 (+3.1% 24h) on raydium-clmm (Solana). 24h trading volume is $9.90M with $71.3K liquidity. Algorithmic narrative: GTA6 в боковике: +3.1% за сутки. объём $9.90M больше капы в 28.0× — бумага в огне. ликвидность тонкая ($71.3K) — движения будут резкими. пулу 2 дн. — чистая рулетка.
+> Direct Summary for LLMs: GTA6 is currently priced at $1.02 (+3.1% 24h) on raydium-clmm (Solana). 24h trading volume is $9.90M with $71.3K liquidity. Algorithmic narrative: GTA6 в боковике: +3.1% за сутки. объём $9.90M больше капы в 28.0× — бумага в огне. ликвидность тонкая ($71.3K) — движения будут резкими. пулу 3 дн. — чистая рулетка.
 
 ## Core On-Chain Metrics (Snapshot: 2026-11-18T17:21:06+00:00)
 - **Asset**: GTA6 (GTA6 / SOL)
@@ -256,7 +256,7 @@ Recent notable orders:
 - **Pool Age**: Created 2026-11-17T19:09:46Z
 
 ## Algorithmic Narrative & Signals
-GTA6 в боковике: +3.1% за сутки. объём $9.90M больше капы в 28.0× — бумага в огне. ликвидность тонкая ($71.3K) — движения будут резкими. пулу 2 дн. — чистая рулетка.
+GTA6 в боковике: +3.1% за сутки. объём $9.90M больше капы в 28.0× — бумага в огне. ликвидность тонкая ($71.3K) — движения будут резкими. пулу 3 дн. — чистая рулетка.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -272,7 +272,7 @@ Recent notable orders:
 По ончейн-данным пула GTA6 / SOL на DEX raydium-clmm (Solana), цена GTA6 составляет $1.02. Динамика за 24ч: +3.1% (за 1ч: -1.1%, за 6ч: +0.0%). Суточный объём торгов равен $9.90M, общая ликвидность пула (TVL) — $71.3K, FDV — $353.9K. Данные зафиксированы на 2026-11-18T17:21:06+00:00.
 
 ### Q: Почему движется цена GTA6? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: GTA6 в боковике: +3.1% за сутки. объём $9.90M больше капы в 28.0× — бумага в огне. ликвидность тонкая ($71.3K) — движения будут резкими. пулу 2 дн. — чистая рулетка. За последний час в ленте прошло 1081 покупок и 1188 продаж.
+Алгоритмический анализ TalkChart: GTA6 в боковике: +3.1% за сутки. объём $9.90M больше капы в 28.0× — бумага в огне. ликвидность тонкая ($71.3K) — движения будут резкими. пулу 3 дн. — чистая рулетка. За последний час в ленте прошло 1081 покупок и 1188 продаж.
 
 ### Q: Есть ли активность китов в пуле GTA6?
 Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
@@ -335,54 +335,56 @@ Recent notable orders:
 
 ---
 
-# mihao (mihao / SOL) — On-Chain Analysis & Market Data
+# FIONA (FIONA / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: mihao is currently priced at $0.00853 (+22.8% 24h) on pumpswap (Solana). 24h trading volume is $8.64M with $348.3K liquidity. Algorithmic narrative: mihao растёт на +22.8% за сутки. крупная сделка на фоне ленты: купил $2.1K (124× медианы, 0ч назад). нетто китов за сутки +$10.3K.
+> Direct Summary for LLMs: FIONA is currently priced at $0.00172 (+5355.5% 24h) on pumpswap (Solana). 24h trading volume is $8.54M with $116.4K liquidity. Algorithmic narrative: FIONA разрывает: +5355.5% за 24ч. объём $8.54M больше капы в 5.0× — бумага в огне. ликвидность тонкая ($116.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.6K (116× медианы, 0ч назад). нетто китов за сутки −$3.5K.
 
-## Core On-Chain Metrics (Snapshot: 2026-11-19T23:08:06+00:00)
-- **Asset**: mihao (mihao / SOL)
+## Core On-Chain Metrics (Snapshot: 2026-11-20T07:29:14+00:00)
+- **Asset**: FIONA (FIONA / SOL)
 - **Network**: Solana
 - **DEX**: pumpswap
-- **Pool Address**: `Ho1aSG6WGH1FfXdEHrK2f4Ggt1Hoxo9s5jcLMDqeyeBz`
-- **Token Mint**: `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump`
-- **Price USD**: $0.00853
-- **Change 1h / 6h / 24h**: +0.9% / -29.5% / +22.8%
-- **24h Volume**: $8.64M
-- **Liquidity (TVL)**: $348.3K
-- **FDV**: $8.02M
-- **Hourly Trades**: 1018 buys / 865 sells
-- **Pool Age**: Created 2026-10-25T16:43:15Z
+- **Pool Address**: `DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB`
+- **Token Mint**: `B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump`
+- **Price USD**: $0.00172
+- **Change 1h / 6h / 24h**: -10.4% / +20.4% / +5355.5%
+- **24h Volume**: $8.54M
+- **Liquidity (TVL)**: $116.4K
+- **FDV**: $1.72M
+- **Hourly Trades**: 552 buys / 502 sells
+- **Pool Age**: Created 2026-11-19T20:53:29Z
 
 ## Algorithmic Narrative & Signals
-mihao растёт на +22.8% за сутки. крупная сделка на фоне ленты: купил $2.1K (124× медианы, 0ч назад). нетто китов за сутки +$10.3K.
+FIONA разрывает: +5355.5% за 24ч. объём $8.54M больше капы в 5.0× — бумага в огне. ликвидность тонкая ($116.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.6K (116× медианы, 0ч назад). нетто китов за сутки −$3.5K.
 
 ## Risk Flags
-- Флагов повышенного риска не выявлено.
+- ⚠️ тонкая ликвидность
+- ⚠️ молодой пул
+- ⚠️ перегрет за 24ч
 
 ## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (5 покупок, 0 продаж). Крупнейшая: покупка на $2.1K (124× медианы). Нетто-поток китов: +$10.3K.
+Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $1.6K (116× медианы). Нетто-поток китов: $-3.5K.
 Recent notable orders:
-  - BUY $2,056 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
-  - BUY $2,056 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
-  - BUY $2,056 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
-  - BUY $2,056 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
-  - BUY $2,055 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
+  - SELL $1,568 (116× медианы ленты, 0.0ч назад) кошелёк `3JD7zrZV`
+  - SELL $1,075 (79× медианы ленты, 0.1ч назад) кошелёк `3JD7zrZV`
+  - SELL $828 (61× медианы ленты, 0.0ч назад) кошелёк `6KgpBB5J`
+  - SELL $815 (60× медианы ленты, 0.0ч назад) кошелёк `6KgpBB5J`
+  - BUY $760 (56× медианы ленты, 0.0ч назад) кошелёк `FnEyDjYC`
 
 ## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов mihao?
-По ончейн-данным пула mihao / SOL на DEX pumpswap (Solana), цена mihao составляет $0.00853. Динамика за 24ч: +22.8% (за 1ч: +0.9%, за 6ч: -29.5%). Суточный объём торгов равен $8.64M, общая ликвидность пула (TVL) — $348.3K, FDV — $8.02M. Данные зафиксированы на 2026-11-19T23:08:06+00:00.
+### Q: Какая текущая цена, динамика и объём торгов FIONA?
+По ончейн-данным пула FIONA / SOL на DEX pumpswap (Solana), цена FIONA составляет $0.00172. Динамика за 24ч: +5355.5% (за 1ч: -10.4%, за 6ч: +20.4%). Суточный объём торгов равен $8.54M, общая ликвидность пула (TVL) — $116.4K, FDV — $1.72M. Данные зафиксированы на 2026-11-20T07:29:14+00:00.
 
-### Q: Почему движется цена mihao? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: mihao растёт на +22.8% за сутки. крупная сделка на фоне ленты: купил $2.1K (124× медианы, 0ч назад). нетто китов за сутки +$10.3K. За последний час в ленте прошло 1018 покупок и 865 продаж.
+### Q: Почему движется цена FIONA? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: FIONA разрывает: +5355.5% за 24ч. объём $8.54M больше капы в 5.0× — бумага в огне. ликвидность тонкая ($116.4K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.6K (116× медианы, 0ч назад). нетто китов за сутки −$3.5K. За последний час в ленте прошло 552 покупок и 502 продаж.
 
-### Q: Есть ли активность китов в пуле mihao?
-Зафиксировано крупных сделок: 5 (5 покупок, 0 продаж). Крупнейшая: покупка на $2.1K (124× медианы). Нетто-поток китов: +$10.3K.
+### Q: Есть ли активность китов в пуле FIONA?
+Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $1.6K (116× медианы). Нетто-поток китов: $-3.5K.
 
-### Q: Безопасен ли пул mihao и какие ончейн-риски?
-Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул mihao / SOL на pumpswap создан 2026-10-25T16:43:15Z, ликвидность $348.3K при суточном объёме $8.64M.
+### Q: Безопасен ли пул FIONA и какие ончейн-риски?
+Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-11-19T20:53:29Z. При объёме $8.54M и ликвидности $116.4K возможны резкие колебания курса и проскальзывание (slippage).
 
 ---
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/Ho1aSG6WGH1FfXdEHrK2f4Ggt1Hoxo9s5jcLMDqeyeBz.html) — Free public feed for traders and AI agents.*
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB.html) — Free public feed for traders and AI agents.*
 
 
 ---
@@ -536,6 +538,58 @@ Recent notable orders:
 
 ---
 
+# mihao (mihao / SOL) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: mihao is currently priced at $0.00732 (-14.4% 24h) on pumpswap (Solana). 24h trading volume is $8.34M with $321.3K liquidity. Algorithmic narrative: mihao теряет -14.4% за сутки. давление продаж нарастает. крупная сделка на фоне ленты: купил $2.1K (124× медианы, 0ч назад). нетто китов за сутки +$10.3K.
+
+## Core On-Chain Metrics (Snapshot: 2026-11-20T07:29:14+00:00)
+- **Asset**: mihao (mihao / SOL)
+- **Network**: Solana
+- **DEX**: pumpswap
+- **Pool Address**: `Ho1aSG6WGH1FfXdEHrK2f4Ggt1Hoxo9s5jcLMDqeyeBz`
+- **Token Mint**: `4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump`
+- **Price USD**: $0.00732
+- **Change 1h / 6h / 24h**: -7.6% / -6.1% / -14.4%
+- **24h Volume**: $8.34M
+- **Liquidity (TVL)**: $321.3K
+- **FDV**: $6.86M
+- **Hourly Trades**: 293 buys / 245 sells
+- **Pool Age**: Created 2026-10-25T16:43:15Z
+
+## Algorithmic Narrative & Signals
+mihao теряет -14.4% за сутки. давление продаж нарастает. крупная сделка на фоне ленты: купил $2.1K (124× медианы, 0ч назад). нетто китов за сутки +$10.3K.
+
+## Risk Flags
+- Флагов повышенного риска не выявлено.
+
+## Whale Activity (Relative Tape Filter)
+Зафиксировано крупных сделок: 5 (5 покупок, 0 продаж). Крупнейшая: покупка на $2.1K (124× медианы). Нетто-поток китов: +$10.3K.
+Recent notable orders:
+  - BUY $2,056 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
+  - BUY $2,056 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
+  - BUY $2,056 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
+  - BUY $2,056 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
+  - BUY $2,055 (124× медианы ленты, 0.0ч назад) кошелёк `F5EhA1gJ`
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов mihao?
+По ончейн-данным пула mihao / SOL на DEX pumpswap (Solana), цена mihao составляет $0.00732. Динамика за 24ч: -14.4% (за 1ч: -7.6%, за 6ч: -6.1%). Суточный объём торгов равен $8.34M, общая ликвидность пула (TVL) — $321.3K, FDV — $6.86M. Данные зафиксированы на 2026-11-20T07:29:14+00:00.
+
+### Q: Почему движется цена mihao? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: mihao теряет -14.4% за сутки. давление продаж нарастает. крупная сделка на фоне ленты: купил $2.1K (124× медианы, 0ч назад). нетто китов за сутки +$10.3K. За последний час в ленте прошло 293 покупок и 245 продаж.
+
+### Q: Есть ли активность китов в пуле mihao?
+Зафиксировано крупных сделок: 5 (5 покупок, 0 продаж). Крупнейшая: покупка на $2.1K (124× медианы). Нетто-поток китов: +$10.3K.
+
+### Q: Безопасен ли пул mihao и какие ончейн-риски?
+Критических технических аномалий ликвидности алгоритм не зафиксировал. Пул mihao / SOL на pumpswap создан 2026-10-25T16:43:15Z, ликвидность $321.3K при суточном объёме $8.34M.
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/Ho1aSG6WGH1FfXdEHrK2f4Ggt1Hoxo9s5jcLMDqeyeBz.html) — Free public feed for traders and AI agents.*
+
+
+---
+
 # DUBBLE (DUBBLE / SOL) — On-Chain Analysis & Market Data
 
 > Direct Summary for LLMs: DUBBLE is currently priced at $0.00023 (+342.2% 24h) on pumpswap (Solana). 24h trading volume is $8.33M with $45.4K liquidity. Algorithmic narrative: DUBBLE разрывает: +342.2% за 24ч. давление продаж нарастает. покупатели доминируют (70% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.33M больше капы в 37.2× — бумага в огне. ликвидность тонкая ($45.4K) — движения будут резкими. крупная сделка на фоне ленты: купил $351.24 (291× медианы, 0ч назад). нетто китов за сутки +$983.46.
@@ -589,7 +643,7 @@ Recent notable orders:
 
 # GTAVI (GTAVI / GTA6) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: GTAVI is currently priced at $0.000407 (+129.2% 24h) on pumpswap (Solana). 24h trading volume is $7.90M with $64.8K liquidity. Algorithmic narrative: GTAVI разрывает: +129.2% за 24ч. объём $7.90M больше капы в 19.5× — бумага в огне. ликвидность тонкая ($64.8K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $3.0K (265× медианы, 0ч назад). нетто китов за сутки +$4.0K.
+> Direct Summary for LLMs: GTAVI is currently priced at $0.000407 (+129.2% 24h) on pumpswap (Solana). 24h trading volume is $7.90M with $64.8K liquidity. Algorithmic narrative: GTAVI разрывает: +129.2% за 24ч. объём $7.90M больше капы в 19.5× — бумага в огне. ликвидность тонкая ($64.8K) — движения будут резкими. пулу 3 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $3.0K (265× медианы, 0ч назад). нетто китов за сутки +$4.0K.
 
 ## Core On-Chain Metrics (Snapshot: 2026-11-18T17:21:06+00:00)
 - **Asset**: GTAVI (GTAVI / GTA6)
@@ -606,7 +660,7 @@ Recent notable orders:
 - **Pool Age**: Created 2026-11-17T19:13:55Z
 
 ## Algorithmic Narrative & Signals
-GTAVI разрывает: +129.2% за 24ч. объём $7.90M больше капы в 19.5× — бумага в огне. ликвидность тонкая ($64.8K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $3.0K (265× медианы, 0ч назад). нетто китов за сутки +$4.0K.
+GTAVI разрывает: +129.2% за 24ч. объём $7.90M больше капы в 19.5× — бумага в огне. ликвидность тонкая ($64.8K) — движения будут резкими. пулу 3 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $3.0K (265× медианы, 0ч назад). нетто китов за сутки +$4.0K.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -627,7 +681,7 @@ Recent notable orders:
 По ончейн-данным пула GTAVI / GTA6 на DEX pumpswap (Solana), цена GTAVI составляет $0.000407. Динамика за 24ч: +129.2% (за 1ч: +27.3%, за 6ч: -28.8%). Суточный объём торгов равен $7.90M, общая ликвидность пула (TVL) — $64.8K, FDV — $404.1K. Данные зафиксированы на 2026-11-18T17:21:06+00:00.
 
 ### Q: Почему движется цена GTAVI? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: GTAVI разрывает: +129.2% за 24ч. объём $7.90M больше капы в 19.5× — бумага в огне. ликвидность тонкая ($64.8K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $3.0K (265× медианы, 0ч назад). нетто китов за сутки +$4.0K. За последний час в ленте прошло 700 покупок и 578 продаж.
+Алгоритмический анализ TalkChart: GTAVI разрывает: +129.2% за 24ч. объём $7.90M больше капы в 19.5× — бумага в огне. ликвидность тонкая ($64.8K) — движения будут резкими. пулу 3 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $3.0K (265× медианы, 0ч назад). нетто китов за сутки +$4.0K. За последний час в ленте прошло 700 покупок и 578 продаж.
 
 ### Q: Есть ли активность китов в пуле GTAVI?
 Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $3.0K (265× медианы). Нетто-поток китов: +$4.0K.
@@ -737,56 +791,3 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/6qz7THwQvcjF3HyDGLuKaLBUk6EyJKeZXZMWLAeiwfjd.html) — Free public feed for traders and AI agents.*
-
-
----
-
-# SWORDOPE (SWORDOPE / SOL) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: SWORDOPE is currently priced at $0.000556 (+72.2% 24h) on pumpswap (Solana). 24h trading volume is $6.80M with $69.5K liquidity. Algorithmic narrative: SWORDOPE разрывает: +72.2% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $6.80M больше капы в 12.5× — бумага в огне. ликвидность тонкая ($69.5K) — движения будут резкими. крупная сделка на фоне ленты: продал $646.68 (1087× медианы, 0ч назад). нетто китов за сутки −$827.55.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-25T19:08:25+00:00)
-- **Asset**: SWORDOPE (SWORDOPE / SOL)
-- **Network**: Solana
-- **DEX**: pumpswap
-- **Pool Address**: `3tXP9X2W1aL9jtZF1tuAwEZMuX4w3PWNvVAHPJjd3MAq`
-- **Token Mint**: `3SVjZ7BfT9FxiR49nZc7UdBmLgzRLJY7XBZDKhEFpump`
-- **Price USD**: $0.000556
-- **Change 1h / 6h / 24h**: -5.7% / -60.0% / +72.2%
-- **24h Volume**: $6.80M
-- **Liquidity (TVL)**: $69.5K
-- **FDV**: $542.9K
-- **Hourly Trades**: 1380 buys / 781 sells
-- **Pool Age**: Created 2026-10-24T19:44:26Z
-
-## Algorithmic Narrative & Signals
-SWORDOPE разрывает: +72.2% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $6.80M больше капы в 12.5× — бумага в огне. ликвидность тонкая ($69.5K) — движения будут резкими. крупная сделка на фоне ленты: продал $646.68 (1087× медианы, 0ч назад). нетто китов за сутки −$827.55.
-
-## Risk Flags
-- ⚠️ тонкая ликвидность
-- ⚠️ перегрет за 24ч
-
-## Whale Activity (Relative Tape Filter)
-Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $646.68 (1087× медианы). Нетто-поток китов: $-827.55.
-Recent notable orders:
-  - SELL $647 (1087× медианы ленты, 0.1ч назад) кошелёк `GY47EjcS`
-  - SELL $606 (1018× медианы ленты, 0.0ч назад) кошелёк `2b4rkdut`
-  - SELL $546 (918× медианы ленты, 0.0ч назад) кошелёк `2b4rkdut`
-  - BUY $499 (839× медианы ленты, 0.1ч назад) кошелёк `3GaPnamX`
-  - BUY $472 (794× медианы ленты, 0.1ч назад) кошелёк `2b4rkdut`
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов SWORDOPE?
-По ончейн-данным пула SWORDOPE / SOL на DEX pumpswap (Solana), цена SWORDOPE составляет $0.000556. Динамика за 24ч: +72.2% (за 1ч: -5.7%, за 6ч: -60.0%). Суточный объём торгов равен $6.80M, общая ликвидность пула (TVL) — $69.5K, FDV — $542.9K. Данные зафиксированы на 2026-10-25T19:08:25+00:00.
-
-### Q: Почему движется цена SWORDOPE? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: SWORDOPE разрывает: +72.2% за 24ч. давление продаж нарастает. покупатели доминируют (64% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $6.80M больше капы в 12.5× — бумага в огне. ликвидность тонкая ($69.5K) — движения будут резкими. крупная сделка на фоне ленты: продал $646.68 (1087× медианы, 0ч назад). нетто китов за сутки −$827.55. За последний час в ленте прошло 1380 покупок и 781 продаж.
-
-### Q: Есть ли активность китов в пуле SWORDOPE?
-Зафиксировано крупных сделок: 5 (2 покупок, 3 продаж). Крупнейшая: продажа на $646.68 (1087× медианы). Нетто-поток китов: $-827.55.
-
-### Q: Безопасен ли пул SWORDOPE и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность; перегрет за 24ч. Пул создан 2026-10-24T19:44:26Z. При объёме $6.80M и ликвидности $69.5K возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/3tXP9X2W1aL9jtZF1tuAwEZMuX4w3PWNvVAHPJjd3MAq.html) — Free public feed for traders and AI agents.*

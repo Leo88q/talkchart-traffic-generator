@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-19T23:08:21+00:00",
+ "generated_at": "2026-11-20T07:29:24+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-19/FIONA.mp4",
+   "file": "videos/2026-11-20/FIONA.mp4",
    "latest_file": "videos/latest/FIONA.mp4",
    "symbol": "FIONA",
-   "chg_h24": 4954.69
+   "chg_h24": 5355.489
   },
   {
-   "file": "videos/2026-11-19/CATMARIO.mp4",
+   "file": "videos/2026-11-20/OGTA.mp4",
+   "latest_file": "videos/latest/OGTA.mp4",
+   "symbol": "OGTA",
+   "chg_h24": 488.874
+  },
+  {
+   "file": "videos/2026-11-20/CATMARIO.mp4",
    "latest_file": "videos/latest/CATMARIO.mp4",
    "symbol": "CATMARIO",
-   "chg_h24": 227.667
-  },
-  {
-   "file": "videos/2026-11-19/GTA6.mp4",
-   "latest_file": "videos/latest/GTA6.mp4",
-   "symbol": "GTA6",
-   "chg_h24": -67.805
+   "chg_h24": 275.153
   }
  ]
 }

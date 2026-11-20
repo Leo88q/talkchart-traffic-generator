@@ -1,17 +1,17 @@
 {
-  "slug": "fiona-vs-catmario",
+  "slug": "fiona-vs-ogta",
   "token1": {
     "symbol": "FIONA",
-    "change_24h": 4954.69,
+    "change_24h": 5355.489,
     "address": "DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB",
-    "volume": 5116075.89435933
+    "volume": 8541169.26516984
   },
   "token2": {
-    "symbol": "CATMARIO",
-    "change_24h": 227.667,
-    "address": "E1Vu4cTTaPn56hrzdS2UjK1dXVCi5awmM13J2ZY6ksvY",
-    "volume": 4271599.00632909
+    "symbol": "OGTA",
+    "change_24h": 488.874,
+    "address": "2RDx58tnDMEmZcQy9qGAfwhq9iCRRMbDuAtruofrjyZU",
+    "volume": 2662682.55525941
   },
-  "verdict": "По ончейн-метрикам TalkChart: FIONA опережает по ценовому импульсу (+4954.7% против +227.7%). Кроме того, у FIONA существенно глубже пул ликвидности ($108.8K против $39.1K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: FIONA.",
-  "updated_at": "2026-11-19 23:08 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: FIONA опережает по ценовому импульсу (+5355.5% против +488.9%). Кроме того, у FIONA существенно глубже пул ликвидности ($116.4K против $55.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: FIONA.",
+  "updated_at": "2026-11-20 07:29 UTC"
 }
