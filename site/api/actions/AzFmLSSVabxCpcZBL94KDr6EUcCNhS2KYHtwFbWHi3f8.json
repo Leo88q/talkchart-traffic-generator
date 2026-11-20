@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ANT_-15.png",
+  "title": "TalkChart: ANT (-15.3%) — Solana On-Chain Radar",
+  "description": "ANT теряет -15.3% за сутки. пулу 1 дн. — чистая рулетка.\n\nОбъём: $16.87M · Ликвидность: $1.49M",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ANT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-ANTBTZQ1EUuTxUs3tfeampxdqTWPHmwyJmcWj4xoAyNe"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AzFmLSSVabxCpcZBL94KDr6EUcCNhS2KYHtwFbWHi3f8"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

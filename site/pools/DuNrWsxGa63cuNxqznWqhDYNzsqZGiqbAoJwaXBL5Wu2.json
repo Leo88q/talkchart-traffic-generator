@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "DuNrWsxGa63cuNxqznWqhDYNzsqZGiqbAoJwaXBL5Wu2",
+    "name": "AI / AAPLx",
+    "base_symbol": "AI",
+    "base_name": "AI",
+    "base_address": "8SacNb6sgiAcscRe4m915B6nL9XX55dk8FS7L532pump",
+    "dex": "pumpswap",
+    "price_usd": 0.00010789451552792454,
+    "created_at": "2026-11-19T22:08:04Z",
+    "fdv_usd": 104331.794484555,
+    "reserve_usd": 30572.9176,
+    "volume_h24": 2509706.38470272,
+    "change": {
+      "h1": -11.42,
+      "h6": 7.981,
+      "h24": 177.453
+    },
+    "tx_h1": {
+      "buys": 238,
+      "sells": 347
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 968.6,
+        "mult": 194.0,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "FHpcNSe6"
+      },
+      {
+        "kind": "sell",
+        "usd": 489.85,
+        "mult": 98.1,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "ErJtn3KL"
+      },
+      {
+        "kind": "buy",
+        "usd": 479.61,
+        "mult": 96.1,
+        "whale": false,
+        "hours_ago": 0.4,
+        "addr8": "2YjSZCzm"
+      },
+      {
+        "kind": "buy",
+        "usd": 477.06,
+        "mult": 95.6,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "2m2smGws"
+      },
+      {
+        "kind": "buy",
+        "usd": 432.89,
+        "mult": 86.7,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "F7p3dFrj"
+      }
+    ],
+    "first_seen": "2026-11-20T17:03:02+00:00",
+    "last_seen": "2026-11-20T17:03:02+00:00"
+  },
+  "narrative": "AI разрывает: +177.5% за 24ч. объём $2.51M больше капы в 24.1× — бумага в огне. ликвидность тонкая ($30.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $968.60 (194× медианы, 1ч назад). нетто китов за сутки −$68.89.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $968.60 (194× медианы). Нетто-поток китов: $-68.89.",
+  "updated_at": "2026-11-20T17:03:03Z"
+}

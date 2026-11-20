@@ -12,17 +12,17 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-11-20T07:29:14Z)
-- [TTWO](https://leo88q.github.io/content-/site/pools/7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT.md): TTWO / SOL on meteora — -6.4% 24h, Vol $47.38M, Liq $675.8K
-- [DCTY](https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.md): DCTY / TTWO on pumpswap — -64.6% 24h, Vol $26.31M, Liq $278.4K
-- [DCTY](https://leo88q.github.io/content-/site/pools/3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw.md): DCTY / SOL on meteora — -65.7% 24h, Vol $21.92M, Liq $113.5K
+## Top Monitored Solana Tokens (Snapshot: 2026-11-20T17:03:03Z)
+- [TTWO](https://leo88q.github.io/content-/site/pools/7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT.md): TTWO / SOL on meteora — -2.3% 24h, Vol $27.21M, Liq $563.6K
+- [ANT](https://leo88q.github.io/content-/site/pools/AzFmLSSVabxCpcZBL94KDr6EUcCNhS2KYHtwFbWHi3f8.md): ANT / USDC on raydium-clmm — -15.3% 24h, Vol $16.87M, Liq $1.49M
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — +4.2% 24h, Vol $14.56M, Liq $4.26M
+- [DCTY](https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.md): DCTY / TTWO on pumpswap — -86.7% 24h, Vol $13.31M, Liq $188.6K
+- [FIONA](https://leo88q.github.io/content-/site/pools/DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB.md): FIONA / SOL on pumpswap — +6047.4% 24h, Vol $11.44M, Liq $125.5K
+- [DCTY](https://leo88q.github.io/content-/site/pools/3gUa73kgEfZW6zj97uShGaCd4GAPjc7kd61aKkcCMqpw.md): DCTY / SOL on meteora — -86.6% 24h, Vol $10.52M, Liq $68.6K
 - [GTA6](https://leo88q.github.io/content-/site/pools/Hb5RbkVssdJictskVjn9c2p16BsCesdHX4JdSWbFjG7a.md): GTA6 / SOL on raydium-clmm — +3.1% 24h, Vol $9.90M, Liq $71.3K
 - [uni](https://leo88q.github.io/content-/site/pools/3UydvHKHxDm77yPPDsKsvd73Kt8uQ48N4PNjuWN42HDJ.md): uni / SOL on pumpswap — -66.9% 24h, Vol $8.71M, Liq $238.5K
-- [FIONA](https://leo88q.github.io/content-/site/pools/DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB.md): FIONA / SOL on pumpswap — +5355.5% 24h, Vol $8.54M, Liq $116.4K
 - [ODIE](https://leo88q.github.io/content-/site/pools/DNm2wASF4PP9XivPucrwm3CV9AnAsuugEgANqUDtLgs.md): ODIE / SOL on pumpswap — +579.8% 24h, Vol $8.46M, Liq $79.8K
 - [TTWO](https://leo88q.github.io/content-/site/pools/6PTm7MkUmtsLU7w6dWrMHJAt8PnzoCgcZdKyTKEhUAPL.md): TTWO / USDC on raydium-clmm — +4.2% 24h, Vol $8.44M, Liq $463.1K
-- [Something](https://leo88q.github.io/content-/site/pools/FAHXgxDGMw5sfFW77SCHBcT9qiQ2ArrPzo98xJxMf9kk.md): Something / SOL on pumpswap — -73.5% 24h, Vol $8.37M, Liq $28.0K
 
 ## Data Interpretation Rules for AI Agents
 1. All USD values are normalized from DEX swap amounts.
