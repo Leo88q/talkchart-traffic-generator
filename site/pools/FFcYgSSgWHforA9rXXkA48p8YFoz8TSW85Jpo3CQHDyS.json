@@ -1,0 +1,74 @@
+{
+  "pool": {
+    "address": "FFcYgSSgWHforA9rXXkA48p8YFoz8TSW85Jpo3CQHDyS",
+    "name": "Buttcoin / SOL",
+    "base_symbol": "Buttcoin",
+    "base_name": "Buttcoin",
+    "base_address": "Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump",
+    "dex": "pumpswap",
+    "price_usd": 0.006871095086193173,
+    "created_at": "2026-01-09T13:36:08Z",
+    "fdv_usd": 6869270.34764768,
+    "reserve_usd": 544616.6953,
+    "volume_h24": 1509429.25571441,
+    "change": {
+      "h1": 4.488,
+      "h6": 6.185,
+      "h24": 39.957
+    },
+    "tx_h1": {
+      "buys": 109,
+      "sells": 203
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 2754.15,
+        "mult": 638.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "6vNFur28"
+      },
+      {
+        "kind": "buy",
+        "usd": 2040.0,
+        "mult": 472.6,
+        "whale": false,
+        "hours_ago": 0.7,
+        "addr8": "5QQ5Xi9i"
+      },
+      {
+        "kind": "buy",
+        "usd": 1436.28,
+        "mult": 332.8,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "HZBmjtgG"
+      },
+      {
+        "kind": "buy",
+        "usd": 1291.26,
+        "mult": 299.2,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "9omRg1hQ"
+      },
+      {
+        "kind": "sell",
+        "usd": 1286.49,
+        "mult": 298.0,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "64nrXYFw"
+      }
+    ],
+    "first_seen": "2026-11-21T12:47:01+00:00",
+    "last_seen": "2026-11-21T12:47:01+00:00"
+  },
+  "narrative": "Buttcoin разрывает: +40.0% за 24ч. ускорение в последнем часе. продают в рынок (65% сделок за час). суточный памп остывает. крупная сделка на фоне ленты: продал $2.8K (638× медианы, 0ч назад). нетто китов за сутки +$726.90.",
+  "flags": [
+    "давление продаж"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: продажа на $2.8K (638× медианы). Нетто-поток китов: +$726.90.",
+  "updated_at": "2026-11-21T12:47:01Z"
+}

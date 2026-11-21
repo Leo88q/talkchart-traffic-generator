@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Rings_+187.png",
+  "title": "TalkChart: Rings (+186.9%) — Solana On-Chain Radar",
+  "description": "Rings разрывает: +186.9% за 24ч. ликвидность тонкая ($144.5K) — движения будут резкими. пулу 11 дн., история короткая.\n\nОбъём: $809.8K · Ликвидность: $144.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Rings (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8fSUYVnTy4r5fZUksjzKexLq2Tx96K3UPdYRvW5XWJ9t"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

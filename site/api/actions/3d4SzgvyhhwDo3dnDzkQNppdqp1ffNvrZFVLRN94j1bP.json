@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/jingyu_+24.png",
+  "title": "TalkChart: jingyu (+23.9%) — Solana On-Chain Radar",
+  "description": "jingyu растёт на +23.9% за сутки. покупатели доминируют (74% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $654.8K больше капы в 7.4× — бумага в огне. ликвидность тонкая ($22.8K) — движения будут резкими. пулу 2 дн. — чистая рулетка.\n\nОбъём: $654.8K · Ликвидность: $22.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп jingyu (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-DUZrwdjEthcJ99ZiRXr31UuqTohoTg7VjTEyfGdBpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3d4SzgvyhhwDo3dnDzkQNppdqp1ffNvrZFVLRN94j1bP"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

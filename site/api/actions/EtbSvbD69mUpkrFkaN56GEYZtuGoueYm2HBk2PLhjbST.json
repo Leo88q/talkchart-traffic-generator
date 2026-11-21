@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ber_+42.png",
+  "title": "TalkChart: ber (+41.7%) — Solana On-Chain Radar",
+  "description": "ber разрывает: +41.7% за 24ч. ликвидность тонкая ($47.8K) — движения будут резкими.\n\nОбъём: $258.6K · Ликвидность: $47.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ber (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-CqpUBhhSxHsXbq6AGPKnbxDpWgECUXAVy3BCrwhGpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=EtbSvbD69mUpkrFkaN56GEYZtuGoueYm2HBk2PLhjbST"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

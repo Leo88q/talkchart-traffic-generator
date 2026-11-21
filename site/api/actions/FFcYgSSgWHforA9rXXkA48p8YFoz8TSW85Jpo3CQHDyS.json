@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Buttcoin_+40.png",
+  "title": "TalkChart: Buttcoin (+40.0%) — Solana On-Chain Radar",
+  "description": "Buttcoin разрывает: +40.0% за 24ч. ускорение в последнем часе. продают в рынок (65% сделок за час). суточный памп остывает. крупная сделка на фоне ленты: продал $2.8K (638× медианы, 0ч назад). нетто китов за сутки +$726.90.\n\nОбъём: $1.51M · Ликвидность: $544.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Buttcoin (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Cm6fNnMk7NfzStP9CZpsQA2v3jjzbcYGAxdJySmHpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=FFcYgSSgWHforA9rXXkA48p8YFoz8TSW85Jpo3CQHDyS"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

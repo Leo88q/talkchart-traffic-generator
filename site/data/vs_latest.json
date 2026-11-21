@@ -1,17 +1,17 @@
 {
-  "slug": "singularity-vs-patrick",
+  "slug": "singularity-vs-rings",
   "token1": {
     "symbol": "Singularity",
-    "change_24h": 459.679,
+    "change_24h": 289.718,
     "address": "58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV",
-    "volume": 1307928.84306169
+    "volume": 1533423.59924881
   },
   "token2": {
-    "symbol": "PATRICK",
-    "change_24h": 418.854,
-    "address": "BCgR8mwLDXeg9Sh9HWGzk9kMbuVN6bQ3TjUnUgfbZ6Bz",
-    "volume": 3955251.98534046
+    "symbol": "Rings",
+    "change_24h": 186.915,
+    "address": "8fSUYVnTy4r5fZUksjzKexLq2Tx96K3UPdYRvW5XWJ9t",
+    "volume": 809769.098813373
   },
-  "verdict": "По ончейн-метрикам TalkChart: Singularity опережает по ценовому импульсу (+459.7% против +418.9%). Краткосрочный фаворит по совокупности факторов: Singularity.",
-  "updated_at": "2026-11-21 01:37 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Singularity опережает по ценовому импульсу (+289.7% против +186.9%). Кроме того, у Rings более надёжная ликвидность ($144.5K против $24.0K). Кроме того, у Singularity объём превышает ликвидность в 63.9× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: Rings.",
+  "updated_at": "2026-11-21 12:47 UTC"
 }
