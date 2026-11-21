@@ -1,17 +1,17 @@
 {
-  "slug": "singularity-vs-rings",
+  "slug": "greg-vs-maya",
   "token1": {
-    "symbol": "Singularity",
-    "change_24h": 289.718,
-    "address": "58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV",
-    "volume": 1533423.59924881
+    "symbol": "greg",
+    "change_24h": 384.551,
+    "address": "4s8CAbVgaDHoPkkbitjdQZ4TfqXKuczHWdfy8HLVUbdQ",
+    "volume": 1062119.28765034
   },
   "token2": {
-    "symbol": "Rings",
-    "change_24h": 186.915,
-    "address": "8fSUYVnTy4r5fZUksjzKexLq2Tx96K3UPdYRvW5XWJ9t",
-    "volume": 809769.098813373
+    "symbol": "MAYA",
+    "change_24h": 320.797,
+    "address": "51edMriYsoN7MWtgQxAYsoG4z9nnVhVUUpbuyY1EPCbo",
+    "volume": 1953743.04816068
   },
-  "verdict": "По ончейн-метрикам TalkChart: Singularity опережает по ценовому импульсу (+289.7% против +186.9%). Кроме того, у Rings более надёжная ликвидность ($144.5K против $24.0K). Кроме того, у Singularity объём превышает ликвидность в 63.9× — признак экстремального хайпа и волатильности. Краткосрочный фаворит по совокупности факторов: Rings.",
-  "updated_at": "2026-11-21 12:47 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: greg опережает по ценовому импульсу (+384.6% против +320.8%). Краткосрочный фаворит по совокупности факторов: greg.",
+  "updated_at": "2026-11-21 21:44 UTC"
 }

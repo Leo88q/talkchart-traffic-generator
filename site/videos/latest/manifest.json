@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-21T12:47:13+00:00",
+ "generated_at": "2026-11-21T21:44:24+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-21/Singularity.mp4",
-   "latest_file": "videos/latest/Singularity.mp4",
-   "symbol": "Singularity",
-   "chg_h24": 289.718
+   "file": "videos/2026-11-21/greg.mp4",
+   "latest_file": "videos/latest/greg.mp4",
+   "symbol": "greg",
+   "chg_h24": 384.551
+  },
+  {
+   "file": "videos/2026-11-21/MAYA.mp4",
+   "latest_file": "videos/latest/MAYA.mp4",
+   "symbol": "MAYA",
+   "chg_h24": 320.797
   },
   {
    "file": "videos/2026-11-21/Rings.mp4",
    "latest_file": "videos/latest/Rings.mp4",
    "symbol": "Rings",
-   "chg_h24": 186.915
-  },
-  {
-   "file": "videos/2026-11-21/FLOAT.mp4",
-   "latest_file": "videos/latest/FLOAT.mp4",
-   "symbol": "FLOAT",
-   "chg_h24": 90.794
+   "chg_h24": 218.412
   }
  ]
 }

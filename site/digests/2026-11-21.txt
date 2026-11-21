@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-21
-1. Singularity +289.7% — Singularity разрывает: +289.7% за 24ч. объём $1.53M больше капы в 15.0× — бумага в огне
-2. Rings +186.9% — Rings разрывает: +186.9% за 24ч. ликвидность тонкая ($144.5K) — движения будут резкими
-3. FLOAT +90.8% — FLOAT разрывает: +90.8% за 24ч.
-4. FIONA -54.7% — FIONA в обвале: -54.7% за 24ч. давление продаж нарастает
-5. ber +41.7% — ber разрывает: +41.7% за 24ч. ликвидность тонкая ($47.8K) — движения будут резкими.
+1. greg +384.6% — greg разрывает: +384.6% за 24ч. покупатели доминируют (63% сделок за час)
+2. MAYA +320.8% — MAYA разрывает: +320.8% за 24ч. давление продаж нарастает
+3. Rings +218.4% — Rings разрывает: +218.4% за 24ч. ускорение в последнем часе
+4. CLAUDIA +81.2% — CLAUDIA разрывает: +81.2% за 24ч. крупная сделка на фоне ленты: купил $4.4K (488× медианы, 0ч назад)
+5. DCTY +61.8% — DCTY разрывает: +61.8% за 24ч. ликвидность тонкая ($241.4K) — движения будут резкими
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/4s8CAbVgaDHoPkkbitjdQZ4TfqXKuczHWdfy8HLVUbdQ.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
