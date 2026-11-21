@@ -1,17 +1,17 @@
 {
-  "slug": "fiona-vs-loosy",
+  "slug": "singularity-vs-patrick",
   "token1": {
-    "symbol": "FIONA",
-    "change_24h": 6047.406,
-    "address": "DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB",
-    "volume": 11435152.5916476
+    "symbol": "Singularity",
+    "change_24h": 459.679,
+    "address": "58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV",
+    "volume": 1307928.84306169
   },
   "token2": {
-    "symbol": "LOOSY",
-    "change_24h": 884.4,
-    "address": "Bfiq9eaLcMjpEKcgm16GSzzGdedCpcFhRAFvivRP4QkY",
-    "volume": 1987856.30811971
+    "symbol": "PATRICK",
+    "change_24h": 418.854,
+    "address": "BCgR8mwLDXeg9Sh9HWGzk9kMbuVN6bQ3TjUnUgfbZ6Bz",
+    "volume": 3955251.98534046
   },
-  "verdict": "По ончейн-метрикам TalkChart: FIONA опережает по ценовому импульсу (+6047.4% против +884.4%). Краткосрочный фаворит по совокупности факторов: FIONA.",
-  "updated_at": "2026-11-20 17:03 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Singularity опережает по ценовому импульсу (+459.7% против +418.9%). Краткосрочный фаворит по совокупности факторов: Singularity.",
+  "updated_at": "2026-11-21 01:37 UTC"
 }

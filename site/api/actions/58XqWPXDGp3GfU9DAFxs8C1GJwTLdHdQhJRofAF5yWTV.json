@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Singularity_+460.png",
+  "title": "TalkChart: Singularity (+459.7%) — Solana On-Chain Radar",
+  "description": "Singularity разрывает: +459.7% за 24ч. объём $1.31M больше капы в 8.9× — бумага в огне. ликвидность тонкая ($28.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.31M · Ликвидность: $28.0K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Singularity (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
