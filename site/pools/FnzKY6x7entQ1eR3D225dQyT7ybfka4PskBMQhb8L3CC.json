@@ -6,19 +6,19 @@
     "base_name": "ANSEM",
     "base_address": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
     "dex": "pumpswap",
-    "price_usd": 0.0378057551346864,
+    "price_usd": 0.03987365409883767,
     "created_at": "2026-06-16T21:05:48Z",
-    "fdv_usd": 37537456.4853988,
-    "reserve_usd": 1027052.7112,
-    "volume_h24": 526898.032276442,
+    "fdv_usd": 39768109.6906451,
+    "reserve_usd": 1047462.8125,
+    "volume_h24": 784468.298501492,
     "change": {
-      "h1": 0.618,
-      "h6": 13.641,
-      "h24": 15.605
+      "h1": -0.89,
+      "h6": 4.775,
+      "h24": 23.617
     },
     "tx_h1": {
-      "buys": 75,
-      "sells": 52
+      "buys": 306,
+      "sells": 310
     },
     "ohlcv_h1": [
       [
@@ -407,10 +407,52 @@
       ]
     ],
     "first_seen": "2026-09-21T11:24:28+00:00",
-    "last_seen": "2026-11-21T21:44:11+00:00"
+    "last_seen": "2026-11-22T07:00:52+00:00",
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 1323.58,
+        "mult": 277.9,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "BsaUJuj7"
+      },
+      {
+        "kind": "sell",
+        "usd": 920.69,
+        "mult": 193.3,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "CQw2BBd1"
+      },
+      {
+        "kind": "buy",
+        "usd": 561.43,
+        "mult": 117.9,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "3DYJaLDL"
+      },
+      {
+        "kind": "buy",
+        "usd": 389.11,
+        "mult": 81.7,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "3cyx3hRo"
+      },
+      {
+        "kind": "sell",
+        "usd": 384.37,
+        "mult": 80.7,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "CaaEoz18"
+      }
+    ]
   },
-  "narrative": "ANSEM растёт на +15.6% за сутки.",
+  "narrative": "ANSEM растёт на +23.6% за сутки. крупная сделка на фоне ленты: купил $1.3K (278× медианы, 0ч назад). нетто китов за сутки +$969.06.",
   "flags": [],
-  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
-  "updated_at": "2026-11-21T21:44:12Z"
+  "whale_summary": "Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $1.3K (278× медианы). Нетто-поток китов: +$969.06.",
+  "updated_at": "2026-11-22T07:00:52Z"
 }

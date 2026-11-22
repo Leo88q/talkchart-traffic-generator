@@ -1,17 +1,17 @@
 {
-  "slug": "greg-vs-maya",
+  "slug": "singularity-vs-xv",
   "token1": {
-    "symbol": "greg",
-    "change_24h": 384.551,
-    "address": "4s8CAbVgaDHoPkkbitjdQZ4TfqXKuczHWdfy8HLVUbdQ",
-    "volume": 1062119.28765034
+    "symbol": "Singularity",
+    "change_24h": 253.758,
+    "address": "58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV",
+    "volume": 2734271.59500318
   },
   "token2": {
-    "symbol": "MAYA",
-    "change_24h": 320.797,
-    "address": "51edMriYsoN7MWtgQxAYsoG4z9nnVhVUUpbuyY1EPCbo",
-    "volume": 1953743.04816068
+    "symbol": "XV",
+    "change_24h": 100.611,
+    "address": "5bS5kJJZtThFbMiLDeM8SX2LT6ZkNTcHXDCY6CcGjD9N",
+    "volume": 1444076.91937689
   },
-  "verdict": "По ончейн-метрикам TalkChart: greg опережает по ценовому импульсу (+384.6% против +320.8%). Краткосрочный фаворит по совокупности факторов: greg.",
-  "updated_at": "2026-11-21 21:44 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Singularity опережает по ценовому импульсу (+253.8% против +100.6%). Кроме того, у Singularity существенно глубже пул ликвидности ($58.9K против $26.9K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Singularity.",
+  "updated_at": "2026-11-22 07:01 UTC"
 }

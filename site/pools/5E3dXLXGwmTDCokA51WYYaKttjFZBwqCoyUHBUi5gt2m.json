@@ -6,19 +6,19 @@
     "base_name": "GATO",
     "base_address": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
     "dex": "pumpswap",
-    "price_usd": 0.0024851647650367724,
+    "price_usd": 0.0024308814464632134,
     "created_at": "2026-08-25T12:27:21Z",
-    "fdv_usd": 2458405.961465,
-    "reserve_usd": 169315.2727,
-    "volume_h24": 388109.022344293,
+    "fdv_usd": 2407539.63557269,
+    "reserve_usd": 166962.697,
+    "volume_h24": 268554.259413739,
     "change": {
-      "h1": 6.078,
-      "h6": -15.677,
-      "h24": -21.372
+      "h1": 1.855,
+      "h6": 7.581,
+      "h24": -29.372
     },
     "tx_h1": {
-      "buys": 69,
-      "sells": 71
+      "buys": 29,
+      "sells": 34
     },
     "ohlcv_h1": [
       [
@@ -407,54 +407,54 @@
       ]
     ],
     "first_seen": "2026-10-22T20:13:07+00:00",
-    "last_seen": "2026-11-21T21:44:11+00:00",
+    "last_seen": "2026-11-22T07:00:52+00:00",
     "whales": [
       {
         "kind": "buy",
-        "usd": 1939.59,
-        "mult": 226.3,
+        "usd": 920.71,
+        "mult": 79.1,
         "whale": false,
-        "hours_ago": 0.3,
-        "addr8": "C6AvBrLg"
+        "hours_ago": 0.7,
+        "addr8": "GG4dve8M"
       },
       {
         "kind": "sell",
-        "usd": 1429.68,
-        "mult": 166.8,
+        "usd": 752.48,
+        "mult": 64.6,
         "whale": false,
-        "hours_ago": 0.1,
-        "addr8": "5MamNRYS"
-      },
-      {
-        "kind": "buy",
-        "usd": 1330.63,
-        "mult": 155.2,
-        "whale": false,
-        "hours_ago": 0.0,
+        "hours_ago": 4.5,
         "addr8": "dmuXAmcX"
       },
       {
-        "kind": "buy",
-        "usd": 898.82,
-        "mult": 104.9,
+        "kind": "sell",
+        "usd": 685.8,
+        "mult": 58.9,
         "whale": false,
-        "hours_ago": 0.3,
-        "addr8": "EKKv8AcU"
+        "hours_ago": 4.0,
+        "addr8": "dmuXAmcX"
       },
       {
-        "kind": "buy",
-        "usd": 742.87,
-        "mult": 86.7,
+        "kind": "sell",
+        "usd": 491.09,
+        "mult": 42.2,
         "whale": false,
-        "hours_ago": 0.6,
-        "addr8": "98RngFeu"
+        "hours_ago": 3.2,
+        "addr8": "CWEnEL3k"
+      },
+      {
+        "kind": "sell",
+        "usd": 433.62,
+        "mult": 37.2,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "5Uc3Nfyj"
       }
     ]
   },
-  "narrative": "GATO теряет -21.4% за сутки. ликвидность тонкая ($169.3K) — движения будут резкими. крупная сделка на фоне ленты: купил $1.9K (226× медианы, 0ч назад). нетто китов за сутки +$3.5K.",
+  "narrative": "GATO в обвале: -29.4% за 24ч. ликвидность тонкая ($167.0K) — движения будут резкими. крупная сделка на фоне ленты: купил $920.71 (79× медианы, 1ч назад). нетто китов за сутки −$1.4K.",
   "flags": [
     "тонкая ликвидность"
   ],
-  "whale_summary": "Зафиксировано крупных сделок: 5 (4 покупок, 1 продаж). Крупнейшая: покупка на $1.9K (226× медианы). Нетто-поток китов: +$3.5K.",
-  "updated_at": "2026-11-21T21:44:12Z"
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: покупка на $920.71 (79× медианы). Нетто-поток китов: $-1.4K.",
+  "updated_at": "2026-11-22T07:00:52Z"
 }
