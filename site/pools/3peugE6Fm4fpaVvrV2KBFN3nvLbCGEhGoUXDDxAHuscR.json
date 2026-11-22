@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "3peugE6Fm4fpaVvrV2KBFN3nvLbCGEhGoUXDDxAHuscR",
+    "name": "SIDOOR / SOL",
+    "base_symbol": "SIDOOR",
+    "base_name": "SIDOOR",
+    "base_address": "zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor",
+    "dex": "meteora-damm-v2",
+    "price_usd": 0.00018928884764117537,
+    "created_at": "2026-11-21T20:46:30Z",
+    "fdv_usd": 189288.8476,
+    "reserve_usd": 32574.2656,
+    "volume_h24": 1299783.39283302,
+    "change": {
+      "h1": -1.658,
+      "h6": -16.524,
+      "h24": 469.496
+    },
+    "tx_h1": {
+      "buys": 172,
+      "sells": 117
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 770.62,
+        "mult": 92.7,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "EYZDnAdu"
+      },
+      {
+        "kind": "buy",
+        "usd": 534.74,
+        "mult": 64.3,
+        "whale": false,
+        "hours_ago": 0.7,
+        "addr8": "AbnoAE9K"
+      },
+      {
+        "kind": "sell",
+        "usd": 440.38,
+        "mult": 53.0,
+        "whale": false,
+        "hours_ago": 1.1,
+        "addr8": "GRJhh39q"
+      },
+      {
+        "kind": "sell",
+        "usd": 427.44,
+        "mult": 51.4,
+        "whale": false,
+        "hours_ago": 0.6,
+        "addr8": "3fEUR9aQ"
+      },
+      {
+        "kind": "sell",
+        "usd": 383.84,
+        "mult": 46.2,
+        "whale": false,
+        "hours_ago": 0.5,
+        "addr8": "3Ps5KnpG"
+      }
+    ],
+    "first_seen": "2026-11-22T16:23:13+00:00",
+    "last_seen": "2026-11-22T16:23:13+00:00"
+  },
+  "narrative": "SIDOOR разрывает: +469.5% за 24ч. объём $1.30M больше капы в 6.9× — бумага в огне. ликвидность тонкая ($32.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $770.62 (93× медианы, 0ч назад). нетто китов за сутки −$1.5K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $770.62 (93× медианы). Нетто-поток китов: $-1.5K.",
+  "updated_at": "2026-11-22T16:23:13Z"
+}

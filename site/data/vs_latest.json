@@ -1,17 +1,17 @@
 {
-  "slug": "singularity-vs-xv",
+  "slug": "snowball-vs-singularity",
   "token1": {
-    "symbol": "Singularity",
-    "change_24h": 253.758,
-    "address": "58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV",
-    "volume": 2734271.59500318
+    "symbol": "snowball",
+    "change_24h": 988.214,
+    "address": "2Snq2MMRBTUauieSqhDKjTTG7fWwaCoNrqJ3FuQCbRyp",
+    "volume": 2724160.99610073
   },
   "token2": {
-    "symbol": "XV",
-    "change_24h": 100.611,
-    "address": "5bS5kJJZtThFbMiLDeM8SX2LT6ZkNTcHXDCY6CcGjD9N",
-    "volume": 1444076.91937689
+    "symbol": "Singularity",
+    "change_24h": 732.25,
+    "address": "58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV",
+    "volume": 3494868.75695022
   },
-  "verdict": "По ончейн-метрикам TalkChart: Singularity опережает по ценовому импульсу (+253.8% против +100.6%). Кроме того, у Singularity существенно глубже пул ликвидности ($58.9K против $26.9K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Singularity.",
-  "updated_at": "2026-11-22 07:01 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: snowball опережает по ценовому импульсу (+988.2% против +732.2%). Кроме того, у Singularity более надёжная ликвидность ($90.5K против $42.0K). Краткосрочный фаворит по совокупности факторов: snowball.",
+  "updated_at": "2026-11-22 16:23 UTC"
 }
