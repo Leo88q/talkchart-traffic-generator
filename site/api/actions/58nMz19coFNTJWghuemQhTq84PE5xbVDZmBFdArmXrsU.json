@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/ZOL_+366.png",
+  "title": "TalkChart: ZOL (+366.1%) — Solana On-Chain Radar",
+  "description": "ZOL разрывает: +366.1% за 24ч. давление продаж нарастает. объём $878.1K больше капы в 11.8× — бумага в огне. ликвидность тонкая ($21.7K) — движения будут резкими. пулу 3 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $904.58 (55× медианы, 1ч назад). нетто китов за сутки −$413.67.\n\nОбъём: $878.1K · Ликвидность: $21.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп ZOL (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-UQLWvkwiSsnViuVBy7oArMtzb5RAZyrdJ79amQFrzoL"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=58nMz19coFNTJWghuemQhTq84PE5xbVDZmBFdArmXrsU"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

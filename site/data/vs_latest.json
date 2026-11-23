@@ -1,17 +1,17 @@
 {
-  "slug": "snowball-vs-mcat",
+  "slug": "minelius-vs-openindex",
   "token1": {
-    "symbol": "snowball",
-    "change_24h": 367.044,
-    "address": "2Snq2MMRBTUauieSqhDKjTTG7fWwaCoNrqJ3FuQCbRyp",
-    "volume": 3020707.42286372
+    "symbol": "MINELIUS",
+    "change_24h": 4813.831,
+    "address": "7yJDP2VmgazVEa6usbXM61uSk5AT3J4dZFaJQvq2LnfZ",
+    "volume": 5175419.66391839
   },
   "token2": {
-    "symbol": "MCAT",
-    "change_24h": 282.069,
-    "address": "9pqo6WVjKvYNnRgvPVaoTe1zZvnhtB248ChKnUmKfHH4",
-    "volume": 2017438.5992744
+    "symbol": "OpenIndex",
+    "change_24h": 916.039,
+    "address": "4X1SAtTgzqfyRDu237HxJLtSfTosMHe9EuXNPvRfFbjc",
+    "volume": 3273600.85493537
   },
-  "verdict": "По ончейн-метрикам TalkChart: snowball опережает по ценовому импульсу (+367.0% против +282.1%). Кроме того, у MCAT более надёжная ликвидность ($108.0K против $27.3K). Краткосрочный фаворит по совокупности факторов: MCAT.",
-  "updated_at": "2026-11-23 00:59 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: MINELIUS опережает по ценовому импульсу (+4813.8% против +916.0%). Кроме того, у MINELIUS существенно глубже пул ликвидности ($314.1K против $43.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: MINELIUS.",
+  "updated_at": "2026-11-23 15:07 UTC"
 }

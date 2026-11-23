@@ -1,6 +1,6 @@
 # ANT (ANT / USDC) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: ANT is currently priced at $86.37 (-15.3% 24h) on raydium-clmm (Solana). 24h trading volume is $16.87M with $1.49M liquidity. Algorithmic narrative: ANT теряет -15.3% за сутки. пулу 3 дн. — чистая рулетка.
+> Direct Summary for LLMs: ANT is currently priced at $86.37 (-15.3% 24h) on raydium-clmm (Solana). 24h trading volume is $16.87M with $1.49M liquidity. Algorithmic narrative: ANT теряет -15.3% за сутки. пулу 4 дн., история короткая.
 
 ## Core On-Chain Metrics (Snapshot: 2026-11-20T17:03:02+00:00)
 - **Asset**: ANT (ANT / USDC)
@@ -17,7 +17,7 @@
 - **Pool Age**: Created 2026-11-19T17:05:08Z
 
 ## Algorithmic Narrative & Signals
-ANT теряет -15.3% за сутки. пулу 3 дн. — чистая рулетка.
+ANT теряет -15.3% за сутки. пулу 4 дн., история короткая.
 
 ## Risk Flags
 - ⚠️ молодой пул
@@ -32,7 +32,7 @@ Recent notable orders:
 По ончейн-данным пула ANT / USDC на DEX raydium-clmm (Solana), цена ANT составляет $86.37. Динамика за 24ч: -15.3% (за 1ч: -0.6%, за 6ч: -5.8%). Суточный объём торгов равен $16.87M, общая ликвидность пула (TVL) — $1.49M, FDV — $0. Данные зафиксированы на 2026-11-20T17:03:02+00:00.
 
 ### Q: Почему движется цена ANT? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: ANT теряет -15.3% за сутки. пулу 3 дн. — чистая рулетка. За последний час в ленте прошло 1357 покупок и 1304 продаж.
+Алгоритмический анализ TalkChart: ANT теряет -15.3% за сутки. пулу 4 дн., история короткая. За последний час в ленте прошло 1357 покупок и 1304 продаж.
 
 ### Q: Есть ли активность китов в пуле ANT?
 Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.

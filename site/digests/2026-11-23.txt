@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-23
-1. snowball +367.0% — snowball разрывает: +367.0% за 24ч. объём $3.02M больше капы в 26.0× — бумага в огне
-2. MCAT +282.1% — MCAT разрывает: +282.1% за 24ч. объём $2.02M больше капы в 5.0× — бумага в огне
-3. MCAT -54.3% — MCAT в обвале: -54.3% за 24ч. объём $2.14M больше капы в 155.3× — бумага в огне
-4. DCTY -41.1% — DCTY в обвале: -41.1% за 24ч. ликвидность тонкая ($223.8K) — движения будут резкими.
-5. FIONA -35.4% — FIONA в обвале: -35.4% за 24ч. давление продаж нарастает
+1. MINELIUS +4813.8% — MINELIUS разрывает: +4813.8% за 24ч. пулу 1 дн
+2. OpenIndex +916.0% — OpenIndex разрывает: +916.0% за 24ч. давление продаж нарастает
+3. FSDV15 +798.7% — FSDV15 разрывает: +798.7% за 24ч. давление продаж нарастает
+4. ZOL +366.1% — ZOL разрывает: +366.1% за 24ч. давление продаж нарастает
+5. MCAT +131.0% — MCAT разрывает: +131.0% за 24ч. давление продаж нарастает
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/2Snq2MMRBTUauieSqhDKjTTG7fWwaCoNrqJ3FuQCbRyp.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/7yJDP2VmgazVEa6usbXM61uSk5AT3J4dZFaJQvq2LnfZ.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site

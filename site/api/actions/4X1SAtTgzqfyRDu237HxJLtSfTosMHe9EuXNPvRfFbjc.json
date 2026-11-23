@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/OpenIndex_+916.png",
+  "title": "TalkChart: OpenIndex (+916.0%) — Solana On-Chain Radar",
+  "description": "OpenIndex разрывает: +916.0% за 24ч. давление продаж нарастает. объём $3.27M больше капы в 11.5× — бумага в огне. ликвидность тонкая ($43.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.0K (98× медианы, 0ч назад). нетто китов за сутки +$1.8K.\n\nОбъём: $3.27M · Ликвидность: $43.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп OpenIndex (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-FuKY3dk7QmpbDdQRjzbjB3G6PiCuqKNvN4dAWDpwpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4X1SAtTgzqfyRDu237HxJLtSfTosMHe9EuXNPvRfFbjc"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

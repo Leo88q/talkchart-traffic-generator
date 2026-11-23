@@ -1,0 +1,75 @@
+{
+  "pool": {
+    "address": "7yJDP2VmgazVEa6usbXM61uSk5AT3J4dZFaJQvq2LnfZ",
+    "name": "MINELIUS / SOL",
+    "base_symbol": "MINELIUS",
+    "base_name": "MINELIUS",
+    "base_address": "E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump",
+    "dex": "pumpswap",
+    "price_usd": 0.015706097445318364,
+    "created_at": "2026-11-22T21:30:22Z",
+    "fdv_usd": 15873297.6353541,
+    "reserve_usd": 314114.1548,
+    "volume_h24": 5175419.66391839,
+    "change": {
+      "h1": 9.266,
+      "h6": -4.123,
+      "h24": 4813.831
+    },
+    "tx_h1": {
+      "buys": 1951,
+      "sells": 1556
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 3807.57,
+        "mult": 1713.5,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "FSWP1bjv"
+      },
+      {
+        "kind": "sell",
+        "usd": 1467.0,
+        "mult": 660.2,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "FSWP1bjv"
+      },
+      {
+        "kind": "sell",
+        "usd": 1133.32,
+        "mult": 510.0,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "4aEtNFHb"
+      },
+      {
+        "kind": "buy",
+        "usd": 852.23,
+        "mult": 383.5,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "7YfFgUQE"
+      },
+      {
+        "kind": "sell",
+        "usd": 821.87,
+        "mult": 369.9,
+        "whale": false,
+        "hours_ago": 0.0,
+        "addr8": "4aEtNFHb"
+      }
+    ],
+    "first_seen": "2026-11-23T15:07:27+00:00",
+    "last_seen": "2026-11-23T15:07:27+00:00"
+  },
+  "narrative": "MINELIUS разрывает: +4813.8% за 24ч. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $3.8K (1714× медианы, 0ч назад). нетто китов за сутки −$6.4K.",
+  "flags": [
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (1 покупок, 4 продаж). Крупнейшая: продажа на $3.8K (1714× медианы). Нетто-поток китов: $-6.4K.",
+  "updated_at": "2026-11-23T15:07:28Z"
+}

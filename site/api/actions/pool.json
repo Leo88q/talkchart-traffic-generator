@@ -1,17 +1,17 @@
 {
-  "icon": "https://leo88q.github.io/content-/site/cards/latest/ELYSION_+4377.png",
-  "title": "TalkChart: ELYSION (+4377.3%) — Solana On-Chain Radar",
-  "description": "ELYSION разрывает: +4377.3% за 24ч. объём $3.83M больше капы в 1.7× — бумага в огне. ликвидность тонкая ($125.1K) — движения будут резкими. пулу 14 дн., история короткая.\n\nОбъём: $3.83M · Ликвидность: $125.1K",
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MINELIUS_+4814.png",
+  "title": "TalkChart: MINELIUS (+4813.8%) — Solana On-Chain Radar",
+  "description": "MINELIUS разрывает: +4813.8% за 24ч. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $3.8K (1714× медианы, 0ч назад). нетто китов за сутки −$6.4K.\n\nОбъём: $5.18M · Ликвидность: $314.1K",
   "label": "Своп через Jupiter",
   "links": {
     "actions": [
       {
-        "label": "⚡ Своп ELYSION (Jupiter)",
-        "href": "https://jup.ag/swap/SOL-AWaBBNoVuwQ22B8Y5nEtLne2uEfk8UaYEFws7vT7pump"
+        "label": "⚡ Своп MINELIUS (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump"
       },
       {
         "label": "📈 Живой график + киты",
-        "href": "https://leo88q.github.io/content-/site/index.html#pool=HjxaEDvdje644vhUmE3VpjpteWLBmWgSsgvYhf6LVw2L"
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7yJDP2VmgazVEa6usbXM61uSk5AT3J4dZFaJQvq2LnfZ"
       },
       {
         "label": "🎁 TipLink: вход без сид-фраз",
