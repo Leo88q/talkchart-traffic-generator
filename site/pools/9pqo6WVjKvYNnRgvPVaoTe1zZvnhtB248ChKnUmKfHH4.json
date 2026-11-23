@@ -1,0 +1,76 @@
+{
+  "pool": {
+    "address": "9pqo6WVjKvYNnRgvPVaoTe1zZvnhtB248ChKnUmKfHH4",
+    "name": "MCAT / SOL",
+    "base_symbol": "MCAT",
+    "base_name": "MCAT",
+    "base_address": "BzPyyYCTmQNq2BcfQ4ANAvCYk54rnmQEXMFvFT8RhWMi",
+    "dex": "raydium",
+    "price_usd": 0.0003931976744790428,
+    "created_at": "2026-11-22T17:17:17Z",
+    "fdv_usd": 401318.7621,
+    "reserve_usd": 108016.4523,
+    "volume_h24": 2017438.5992744,
+    "change": {
+      "h1": -27.971,
+      "h6": 3.115,
+      "h24": 282.069
+    },
+    "tx_h1": {
+      "buys": 828,
+      "sells": 582
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 1904.67,
+        "mult": 164.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "E6H254YP"
+      },
+      {
+        "kind": "sell",
+        "usd": 464.63,
+        "mult": 40.0,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "E6H254YP"
+      },
+      {
+        "kind": "sell",
+        "usd": 418.72,
+        "mult": 36.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "GAVQGri6"
+      },
+      {
+        "kind": "sell",
+        "usd": 393.89,
+        "mult": 33.9,
+        "whale": false,
+        "hours_ago": 0.2,
+        "addr8": "yPAARq92"
+      },
+      {
+        "kind": "sell",
+        "usd": 384.11,
+        "mult": 33.1,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "BNzrQsoY"
+      }
+    ],
+    "first_seen": "2026-11-23T00:58:53+00:00",
+    "last_seen": "2026-11-23T00:58:53+00:00"
+  },
+  "narrative": "MCAT разрывает: +282.1% за 24ч. объём $2.02M больше капы в 5.0× — бумага в огне. ликвидность тонкая ($108.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $1.9K (164× медианы, 0ч назад). нетто китов за сутки −$3.6K.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 5 (0 покупок, 5 продаж). Крупнейшая: продажа на $1.9K (164× медианы). Нетто-поток китов: $-3.6K.",
+  "updated_at": "2026-11-23T00:58:53Z"
+}

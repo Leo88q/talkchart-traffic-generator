@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MCAT_-54.png",
+  "title": "TalkChart: MCAT (-54.3%) — Solana On-Chain Radar",
+  "description": "MCAT в обвале: -54.3% за 24ч. объём $2.14M больше капы в 155.3× — бумага в огне. ликвидность тонкая ($8.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.14M · Ликвидность: $8.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MCAT (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-v4GK8f24ZJJa5qLoTJ4mJ5d6jsNUXHScwGaRHdfpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=44mfbdBRUZQBaFW7PGRKyqGDroEHnp6eLvTCk1bCxbcC"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

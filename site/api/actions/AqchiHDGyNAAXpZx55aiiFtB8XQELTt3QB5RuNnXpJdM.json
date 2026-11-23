@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/shiit_+8.png",
+  "title": "TalkChart: shiit (+8.4%) — Solana On-Chain Radar",
+  "description": "shiit растёт на +8.4% за сутки. ликвидность тонкая ($76.2K) — движения будут резкими.\n\nОбъём: $343.7K · Ликвидность: $76.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп shiit (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-412ECWXN3jGbd1kn8ck7eeupWttkmrFkNm9JqfAzpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AqchiHDGyNAAXpZx55aiiFtB8XQELTt3QB5RuNnXpJdM"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

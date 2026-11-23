@@ -1,17 +1,17 @@
 {
-  "slug": "snowball-vs-singularity",
+  "slug": "snowball-vs-mcat",
   "token1": {
     "symbol": "snowball",
-    "change_24h": 988.214,
+    "change_24h": 367.044,
     "address": "2Snq2MMRBTUauieSqhDKjTTG7fWwaCoNrqJ3FuQCbRyp",
-    "volume": 2724160.99610073
+    "volume": 3020707.42286372
   },
   "token2": {
-    "symbol": "Singularity",
-    "change_24h": 732.25,
-    "address": "58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV",
-    "volume": 3494868.75695022
+    "symbol": "MCAT",
+    "change_24h": 282.069,
+    "address": "9pqo6WVjKvYNnRgvPVaoTe1zZvnhtB248ChKnUmKfHH4",
+    "volume": 2017438.5992744
   },
-  "verdict": "По ончейн-метрикам TalkChart: snowball опережает по ценовому импульсу (+988.2% против +732.2%). Кроме того, у Singularity более надёжная ликвидность ($90.5K против $42.0K). Краткосрочный фаворит по совокупности факторов: snowball.",
-  "updated_at": "2026-11-22 16:23 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: snowball опережает по ценовому импульсу (+367.0% против +282.1%). Кроме того, у MCAT более надёжная ликвидность ($108.0K против $27.3K). Краткосрочный фаворит по совокупности факторов: MCAT.",
+  "updated_at": "2026-11-23 00:59 UTC"
 }

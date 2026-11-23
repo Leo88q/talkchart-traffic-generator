@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-22T16:23:25+00:00",
+ "generated_at": "2026-11-23T00:59:05+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-22/snowball.mp4",
+   "file": "videos/2026-11-23/snowball.mp4",
    "latest_file": "videos/latest/snowball.mp4",
    "symbol": "snowball",
-   "chg_h24": 988.214
+   "chg_h24": 367.044
   },
   {
-   "file": "videos/2026-11-22/Singularity.mp4",
-   "latest_file": "videos/latest/Singularity.mp4",
-   "symbol": "Singularity",
-   "chg_h24": 732.25
+   "file": "videos/2026-11-23/MCAT.mp4",
+   "latest_file": "videos/latest/MCAT.mp4",
+   "symbol": "MCAT",
+   "chg_h24": 282.069
   },
   {
-   "file": "videos/2026-11-22/SIDOOR.mp4",
-   "latest_file": "videos/latest/SIDOOR.mp4",
-   "symbol": "SIDOOR",
-   "chg_h24": 469.496
+   "file": "videos/2026-11-23/MCAT.mp4",
+   "latest_file": "videos/latest/MCAT.mp4",
+   "symbol": "MCAT",
+   "chg_h24": -54.341
   }
  ]
 }
