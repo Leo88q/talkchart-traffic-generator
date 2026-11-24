@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "BnmeviL6xe1LyobY94eBoRYPCDFNFNdkbqe74LxiJKgX",
+    "name": "MOMO / SOL",
+    "base_symbol": "MOMO",
+    "base_name": "MOMO",
+    "base_address": "488SaFq6wHF2z2k6NLSD3PtoSkXDNZaPkJwxze11pump",
+    "dex": "pumpswap",
+    "price_usd": 0.0001361049848813338,
+    "created_at": "2026-08-11T08:02:36Z",
+    "fdv_usd": 125379.16576204,
+    "reserve_usd": 41522.5274,
+    "volume_h24": 693755.587620866,
+    "change": {
+      "h1": 2.296,
+      "h6": -31.022,
+      "h24": 178.279
+    },
+    "tx_h1": {
+      "buys": 25,
+      "sells": 25
+    },
+    "first_seen": "2026-11-24T14:58:57+00:00",
+    "last_seen": "2026-11-24T14:58:57+00:00"
+  },
+  "narrative": "MOMO разрывает: +178.3% за 24ч. объём $693.8K больше капы в 5.5× — бумага в огне. ликвидность тонкая ($41.5K) — движения будут резкими.",
+  "flags": [
+    "тонкая ликвидность",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-24T14:58:57Z"
+}

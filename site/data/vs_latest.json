@@ -1,17 +1,17 @@
 {
-  "slug": "jimmy-vs-fiona",
+  "slug": "jimmy-vs-momo",
   "token1": {
     "symbol": "JIMMY",
-    "change_24h": 888.509,
+    "change_24h": 2842.457,
     "address": "FnHWfV49ywCtGCDTyf34AVN8BiXxcgXUKqLctkrkP1gQ",
-    "volume": 1911665.70986614
+    "volume": 2874664.36518728
   },
   "token2": {
-    "symbol": "FIONA",
-    "change_24h": 220.867,
-    "address": "DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB",
-    "volume": 4055987.94929631
+    "symbol": "MOMO",
+    "change_24h": 178.279,
+    "address": "BnmeviL6xe1LyobY94eBoRYPCDFNFNdkbqe74LxiJKgX",
+    "volume": 693755.587620866
   },
-  "verdict": "По ончейн-метрикам TalkChart: JIMMY опережает по ценовому импульсу (+888.5% против +220.9%). Кроме того, у FIONA более надёжная ликвидность ($193.4K против $40.7K). Краткосрочный фаворит по совокупности факторов: FIONA.",
-  "updated_at": "2026-11-24 03:25 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: JIMMY опережает по ценовому импульсу (+2842.5% против +178.3%). Краткосрочный фаворит по совокупности факторов: JIMMY.",
+  "updated_at": "2026-11-24 14:59 UTC"
 }

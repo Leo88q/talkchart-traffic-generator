@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MOMO_+178.png",
+  "title": "TalkChart: MOMO (+178.3%) — Solana On-Chain Radar",
+  "description": "MOMO разрывает: +178.3% за 24ч. объём $693.8K больше капы в 5.5× — бумага в огне. ликвидность тонкая ($41.5K) — движения будут резкими.\n\nОбъём: $693.8K · Ликвидность: $41.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MOMO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-488SaFq6wHF2z2k6NLSD3PtoSkXDNZaPkJwxze11pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BnmeviL6xe1LyobY94eBoRYPCDFNFNdkbqe74LxiJKgX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
