@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-23T15:07:38+00:00",
+ "generated_at": "2026-11-24T03:25:24+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-23/MINELIUS.mp4",
-   "latest_file": "videos/latest/MINELIUS.mp4",
-   "symbol": "MINELIUS",
-   "chg_h24": 4813.831
+   "file": "videos/2026-11-24/JIMMY.mp4",
+   "latest_file": "videos/latest/JIMMY.mp4",
+   "symbol": "JIMMY",
+   "chg_h24": 888.509
   },
   {
-   "file": "videos/2026-11-23/OpenIndex.mp4",
-   "latest_file": "videos/latest/OpenIndex.mp4",
-   "symbol": "OpenIndex",
-   "chg_h24": 916.039
+   "file": "videos/2026-11-24/FIONA.mp4",
+   "latest_file": "videos/latest/FIONA.mp4",
+   "symbol": "FIONA",
+   "chg_h24": 220.867
   },
   {
-   "file": "videos/2026-11-23/FSDV15.mp4",
-   "latest_file": "videos/latest/FSDV15.mp4",
-   "symbol": "FSDV15",
-   "chg_h24": 798.735
+   "file": "videos/2026-11-24/SIDOOR.mp4",
+   "latest_file": "videos/latest/SIDOOR.mp4",
+   "symbol": "SIDOOR",
+   "chg_h24": 75.278
   }
  ]
 }

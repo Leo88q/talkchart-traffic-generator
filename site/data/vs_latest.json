@@ -1,17 +1,17 @@
 {
-  "slug": "minelius-vs-openindex",
+  "slug": "jimmy-vs-fiona",
   "token1": {
-    "symbol": "MINELIUS",
-    "change_24h": 4813.831,
-    "address": "7yJDP2VmgazVEa6usbXM61uSk5AT3J4dZFaJQvq2LnfZ",
-    "volume": 5175419.66391839
+    "symbol": "JIMMY",
+    "change_24h": 888.509,
+    "address": "FnHWfV49ywCtGCDTyf34AVN8BiXxcgXUKqLctkrkP1gQ",
+    "volume": 1911665.70986614
   },
   "token2": {
-    "symbol": "OpenIndex",
-    "change_24h": 916.039,
-    "address": "4X1SAtTgzqfyRDu237HxJLtSfTosMHe9EuXNPvRfFbjc",
-    "volume": 3273600.85493537
+    "symbol": "FIONA",
+    "change_24h": 220.867,
+    "address": "DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB",
+    "volume": 4055987.94929631
   },
-  "verdict": "По ончейн-метрикам TalkChart: MINELIUS опережает по ценовому импульсу (+4813.8% против +916.0%). Кроме того, у MINELIUS существенно глубже пул ликвидности ($314.1K против $43.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: MINELIUS.",
-  "updated_at": "2026-11-23 15:07 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: JIMMY опережает по ценовому импульсу (+888.5% против +220.9%). Кроме того, у FIONA более надёжная ликвидность ($193.4K против $40.7K). Краткосрочный фаворит по совокупности факторов: FIONA.",
+  "updated_at": "2026-11-24 03:25 UTC"
 }

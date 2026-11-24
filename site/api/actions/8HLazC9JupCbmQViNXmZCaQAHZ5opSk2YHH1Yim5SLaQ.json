@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/NVDA_+22.png",
+  "title": "TalkChart: NVDA (+22.0%) — Solana On-Chain Radar",
+  "description": "NVDA растёт на +22.0% за сутки. продают в рынок (66% сделок за час). суточный памп остывает. объём $5.30M больше капы в 2.2× — бумага в огне.\n\nОбъём: $5.30M · Ликвидность: $717.9K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп NVDA (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=8HLazC9JupCbmQViNXmZCaQAHZ5opSk2YHH1Yim5SLaQ"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
