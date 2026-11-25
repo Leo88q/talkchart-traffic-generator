@@ -1,17 +1,17 @@
 {
-  "slug": "jimmy-vs-grokia",
+  "slug": "basket-vs-4chan",
   "token1": {
-    "symbol": "JIMMY",
-    "change_24h": 667.883,
-    "address": "FnHWfV49ywCtGCDTyf34AVN8BiXxcgXUKqLctkrkP1gQ",
-    "volume": 2966602.51752776
+    "symbol": "BASKET",
+    "change_24h": 2058.043,
+    "address": "CixcofsPwHnYWjsoDxXxvLd6uM5fH7w8MFPL9mpQpqtX",
+    "volume": 4125313.09117188
   },
   "token2": {
-    "symbol": "GROKIA",
-    "change_24h": 516.385,
-    "address": "CpfB8pTVj8Uzu55nKj6sX4KmV6zVe7J2t3C22mLgCVGg",
-    "volume": 3097181.30784755
+    "symbol": "4CHAN",
+    "change_24h": 1045.53,
+    "address": "Ak4wr2ueEAJMqZSEcGPMX9EhCrwWRngP8CskvdEh1e6H",
+    "volume": 6817364.26655917
   },
-  "verdict": "По ончейн-метрикам TalkChart: JIMMY опережает по ценовому импульсу (+667.9% против +516.4%). Краткосрочный фаворит по совокупности факторов: JIMMY.",
-  "updated_at": "2026-11-25 00:52 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: BASKET опережает по ценовому импульсу (+2058.0% против +1045.5%). Кроме того, у BASKET существенно глубже пул ликвидности ($168.6K против $45.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: BASKET.",
+  "updated_at": "2026-11-25 14:33 UTC"
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PERRO_+822.png",
+  "title": "TalkChart: PERRO (+822.0%) — Solana On-Chain Radar",
+  "description": "PERRO разрывает: +822.0% за 24ч. объём $2.31M больше капы в 9.1× — бумага в огне. ликвидность тонкая ($37.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.31M · Ликвидность: $37.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PERRO (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4Di56UJzpnb7E4D7aLXFf7aLF5TrpJYv9Q3mR398pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=4s1epXdedd7TY1UtJ7frou3saSxuG98os7HcPtNEu8WH"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

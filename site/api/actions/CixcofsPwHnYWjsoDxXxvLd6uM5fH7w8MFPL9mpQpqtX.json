@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/BASKET_+2058.png",
+  "title": "TalkChart: BASKET (+2058.0%) — Solana On-Chain Radar",
+  "description": "BASKET разрывает: +2058.0% за 24ч. ускорение в последнем часе. объём $4.13M больше капы в 2.8× — бумага в огне. ликвидность тонкая ($168.6K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $4.13M · Ликвидность: $168.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп BASKET (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3Tg6YnNrfPdFfsY14MaNsDMWLseAyrUDS3myJtbaJN6f"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CixcofsPwHnYWjsoDxXxvLd6uM5fH7w8MFPL9mpQpqtX"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
