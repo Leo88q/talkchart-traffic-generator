@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/GROKIA_+516.png",
+  "title": "TalkChart: GROKIA (+516.4%) — Solana On-Chain Radar",
+  "description": "GROKIA разрывает: +516.4% за 24ч. покупатели доминируют (66% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($119.5K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $3.10M · Ликвидность: $119.5K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп GROKIA (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3cL47ohWa2HApLYKtqPsqkjaxJ6HLvT5Ri1KvWdXpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=CpfB8pTVj8Uzu55nKj6sX4KmV6zVe7J2t3C22mLgCVGg"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

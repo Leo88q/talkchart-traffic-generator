@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/DONJENSEN_-3.png",
+  "title": "TalkChart: DONJENSEN (-2.7%) — Solana On-Chain Radar",
+  "description": "DONJENSEN в боковике: -2.7% за сутки. давление продаж нарастает. покупатели доминируют (74% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $2.30M больше капы в 6.9× — бумага в огне. ликвидность тонкая ($41.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.30M · Ликвидность: $41.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп DONJENSEN (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5LDowscYVD3a6ZS4m8gCqG5nU16eLTwRXhciFi1bpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7v3yUnuNayZ6KwbAxJSd3TXnk2WT92q18zJiB677nNso"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

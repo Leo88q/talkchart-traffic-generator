@@ -1,17 +1,17 @@
 {
-  "slug": "jimmy-vs-momo",
+  "slug": "jimmy-vs-grokia",
   "token1": {
     "symbol": "JIMMY",
-    "change_24h": 2842.457,
+    "change_24h": 667.883,
     "address": "FnHWfV49ywCtGCDTyf34AVN8BiXxcgXUKqLctkrkP1gQ",
-    "volume": 2874664.36518728
+    "volume": 2966602.51752776
   },
   "token2": {
-    "symbol": "MOMO",
-    "change_24h": 178.279,
-    "address": "BnmeviL6xe1LyobY94eBoRYPCDFNFNdkbqe74LxiJKgX",
-    "volume": 693755.587620866
+    "symbol": "GROKIA",
+    "change_24h": 516.385,
+    "address": "CpfB8pTVj8Uzu55nKj6sX4KmV6zVe7J2t3C22mLgCVGg",
+    "volume": 3097181.30784755
   },
-  "verdict": "По ончейн-метрикам TalkChart: JIMMY опережает по ценовому импульсу (+2842.5% против +178.3%). Краткосрочный фаворит по совокупности факторов: JIMMY.",
-  "updated_at": "2026-11-24 14:59 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: JIMMY опережает по ценовому импульсу (+667.9% против +516.4%). Краткосрочный фаворит по совокупности факторов: JIMMY.",
+  "updated_at": "2026-11-25 00:52 UTC"
 }
