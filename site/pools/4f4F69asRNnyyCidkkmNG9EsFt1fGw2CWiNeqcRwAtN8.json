@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "4f4F69asRNnyyCidkkmNG9EsFt1fGw2CWiNeqcRwAtN8",
+    "name": "JaoJiu / SOL",
+    "base_symbol": "JaoJiu",
+    "base_name": "JaoJiu",
+    "base_address": "2UyrvgCRXiEwiKRVk96gs6B4myrBHZAfcLyMVLE8vSCy",
+    "dex": "pumpswap",
+    "price_usd": 1.4564165671858043e-05,
+    "created_at": "2026-11-25T07:15:38Z",
+    "fdv_usd": 14564.16567,
+    "reserve_usd": 8390.57,
+    "volume_h24": 1721620.70751959,
+    "change": {
+      "h1": 0.062,
+      "h6": -31.199,
+      "h24": -53.161
+    },
+    "tx_h1": {
+      "buys": 39,
+      "sells": 42
+    },
+    "first_seen": "2026-11-26T00:30:16+00:00",
+    "last_seen": "2026-11-26T00:30:16+00:00"
+  },
+  "narrative": "JaoJiu в обвале: -53.2% за 24ч. объём $1.72M больше капы в 118.2× — бумага в огне. ликвидность тонкая ($8.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-26T00:30:17Z"
+}

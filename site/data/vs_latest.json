@@ -1,17 +1,17 @@
 {
-  "slug": "basket-vs-4chan",
+  "slug": "basket-vs-pompom",
   "token1": {
     "symbol": "BASKET",
-    "change_24h": 2058.043,
+    "change_24h": 1130.099,
     "address": "CixcofsPwHnYWjsoDxXxvLd6uM5fH7w8MFPL9mpQpqtX",
-    "volume": 4125313.09117188
+    "volume": 5235980.27312545
   },
   "token2": {
-    "symbol": "4CHAN",
-    "change_24h": 1045.53,
-    "address": "Ak4wr2ueEAJMqZSEcGPMX9EhCrwWRngP8CskvdEh1e6H",
-    "volume": 6817364.26655917
+    "symbol": "Pompom",
+    "change_24h": 684.448,
+    "address": "7kNYdYbHbGMdQczmKSxqNzg4p4pGc6VpERzMfPBptGso",
+    "volume": 3608370.86966816
   },
-  "verdict": "По ончейн-метрикам TalkChart: BASKET опережает по ценовому импульсу (+2058.0% против +1045.5%). Кроме того, у BASKET существенно глубже пул ликвидности ($168.6K против $45.4K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: BASKET.",
-  "updated_at": "2026-11-25 14:33 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: BASKET опережает по ценовому импульсу (+1130.1% против +684.4%). Кроме того, у BASKET существенно глубже пул ликвидности ($134.0K против $37.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: BASKET.",
+  "updated_at": "2026-11-26 00:30 UTC"
 }

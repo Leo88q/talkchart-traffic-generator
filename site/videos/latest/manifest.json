@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-25T14:33:15+00:00",
+ "generated_at": "2026-11-26T00:30:33+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-25/BASKET.mp4",
+   "file": "videos/2026-11-26/BASKET.mp4",
    "latest_file": "videos/latest/BASKET.mp4",
    "symbol": "BASKET",
-   "chg_h24": 2058.043
+   "chg_h24": 1130.099
   },
   {
-   "file": "videos/2026-11-25/4CHAN.mp4",
-   "latest_file": "videos/latest/4CHAN.mp4",
-   "symbol": "4CHAN",
-   "chg_h24": 1045.53
+   "file": "videos/2026-11-26/Pompom.mp4",
+   "latest_file": "videos/latest/Pompom.mp4",
+   "symbol": "Pompom",
+   "chg_h24": 684.448
   },
   {
-   "file": "videos/2026-11-25/PERRO.mp4",
-   "latest_file": "videos/latest/PERRO.mp4",
-   "symbol": "PERRO",
-   "chg_h24": 822.02
+   "file": "videos/2026-11-26/HONEY.mp4",
+   "latest_file": "videos/latest/HONEY.mp4",
+   "symbol": "HONEY",
+   "chg_h24": -81.006
   }
  ]
 }

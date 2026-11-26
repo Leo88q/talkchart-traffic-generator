@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/HONEY_-81.png",
+  "title": "TalkChart: HONEY (-81.0%) — Solana On-Chain Radar",
+  "description": "HONEY в обвале: -81.0% за 24ч. ликвидность тонкая ($7.8K) — движения будут резкими.\n\nОбъём: $324.0K · Ликвидность: $7.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп HONEY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=ENYEHSyduTbFN1xoSEGaLu7c1F8AqKucdscMuV5Yypy2"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

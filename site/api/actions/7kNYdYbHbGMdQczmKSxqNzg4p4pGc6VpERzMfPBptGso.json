@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Pompom_+684.png",
+  "title": "TalkChart: Pompom (+684.4%) — Solana On-Chain Radar",
+  "description": "Pompom разрывает: +684.4% за 24ч. объём $3.61M больше капы в 17.1× — бумага в огне. ликвидность тонкая ($37.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $3.61M · Ликвидность: $37.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Pompom (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-5EmvWDizkpjAXbcfCcVq69w1id8GaLzi4LLwtuSgpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=7kNYdYbHbGMdQczmKSxqNzg4p4pGc6VpERzMfPBptGso"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
