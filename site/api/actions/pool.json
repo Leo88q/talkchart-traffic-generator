@@ -1,17 +1,17 @@
 {
-  "icon": "https://leo88q.github.io/content-/site/cards/latest/MINELIUS_+4814.png",
-  "title": "TalkChart: MINELIUS (+4813.8%) — Solana On-Chain Radar",
-  "description": "MINELIUS разрывает: +4813.8% за 24ч. пулу 3 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $3.8K (1714× медианы, 0ч назад). нетто китов за сутки −$6.4K.\n\nОбъём: $5.18M · Ликвидность: $314.1K",
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PUMPCHAN_+27463.png",
+  "title": "TalkChart: PUMPCHAN (+27463.2%) — Solana On-Chain Radar",
+  "description": "PUMPCHAN разрывает: +27463.2% за 24ч. покупатели доминируют (75% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($221.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $4.73M · Ликвидность: $221.4K",
   "label": "Своп через Jupiter",
   "links": {
     "actions": [
       {
-        "label": "⚡ Своп MINELIUS (Jupiter)",
-        "href": "https://jup.ag/swap/SOL-E9rWKjVhHMxQkxfREr7Li8Yy46rVcWiWHoKVQAe9pump"
+        "label": "⚡ Своп PUMPCHAN (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump"
       },
       {
         "label": "📈 Живой график + киты",
-        "href": "https://leo88q.github.io/content-/site/index.html#pool=7yJDP2VmgazVEa6usbXM61uSk5AT3J4dZFaJQvq2LnfZ"
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DDcyemq9bkyqtC93djkwaH6VaMKCjVsoCUVGV29q7teB"
       },
       {
         "label": "🎁 TipLink: вход без сид-фраз",

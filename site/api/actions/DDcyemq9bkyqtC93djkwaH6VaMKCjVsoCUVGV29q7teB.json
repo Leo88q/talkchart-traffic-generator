@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PUMPCHAN_+27463.png",
+  "title": "TalkChart: PUMPCHAN (+27463.2%) — Solana On-Chain Radar",
+  "description": "PUMPCHAN разрывает: +27463.2% за 24ч. покупатели доминируют (75% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. ликвидность тонкая ($221.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $4.73M · Ликвидность: $221.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PUMPCHAN (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=DDcyemq9bkyqtC93djkwaH6VaMKCjVsoCUVGV29q7teB"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Elonmas_+352.png",
+  "title": "TalkChart: Elonmas (+351.6%) — Solana On-Chain Radar",
+  "description": "Elonmas разрывает: +351.6% за 24ч. объём $1.78M больше капы в 13.9× — бумага в огне. ликвидность тонкая ($27.2K) — движения будут резкими. пулу 0 дн. — чистая рулетка.\n\nОбъём: $1.78M · Ликвидность: $27.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Elonmas (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-6B5X3keXJ4J8LLvswa2mbqMhrRDbt85Jo88sbB6apump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=3HZez3ezzSDTZaT12pqMZwii8Ury9rknjQumsJQYwYt7"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
