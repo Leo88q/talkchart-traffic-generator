@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Rizzmas_+13.png",
+  "title": "TalkChart: Rizzmas (+13.5%) — Solana On-Chain Radar",
+  "description": "Rizzmas растёт на +13.5% за сутки. ускорение в последнем часе. ликвидность тонкая ($228.8K) — движения будут резкими.\n\nОбъём: $128.2K · Ликвидность: $228.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Rizzmas (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=HGRvEZF83Hm2x5HoVx9ec2cBiAjTmWFHK6VCUPLH4yDY"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

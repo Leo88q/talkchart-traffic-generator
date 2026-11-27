@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/PAIR_-60.png",
+  "title": "TalkChart: PAIR (-60.4%) — Solana On-Chain Radar",
+  "description": "PAIR в обвале: -60.4% за 24ч. давление продаж нарастает. объём $2.81M больше капы в 66.3× — бумага в огне. ликвидность тонкая ($16.4K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $2.81M · Ликвидность: $16.4K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп PAIR (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-32rBxcFjCFnyqZ41CEPM5AL67X1dcw8w83vZt6Kxpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=qkiYfkcm2QGfpNbEpuXvA5wiXq4F6ZdUWnZk2Y19cym"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

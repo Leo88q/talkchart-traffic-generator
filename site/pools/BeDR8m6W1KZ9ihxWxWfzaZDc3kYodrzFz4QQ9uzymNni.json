@@ -1,0 +1,33 @@
+{
+  "pool": {
+    "address": "BeDR8m6W1KZ9ihxWxWfzaZDc3kYodrzFz4QQ9uzymNni",
+    "name": "Investor / SOL",
+    "base_symbol": "Investor",
+    "base_name": "Investor",
+    "base_address": "J9eBkCb4UtquAMQqB6duwBmR99fFSMoTnDcaMB9Wpump",
+    "dex": "pumpswap",
+    "price_usd": 4.443602810795994e-05,
+    "created_at": "2026-11-25T17:05:26Z",
+    "fdv_usd": 44436.0170008828,
+    "reserve_usd": 16197.3176,
+    "volume_h24": 594781.862286177,
+    "change": {
+      "h1": -10.903,
+      "h6": -5.185,
+      "h24": -2.168
+    },
+    "tx_h1": {
+      "buys": 96,
+      "sells": 72
+    },
+    "first_seen": "2026-11-27T13:59:17+00:00",
+    "last_seen": "2026-11-27T13:59:17+00:00"
+  },
+  "narrative": "Investor в боковике: -2.2% за сутки. давление продаж нарастает. объём $594.8K больше капы в 13.4× — бумага в огне. ликвидность тонкая ($16.2K) — движения будут резкими. пулу 2 дн. — чистая рулетка.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул"
+  ],
+  "whale_summary": "Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.",
+  "updated_at": "2026-11-27T13:59:17Z"
+}

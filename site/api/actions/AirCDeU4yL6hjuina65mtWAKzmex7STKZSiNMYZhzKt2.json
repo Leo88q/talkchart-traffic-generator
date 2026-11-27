@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Snowball_+2133.png",
+  "title": "TalkChart: Snowball (+2133.3%) — Solana On-Chain Radar",
+  "description": "Snowball разрывает: +2133.3% за 24ч. ускорение в последнем часе. объём $2.39M больше капы в 3.5× — бумага в огне. ликвидность тонкая ($68.7K) — движения будут резкими. пулу 2 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $874.83 (150× медианы, 0ч назад). нетто китов за сутки +$177.87.\n\nОбъём: $2.39M · Ликвидность: $68.7K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Snowball (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AirCDeU4yL6hjuina65mtWAKzmex7STKZSiNMYZhzKt2"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

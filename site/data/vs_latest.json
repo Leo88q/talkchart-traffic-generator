@@ -1,17 +1,17 @@
 {
-  "slug": "pumpchan-vs-zero",
+  "slug": "snowball-vs-dexdata",
   "token1": {
-    "symbol": "PUMPCHAN",
-    "change_24h": 27463.16,
-    "address": "DDcyemq9bkyqtC93djkwaH6VaMKCjVsoCUVGV29q7teB",
-    "volume": 4728223.12287173
+    "symbol": "Snowball",
+    "change_24h": 2133.255,
+    "address": "AirCDeU4yL6hjuina65mtWAKzmex7STKZSiNMYZhzKt2",
+    "volume": 2393961.90737198
   },
   "token2": {
-    "symbol": "Zero",
-    "change_24h": 678.333,
-    "address": "9sBikgSUu5U3q1JbFwdkWJ4Kb3q7kjEujoo4gd5vYumg",
-    "volume": 4251052.20220151
+    "symbol": "DEXDATA",
+    "change_24h": 555.991,
+    "address": "6h2yPTQ4CaXcUjMYr6B6MkDmLqTzuLkZuh25aT4thrbZ",
+    "volume": 1364823.16239047
   },
-  "verdict": "По ончейн-метрикам TalkChart: PUMPCHAN опережает по ценовому импульсу (+27463.2% против +678.3%). Кроме того, у PUMPCHAN существенно глубже пул ликвидности ($221.4K против $39.2K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: PUMPCHAN.",
-  "updated_at": "2026-11-26 14:01 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Snowball опережает по ценовому импульсу (+2133.3% против +556.0%). Кроме того, у Snowball существенно глубже пул ликвидности ($68.7K против $33.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Snowball.",
+  "updated_at": "2026-11-27 13:59 UTC"
 }

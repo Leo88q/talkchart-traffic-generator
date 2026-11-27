@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/Investor_-2.png",
+  "title": "TalkChart: Investor (-2.2%) — Solana On-Chain Radar",
+  "description": "Investor в боковике: -2.2% за сутки. давление продаж нарастает. объём $594.8K больше капы в 13.4× — бумага в огне. ликвидность тонкая ($16.2K) — движения будут резкими. пулу 2 дн. — чистая рулетка.\n\nОбъём: $594.8K · Ликвидность: $16.2K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп Investor (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-J9eBkCb4UtquAMQqB6duwBmR99fFSMoTnDcaMB9Wpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=BeDR8m6W1KZ9ihxWxWfzaZDc3kYodrzFz4QQ9uzymNni"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
