@@ -1,17 +1,17 @@
 {
-  "slug": "split-vs-kibo",
+  "slug": "zhaki-vs-split",
   "token1": {
-    "symbol": "Split",
-    "change_24h": 401.96,
-    "address": "7zZfTaWgKSSbPy3FBHAkCipJeLF7hwL3oL6FCTZeMmzD",
-    "volume": 1458416.06873157
+    "symbol": "Zhaki",
+    "change_24h": 727.251,
+    "address": "3VrhjGEaG6ixPT58R3G1riM7ZCGUVSZijLhktnRCz1kv",
+    "volume": 1642250.07256861
   },
   "token2": {
-    "symbol": "Kibo",
-    "change_24h": 148.778,
-    "address": "HJ4AFisW1oo8HVmyXL2QjjnAv4Y25NThse2LcpCreqtu",
-    "volume": 1376102.56204537
+    "symbol": "Split",
+    "change_24h": 406.85,
+    "address": "7zZfTaWgKSSbPy3FBHAkCipJeLF7hwL3oL6FCTZeMmzD",
+    "volume": 1701031.47643528
   },
-  "verdict": "По ончейн-метрикам TalkChart: Split опережает по ценовому импульсу (+402.0% против +148.8%). Краткосрочный фаворит по совокупности факторов: Split.",
-  "updated_at": "2026-11-28 00:08 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Zhaki опережает по ценовому импульсу (+727.3% против +406.9%). Краткосрочный фаворит по совокупности факторов: Zhaki.",
+  "updated_at": "2026-11-28 08:00 UTC"
 }

@@ -1,10 +1,10 @@
 Solana · история дня · 2026-11-28
-1. Split +402.0% — Split разрывает: +402.0% за 24ч. ускорение в последнем часе
-2. Kibo +148.8% — Kibo разрывает: +148.8% за 24ч. давление продаж нарастает
-3. SIDOOR +144.3% — SIDOOR разрывает: +144.3% за 24ч. ускорение в последнем часе
-4. DEXDATA +103.9% — DEXDATA разрывает: +103.9% за 24ч. ускорение в последнем часе
-5. duk -81.9% — duk в обвале: -81.9% за 24ч. объём $220.9K больше капы в 11.4× — бумага в огне
+1. Zhaki +727.3% — Zhaki разрывает: +727.3% за 24ч. объём $1.64M больше капы в 7.6× — бумага в огне
+2. Split +406.9% — Split разрывает: +406.9% за 24ч. ускорение в последнем часе
+3. duk -87.5% — duk в обвале: -87.5% за 24ч. давление продаж нарастает
+4. MoonBoy +80.6% — MoonBoy разрывает: +80.6% за 24ч. ускорение в последнем часе
+5. PUMPCHAN +74.5% — PUMPCHAN разрывает: +74.5% за 24ч. пулу 2 дн
 
-⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/7zZfTaWgKSSbPy3FBHAkCipJeLF7hwL3oL6FCTZeMmzD.json
+⚡ Интерактивный Blink в X: https://dial.to/?action=solana-action:https://leo88q.github.io/content-/site/api/actions/3VrhjGEaG6ixPT58R3G1riM7ZCGUVSZijLhktnRCz1kv.json
 Графики, которые разговаривают ↓
 https://leo88q.github.io/content-/site
