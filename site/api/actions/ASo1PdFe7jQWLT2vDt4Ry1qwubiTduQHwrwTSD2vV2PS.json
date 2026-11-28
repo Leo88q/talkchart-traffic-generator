@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/WINSTON_-53.png",
+  "title": "TalkChart: WINSTON (-52.8%) — Solana On-Chain Radar",
+  "description": "WINSTON в обвале: -52.8% за 24ч. продают в рынок (63% сделок за час). объём $1.74M больше капы в 129.9× — бумага в огне. ликвидность тонкая ($8.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $289.91 (71× медианы, 1ч назад). нетто китов за сутки +$29.22.\n\nОбъём: $1.74M · Ликвидность: $8.1K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп WINSTON (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=ASo1PdFe7jQWLT2vDt4Ry1qwubiTduQHwrwTSD2vV2PS"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-27T13:59:27+00:00",
+ "generated_at": "2026-11-28T00:08:26+00:00",
  "videos": [
   {
-   "file": "videos/2026-11-27/Snowball.mp4",
-   "latest_file": "videos/latest/Snowball.mp4",
-   "symbol": "Snowball",
-   "chg_h24": 2133.255
+   "file": "videos/2026-11-28/Split.mp4",
+   "latest_file": "videos/latest/Split.mp4",
+   "symbol": "Split",
+   "chg_h24": 401.96
   },
   {
-   "file": "videos/2026-11-27/DEXDATA.mp4",
-   "latest_file": "videos/latest/DEXDATA.mp4",
-   "symbol": "DEXDATA",
-   "chg_h24": 555.991
+   "file": "videos/2026-11-28/Kibo.mp4",
+   "latest_file": "videos/latest/Kibo.mp4",
+   "symbol": "Kibo",
+   "chg_h24": 148.778
   },
   {
-   "file": "videos/2026-11-27/SIDOOR.mp4",
+   "file": "videos/2026-11-28/SIDOOR.mp4",
    "latest_file": "videos/latest/SIDOOR.mp4",
    "symbol": "SIDOOR",
-   "chg_h24": 121.394
+   "chg_h24": 144.336
   }
  ]
 }

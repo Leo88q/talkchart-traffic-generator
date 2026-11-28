@@ -1,17 +1,17 @@
 {
-  "slug": "snowball-vs-dexdata",
+  "slug": "split-vs-kibo",
   "token1": {
-    "symbol": "Snowball",
-    "change_24h": 2133.255,
-    "address": "AirCDeU4yL6hjuina65mtWAKzmex7STKZSiNMYZhzKt2",
-    "volume": 2393961.90737198
+    "symbol": "Split",
+    "change_24h": 401.96,
+    "address": "7zZfTaWgKSSbPy3FBHAkCipJeLF7hwL3oL6FCTZeMmzD",
+    "volume": 1458416.06873157
   },
   "token2": {
-    "symbol": "DEXDATA",
-    "change_24h": 555.991,
-    "address": "6h2yPTQ4CaXcUjMYr6B6MkDmLqTzuLkZuh25aT4thrbZ",
-    "volume": 1364823.16239047
+    "symbol": "Kibo",
+    "change_24h": 148.778,
+    "address": "HJ4AFisW1oo8HVmyXL2QjjnAv4Y25NThse2LcpCreqtu",
+    "volume": 1376102.56204537
   },
-  "verdict": "По ончейн-метрикам TalkChart: Snowball опережает по ценовому импульсу (+2133.3% против +556.0%). Кроме того, у Snowball существенно глубже пул ликвидности ($68.7K против $33.8K), что снижает риск проскальзывания. Краткосрочный фаворит по совокупности факторов: Snowball.",
-  "updated_at": "2026-11-27 13:59 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Split опережает по ценовому импульсу (+402.0% против +148.8%). Краткосрочный фаворит по совокупности факторов: Split.",
+  "updated_at": "2026-11-28 00:08 UTC"
 }

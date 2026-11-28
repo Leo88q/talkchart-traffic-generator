@@ -1,0 +1,68 @@
+{
+  "pool": {
+    "address": "ASo1PdFe7jQWLT2vDt4Ry1qwubiTduQHwrwTSD2vV2PS",
+    "name": "WINSTON / SOL",
+    "base_symbol": "WINSTON",
+    "base_name": "WINSTON",
+    "base_address": "7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump",
+    "dex": "pumpswap",
+    "price_usd": 1.355690790366845e-05,
+    "created_at": "2026-11-27T13:14:56Z",
+    "fdv_usd": 13366.7879425614,
+    "reserve_usd": 8120.16,
+    "volume_h24": 1736665.90782979,
+    "change": {
+      "h1": 12.045,
+      "h6": -92.121,
+      "h24": -52.773
+    },
+    "tx_h1": {
+      "buys": 44,
+      "sells": 74
+    },
+    "whales": [
+      {
+        "kind": "buy",
+        "usd": 289.91,
+        "mult": 71.4,
+        "whale": false,
+        "hours_ago": 0.8,
+        "addr8": "BcsTCWvc"
+      },
+      {
+        "kind": "sell",
+        "usd": 257.51,
+        "mult": 63.4,
+        "whale": false,
+        "hours_ago": 1.4,
+        "addr8": "BCWvAox5"
+      },
+      {
+        "kind": "sell",
+        "usd": 255.19,
+        "mult": 62.8,
+        "whale": false,
+        "hours_ago": 1.4,
+        "addr8": "TBDsMQJd"
+      },
+      {
+        "kind": "buy",
+        "usd": 252.01,
+        "mult": 62.0,
+        "whale": false,
+        "hours_ago": 1.4,
+        "addr8": "BCWvAox5"
+      }
+    ],
+    "first_seen": "2026-11-28T00:08:16+00:00",
+    "last_seen": "2026-11-28T00:08:16+00:00"
+  },
+  "narrative": "WINSTON в обвале: -52.8% за 24ч. продают в рынок (63% сделок за час). объём $1.74M больше капы в 129.9× — бумага в огне. ликвидность тонкая ($8.1K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $289.91 (71× медианы, 1ч назад). нетто китов за сутки +$29.22.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "давление продаж"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 4 (2 покупок, 2 продаж). Крупнейшая: покупка на $289.91 (71× медианы). Нетто-поток китов: +$29.22.",
+  "updated_at": "2026-11-28T00:08:16Z"
+}

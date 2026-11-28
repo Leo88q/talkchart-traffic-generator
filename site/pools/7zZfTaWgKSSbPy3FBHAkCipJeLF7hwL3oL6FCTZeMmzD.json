@@ -1,0 +1,60 @@
+{
+  "pool": {
+    "address": "7zZfTaWgKSSbPy3FBHAkCipJeLF7hwL3oL6FCTZeMmzD",
+    "name": "Split / SOL",
+    "base_symbol": "Split",
+    "base_name": "Split",
+    "base_address": "HAP9FcXubD88SjRHMY1kr5iukpRZgeMAgCBam3Vtpump",
+    "dex": "pumpswap",
+    "price_usd": 0.00013443230931080953,
+    "created_at": "2026-11-27T17:07:01Z",
+    "fdv_usd": 134432.3093,
+    "reserve_usd": 30025.3976,
+    "volume_h24": 1458416.06873157,
+    "change": {
+      "h1": 3.699,
+      "h6": 86.339,
+      "h24": 401.96
+    },
+    "tx_h1": {
+      "buys": 591,
+      "sells": 618
+    },
+    "whales": [
+      {
+        "kind": "sell",
+        "usd": 287.06,
+        "mult": 64.6,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "7iVCXQn4"
+      },
+      {
+        "kind": "buy",
+        "usd": 273.9,
+        "mult": 61.7,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "F7p3dFrj"
+      },
+      {
+        "kind": "buy",
+        "usd": 255.67,
+        "mult": 57.6,
+        "whale": false,
+        "hours_ago": 0.1,
+        "addr8": "6rnydj4u"
+      }
+    ],
+    "first_seen": "2026-11-28T00:08:16+00:00",
+    "last_seen": "2026-11-28T00:08:16+00:00"
+  },
+  "narrative": "Split разрывает: +402.0% за 24ч. ускорение в последнем часе. объём $1.46M больше капы в 10.8× — бумага в огне. ликвидность тонкая ($30.0K) — движения будут резкими. пулу 0 дн. — чистая рулетка. крупная сделка на фоне ленты: продал $287.06 (65× медианы, 0ч назад). нетто китов за сутки +$242.51.",
+  "flags": [
+    "тонкая ликвидность",
+    "молодой пул",
+    "перегрет за 24ч"
+  ],
+  "whale_summary": "Зафиксировано крупных сделок: 3 (2 покупок, 1 продаж). Крупнейшая: продажа на $287.06 (65× медианы). Нетто-поток китов: +$242.51.",
+  "updated_at": "2026-11-28T00:08:16Z"
+}
