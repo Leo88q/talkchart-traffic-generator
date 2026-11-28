@@ -1,6 +1,6 @@
 # TalkChart Solana Pools Directory
 
-Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
+Total pools monitored: 300. Updated 2026-11-28 16:59 UTC.
 
 - [TTWO](https://leo88q.github.io/content-/site/pools/7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT.md) (TTWO / SOL): +2.3% 24h | Vol $18.83M | Liq $363.8K
 - [ANT](https://leo88q.github.io/content-/site/pools/AzFmLSSVabxCpcZBL94KDr6EUcCNhS2KYHtwFbWHi3f8.md) (ANT / USDC): -15.3% 24h | Vol $16.87M | Liq $1.49M
@@ -9,7 +9,6 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [GTA6](https://leo88q.github.io/content-/site/pools/Hb5RbkVssdJictskVjn9c2p16BsCesdHX4JdSWbFjG7a.md) (GTA6 / SOL): +3.1% 24h | Vol $9.90M | Liq $71.3K
 - [uni](https://leo88q.github.io/content-/site/pools/3UydvHKHxDm77yPPDsKsvd73Kt8uQ48N4PNjuWN42HDJ.md) (uni / SOL): -66.9% 24h | Vol $8.71M | Liq $238.5K
 - [TTWO](https://leo88q.github.io/content-/site/pools/6PTm7MkUmtsLU7w6dWrMHJAt8PnzoCgcZdKyTKEhUAPL.md) (TTWO / USDC): +4.2% 24h | Vol $8.44M | Liq $463.1K
-- [Something](https://leo88q.github.io/content-/site/pools/FAHXgxDGMw5sfFW77SCHBcT9qiQ2ArrPzo98xJxMf9kk.md) (Something / SOL): -73.5% 24h | Vol $8.37M | Liq $28.0K
 - [DUBBLE](https://leo88q.github.io/content-/site/pools/EWiqwm9wXVoj5yyb8VV2FkS9rc5HWJ3PmtwCKuv94P24.md) (DUBBLE / SOL): +342.2% 24h | Vol $8.33M | Liq $45.4K
 - [GTAVI](https://leo88q.github.io/content-/site/pools/9YbrZx4ytWsuhsbfM75r4RfPW25MGaos4CVcuXM6qBNY.md) (GTAVI / GTA6): +129.2% 24h | Vol $7.90M | Liq $64.8K
 - [PAWCAT](https://leo88q.github.io/content-/site/pools/eEJ4ZYpgiNTCwRq4cVBdUbqq7s45KrM7XaEFcu3uuGb.md) (PAWCAT / SOL): +2553.1% 24h | Vol $6.10M | Liq $141.6K
@@ -17,6 +16,7 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [CATBOT](https://leo88q.github.io/content-/site/pools/9CnCbMdSHu7P4VvPzoELHbB6rmBy3quiAby36KqcswvW.md) (CATBOT / SOL): +913.9% 24h | Vol $5.77M | Liq $150.1K
 - [BIRB](https://leo88q.github.io/content-/site/pools/GUWFT7bbLphGrcpAPnnEnBbe1uErv9e6LLC2qPx2wZy1.md) (BIRB / USDC): -8.6% 24h | Vol $5.77M | Liq $1.69M
 - [GTASZN](https://leo88q.github.io/content-/site/pools/C3ai5bk7q9jTtVcbWQeEXSta99BMmLCNVyasDD7mnQBt.md) (GTASZN / SOL): +636.4% 24h | Vol $5.41M | Liq $67.9K
+- [MoonBoy](https://leo88q.github.io/content-/site/pools/DkNJBoh2KngPNumX5BdEakmpX2fYPNu57xZFn6C2dRE1.md) (MoonBoy / SPCX): +352.2% 24h | Vol $5.33M | Liq $111.0K
 - [inuhao](https://leo88q.github.io/content-/site/pools/AQFC3QfATJggPQEuQGS65RuAQq5u2Pin6MYjz1eu4s31.md) (inuhao / SOL): -66.8% 24h | Vol $5.21M | Liq $80.0K
 - [HYPE](https://leo88q.github.io/content-/site/pools/31KrYUDzgEQhEgr1JSNVfHAknWACcF97CtUaU8enKQsy.md) (HYPE / SOL): -4.8% 24h | Vol $5.18M | Liq $4.45M
 - [MINELIUS](https://leo88q.github.io/content-/site/pools/7yJDP2VmgazVEa6usbXM61uSk5AT3J4dZFaJQvq2LnfZ.md) (MINELIUS / SOL): +4813.8% 24h | Vol $5.18M | Liq $314.1K
@@ -32,7 +32,6 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [Zero](https://leo88q.github.io/content-/site/pools/9sBikgSUu5U3q1JbFwdkWJ4Kb3q7kjEujoo4gd5vYumg.md) (Zero / SOL): +678.3% 24h | Vol $4.25M | Liq $39.2K
 - [Huang](https://leo88q.github.io/content-/site/pools/FJ1Y3drK5Z715mj8Hk512ekk3rQhTAhgRv6HMhnPCN2u.md) (Huang / SOL): +450.3% 24h | Vol $4.21M | Liq $37.3K
 - [HODL](https://leo88q.github.io/content-/site/pools/ANS69UDTbMCWbW7ZuCYXLZ4HMCQkvzPMtCW9zjPZQGKR.md) (HODL / SOL): +1015.1% 24h | Vol $4.20M | Liq $162.5K
-- [MoonBoy](https://leo88q.github.io/content-/site/pools/DkNJBoh2KngPNumX5BdEakmpX2fYPNu57xZFn6C2dRE1.md) (MoonBoy / SPCX): +80.6% 24h | Vol $4.20M | Liq $68.0K
 - [HOLD](https://leo88q.github.io/content-/site/pools/GUsid5mPW6KiExjQDDggoTHrFv4ecGqqAgYwiHa4Ujbb.md) (HOLD / SOL): +1769.1% 24h | Vol $4.17M | Liq $71.8K
 - [SIS](https://leo88q.github.io/content-/site/pools/Ht4GxW1pL2SfamcfC3qcZEcjDHpE55TtjUjnKVs2nhxr.md) (SIS / SOL): +6.0% 24h | Vol $4.10M | Liq $30.1K
 - [DESSA](https://leo88q.github.io/content-/site/pools/DEXTCER4k9dwbxTMU8zNVVwGevVmvHMB183pF2xxZwvH.md) (DESSA / SOL): -59.3% 24h | Vol $4.00M | Liq $400.4K
@@ -42,7 +41,6 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [OGTA](https://leo88q.github.io/content-/site/pools/2RDx58tnDMEmZcQy9qGAfwhq9iCRRMbDuAtruofrjyZU.md) (OGTA / SOL): +76.8% 24h | Vol $3.67M | Liq $30.5K
 - [1WIN](https://leo88q.github.io/content-/site/pools/3Uq381E8SfUit1AG5zXMQC9VmjJJJDMzenPm26DkvLeK.md) (1WIN / SOL): -26.0% 24h | Vol $3.60M | Liq $1.01M
 - [AI](https://leo88q.github.io/content-/site/pools/4ED23rzhNjRx13fh8mN5o8UdZwKByKjjUNw36MDiWFai.md) (AI / SOL): +321.0% 24h | Vol $3.57M | Liq $38.8K
-- [Rapport](https://leo88q.github.io/content-/site/pools/55Md1fKr9zze1LmfK2byyEcPd55d5A2FR9Duoi7Pfmw2.md) (Rapport / SOL): +228.6% 24h | Vol $3.57M | Liq $36.2K
 - [SPCX](https://leo88q.github.io/content-/site/pools/FjuBy7jjf9DXj9d3R7cHpvcnoFW2iQxf7F7P3vqx4Jza.md) (SPCX / USDC): -0.2% 24h | Vol $3.56M | Liq $2.63M
 - [Mag](https://leo88q.github.io/content-/site/pools/54m3ACZLA7hK76HsbgRhYySVecaabP7T4J75uXe2ESNe.md) (Mag / SOL): +56.3% 24h | Vol $3.54M | Liq $29.9K
 - [Marvin](https://leo88q.github.io/content-/site/pools/5dEBrzrm8F8aXNGkDR4qXEwXm11h62sJgPuPJMXHxCta.md) (Marvin / SPCX): -23.4% 24h | Vol $3.37M | Liq $40.8K
@@ -52,6 +50,7 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [OpenIndex](https://leo88q.github.io/content-/site/pools/4X1SAtTgzqfyRDu237HxJLtSfTosMHe9EuXNPvRfFbjc.md) (OpenIndex / SOL): +916.0% 24h | Vol $3.27M | Liq $43.8K
 - [FLC](https://leo88q.github.io/content-/site/pools/HGgP8yXg71PdRxTvA53Q7mKdzx9zSTUW8E2roC28WtZa.md) (FLC / SOL): +133.0% 24h | Vol $3.26M | Liq $23.8K
 - [AMD](https://leo88q.github.io/content-/site/pools/6ZV8dyRdxH56Au2EbhpZZBMKpRP5ixBKPRJ7hB2pJ3rr.md) (AMD / SOL): -40.9% 24h | Vol $3.26M | Liq $96.8K
+- [TRUMP](https://leo88q.github.io/content-/site/pools/3C5YE97HADPDxZehYq9Cis8AXr9aNyrUsczKzE1nDbW9.md) (TRUMP / USDC): -14.4% 24h | Vol $3.24M | Liq $3.37M
 - [iCoin](https://leo88q.github.io/content-/site/pools/8JFAALGEWz3Mg86GoFe3Cph6eFgd3dq5H4M1z7SHTDNX.md) (iCoin / AAPLx): -88.6% 24h | Vol $3.21M | Liq $26.6K
 - [updog](https://leo88q.github.io/content-/site/pools/GeQmNaXBb86uLLQr3EAEwoukxVqSh4qTm3uXvb3G7Mne.md) (updog / mihao): +288.9% 24h | Vol $3.19M | Liq $47.3K
 - [CLOUD](https://leo88q.github.io/content-/site/pools/F1KKNyUCsQcZLRjwQ4abX6Ri8gDAQ46nHwSHFKA5sFQv.md) (CLOUD / USDC): -26.2% 24h | Vol $3.12M | Liq $450.9K
@@ -59,7 +58,6 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [GROKIA](https://leo88q.github.io/content-/site/pools/CpfB8pTVj8Uzu55nKj6sX4KmV6zVe7J2t3C22mLgCVGg.md) (GROKIA / SOL): +516.4% 24h | Vol $3.10M | Liq $119.5K
 - [RAY](https://leo88q.github.io/content-/site/pools/2AXXcN6oN9bBT5owwmTH53C7QHUXvhLeu718Kqt8rvY2.md) (RAY / SOL 0.05%): +6.4% 24h | Vol $3.06M | Liq $2.06M
 - [BLOB](https://leo88q.github.io/content-/site/pools/Hr9qopJXCuak38rxDpZduUFhdAK2BfjtoXbfQZVn2EwU.md) (BLOB / SOL): +278.5% 24h | Vol $3.05M | Liq $418.1K
-- [MOGZ](https://leo88q.github.io/content-/site/pools/7j13CapqLC4dGaGYFCxgL8t31R7B1Gt93uBh8EdoRp9H.md) (MOGZ / SOL): +1327.6% 24h | Vol $3.01M | Liq $66.8K
 - [TAOLF](https://leo88q.github.io/content-/site/pools/7PzBqm9vhh5ixKWwtpKEnppSqb3xzQ7NBK7JrEFPcMfq.md) (TAOLF / SOL): -70.7% 24h | Vol $2.96M | Liq $38.8K
 - [CARDS](https://leo88q.github.io/content-/site/pools/HnhpJPJgBG2KwniMTNW8cVBHvk1hFog3RC3kjnyc23tD.md) (CARDS / USDC): -5.1% 24h | Vol $2.96M | Liq $3.23M
 - [GIGAHUG](https://leo88q.github.io/content-/site/pools/BrkcwRYAJ22Fgqh6GgeLbRmUEdXx7yLhNcAAsAJoR8yt.md) (GIGAHUG / SOL): +19.8% 24h | Vol $2.95M | Liq $51.0K
@@ -68,7 +66,6 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [FSDV15](https://leo88q.github.io/content-/site/pools/DXVpx5PnefCiLVMucmUxrX2x7MgSDMTggmQgiRA2zV6W.md) (FSDV15 / SOL): +798.7% 24h | Vol $2.75M | Liq $71.9K
 - [Frongus](https://leo88q.github.io/content-/site/pools/Deb7ybe2LHf242BxqWD4hBQXKgfAoLSWFWXpgeHeNseq.md) (Frongus / SOL): -91.2% 24h | Vol $2.71M | Liq $26.0K
 - [PERRO](https://leo88q.github.io/content-/site/pools/4s1epXdedd7TY1UtJ7frou3saSxuG98os7HcPtNEu8WH.md) (PERRO / SOL): +44.4% 24h | Vol $2.67M | Liq $15.7K
-- [TRUMP](https://leo88q.github.io/content-/site/pools/3C5YE97HADPDxZehYq9Cis8AXr9aNyrUsczKzE1nDbW9.md) (TRUMP / USDC): -11.3% 24h | Vol $2.63M | Liq $3.52M
 - [FNDR](https://leo88q.github.io/content-/site/pools/E228rR6v99NTkHW19DoTdPCmrcL8rnnzTBVwz2VNkwww.md) (FNDR / SOL): +734.0% 24h | Vol $2.59M | Liq $36.3K
 - [JENSEN](https://leo88q.github.io/content-/site/pools/DqpqkbBQr3wMTy5rYjoq3NZrrZWbh7H9x2GJ7oSN9mHH.md) (JENSEN / SOL): +77.8% 24h | Vol $2.58M | Liq $28.8K
 - [Diamond](https://leo88q.github.io/content-/site/pools/GhFSaPdvu75KCpsUVk7CZ8A1tdjYeo6YvZx1QiBgwfSJ.md) (Diamond / PUMP): -59.6% 24h | Vol $2.58M | Liq $49.0K
@@ -91,6 +88,7 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [RM](https://leo88q.github.io/content-/site/pools/639HxYRwtpmBKv6qJeYFd7WGckGQ3KsRKZixB9hjcRbv.md) (RM / SOL): -57.8% 24h | Vol $2.01M | Liq $9.3K
 - [HODL](https://leo88q.github.io/content-/site/pools/DTdtHUx79bmNMnesv3au7pzBKAkB3mUUi8GwUdZ6Suw.md) (HODL / SOL): +0.8% 24h | Vol $2.01M | Liq $274.5K
 - [MAYA](https://leo88q.github.io/content-/site/pools/51edMriYsoN7MWtgQxAYsoG4z9nnVhVUUpbuyY1EPCbo.md) (MAYA / SOL): +320.8% 24h | Vol $1.95M | Liq $73.2K
+- [Split](https://leo88q.github.io/content-/site/pools/7zZfTaWgKSSbPy3FBHAkCipJeLF7hwL3oL6FCTZeMmzD.md) (Split / SOL): +374.2% 24h | Vol $1.95M | Liq $30.7K
 - [1WIN](https://leo88q.github.io/content-/site/pools/E8eQ1j7r1EaknRfkfkTrtUaeFBrw5rzcJGL7Kzj3WNf3.md) (1WIN / USDC): +104.1% 24h | Vol $1.94M | Liq $113.2K
 - [CATMARIO](https://leo88q.github.io/content-/site/pools/E1Vu4cTTaPn56hrzdS2UjK1dXVCi5awmM13J2ZY6ksvY.md) (CATMARIO / GMEx): -61.4% 24h | Vol $1.92M | Liq $37.0K
 - [NVDA](https://leo88q.github.io/content-/site/pools/8HLazC9JupCbmQViNXmZCaQAHZ5opSk2YHH1Yim5SLaQ.md) (NVDA / USDC): -8.2% 24h | Vol $1.90M | Liq $630.2K
@@ -100,18 +98,16 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [MAMESUKE](https://leo88q.github.io/content-/site/pools/HPeXruE5Msv7paz5WPViwScLeSYWgZr8vhDakuiEp5ku.md) (MAMESUKE / STONK): +77.9% 24h | Vol $1.80M | Liq $109.3K
 - [BAWSAQ](https://leo88q.github.io/content-/site/pools/B8a1mw1vfm5pnm4RgUd8zhbtBnkPB2fBMdikU33Z1jqv.md) (BAWSAQ / SOL): +580.2% 24h | Vol $1.80M | Liq $94.9K
 - [Elonmas](https://leo88q.github.io/content-/site/pools/3HZez3ezzSDTZaT12pqMZwii8Ury9rknjQumsJQYwYt7.md) (Elonmas / SOL): +351.6% 24h | Vol $1.78M | Liq $27.2K
-- [WINSTON](https://leo88q.github.io/content-/site/pools/ASo1PdFe7jQWLT2vDt4Ry1qwubiTduQHwrwTSD2vV2PS.md) (WINSTON / SOL): -66.2% 24h | Vol $1.74M | Liq $6.6K
 - [JaoJiu](https://leo88q.github.io/content-/site/pools/4f4F69asRNnyyCidkkmNG9EsFt1fGw2CWiNeqcRwAtN8.md) (JaoJiu / SOL): -53.2% 24h | Vol $1.72M | Liq $8.4K
-- [Split](https://leo88q.github.io/content-/site/pools/7zZfTaWgKSSbPy3FBHAkCipJeLF7hwL3oL6FCTZeMmzD.md) (Split / SOL): +406.9% 24h | Vol $1.70M | Liq $31.3K
 - [FOCO](https://leo88q.github.io/content-/site/pools/8L3igRfrvKYRJnU9hZf7Sk5NJA62S8GA54DKatBf6qH2.md) (FOCO / SOL): -7.5% 24h | Vol $1.67M | Liq $65.2K
 - [HOGE](https://leo88q.github.io/content-/site/pools/7CNC9gGegzEfFK8fLXiYUhdtMEeFPQZoND56U1Mxhnor.md) (HOGE / USDC): -1.1% 24h | Vol $1.66M | Liq $146.5K
 - [VI](https://leo88q.github.io/content-/site/pools/DtMxVpisZpxLHdiDWxGT4RZUPtD5EzAa5z9EChjNo93K.md) (VI / SOL): +101.6% 24h | Vol $1.65M | Liq $48.3K
-- [Zhaki](https://leo88q.github.io/content-/site/pools/3VrhjGEaG6ixPT58R3G1riM7ZCGUVSZijLhktnRCz1kv.md) (Zhaki / SOL): +727.3% 24h | Vol $1.64M | Liq $36.1K
 - [Buttcoin](https://leo88q.github.io/content-/site/pools/FFcYgSSgWHforA9rXXkA48p8YFoz8TSW85Jpo3CQHDyS.md) (Buttcoin / SOL): +21.7% 24h | Vol $1.62M | Liq $510.0K
 - [Leonida](https://leo88q.github.io/content-/site/pools/6Ecx5Lm5dinVma1xWMEumj6ABZL3g1Xx4t5rxQxELzdn.md) (Leonida / SOL): -49.6% 24h | Vol $1.59M | Liq $67.2K
 - [PURR](https://leo88q.github.io/content-/site/pools/Ad7pbBvVRNofo96WR6eHwmU2o4naZ6Lao1J98hW8a1TQ.md) (PURR / HYPE): +28.5% 24h | Vol $1.59M | Liq $289.6K
 - [bill](https://leo88q.github.io/content-/site/pools/95ytGFRcBgT1d8ioAQkPtXEA6QrgJ5omgiMHnyheRxdP.md) (bill / USDC): -85.4% 24h | Vol $1.58M | Liq $41.2K
 - [DacityCoin](https://leo88q.github.io/content-/site/pools/7Te1wXcfeQjKLGHXFvxSCnGZTqunoZ9fxBn7KKjrkNEr.md) (DacityCoin / TTWO): -78.7% 24h | Vol $1.58M | Liq $95.3K
+- [Zhaki](https://leo88q.github.io/content-/site/pools/3VrhjGEaG6ixPT58R3G1riM7ZCGUVSZijLhktnRCz1kv.md) (Zhaki / SOL): +1585.6% 24h | Vol $1.57M | Liq $25.1K
 - [CPU](https://leo88q.github.io/content-/site/pools/APKy43xkxRZ4iJQB7aQAr6u82cRpk8tCg13TKsmUKcAD.md) (CPU / INTCx): -54.4% 24h | Vol $1.57M | Liq $50.9K
 - [NIO](https://leo88q.github.io/content-/site/pools/B4Wmjc6PvjCtU3qSVS3eTT9Mr4M5V5jBkRQctWANTc71.md) (NIO / SOL): +7.5% 24h | Vol $1.54M | Liq $135.5K
 - [ZELDA](https://leo88q.github.io/content-/site/pools/FxgB3zDKyGYPJhEXN1aGewcZ6TfkHpstsXiPdiUbuKF3.md) (ZELDA / SOL): -3.1% 24h | Vol $1.54M | Liq $28.8K
@@ -127,22 +123,23 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [Anakin](https://leo88q.github.io/content-/site/pools/HJa61kEfSAwRt3DW9p15mLh6U5MaQgZGbE51ngg7bYtT.md) (Anakin / PUMP): -60.4% 24h | Vol $1.35M | Liq $101.6K
 - [STONKS](https://leo88q.github.io/content-/site/pools/4KHfHnqxV4BRGvwoRtuFj2P8P6JesY65sWecVpxfHdpn.md) (STONKS / STONK): -52.2% 24h | Vol $1.34M | Liq $151.3K
 - [Saturween](https://leo88q.github.io/content-/site/pools/HJZMbpTZGuq5Nkss7CrDV4ooxfYKLv7p5aWiqYSBDdq2.md) (Saturween / SOL): +39.7% 24h | Vol $1.33M | Liq $64.1K
+- [RICE](https://leo88q.github.io/content-/site/pools/382jzMN7ijo5CsjmLZ8cvk3dWfQQhcTiyLp6ULaiVgh8.md) (RICE / SOL): -66.3% 24h | Vol $1.33M | Liq $7.6K
 - [Slingoor](https://leo88q.github.io/content-/site/pools/Hc4R8zmxKkPvDrsAcUH1YxaSVHmykUd85CkavcTB2GJo.md) (Slingoor / SOL): -95.2% 24h | Vol $1.32M | Liq $18.8K
 - [CAPY](https://leo88q.github.io/content-/site/pools/4WutFjFujupWJm5UUidXouMgUPauXG4sAEjVaYqjrMBW.md) (CAPY / SOL): -24.3% 24h | Vol $1.31M | Liq $130.0K
-- [PUMPCHAN](https://leo88q.github.io/content-/site/pools/DDcyemq9bkyqtC93djkwaH6VaMKCjVsoCUVGV29q7teB.md) (PUMPCHAN / SOL): +74.5% 24h | Vol $1.30M | Liq $328.8K
-- [JOB](https://leo88q.github.io/content-/site/pools/HAUVBmNthCFmG9SRXMvZ1GAXNpU955hkPdSAsC2cx4C8.md) (JOB / SOL): +10.4% 24h | Vol $1.30M | Liq $146.6K
 - [Apocrycoin](https://leo88q.github.io/content-/site/pools/31ZwgJENwbxd2NkNfmhTbaFFEGtMviijVx3niqVb9CN9.md) (Apocrycoin / TTWO): +27.9% 24h | Vol $1.29M | Liq $44.8K
 - [TUSK](https://leo88q.github.io/content-/site/pools/AvVpGEWSAzXpQfDu8mXGNNbCM9ZjkoANYVh637ioooCD.md) (TUSK / SOL): -39.2% 24h | Vol $1.27M | Liq $13.2K
 - [Percolator](https://leo88q.github.io/content-/site/pools/Ebs3mXAzqZfzHfsdinTNw7gPy4uNyEAywcCiJxzLRrBW.md) (Percolator / SOL): -89.9% 24h | Vol $1.27M | Liq $93.4K
 - [GTA6](https://leo88q.github.io/content-/site/pools/5AFbwVSQPJf4cgEjq4TajZYyPYUvYktrRN3SahNrPnmv.md) (GTA6 / SOL): -60.6% 24h | Vol $1.27M | Liq $6.9K
+- [PUMPCHAN](https://leo88q.github.io/content-/site/pools/DDcyemq9bkyqtC93djkwaH6VaMKCjVsoCUVGV29q7teB.md) (PUMPCHAN / SOL): -1.6% 24h | Vol $1.27M | Liq $301.5K
 - [Robotaxi](https://leo88q.github.io/content-/site/pools/CcuQGu7LYTrXCSePPf58ufMyZtewHBQardcWJ6HuVRYN.md) (Robotaxi / TSLAx): -92.1% 24h | Vol $1.19M | Liq $21.1K
+- [Vicewire](https://leo88q.github.io/content-/site/pools/88T4NHVEEieMQ4LFxa2Juew2VcnBkzyDueFgsfrR2VLG.md) (Vicewire / SOL): +182.4% 24h | Vol $1.17M | Liq $21.7K
 - [CHOO](https://leo88q.github.io/content-/site/pools/3unG5b7czBspnmjFRZzzNyQVpk8q3LERr6BAYnFohdfz.md) (CHOO / WBTC): -10.6% 24h | Vol $1.17M | Liq $197.1K
 - [QUINN](https://leo88q.github.io/content-/site/pools/2ZWUBjWSb7xArFasTf7XH859VCSfaMGMAMtJ3Y2vr6Yz.md) (QUINN / SOL): -73.7% 24h | Vol $1.16M | Liq $6.7K
 - [REMUS](https://leo88q.github.io/content-/site/pools/6JDiSPsWBwcSN8xBa4LNBzMZRikxksbxcto8J3ELR4cG.md) (REMUS / SOL): -84.0% 24h | Vol $1.15M | Liq $49.6K
-- [Snowball](https://leo88q.github.io/content-/site/pools/AirCDeU4yL6hjuina65mtWAKzmex7STKZSiNMYZhzKt2.md) (Snowball / SOL): -35.5% 24h | Vol $1.14M | Liq $43.2K
 - [CAPY](https://leo88q.github.io/content-/site/pools/7Jyz7YkQvvrHcjrmKhzs1Z6fUP16PKPcwonVDNkqrert.md) (CAPY / SOL): -46.3% 24h | Vol $1.11M | Liq $26.2K
 - [Leverhedge](https://leo88q.github.io/content-/site/pools/6d3uJEzDB2WDbvVryFycvgXSiH9fW6ML6hScia5QVHwp.md) (Leverhedge / SOL): -12.3% 24h | Vol $1.10M | Liq $82.4K
 - [PUMP](https://leo88q.github.io/content-/site/pools/BofA2ViUSudPBTUms2KRuG6AHNeMawjNfwqTJDgx5BKW.md) (PUMP / SOL): -4.7% 24h | Vol $1.09M | Liq $1.40M
+- [JOB](https://leo88q.github.io/content-/site/pools/HAUVBmNthCFmG9SRXMvZ1GAXNpU955hkPdSAsC2cx4C8.md) (JOB / SOL): +49.9% 24h | Vol $1.09M | Liq $175.5K
 - [PUSSY](https://leo88q.github.io/content-/site/pools/HcyYBrZVFDDVBLtLxL5C1HDJND1p86BoNA6m7MjBKE3p.md) (PUSSY / SOL): -39.3% 24h | Vol $1.09M | Liq $72.2K
 - [Huss](https://leo88q.github.io/content-/site/pools/GkHcYZeXDi2SveqNaGSg3qxrkzShDr5Dxrd482kM2hXx.md) (Huss / SOL): +25.7% 24h | Vol $1.08M | Liq $67.9K
 - [PODCAT](https://leo88q.github.io/content-/site/pools/4zyGG3NZ4td2dxSPoeY2rqfiU5MDbFeeSVeVR2KR1PwP.md) (PODCAT / SOL): +0.0% 24h | Vol $1.07M | Liq $30.1K
@@ -159,11 +156,11 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [MCAT](https://leo88q.github.io/content-/site/pools/44mfbdBRUZQBaFW7PGRKyqGDroEHnp6eLvTCk1bCxbcC.md) (MCAT / SOL): -95.6% 24h | Vol $968.6K | Liq $5.6K
 - [UNPOOLED](https://leo88q.github.io/content-/site/pools/E1FM1Y9D6Hnxt9fTEHkauRKjaEeJbY42DFZV39AXCZDs.md) (UNPOOLED / SOL): -83.1% 24h | Vol $966.5K | Liq $5.3K
 - [WIGGLES](https://leo88q.github.io/content-/site/pools/6Lk5AZYQ9TkvqMzAc6YQ2RwWSg46RzuN3enqu6g6xQAE.md) (WIGGLES / SOL): -56.7% 24h | Vol $964.1K | Liq $26.0K
+- [Fullball](https://leo88q.github.io/content-/site/pools/8ruT8oNcToUbsJz3zQcNNsm5n9mWN99Lf3ZkGpzkqmV7.md) (Fullball / SOL): +11.3% 24h | Vol $954.9K | Liq $14.2K
 - [SLINGFOLIO](https://leo88q.github.io/content-/site/pools/7G4RvLMnBuBytt2CD8uUZ6qhYbFQdZZrKnKL9633ZsqA.md) (SLINGFOLIO / SOL): -55.6% 24h | Vol $954.0K | Liq $9.6K
+- [FIONA](https://leo88q.github.io/content-/site/pools/DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB.md) (FIONA / SOL): +15.4% 24h | Vol $942.4K | Liq $117.2K
 - [HAMSTER](https://leo88q.github.io/content-/site/pools/EkHWcjpNiu8N368E9f4Hkzab3nVdAAg6BLWtVmZGL2t8.md) (HAMSTER / SOL): -47.0% 24h | Vol $928.0K | Liq $54.2K
-- [Kibo](https://leo88q.github.io/content-/site/pools/HJ4AFisW1oo8HVmyXL2QjjnAv4Y25NThse2LcpCreqtu.md) (Kibo / SOL): -60.3% 24h | Vol $920.1K | Liq $18.4K
 - [DIGS](https://leo88q.github.io/content-/site/pools/3mxDjdZ1gAe5HziC4dj4UnLdXJ5DBcC9jsSYq55mFyKg.md) (DIGS / SOL): +18.8% 24h | Vol $910.9K | Liq $50.5K
-- [LMAO!](https://leo88q.github.io/content-/site/pools/AFaYrFH7hUYnkv5mbvbnRHwX29M9JzUL3ySGtQz69AUv.md) (LMAO! / SOL): -18.4% 24h | Vol $906.5K | Liq $274.9K
 - [MOGMAS](https://leo88q.github.io/content-/site/pools/Dq9JgfQkFe9fX2vPM5tPbtWdB9HnYGoqFkfUKdHgM9U4.md) (MOGMAS / SOL): -28.6% 24h | Vol $904.7K | Liq $12.2K
 - [Kimchi](https://leo88q.github.io/content-/site/pools/6DNxwecbtdNNstpB5tdnxZsfGe3HmsNgEUZhdue4b1PH.md) (Kimchi / SOL): +16.9% 24h | Vol $902.0K | Liq $125.2K
 - [FOOD](https://leo88q.github.io/content-/site/pools/2XhQqp1vDVxtaa21bPsekQF5gjts9euqRPSZ6Urs41qk.md) (FOOD / SOL): -64.6% 24h | Vol $888.7K | Liq $44.3K
@@ -171,17 +168,17 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [TYGR](https://leo88q.github.io/content-/site/pools/BJVHreQzTvimR8PKbiwXTfX1WSsA7ha9vgB2aLxtydpR.md) (TYGR / SOL): +120.6% 24h | Vol $878.4K | Liq $12.9K
 - [HOUSECOIN](https://leo88q.github.io/content-/site/pools/92GXaeWxDSz3sVugo8JMeZy1FcXvWZNaEBkSmpeWP2k9.md) (HOUSECOIN / SOL): -93.4% 24h | Vol $875.5K | Liq $17.6K
 - [PIRATE](https://leo88q.github.io/content-/site/pools/CKuwAXUbnxmeCNurN5VvyC7kLz42JnQtyh2nyFJ8Kv1X.md) (PIRATE / SOL): +82.9% 24h | Vol $874.7K | Liq $55.5K
+- [JIMMY](https://leo88q.github.io/content-/site/pools/FnHWfV49ywCtGCDTyf34AVN8BiXxcgXUKqLctkrkP1gQ.md) (JIMMY / SOL): +29.0% 24h | Vol $856.4K | Liq $81.2K
 - [SIB](https://leo88q.github.io/content-/site/pools/HEJfRQiuirFN9QmLUCiLfcDv6FXiTvxGWZamJoqsbEYv.md) (SIB / SPCX): +17.1% 24h | Vol $854.4K | Liq $68.5K
 - [4CHAN](https://leo88q.github.io/content-/site/pools/Ak4wr2ueEAJMqZSEcGPMX9EhCrwWRngP8CskvdEh1e6H.md) (4CHAN / SOL): -80.6% 24h | Vol $853.2K | Liq $20.2K
 - [BTC](https://leo88q.github.io/content-/site/pools/CrrYbad77F4KNUBhpnUTUufYHt8gcbGZQhfc2uZaamt7.md) (BTC / SOL): -89.9% 24h | Vol $850.3K | Liq $24.4K
+- [Snowball](https://leo88q.github.io/content-/site/pools/AirCDeU4yL6hjuina65mtWAKzmex7STKZSiNMYZhzKt2.md) (Snowball / SOL): -71.0% 24h | Vol $832.3K | Liq $40.6K
 - [AgenC](https://leo88q.github.io/content-/site/pools/BUMh6YebpBvAh4by4oTGJUvzQ9CvH6dqPgrZvXFDMwC1.md) (AgenC / SOL): +23.8% 24h | Vol $831.7K | Liq $196.4K
 - [PIRATE](https://leo88q.github.io/content-/site/pools/2ouNPACQVBoDqWJ7Ft6EGhmCGScKpmRzaQn6a9vhKp6D.md) (PIRATE / SOL): -69.9% 24h | Vol $821.1K | Liq $77.5K
 - [RAM](https://leo88q.github.io/content-/site/pools/A5FpVH5c4Zya6EwbBWGzLsFDoUGCX5BjSXK4FXKUwHMW.md) (RAM / SOL): -86.7% 24h | Vol $809.1K | Liq $27.7K
 - [BUTTHOLE](https://leo88q.github.io/content-/site/pools/GEc5NcEhDr85aUvjESEvz22jWj6kkMQsgtd6aNJPdDGf.md) (BUTTHOLE / ANTHRP): +48.7% 24h | Vol $804.4K | Liq $197.9K
-- [FIONA](https://leo88q.github.io/content-/site/pools/DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB.md) (FIONA / SOL): +19.5% 24h | Vol $796.5K | Liq $137.1K
 - [SA](https://leo88q.github.io/content-/site/pools/4kM4wu8NA28qqay9GnMuNknzXVfefqPYH3cZySE1JLwv.md) (SA / SOL): +25.9% 24h | Vol $784.7K | Liq $66.0K
 - [MAMESUKE](https://leo88q.github.io/content-/site/pools/fMKswmDKwstG3jm6V5PKeXE5LkcW3ny84QrhDCKtc7A.md) (MAMESUKE / SOL): -67.3% 24h | Vol $781.1K | Liq $153.6K
-- [JIMMY](https://leo88q.github.io/content-/site/pools/FnHWfV49ywCtGCDTyf34AVN8BiXxcgXUKqLctkrkP1gQ.md) (JIMMY / SOL): +25.6% 24h | Vol $780.2K | Liq $81.4K
 - [Dacity](https://leo88q.github.io/content-/site/pools/G2UuRbmVDzDFP4qyoBJrSKBXSi7d6V4bPP9tHPs36y4b.md) (Dacity / TTWO): -74.4% 24h | Vol $777.1K | Liq $81.8K
 - [ANSEM](https://leo88q.github.io/content-/site/pools/8q2jaCSxrbD98BBC9M8TsWY8euKCjuhk7hdv7YqJV174.md) (ANSEM / SOL): -83.7% 24h | Vol $772.8K | Liq $19.5K
 - [CHAD](https://leo88q.github.io/content-/site/pools/4jNosyXHBnRLz7dUst6RMBED7F9T77UGXpXeWk3yKCy4.md) (CHAD / HIMS): -59.8% 24h | Vol $770.5K | Liq $78.1K
@@ -197,24 +194,21 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [BAWSAQ](https://leo88q.github.io/content-/site/pools/DQnoiJies9KrPJUiuCLExiCWh8jCrofL3zzUhgdL55kR.md) (BAWSAQ / SOL): -93.4% 24h | Vol $683.9K | Liq $16.3K
 - [VAULT](https://leo88q.github.io/content-/site/pools/GKoXmesnHAitjcfWhESsrGub2uq2CtpPGunhT6XcrVw.md) (VAULT / SOL): -43.7% 24h | Vol $683.5K | Liq $8.3K
 - [MOVEMBER](https://leo88q.github.io/content-/site/pools/J1y8kug8C3RChxTos8RA85iMDSrRZHx4kZGP3f4xU5YS.md) (MOVEMBER / SOL): -82.5% 24h | Vol $681.2K | Liq $22.3K
+- [MANDY](https://leo88q.github.io/content-/site/pools/AAj4HAUdP5nVRVVDBfABpT36ej3CJmTWzCivzsD34PBd.md) (MANDY / SOL): -2.6% 24h | Vol $674.5K | Liq $10.8K
 - [PEACE](https://leo88q.github.io/content-/site/pools/B9kecYVZxSVvy56uSSxfiyt6GD7A4w7WEPkB9tNYq7sZ.md) (PEACE / SOL): -88.6% 24h | Vol $668.0K | Liq $17.9K
 - [pippin](https://leo88q.github.io/content-/site/pools/8WwcNqdZjCY5Pt7AkhupAFknV2txca9sq6YBkGzLbvdt.md) (pippin / SOL): +2.8% 24h | Vol $663.9K | Liq $3.50M
 - [COGE](https://leo88q.github.io/content-/site/pools/BqDNqApJNmV3jgoeeYZ34zyxYa9pe3Msza59HoPUuBWM.md) (COGE / SOL): -93.8% 24h | Vol $659.5K | Liq $13.8K
 - [greg](https://leo88q.github.io/content-/site/pools/4s8CAbVgaDHoPkkbitjdQZ4TfqXKuczHWdfy8HLVUbdQ.md) (greg / SOL): -54.6% 24h | Vol $656.1K | Liq $47.3K
 - [PAID](https://leo88q.github.io/content-/site/pools/6e3jZLtf4tQbWZm3f7A66jF8tfZn6MRQVrbDFgcNWarA.md) (PAID / SOL): -5.8% 24h | Vol $647.2K | Liq $222.0K
 - [STONK](https://leo88q.github.io/content-/site/pools/zxTpi4BtaWX3mgdAPoezkMD1hxx8CdeCfrqXMWvSCLX.md) (STONK / SOL): -3.7% 24h | Vol $646.5K | Liq $1.59M
-- [mihao](https://leo88q.github.io/content-/site/pools/Ho1aSG6WGH1FfXdEHrK2f4Ggt1Hoxo9s5jcLMDqeyeBz.md) (mihao / SOL): -0.4% 24h | Vol $644.9K | Liq $311.5K
-- [ACT](https://leo88q.github.io/content-/site/pools/B4PHSkL6CeZbxVqm1aUPQuVpc5ERFcaZj7u9dhtphmVX.md) (ACT / SOL): -10.0% 24h | Vol $642.8K | Liq $1.25M
 - [INVERSE](https://leo88q.github.io/content-/site/pools/Rwq7WrFAzyBtDzGBxYKEHAtHfhAedW6vYqghPT1xBau.md) (INVERSE / SOL): -47.3% 24h | Vol $630.6K | Liq $75.9K
 - [PAW](https://leo88q.github.io/content-/site/pools/EBruBQYh6XQQPUapuGgQx3jeeLH9ky2emPDtpHg3kB6F.md) (PAW / SOL): -35.2% 24h | Vol $610.0K | Liq $9.2K
 - [snowball](https://leo88q.github.io/content-/site/pools/2Snq2MMRBTUauieSqhDKjTTG7fWwaCoNrqJ3FuQCbRyp.md) (snowball / SOL): -87.6% 24h | Vol $608.8K | Liq $16.8K
-- [DEXDATA](https://leo88q.github.io/content-/site/pools/6h2yPTQ4CaXcUjMYr6B6MkDmLqTzuLkZuh25aT4thrbZ.md) (DEXDATA / SOL): -21.4% 24h | Vol $600.9K | Liq $34.0K
 - [CHAR](https://leo88q.github.io/content-/site/pools/J5JQhQtLcLU24ZTbJ85oqgX2rSkv1BgS7Kteo8fLHtGU.md) (CHAR / SOL): -53.0% 24h | Vol $589.9K | Liq $24.7K
 - [JENSEN](https://leo88q.github.io/content-/site/pools/51KN4und5bwRyfRfTP1eFw4uPL8t4vTPHZ6okmLhr5iE.md) (JENSEN / SOL): -84.5% 24h | Vol $574.0K | Liq $22.7K
 - [Snoopy](https://leo88q.github.io/content-/site/pools/5bYtv8P5197JM6oKwAt1hZBo1xJ8m7VTco1NArmqMv6B.md) (Snoopy / SOL): -25.7% 24h | Vol $570.5K | Liq $47.9K
 - [RICO](https://leo88q.github.io/content-/site/pools/Fby8NV8FRJZnZriiHUdVANBadTLJfBNT9MVkkN61FoLY.md) (RICO / SOL): -14.6% 24h | Vol $561.2K | Liq $51.5K
 - [george](https://leo88q.github.io/content-/site/pools/B1T63LNtnyAiNFqwML7aoj3xeKCfR7coKF7nHgMvH8jQ.md) (george / SOL): -64.8% 24h | Vol $552.2K | Liq $32.2K
-- [CATE](https://leo88q.github.io/content-/site/pools/HMzvsEEmtzHhvZNw9uwbaG85HCTmFnkbhzUx16cy7ca3.md) (CATE / SOL): -6.4% 24h | Vol $549.9K | Liq $1.31M
 - [FLUKE](https://leo88q.github.io/content-/site/pools/2PZnGXgXHHLgwpbLWYKBKiTG6MM7jomGD57Y4E8brEsW.md) (FLUKE / SOL): -52.4% 24h | Vol $546.3K | Liq $26.1K
 - [FUSE](https://leo88q.github.io/content-/site/pools/B5oZhRDmdazrJoDSJSL9EQw6Fe9M46aG98bvXH3h1QNi.md) (FUSE / SOL): -79.9% 24h | Vol $544.4K | Liq $48.3K
 - [WASTED](https://leo88q.github.io/content-/site/pools/TT7DKs9YjJZj1fwMGoPmKBmDreZzyMAMrHoDCGdfwqN.md) (WASTED / SOL): -25.9% 24h | Vol $538.9K | Liq $91.8K
@@ -222,11 +216,13 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [GLITCH](https://leo88q.github.io/content-/site/pools/Em6RvzGXhd35pZ7CVUjCTPEnv4jAztScaVHaXBXCBcG7.md) (GLITCH / SOL): +50.6% 24h | Vol $531.4K | Liq $166.4K
 - [bul](https://leo88q.github.io/content-/site/pools/5sMsh4hGRPqnRzgokRifqGfE5QtDWoZqw3anYEaZi297.md) (bul / SOL): -48.6% 24h | Vol $526.9K | Liq $45.9K
 - [███](https://leo88q.github.io/content-/site/pools/9sY4Amm2RFpsBQ1qgCQTxcjfvhmfJ9K4d2J5xfM1k75M.md) (███ / SOL): -32.6% 24h | Vol $524.2K | Liq $75.6K
+- [mihao](https://leo88q.github.io/content-/site/pools/Ho1aSG6WGH1FfXdEHrK2f4Ggt1Hoxo9s5jcLMDqeyeBz.md) (mihao / SOL): -2.5% 24h | Vol $521.5K | Liq $298.3K
 - [FAIR](https://leo88q.github.io/content-/site/pools/54GtpHJaEGKsfq6pWSRJa656zRgVFhkC5fzQBmp7qXmS.md) (FAIR / SOL): -17.2% 24h | Vol $520.5K | Liq $29.7K
 - [PENGU](https://leo88q.github.io/content-/site/pools/D4J77RpC5k8Nkh6h8bUw2CJBJrykSRqMuNz49f2Fbx3a.md) (PENGU / USDC): -0.8% 24h | Vol $515.2K | Liq $31.8K
 - [OREN](https://leo88q.github.io/content-/site/pools/FptqM7Ev2nWFNT2v4QW5e1cHH6TAkgYtQd2NcJeKWebx.md) (OREN / SOL): +26.6% 24h | Vol $512.5K | Liq $28.0K
 - [CBUCKS](https://leo88q.github.io/content-/site/pools/B4Cp45PGifVM5FAXfh6AeV8QZ3eUNQnqGBw7KuC7MHnB.md) (CBUCKS / USDC): +27.6% 24h | Vol $499.8K | Liq $222.8K
 - [Pepetide](https://leo88q.github.io/content-/site/pools/2uA94Y3X9dwDduojoj2NRcyZQaYtcoSsHZ4y1UX5P8Rs.md) (Pepetide / SOL): +179.5% 24h | Vol $489.2K | Liq $40.6K
+- [CATE](https://leo88q.github.io/content-/site/pools/HMzvsEEmtzHhvZNw9uwbaG85HCTmFnkbhzUx16cy7ca3.md) (CATE / SOL): -4.3% 24h | Vol $483.8K | Liq $1.29M
 - [Macca](https://leo88q.github.io/content-/site/pools/4FoNNNMMKMa66ppCiA9557cg63s2BNN9UoFcaKxXbmvg.md) (Macca / TTWO): +7.1% 24h | Vol $483.1K | Liq $194.9K
 - [TTPRO](https://leo88q.github.io/content-/site/pools/9YKQ3mZdT4FBSnsmm1jrPLiA997R12KMzToQtPT1RQpk.md) (TTPRO / SOL): +15.6% 24h | Vol $479.2K | Liq $15.8K
 - [:3](https://leo88q.github.io/content-/site/pools/GxYbNxjGR9mEuVzXsGBi2Y78RGkwBMRok4RS9sMUb8hE.md) (:3 / SOL): -44.0% 24h | Vol $470.5K | Liq $55.9K
@@ -237,20 +233,22 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [STEALTH](https://leo88q.github.io/content-/site/pools/E6RfkJwDBJRyPe4xWNDYu4QyYH1nYwzhxZunUfeifyLX.md) (STEALTH / SOL): -45.7% 24h | Vol $442.4K | Liq $32.3K
 - [DSP](https://leo88q.github.io/content-/site/pools/8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX.md) (DSP / SOL): +3537.7% 24h | Vol $441.3K | Liq $60.3K
 - [Rocco](https://leo88q.github.io/content-/site/pools/3jW1ykKqUTNgNUDGbrwXpvZKtMFf4pWytoTP3TeXhKBQ.md) (Rocco / TTWO): +38.4% 24h | Vol $440.0K | Liq $109.6K
+- [DEXDATA](https://leo88q.github.io/content-/site/pools/6h2yPTQ4CaXcUjMYr6B6MkDmLqTzuLkZuh25aT4thrbZ.md) (DEXDATA / SOL): +48.6% 24h | Vol $433.3K | Liq $39.5K
 - [HI](https://leo88q.github.io/content-/site/pools/2yyP1cEXm4VZEHSGpqnWGxcZ3kSSVAK7m3j5nsKmFAhE.md) (HI / HYPE): +94.8% 24h | Vol $418.9K | Liq $68.4K
 - [AICoin](https://leo88q.github.io/content-/site/pools/CmKXFUCW8CSnmqTVHBrK3E6sZk4fLeeB24yia7GyXeWt.md) (AICoin / ANTHRP): -26.0% 24h | Vol $416.0K | Liq $22.5K
 - [BP](https://leo88q.github.io/content-/site/pools/6qz7THwQvcjF3HyDGLuKaLBUk6EyJKeZXZMWLAeiwfjd.md) (BP / USDC): +1.5% 24h | Vol $405.4K | Liq $2.26M
+- [WINSTON](https://leo88q.github.io/content-/site/pools/ASo1PdFe7jQWLT2vDt4Ry1qwubiTduQHwrwTSD2vV2PS.md) (WINSTON / SOL): -92.3% 24h | Vol $404.4K | Liq $8.5K
 - [Bonk](https://leo88q.github.io/content-/site/pools/5zpyutJu9ee6jFymDGoK7F6S5Kczqtc9FomP3ueKuyA9.md) (Bonk / SOL): +10.0% 24h | Vol $391.1K | Liq $226.5K
 - [duge](https://leo88q.github.io/content-/site/pools/4Ld38vL83KtPxAkjXZRss2fpKNwsdY1mwY59HTF9zkmA.md) (duge / SOL): -88.8% 24h | Vol $387.9K | Liq $9.9K
 - [Socks](https://leo88q.github.io/content-/site/pools/AgqoLMPxk7ETjY74TnyePqKSQQYTTsCrmMVgyQRkaJK3.md) (Socks / SOL): -73.0% 24h | Vol $386.2K | Liq $15.4K
 - [paws](https://leo88q.github.io/content-/site/pools/2rmaFtFZmJtLXdPgRvk417RLc9GBD3jGbAqtttmfG3AF.md) (paws / SOL): -33.0% 24h | Vol $382.9K | Liq $89.6K
-- [baton](https://leo88q.github.io/content-/site/pools/Cb7ZRgPLhji3Th7htXyKEqbXvNjPpeTvckXuWakBUhXu.md) (baton / PUMP): +19.2% 24h | Vol $372.0K | Liq $337.8K
 - [Alice](https://leo88q.github.io/content-/site/pools/FuF1ZiZMLcdxyWkJPPAFfwVQBgYaj8ri9CJmaxQqETCP.md) (Alice / NVDAx): -61.8% 24h | Vol $365.1K | Liq $20.1K
 - [OTC](https://leo88q.github.io/content-/site/pools/DA4pM4xSDY4M9V4CgAKKBVH1pw1yscTQQa5nEkGHuKpt.md) (OTC / SOL): -8.5% 24h | Vol $361.0K | Liq $625.2K
 - [shiit](https://leo88q.github.io/content-/site/pools/AqchiHDGyNAAXpZx55aiiFtB8XQELTt3QB5RuNnXpJdM.md) (shiit / SOL): +8.4% 24h | Vol $343.7K | Liq $76.2K
 - [Rings](https://leo88q.github.io/content-/site/pools/8fSUYVnTy4r5fZUksjzKexLq2Tx96K3UPdYRvW5XWJ9t.md) (Rings / SOL): +3.1% 24h | Vol $342.0K | Liq $148.5K
 - [$WIF](https://leo88q.github.io/content-/site/pools/EP2ib6dYdEeqD8MfE2ezHCxX3kP3K2eLKkirfPm5eyMx.md) ($WIF / SOL): -3.9% 24h | Vol $339.9K | Liq $3.65M
 - [HERMIT](https://leo88q.github.io/content-/site/pools/HknqzEAg7Q78CqAGfG1LZRVcnNzbFfczEV1hjKF7ELq9.md) (HERMIT / SOL): -64.3% 24h | Vol $338.8K | Liq $12.2K
+- [ACT](https://leo88q.github.io/content-/site/pools/B4PHSkL6CeZbxVqm1aUPQuVpc5ERFcaZj7u9dhtphmVX.md) (ACT / SOL): +0.1% 24h | Vol $329.6K | Liq $1.15M
 - [DOPE](https://leo88q.github.io/content-/site/pools/6iep3EgqksbZwgzMBCyAJtiVtVYkCgL9BnPBEwLR8AGQ.md) (DOPE / SOL): +30.1% 24h | Vol $327.8K | Liq $191.8K
 - [HONEY](https://leo88q.github.io/content-/site/pools/ENYEHSyduTbFN1xoSEGaLu7c1F8AqKucdscMuV5Yypy2.md) (HONEY / SOL): -81.0% 24h | Vol $324.0K | Liq $7.8K
 - [DCTY](https://leo88q.github.io/content-/site/pools/DChXQ4qFPpNPEDfZLNiwvPhrVuuFGfqEDLAAZbiZHUWf.md) (DCTY / TTWO): +23.2% 24h | Vol $321.9K | Liq $159.3K
@@ -258,6 +256,7 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [MOSQUE](https://leo88q.github.io/content-/site/pools/DzuDPmhorEgEKdLRVfXAQmVZCeEEEYhHyi2RaES6G5xG.md) (MOSQUE / SOL): -86.4% 24h | Vol $305.9K | Liq $8.9K
 - [BLUE](https://leo88q.github.io/content-/site/pools/BzomHwB33RGwuyWdm8sQFi3ZDNaUWnpmHRaiQaLQNZiA.md) (BLUE / SOL): -74.2% 24h | Vol $300.8K | Liq $16.0K
 - [VI](https://leo88q.github.io/content-/site/pools/9JtizU4ZYak4jsGv5NJpo4qVnEpmTDhLbMVkv3NWP1WS.md) (VI / SOL): +154.5% 24h | Vol $300.2K | Liq $17.3K
+- [Kibo](https://leo88q.github.io/content-/site/pools/HJ4AFisW1oo8HVmyXL2QjjnAv4Y25NThse2LcpCreqtu.md) (Kibo / SOL): -61.2% 24h | Vol $289.0K | Liq $13.0K
 - [José](https://leo88q.github.io/content-/site/pools/CdpY6qHVhtN9dVJx1WJutDztzVMck5TFVnNXZ51HdPrY.md) (José / SOL): -39.4% 24h | Vol $284.6K | Liq $49.0K
 - [DUVAL](https://leo88q.github.io/content-/site/pools/CSvKMfrQ2TedEZEDpFSoHbGqxNb1A3w5o2vVM6Y5eoQ5.md) (DUVAL / SOL): -80.5% 24h | Vol $282.0K | Liq $14.1K
 - [Bitcoin](https://leo88q.github.io/content-/site/pools/4aJAW6uGdpmDKE12F1CR9a7UeRqJfnEPvZtswenc5wM6.md) (Bitcoin / WBTC): -46.0% 24h | Vol $280.9K | Liq $31.0K
@@ -286,6 +285,7 @@ Total pools monitored: 300. Updated 2026-11-28 08:00 UTC.
 - [Punch](https://leo88q.github.io/content-/site/pools/A6KHMiFzn9AM7VKBtVP4fZNY9bCo2jP63R9dphaW1vrq.md) (Punch / SOL): -27.8% 24h | Vol $125.4K | Liq $106.3K
 - [PINO](https://leo88q.github.io/content-/site/pools/BHKyty1uDDxSwAkhkefn8ZwNQZjfQrmC672D2UW874dD.md) (PINO / SOL): +46.4% 24h | Vol $124.8K | Liq $46.5K
 - [three](https://leo88q.github.io/content-/site/pools/5ByL7MZoLABYnwMPZKPKjf4MGkZ7FeBzrAnos19Pre2z.md) (three / SOL): -6.1% 24h | Vol $122.4K | Liq $156.9K
+- [baton](https://leo88q.github.io/content-/site/pools/Cb7ZRgPLhji3Th7htXyKEqbXvNjPpeTvckXuWakBUhXu.md) (baton / PUMP): -12.0% 24h | Vol $113.8K | Liq $314.3K
 - [MASK](https://leo88q.github.io/content-/site/pools/D1rDVEp78cvBctREKZmpLdRnPNe3Ufmgq6ZjMYye9kmq.md) (MASK / SOL): +24.4% 24h | Vol $107.6K | Liq $107.3K
 - [REGRETAMINE](https://leo88q.github.io/content-/site/pools/8yDJL2EHeNuLTqZUs1WBHdqM2TW1JcdiwaZttokq7pq8.md) (REGRETAMINE / SOL): -38.5% 24h | Vol $91.7K | Liq $16.9K
 - [swordcat](https://leo88q.github.io/content-/site/pools/8ewuF2o8ACro7fqWepZ3tKhkbBjndZU4Ldk9scRPw83d.md) (swordcat / SOL): +8.3% 24h | Vol $81.1K | Liq $94.2K

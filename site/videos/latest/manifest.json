@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-28T08:00:11+00:00",
+ "generated_at": "2026-11-28T16:59:14+00:00",
  "videos": [
   {
    "file": "videos/2026-11-28/Zhaki.mp4",
    "latest_file": "videos/latest/Zhaki.mp4",
    "symbol": "Zhaki",
-   "chg_h24": 727.251
+   "chg_h24": 1585.586
   },
   {
    "file": "videos/2026-11-28/Split.mp4",
    "latest_file": "videos/latest/Split.mp4",
    "symbol": "Split",
-   "chg_h24": 406.85
+   "chg_h24": 374.159
   },
   {
-   "file": "videos/2026-11-28/duk.mp4",
-   "latest_file": "videos/latest/duk.mp4",
-   "symbol": "duk",
-   "chg_h24": -87.463
+   "file": "videos/2026-11-28/MoonBoy.mp4",
+   "latest_file": "videos/latest/MoonBoy.mp4",
+   "symbol": "MoonBoy",
+   "chg_h24": 352.227
   }
  ]
 }

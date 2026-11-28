@@ -2,16 +2,16 @@
   "slug": "zhaki-vs-split",
   "token1": {
     "symbol": "Zhaki",
-    "change_24h": 727.251,
+    "change_24h": 1585.586,
     "address": "3VrhjGEaG6ixPT58R3G1riM7ZCGUVSZijLhktnRCz1kv",
-    "volume": 1642250.07256861
+    "volume": 1573307.74167991
   },
   "token2": {
     "symbol": "Split",
-    "change_24h": 406.85,
+    "change_24h": 374.159,
     "address": "7zZfTaWgKSSbPy3FBHAkCipJeLF7hwL3oL6FCTZeMmzD",
-    "volume": 1701031.47643528
+    "volume": 1945579.79241018
   },
-  "verdict": "По ончейн-метрикам TalkChart: Zhaki опережает по ценовому импульсу (+727.3% против +406.9%). Краткосрочный фаворит по совокупности факторов: Zhaki.",
-  "updated_at": "2026-11-28 08:00 UTC"
+  "verdict": "По ончейн-метрикам TalkChart: Zhaki опережает по ценовому импульсу (+1585.6% против +374.2%). Краткосрочный фаворит по совокупности факторов: Zhaki.",
+  "updated_at": "2026-11-28 16:59 UTC"
 }

@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/RICE_-66.png",
+  "title": "TalkChart: RICE (-66.3%) — Solana On-Chain Radar",
+  "description": "RICE в обвале: -66.3% за 24ч. объём $1.33M больше капы в 104.4× — бумага в огне. ликвидность тонкая ($7.6K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $492.12 (64× медианы, 2ч назад). нетто китов за сутки +$492.12.\n\nОбъём: $1.33M · Ликвидность: $7.6K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп RICE (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-3rVr2RBzEXXKf1cVvZ6HBvFg2XmBK4iMgZv9q9q4pump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=382jzMN7ijo5CsjmLZ8cvk3dWfQQhcTiyLp6ULaiVgh8"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}

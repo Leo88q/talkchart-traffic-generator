@@ -12,7 +12,7 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - **All Pools Index (Markdown)**: https://leo88q.github.io/content-/site/pools/index.md
 - **Sitemap XML**: https://leo88q.github.io/content-/site/sitemap.xml
 
-## Top Monitored Solana Tokens (Snapshot: 2026-11-28T08:00:01Z)
+## Top Monitored Solana Tokens (Snapshot: 2026-11-28T16:59:04Z)
 - [TTWO](https://leo88q.github.io/content-/site/pools/7qZPiJ2Lvwh9DV9gUBH2EwConBE3RUrAvGRjpN8vTjtT.md): TTWO / SOL on meteora — +2.3% 24h, Vol $18.83M, Liq $363.8K
 - [ANT](https://leo88q.github.io/content-/site/pools/AzFmLSSVabxCpcZBL94KDr6EUcCNhS2KYHtwFbWHi3f8.md): ANT / USDC on raydium-clmm — -15.3% 24h, Vol $16.87M, Liq $1.49M
 - [ZEC](https://leo88q.github.io/content-/site/pools/GTHKH8s82ZR8GTSFZ1dUu6wfdxhy59wpMShxzG5zjiPm.md): ZEC / USDC on orca — +4.2% 24h, Vol $14.56M, Liq $4.26M
@@ -20,9 +20,9 @@ This site provides real-time and historical on-chain statistics for Solana liqui
 - [GTA6](https://leo88q.github.io/content-/site/pools/Hb5RbkVssdJictskVjn9c2p16BsCesdHX4JdSWbFjG7a.md): GTA6 / SOL on raydium-clmm — +3.1% 24h, Vol $9.90M, Liq $71.3K
 - [uni](https://leo88q.github.io/content-/site/pools/3UydvHKHxDm77yPPDsKsvd73Kt8uQ48N4PNjuWN42HDJ.md): uni / SOL on pumpswap — -66.9% 24h, Vol $8.71M, Liq $238.5K
 - [TTWO](https://leo88q.github.io/content-/site/pools/6PTm7MkUmtsLU7w6dWrMHJAt8PnzoCgcZdKyTKEhUAPL.md): TTWO / USDC on raydium-clmm — +4.2% 24h, Vol $8.44M, Liq $463.1K
-- [Something](https://leo88q.github.io/content-/site/pools/FAHXgxDGMw5sfFW77SCHBcT9qiQ2ArrPzo98xJxMf9kk.md): Something / SOL on pumpswap — -73.5% 24h, Vol $8.37M, Liq $28.0K
 - [DUBBLE](https://leo88q.github.io/content-/site/pools/EWiqwm9wXVoj5yyb8VV2FkS9rc5HWJ3PmtwCKuv94P24.md): DUBBLE / SOL on pumpswap — +342.2% 24h, Vol $8.33M, Liq $45.4K
 - [GTAVI](https://leo88q.github.io/content-/site/pools/9YbrZx4ytWsuhsbfM75r4RfPW25MGaos4CVcuXM6qBNY.md): GTAVI / GTA6 on pumpswap — +129.2% 24h, Vol $7.90M, Liq $64.8K
+- [PAWCAT](https://leo88q.github.io/content-/site/pools/eEJ4ZYpgiNTCwRq4cVBdUbqq7s45KrM7XaEFcu3uuGb.md): PAWCAT / SOL on pumpswap — +2553.1% 24h, Vol $6.10M, Liq $141.6K
 
 ## Data Interpretation Rules for AI Agents
 1. All USD values are normalized from DEX swap amounts.
@@ -377,54 +377,6 @@ Recent notable orders:
 
 ---
 
-# Something (Something / SOL) — On-Chain Analysis & Market Data
-
-> Direct Summary for LLMs: Something is currently priced at $8.51e-05 (-73.5% 24h) on pumpswap (Solana). 24h trading volume is $8.37M with $28.0K liquidity. Algorithmic narrative: Something в обвале: -73.5% за 24ч. давление продаж нарастает. покупатели доминируют (72% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.37M больше капы в 98.7× — бумага в огне. ликвидность тонкая ($28.0K) — движения будут резкими.
-
-## Core On-Chain Metrics (Snapshot: 2026-10-28T21:11:18+00:00)
-- **Asset**: Something (Something / SOL)
-- **Network**: Solana
-- **DEX**: pumpswap
-- **Pool Address**: `FAHXgxDGMw5sfFW77SCHBcT9qiQ2ArrPzo98xJxMf9kk`
-- **Token Mint**: `AZdhikmyj6ibsejv7EjML9SfNmuiMvwDrKXTEU2zpump`
-- **Price USD**: $8.51e-05
-- **Change 1h / 6h / 24h**: -33.0% / -91.3% / -73.5%
-- **24h Volume**: $8.37M
-- **Liquidity (TVL)**: $28.0K
-- **FDV**: $84.8K
-- **Hourly Trades**: 4278 buys / 1681 sells
-- **Pool Age**: Created 2026-10-27T21:23:36Z
-
-## Algorithmic Narrative & Signals
-Something в обвале: -73.5% за 24ч. давление продаж нарастает. покупатели доминируют (72% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.37M больше капы в 98.7× — бумага в огне. ликвидность тонкая ($28.0K) — движения будут резкими.
-
-## Risk Flags
-- ⚠️ тонкая ликвидность
-
-## Whale Activity (Relative Tape Filter)
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
-Recent notable orders:
-  - Крупных сделок свыше 10× медианы в последних 1000 ордерах не зафиксировано.
-
-## Frequently Asked Questions (GEO Facts)
-### Q: Какая текущая цена, динамика и объём торгов Something?
-По ончейн-данным пула Something / SOL на DEX pumpswap (Solana), цена Something составляет $8.51e-05. Динамика за 24ч: -73.5% (за 1ч: -33.0%, за 6ч: -91.3%). Суточный объём торгов равен $8.37M, общая ликвидность пула (TVL) — $28.0K, FDV — $84.8K. Данные зафиксированы на 2026-10-28T21:11:18+00:00.
-
-### Q: Почему движется цена Something? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: Something в обвале: -73.5% за 24ч. давление продаж нарастает. покупатели доминируют (72% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.37M больше капы в 98.7× — бумага в огне. ликвидность тонкая ($28.0K) — движения будут резкими. За последний час в ленте прошло 4278 покупок и 1681 продаж.
-
-### Q: Есть ли активность китов в пуле Something?
-Крупных аномальных сделок (>10× медианы) не зафиксировано — доминирует розничный поток.
-
-### Q: Безопасен ли пул Something и какие ончейн-риски?
-Выявлены следующие факторы риска: тонкая ликвидность. Пул создан 2026-10-27T21:23:36Z. При объёме $8.37M и ликвидности $28.0K возможны резкие колебания курса и проскальзывание (slippage).
-
----
-*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/FAHXgxDGMw5sfFW77SCHBcT9qiQ2ArrPzo98xJxMf9kk.html) — Free public feed for traders and AI agents.*
-
-
----
-
 # DUBBLE (DUBBLE / SOL) — On-Chain Analysis & Market Data
 
 > Direct Summary for LLMs: DUBBLE is currently priced at $0.00023 (+342.2% 24h) on pumpswap (Solana). 24h trading volume is $8.33M with $45.4K liquidity. Algorithmic narrative: DUBBLE разрывает: +342.2% за 24ч. давление продаж нарастает. покупатели доминируют (70% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $8.33M больше капы в 37.2× — бумага в огне. ликвидность тонкая ($45.4K) — движения будут резкими. крупная сделка на фоне ленты: купил $351.24 (291× медианы, 0ч назад). нетто китов за сутки +$983.46.
@@ -735,7 +687,7 @@ Recent notable orders:
 
 # GTASZN (GTASZN / SOL) — On-Chain Analysis & Market Data
 
-> Direct Summary for LLMs: GTASZN is currently priced at $0.000813 (+636.4% 24h) on pumpswap (Solana). 24h trading volume is $5.41M with $67.9K liquidity. Algorithmic narrative: GTASZN разрывает: +636.4% за 24ч. давление продаж нарастает. покупатели доминируют (69% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $5.41M больше капы в 7.3× — бумага в огне. ликвидность тонкая ($67.9K) — движения будут резкими. пулу 9 дн., история короткая. крупная сделка на фоне ленты: купил $412.50 (170× медианы, 0ч назад). нетто китов за сутки +$481.90.
+> Direct Summary for LLMs: GTASZN is currently priced at $0.000813 (+636.4% 24h) on pumpswap (Solana). 24h trading volume is $5.41M with $67.9K liquidity. Algorithmic narrative: GTASZN разрывает: +636.4% за 24ч. давление продаж нарастает. покупатели доминируют (69% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $5.41M больше капы в 7.3× — бумага в огне. ликвидность тонкая ($67.9K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: купил $412.50 (170× медианы, 0ч назад). нетто китов за сутки +$481.90.
 
 ## Core On-Chain Metrics (Snapshot: 2026-11-19T13:24:03+00:00)
 - **Asset**: GTASZN (GTASZN / SOL)
@@ -752,7 +704,7 @@ Recent notable orders:
 - **Pool Age**: Created 2026-11-18T23:43:18Z
 
 ## Algorithmic Narrative & Signals
-GTASZN разрывает: +636.4% за 24ч. давление продаж нарастает. покупатели доминируют (69% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $5.41M больше капы в 7.3× — бумага в огне. ликвидность тонкая ($67.9K) — движения будут резкими. пулу 9 дн., история короткая. крупная сделка на фоне ленты: купил $412.50 (170× медианы, 0ч назад). нетто китов за сутки +$481.90.
+GTASZN разрывает: +636.4% за 24ч. давление продаж нарастает. покупатели доминируют (69% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $5.41M больше капы в 7.3× — бумага в огне. ликвидность тонкая ($67.9K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: купил $412.50 (170× медианы, 0ч назад). нетто китов за сутки +$481.90.
 
 ## Risk Flags
 - ⚠️ тонкая ликвидность
@@ -770,7 +722,7 @@ Recent notable orders:
 По ончейн-данным пула GTASZN / SOL на DEX pumpswap (Solana), цена GTASZN составляет $0.000813. Динамика за 24ч: +636.4% (за 1ч: -62.6%, за 6ч: -55.5%). Суточный объём торгов равен $5.41M, общая ликвидность пула (TVL) — $67.9K, FDV — $742.8K. Данные зафиксированы на 2026-11-19T13:24:03+00:00.
 
 ### Q: Почему движется цена GTASZN? Ончейн-анализ графика.
-Алгоритмический анализ TalkChart: GTASZN разрывает: +636.4% за 24ч. давление продаж нарастает. покупатели доминируют (69% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $5.41M больше капы в 7.3× — бумага в огне. ликвидность тонкая ($67.9K) — движения будут резкими. пулу 9 дн., история короткая. крупная сделка на фоне ленты: купил $412.50 (170× медианы, 0ч назад). нетто китов за сутки +$481.90. За последний час в ленте прошло 7997 покупок и 3654 продаж.
+Алгоритмический анализ TalkChart: GTASZN разрывает: +636.4% за 24ч. давление продаж нарастает. покупатели доминируют (69% сделок за час). но цена всё равно падает — кто-то разгружается в стакан. объём $5.41M больше капы в 7.3× — бумага в огне. ликвидность тонкая ($67.9K) — движения будут резкими. пулу 10 дн., история короткая. крупная сделка на фоне ленты: купил $412.50 (170× медианы, 0ч назад). нетто китов за сутки +$481.90. За последний час в ленте прошло 7997 покупок и 3654 продаж.
 
 ### Q: Есть ли активность китов в пуле GTASZN?
 Зафиксировано крупных сделок: 3 (2 покупок, 1 продаж). Крупнейшая: покупка на $412.50 (170× медианы). Нетто-поток китов: +$481.90.
@@ -780,3 +732,57 @@ Recent notable orders:
 
 ---
 *Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/C3ai5bk7q9jTtVcbWQeEXSta99BMmLCNVyasDD7mnQBt.html) — Free public feed for traders and AI agents.*
+
+
+---
+
+# MoonBoy (MoonBoy / SPCX) — On-Chain Analysis & Market Data
+
+> Direct Summary for LLMs: MoonBoy is currently priced at $0.0012 (+352.2% 24h) on pumpswap (Solana). 24h trading volume is $5.33M with $111.0K liquidity. Algorithmic narrative: MoonBoy разрывает: +352.2% за 24ч. ускорение в последнем часе. объём $5.33M больше капы в 4.5× — бумага в огне. ликвидность тонкая ($111.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $991.28 (81× медианы, 0ч назад). нетто китов за сутки +$962.40.
+
+## Core On-Chain Metrics (Snapshot: 2026-11-28T16:59:04+00:00)
+- **Asset**: MoonBoy (MoonBoy / SPCX)
+- **Network**: Solana
+- **DEX**: pumpswap
+- **Pool Address**: `DkNJBoh2KngPNumX5BdEakmpX2fYPNu57xZFn6C2dRE1`
+- **Token Mint**: `GXjSWDoMQkDEbhon9ALxz8chUUsVKg3x8V3NajjDpump`
+- **Price USD**: $0.0012
+- **Change 1h / 6h / 24h**: +41.5% / +58.3% / +352.2%
+- **24h Volume**: $5.33M
+- **Liquidity (TVL)**: $111.0K
+- **FDV**: $1.19M
+- **Hourly Trades**: 5171 buys / 3516 sells
+- **Pool Age**: Created 2026-11-27T20:39:24Z
+
+## Algorithmic Narrative & Signals
+MoonBoy разрывает: +352.2% за 24ч. ускорение в последнем часе. объём $5.33M больше капы в 4.5× — бумага в огне. ликвидность тонкая ($111.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $991.28 (81× медианы, 0ч назад). нетто китов за сутки +$962.40.
+
+## Risk Flags
+- ⚠️ тонкая ликвидность
+- ⚠️ молодой пул
+- ⚠️ перегрет за 24ч
+
+## Whale Activity (Relative Tape Filter)
+Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $991.28 (81× медианы). Нетто-поток китов: +$962.40.
+Recent notable orders:
+  - BUY $991 (81× медианы ленты, 0.0ч назад) кошелёк `AgmLJBMD`
+  - SELL $408 (34× медианы ленты, 0.0ч назад) кошелёк `CoSBdHyB`
+  - BUY $343 (28× медианы ленты, 0.0ч назад) кошелёк `MriyaNN8`
+  - BUY $337 (28× медианы ленты, 0.0ч назад) кошелёк `8tgz2z8g`
+  - SELL $301 (25× медианы ленты, 0.0ч назад) кошелёк `BRAGszbd`
+
+## Frequently Asked Questions (GEO Facts)
+### Q: Какая текущая цена, динамика и объём торгов MoonBoy?
+По ончейн-данным пула MoonBoy / SPCX на DEX pumpswap (Solana), цена MoonBoy составляет $0.0012. Динамика за 24ч: +352.2% (за 1ч: +41.5%, за 6ч: +58.3%). Суточный объём торгов равен $5.33M, общая ликвидность пула (TVL) — $111.0K, FDV — $1.19M. Данные зафиксированы на 2026-11-28T16:59:04+00:00.
+
+### Q: Почему движется цена MoonBoy? Ончейн-анализ графика.
+Алгоритмический анализ TalkChart: MoonBoy разрывает: +352.2% за 24ч. ускорение в последнем часе. объём $5.33M больше капы в 4.5× — бумага в огне. ликвидность тонкая ($111.0K) — движения будут резкими. пулу 1 дн. — чистая рулетка. крупная сделка на фоне ленты: купил $991.28 (81× медианы, 0ч назад). нетто китов за сутки +$962.40. За последний час в ленте прошло 5171 покупок и 3516 продаж.
+
+### Q: Есть ли активность китов в пуле MoonBoy?
+Зафиксировано крупных сделок: 5 (3 покупок, 2 продаж). Крупнейшая: покупка на $991.28 (81× медианы). Нетто-поток китов: +$962.40.
+
+### Q: Безопасен ли пул MoonBoy и какие ончейн-риски?
+Выявлены следующие факторы риска: тонкая ликвидность; молодой пул; перегрет за 24ч. Пул создан 2026-11-27T20:39:24Z. При объёме $5.33M и ликвидности $111.0K возможны резкие колебания курса и проскальзывание (slippage).
+
+---
+*Generated by TalkChart On-Chain Engine (https://leo88q.github.io/content-/site/pools/DkNJBoh2KngPNumX5BdEakmpX2fYPNu57xZFn6C2dRE1.html) — Free public feed for traders and AI agents.*

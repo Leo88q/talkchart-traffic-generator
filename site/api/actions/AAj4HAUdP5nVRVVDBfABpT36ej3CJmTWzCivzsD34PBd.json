@@ -1,0 +1,22 @@
+{
+  "icon": "https://leo88q.github.io/content-/site/cards/latest/MANDY_-3.png",
+  "title": "TalkChart: MANDY (-2.6%) — Solana On-Chain Radar",
+  "description": "MANDY в боковике: -2.6% за сутки. давление продаж нарастает. объём $674.5K больше капы в 28.3× — бумага в огне. ликвидность тонкая ($10.8K) — движения будут резкими. пулу 1 дн. — чистая рулетка.\n\nОбъём: $674.5K · Ликвидность: $10.8K",
+  "label": "Своп через Jupiter",
+  "links": {
+    "actions": [
+      {
+        "label": "⚡ Своп MANDY (Jupiter)",
+        "href": "https://jup.ag/swap/SOL-4HdH4EKBKCVaPD9f4TxdGhcWyhm259qKa7JHSGhMpump"
+      },
+      {
+        "label": "📈 Живой график + киты",
+        "href": "https://leo88q.github.io/content-/site/index.html#pool=AAj4HAUdP5nVRVVDBfABpT36ej3CJmTWzCivzsD34PBd"
+      },
+      {
+        "label": "🎁 TipLink: вход без сид-фраз",
+        "href": "https://leo88q.github.io/content-/site/index.html#games"
+      }
+    ]
+  }
+}
